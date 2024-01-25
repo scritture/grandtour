@@ -941,5 +941,8 @@
   "fonts.qmd": {
     "fonts.tex": "a0ca4456",
     "fonts.html": "fa2eaeef"
+  },
+  "scritture.qmd": {
+    "scritture.html": "0c3310da"
   }
 }
