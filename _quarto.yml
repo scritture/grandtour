@@ -12,9 +12,7 @@ website:
         href: https://grandtour.shop/
       - text: Claudio Comandini
         href: /diario.html#category=Diario
-
-
-      
+        
     right:
       - about.qmd
       - icon: linkedin
