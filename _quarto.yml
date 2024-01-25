@@ -6,10 +6,10 @@ website:
 #  title: "Grandtour Book wine bar"
 
   navbar:
-    logo: "/images/scritture_logo.png"
+#    logo: "/images/scritture_logo.png"
     left:
       - text: Grandtour Book Wine Bar
-        href: https://grandtour.shop/
+        href: /grandtour.html
       - text: Claudio Comandini
         href: /diario.html#category=Diario
         

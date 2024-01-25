@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="it" xml:lang="it"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.335">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -18,7 +18,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -55,7 +55,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "ulteriori risultati in questo documento",
     "search-clear-button-title": "Pulire",
     "search-detached-cancel-button-title": "Cancellare",
-    "search-submit-button-title": "Inviare"
+    "search-submit-button-title": "Inviare",
+    "search-label": "Ricerca"
   }
 }</script>
 
@@ -63,7 +64,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -74,51 +75,49 @@ ul.task-list li input[type="checkbox"] {
     <img src="../../images/scritture_logo.png" alt="" class="navbar-logo">
     </a>
   </div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Ricerca"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Attiva/disattiva la navigazione" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../diario.html#category=Diario">
- <span class="menu-text">diario</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="https://grandtour.shop/">
+    <a class="nav-link" href="https://grandtour.shop/" rel="" target="">
  <span class="menu-text">Grandtour Book Wine Bar</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://escamontage.wordpress.com/">
- <span class="menu-text">Escamontage</span></a>
+    <a class="nav-link" href="../../diario.html#category=Diario" rel="" target="">
+ <span class="menu-text">Claudio Comandini</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../about.html">
+    <a class="nav-link" href="../../about.html" rel="" target="">
  <span class="menu-text">contatti</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.linkedin.com/groups/4880518/"><i class="bi bi-linkedin" role="img">
+    <a class="nav-link" href="https://www.linkedin.com/groups/4880518/" rel="" target=""><i class="bi bi-linkedin" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/tweet_scritture"><i class="bi bi-twitter" role="img">
+    <a class="nav-link" href="https://twitter.com/tweet_scritture" rel="" target=""><i class="bi bi-twitter" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.facebook.com/search/scritturemagazine"><i class="bi bi-facebook" role="img">
+    <a class="nav-link" href="https://www.facebook.com/search/scritturemagazine" rel="" target=""><i class="bi bi-facebook" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="mailto:grandtour.frascati@gmail.com"><i class="bi bi-envelope" role="img" aria-label="Email">
+    <a class="nav-link" href="mailto:grandtour.frascati@gmail.com" rel="" target=""><i class="bi bi-envelope" role="img" aria-label="Email">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -155,13 +154,24 @@ ul.task-list li input[type="checkbox"] {
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">In questa pagina</h2>
+  <ul>
+  <li><a href="#narrazioni-improbabili-e-paesaggi-concettuali" id="toc-narrazioni-improbabili-e-paesaggi-concettuali" class="nav-link active" data-scroll-target="#narrazioni-improbabili-e-paesaggi-concettuali">1. Narrazioni improbabili e paesaggi concettuali</a></li>
+  <li><a href="#una-smisurata-curiosità" id="toc-una-smisurata-curiosità" class="nav-link" data-scroll-target="#una-smisurata-curiosità">2. Una smisurata curiosità</a></li>
+  <li><a href="#interrogativi-sullumano" id="toc-interrogativi-sullumano" class="nav-link" data-scroll-target="#interrogativi-sullumano">3. Interrogativi sull’umano</a></li>
+  <li><a href="#la-verità-di-foucault" id="toc-la-verità-di-foucault" class="nav-link" data-scroll-target="#la-verità-di-foucault">4. La verità di Foucault</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <div class="quarto-about-solana column-body">
   <div class="about-entity">
     <div class="entity-contents">
        
       <div class="about-contents"><main class="content quarto-banner-title-block" id="quarto-document-content">
+
 <p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD <em>Pubblicazione italiane recenti quali la sterminata teologia dell’“Esegesi”&nbsp;(edizione americana&nbsp;2011) e il libro critico di John Carré “Io sono vivo voi siete morti”&nbsp;(edizione francese&nbsp;1993) mantengono vive le attenzioni nei confronti di Philip Dick. Autore di opere decisive per la fantascienza contemporanea come “The man in the Caste” (1962, tradotto come “La svastica sul sole”), “Do the android dream electric sheeps” (1968, conosciuto anche come “Il cacciatore di androidi”, ne è stato tratto il cult-movie di Ridley Scott “Blade Runner”, 1982), non alieno da escursioni nella letteratura mainstream quali “Confession of a Crap Artist”&nbsp;(pubblicato nel 1975 molto dopo la sua stesura e tradotto come “Confessioni di un artista di merda”) e da singolari contaminazioni di generi (“A Scanner&nbsp;Darkly”, 1975&nbsp;- tradotto come “Un oscuro scrutare”,&nbsp;da cui l’omonimo film con animazioni digitali diretto da&nbsp;Richrd Linklater, 2006) e “Divine Invasion”, 1981, “Divina&nbsp;Invasione”, uno degli ultimi pubblicati in vita.&nbsp;Dick, ormai riconosciuto tra i grandi autori del Novecento, amava definirsi quale «filosofo narrativo»: infatti, le sue narrazioni, decisamente singolari e ricercate al punto di &nbsp;forzare meccanismi troppo sicuri, non si esauriscono mai nell’intrattenimento e sono sempre funzionali ad avventure intellettuali intenzionate a scandagliare&nbsp;gli incerti fondamenti di un mondo incerto. Le tematiche affrontate riguardano le questioni del potere, i rapporti tra uomo, animale e macchina, quelli tra mistica e droga, tempo e conoscenza. Ne analizza motivi e fortuna uno scritto del grande studioso Antonio Caronia.</em> ======= Pubblicazione italiane recenti quali la sterminata teologia dell’“Esegesi”&nbsp;(edizione americana&nbsp;2011) e il libro critico di John Carré “Io sono vivo voi siete morti”&nbsp;(edizione francese&nbsp;1993) mantengono vive le attenzioni nei confronti di Philip Dick. Autore di opere decisive per la fantascienza contemporanea come “The man in the Caste” (1962, tradotto come “La svastica sul sole”), “Do the android dream electric sheeps” (1968, conosciuto anche come “Il cacciatore di androidi”, ne è stato tratto il cult-movie di Ridley Scott “Blade Runner”, 1982), non alieno da escursioni nella letteratura mainstream quali “Confession of a Crap Artist”&nbsp;(pubblicato nel 1975 molto dopo la sua stesura e tradotto come “Confessioni di un artista di merda”) e da singolari contaminazioni di generi (“A Scanner&nbsp;Darkly”, 1975&nbsp;- tradotto come “Un oscuro scrutare”,&nbsp;da cui l’omonimo film con animazioni digitali diretto da&nbsp;Richrd Linklater, 2006) e “Divine Invasion”, 1981, “Divina&nbsp;Invasione”, uno degli ultimi pubblicati in vita.&nbsp;Dick, ormai riconosciuto tra i grandi autori del Novecento, amava definirsi quale «filosofo narrativo»: infatti, le sue narrazioni, decisamente singolari e ricercate al punto di &nbsp;forzare meccanismi troppo sicuri, non si esauriscono mai nell’intrattenimento e sono sempre funzionali ad avventure intellettuali intenzionate a scandagliare&nbsp;gli incerti fondamenti di un mondo incerto. Le tematiche affrontate riguardano le questioni del potere, i rapporti tra uomo, animale e macchina, quelli tra mistica e droga, tempo e conoscenza. Ne analizza motivi e fortuna uno scritto del grande studioso Antonio Caronia.</p>
 <blockquote class="blockquote">
 <blockquote class="blockquote">
@@ -253,9 +263,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -320,6 +344,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
