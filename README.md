@@ -1,3 +1,3 @@
-# scritture-quarto
+# Grandtour.shop
 
-Sito di prova della rivista scritture
+Sito della libreria Grandtour
