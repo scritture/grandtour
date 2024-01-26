@@ -8,8 +8,6 @@ website:
   navbar:
 #    logo: "/images/scritture_logo.png"
     left:
-      - text: Grandtour Book Wine Bar
-        href: /grandtour.html
       - text: Claudio Comandini
         href: /diario.html#category=Diario
       - text: Scritture
