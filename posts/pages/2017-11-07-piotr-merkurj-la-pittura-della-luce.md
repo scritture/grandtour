@@ -3,7 +3,6 @@ title: 'Piotr Merkurj: la pittura della luce'
 date: '2017-11-07'
 excerpt: "Un pittore russo tra Oriente e Occidente. Pensare le icone,\_dipingere nel pensiero.\_Dialogo su luce e materia,\_forma e colore,\_spiritualità dell'arte,\_autonomia della cultura."
 author: Claudio Comandini
-default-image-extension: ""
 image:  /images/2017/11/Vetrata-Palma-di-Montechiaro-AG.jpg
 categories:
   - arte
@@ -24,7 +23,8 @@ tags:
   - Russia
 ---
 
-*Un pittore russo tra Oriente e Occidente. Pensare le icone, dipingere nel pensiero. Dialogo su luce e materia, forma e colore, spiritualità dell'arte, autonomia della cultura.*
+
+*Un pittore russo tra Oriente e Occidente. Pensare le icone, dipingere nel pensiero. Dialogo su luce e materia, forma e colore, spiritualità dell'arte, autonomia della cultura.*
 
 *«Il disegno è una scienza se esplora l'anatomia con la precisione del tratto, una deità se suggerisce il mistero con lo sfumato dell'ombra»*. [Piotr Merkurj](http://www.hermeslight.it/) ha contrassegnato il proprio lavoro con queste parole, lasciandoci così riflettere su quello stupore che attraversa e irradia dalla sua opera. Nato nel 1951 in Siberia da una famiglia di deportati, cresce coltivando una forte tensione religiosa in un contesto forzatamente materialista, nel quale comunque si manteneva un senso di 'purezza' artistica. Riceve un primo impulso dalla pittura naturalistica; all'Accademia delle Belle Arti di San Pietroburgo entra in contatto tanto con il realismo socialista quanto con le avanguardie e l'astrattismo. Si interessa al realismo analitico di [Pavel Filonov](https://en.wikipedia.org/wiki/Pavel_Filonov), le cui opere erano conosciute solo indirettamente e non ne esistevano nemmeno riproduzioni fotografiche, il quale in antitesi al cubismo costruisce grandi insiemi a partire da piccoli dettagli non geometrici ma simbolici. Quindi, sviluppa un rapporto ad un tempo tecnico e filosofico con la tradizione iconica russa e bizantina, e parallelamente approfondisce lo studio del rinascimento italiano.
 

@@ -1,10 +1,10 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
   title: "Grandtour Book wine bar"
-
+  
   navbar:
 #    logo: "/images/scritture_logo.png"
     left:
@@ -42,3 +42,6 @@ language:
     title-block-author-single: "di"
     listing-page-field-author: "di"
 
+
+author: Claudio Comandini
+default-image-extension: ""
