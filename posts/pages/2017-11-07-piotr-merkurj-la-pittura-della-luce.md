@@ -3,6 +3,7 @@ title: 'Piotr Merkurj: la pittura della luce'
 date: '2017-11-07'
 excerpt: "Un pittore russo tra Oriente e Occidente. Pensare le icone,\_dipingere nel pensiero.\_Dialogo su luce e materia,\_forma e colore,\_spiritualità dell'arte,\_autonomia della cultura."
 author: Claudio Comandini
+default-image-extension: ""
 image:  /images/2017/11/Vetrata-Palma-di-Montechiaro-AG.jpg
 categories:
   - arte
@@ -35,13 +36,13 @@ Cerchiamo quindi lume per le sue forme internamente alla metafisica della luce e
 
 Così come ogni autentica espressione artistica porta testimonianze che diventantano indipendenti dalla figura del loro autore, esistono fluttuazioni che legano insieme mondi culturali convenzionalmente distanti, avvicinati da continuità di pensiero diverse da quelle cronologiche. Merkurj, utilizzando tanto temi classici quanto forme astratte, ispirato da una religiosità sciolta da rigidità identitarie, pensa pittoricamente e *«dipinge col cervello»*, unisce i mondi attraverso la precisa linea di un raggio di luce e l'esatta curva di un volto. Un paesaggio o una natura morta appaiono nella loro nitida definizione sempre più che reali, gli angeli ci osservano richiamando alla presenza quanto è assente. Merkurj è scomparso nel novembre 2017 presso Monte Porzio Catone; la testimonianza delle [sue opere](https://photos.app.goo.gl/23rMV0eg0ixPUKp42) rimane, ancora porta luce - ritorna in una conversazione di qualche inverno fa su modi e motivi della sua arte.
 
-![Piotr Merkurj, Portatore della Luce (80×100, olio su tela -- 1990)](https://lh3.googleusercontent.com/wPGy39cP805rgQUT_armYiA8RtDK1FMSDRvVWNwJDkNR3sH_UQarcmdlzWDN6FOg5SNKSr-tOdBCUs2H4ZaJlsgvljstbMZeLNZhLvJrRrH6h7-UFOWJfU0fu1dhWkjngpAMzXa8GQ=w416-h550-no){fig-alt="Piotr Merkurj, Portatore della Luce (80×100, olio su tela – 1990)" fig-align="center"}
+![Piotr Merkurj, Portatore della Luce (80×100, olio su tela -- 1990)](https://lh3.googleusercontent.com/wPGy39cP805rgQUT_armYiA8RtDK1FMSDRvVWNwJDkNR3sH_UQarcmdlzWDN6FOg5SNKSr-tOdBCUs2H4ZaJlsgvljstbMZeLNZhLvJrRrH6h7-UFOWJfU0fu1dhWkjngpAMzXa8GQ=w416-h550-no)
 
 -   Parlando del tuo lavoro sulla luce hai tratteggiato due fasi distinte: una che *«nasce all'interno dello studio della natura»*, basata sulla comprensione della luce naturale, e un'altra nella quale la luce è trattata quale *«materia in sé, che da sola deve realizzare i suoi messaggi»*; questa seconda fase si puntualizza nell'esigenza di *«intuire la forma della luce»* e vi assume importanza centrale il disegno. Possiamo seguire tale percorso in qualcuno dei tuoi quadri?
 
 *- Possiamo provare a seguirlo nel quadro che verrà: non puoi prendere un uccello che vola, puoi però parlare delle sue piume. Se nella natura ci sono luci e ombre, la divisione compiuta da Kandinskj tra forma e colore mi ha suggerito che la luce è in ambedue, e quindi ho pensato di trattarla a parte. Una delle intuizioni per me fondamentali fu quella di vedere che la luce riflessa in una pozzanghera era dotata di una propria consistenza: nei miei dipinti, questo può essere osservato in Flautista (1997) e* *in* *Ispirazione (1996),* *dove la luce non visibile diventa tangibile.*
 
-![Piotr Merkurj, Flautista (30×70, olio su tela - 1997)](https://lh3.googleusercontent.com/wK4bbA_eWat6O65dlB5d9Hm46Hkjs7CJGBaaBeCGFAD35FK3eiuzptnZHP0lLOJGYaUvKJ8rWpWiBGUnGHSRiB7cOYlJ9bbZiBmGMMzP_VXUOo1Ra1mOyQVTUj6KGatV2r4A8YfIvg=w361-h550-no){fig-align="center"}
+![Piotr Merkurj, Flautista (30×70, olio su tela - 1997)](https://lh3.googleusercontent.com/wK4bbA_eWat6O65dlB5d9Hm46Hkjs7CJGBaaBeCGFAD35FK3eiuzptnZHP0lLOJGYaUvKJ8rWpWiBGUnGHSRiB7cOYlJ9bbZiBmGMMzP_VXUOo1Ra1mOyQVTUj6KGatV2r4A8YfIvg=w361-h550-no)
 
 ![Piotr Merkurj, Ispirazione (190x150, olio su tela - 1996)](https://lh3.googleusercontent.com/4Ft6mpJxObQaV61-P8qxm4jvvFguiQLqEXMUg9wd4rT1tL86GuRqxeAuwWAsLt9UdQ-95YlVaXxydWrGRFIrFVl2JGhWw3PmD__PdGCqXU632HrBpno8_hD1SIoPlhFu5d8d-88OFg=w710-h550-no)
 
@@ -55,9 +56,9 @@ Così come ogni autentica espressione artistica porta testimonianze che diventan
 
 *- Lo spazio dell'arte non è necessariamente quello stabilito dalle istituzioni politiche, e la legge dell'arte è superiore a quella della politica. Gli artisti mediocri si fanno forti di raccomandazioni politiche, ma i loro risultati non soddisfano nessuno; inoltre, trovo sbagliata l'attuale abitudine di realizzare contesti dove sono mescolati professionisti e dilettanti, perché disorienta artisti e pubblico. Per quanto riguarda arte e religione, esse non hanno collegamento diretto. Nel periodo comunista il tema religioso non era concepibile neppure come modo di pensare (come non lo era ad esempio lo sposarsi in chiesa) e, se lo trattavi artisticamente, potevi giocarti la carriera. Tuttavia, al di là di una tematizzazione esplicita e considerando che pure gli atei credono (perlomeno al loro non credere), la religiosità effettiva è nell'atto spirituale collegato alla vera arte, che coinvolge anche chi sa apprezzare un'opera. Personalmente, impiego in molti modi le tematiche religiose, le figure degli angeli mi escono dalle mani quasi spontaneamente, e ne dipingo uno ogni Natale; rifiuto però la qualifica di pittore religioso e realizzo peraltro anche opere di carattere naturalistico, come Salina (1996)*, *dove comunque emergono geometria e materialità della luce, nonché profano, come C'est la vie (1993), nel quale esprimo ironia, disincanto e relativismo. Penso che tutta l'arte sia spirituale. L'arte non è poi collegata nemmeno all'economia, ma è innegabile che il benessere possa creare un'atmosfera di prosperità capace di attirare persone libere di pensiero, permettendo così di sviluppare strumenti utili alla crescita culturale. Quanto però davvero conta per l'arte è la sua autonomia. E l'artista, come del resto ognuno di noi, ha una propria missione su questa terra.*
 
-![Piotr Merkurj, Salina (70×50, tempera su tela -- 1996)](https://lh3.googleusercontent.com/H0GXEC086k5a_1P_bRyrVu0G9aWbQeYlbEf26JohpiW5VDvbEOtwVPlEagvzallhfmIU-qbZbXnKLSRwNFlJJ6eiBCyIJxdKpzbF4SPO7qVMDG-Ly3dOqeqSy1JbZsTTdTkaktDTZg=w180-h139-no){fig-align="center" width="300"}
+![Piotr Merkurj, Salina (70×50, tempera su tela 1996)](https://lh3.googleusercontent.com/H0GXEC086k5a_1P_bRyrVu0G9aWbQeYlbEf26JohpiW5VDvbEOtwVPlEagvzallhfmIU-qbZbXnKLSRwNFlJJ6eiBCyIJxdKpzbF4SPO7qVMDG-Ly3dOqeqSy1JbZsTTdTkaktDTZg=w180-h139-no)
 
-![Piotr Merkurj, C'est la vie (270x190, olio su tela - 1993)](https://lh3.googleusercontent.com/gRprO83d-l4lDtjqzsccWmpzFlcYNvb_gH56xv3m81R3rz7SnoSvnVWCt7ECs_EHCHCHr-O1k0HbSnqvGi73pNow8ss3awjn-xNb5n-FlTWYEJnYjg1qK4Fa8QUohGVtsbGUWus1xA=w778-h550-no){fig-align="center" width="500"}
+![Piotr Merkurj, C'est la vie (270x190, olio su tela - 1993)](https://lh3.googleusercontent.com/gRprO83d-l4lDtjqzsccWmpzFlcYNvb_gH56xv3m81R3rz7SnoSvnVWCt7ECs_EHCHCHr-O1k0HbSnqvGi73pNow8ss3awjn-xNb5n-FlTWYEJnYjg1qK4Fa8QUohGVtsbGUWus1xA=w778-h550-no)
 
 *Immagine di testa: Piotr Merkurj, "Bozzetto realizzato per la Vetrata-Tabernacolo di Palma di Montechiaro (AG)"*
 
