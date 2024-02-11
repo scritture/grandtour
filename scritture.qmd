@@ -35,11 +35,11 @@ title-block-banner: false
 ::: {.g-col-12 .g-col-md-3}
 #### Montale e Kavàfis nella lettura di Cristiano Luciani
 
-[![](images/2017/12/panni_stesi_sull_egeo.jpg){fig-align="left"}](/pages/2017-09-21-montale-kavafis-cristiano-luciani.html)
+[![](images/2017/12/panni_stesi_sull_egeo.jpg){fig-align="left"}](/posts/pages/2017-09-21-montale-kavafis-cristiano-luciani.html)
 
 #### Brindisi mancati a Berlino
 
-[![Le origini Superman, la storia di Metropolis, l'amore perduto di Adolf Hitler. Una separazione sullo scenario di una città separata.](images/2017/10/brindisi_mancati.jpg){fig-align="left"}](/posts/pages/2017-07-15-brindisi-mancati-berlino-metropolis-superman.html)
+[![Le origini Superman, la storia di Metropolis, l\'amore perduto di Adolf Hitler. Una separazione sullo scenario di una città separata.](images/2017/10/brindisi_mancati.jpg){fig-align="left"}](/posts/pages/2017-07-15-brindisi-mancati-berlino-metropolis-superman.html)
 :::
 :::
 

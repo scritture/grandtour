@@ -8,4 +8,4 @@
 title-block-banner: true
 
 about:
-  template: marquee
+  template: marquee/
