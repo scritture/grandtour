@@ -1,0 +1,31 @@
+---
+title: "Libri"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+# Carica i dati da un file CSV
+bib_data <- read.csv("grandtour.csv")
+
+# Crea l'indice
+cat("<ul>\n")
+for (i in 1:nrow(bib_data)) {
+  cat(paste0("  <li><a href='#", i, "'>", bib_data$title[i], "</a></li>\n"))
+}
+cat("</ul>\n")
+
+# Funzione per creare la pagina HTML di un libro
+create_book_page <- function(book) {
+  cat(paste0("# ", book$title, "\n"))
+  cat(paste0("Autore: ", book$author, "\n"))
+  cat(paste0("Editore: ", book$publisher, "\n"))
+  cat(paste0("Anno di pubblicazione: ", book$year, "\n"))
+  cat("\n")
+}
+
+# Itera attraverso i libri e crea le pagine HTML
+for (i in 1:nrow(bib_data)) {
+  cat(paste0("## ", bib_data$title[i], "\n"))
+  create_book_page(bib_data[i, ])
+}
+```
