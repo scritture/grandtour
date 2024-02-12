@@ -2,4 +2,3 @@
 git add .
 git commit -m "aggiorno github"
 git push 
-quarto publish gh-pages  --no-prompt 
