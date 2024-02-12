@@ -2,6 +2,9 @@
   "listingMap": {
     "diario.qmd": [
       "posts"
+    ],
+    "scritture.qmd": [
+      "posts"
     ]
   }
 }

@@ -1,0 +1,14 @@
+{
+  "hash": "d3aa432207fd67a20b372e5f0005bd7f",
+  "result": {
+    "markdown": "---\ntitle: \"Libri\"\noutput: html_document\n---\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
