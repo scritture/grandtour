@@ -4,7 +4,7 @@ image:  /images/2017/12/panni_stesi_sull_egeo.jpg
 date: 2017-09-21
 title: Montale e Kavàfis nella lettura di Cristiano Luciani
 categories:
-  - Diario
+  - Claudio Comandini
   - letteratura
   - poesia
   - storia

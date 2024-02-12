@@ -5,7 +5,7 @@ image: /images/2016/07/paracadutisti-nonsense-475x381.jpg
 title: Cocktail bulgaro
 categories:
   - antropologia
-  - Diario
+  - Claudio Comandini
   - geopolitica
   - musica
   - narrazioni

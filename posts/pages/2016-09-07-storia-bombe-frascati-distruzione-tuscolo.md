@@ -4,7 +4,7 @@ date: 2016-09-07 10:00:46+00:00
 image: /images/2016/09/persistenza-delle-rovine-678x381.jpg 
 title: La storia e i giorni. Le bombe su Frascati e la distruzione di Tuscolo 
 categories: 
-  - Diario 
+  - Claudio Comandini 
   - geopolitica 
   - politica 
   - società 

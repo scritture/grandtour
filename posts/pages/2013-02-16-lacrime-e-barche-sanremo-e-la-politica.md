@@ -4,7 +4,7 @@ date: 2013-02-16 11:00:48+00:00
 image: /images/2016/07/relitto-e-magnificenza-678x381.jpg
 title: Lacrime e barche. Sanremo e la politica
 categories:
-  - Diario
+  - Claudio Comandini
   - musica
   - politica
   - società

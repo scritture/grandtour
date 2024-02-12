@@ -4,7 +4,7 @@ date: 2015-12-15 11:00:32+00:00
 image: /images/2015/12/il_maschietto_di_frascati-445x381.png
 title: Le guerre di Marcantonio Colonna e lo Statuto di Frascati del 1515
 categories:
-  - Diario
+  - Claudio Comandini
   - società
   - storia
 tags:

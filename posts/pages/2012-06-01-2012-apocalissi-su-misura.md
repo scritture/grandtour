@@ -5,7 +5,7 @@ date: '2012-06-01'
 title: '2012: apocalissi su misura' 
 categories: 
   - antropologia 
-  - Diario 
+  - Claudio Comandini 
   - filosofia 
   - fumetti 
   - religioni 

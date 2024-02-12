@@ -4,7 +4,7 @@ date: 2016-03-05 11:00:52+00:00
 image: /images/2016/03/save-our_planet-678x381.jpg 
 categories: 
   - comunicazione
-  - Diario 
+  - Claudio Comandini 
   - politica 
   - società tags: 
   - Assange 

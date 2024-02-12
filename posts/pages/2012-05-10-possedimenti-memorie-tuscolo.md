@@ -2,7 +2,7 @@
 date: 2012-05-10
 title: Possedimenti e memorie della perduta città di Tuscolo
 categories:
-  - Diario
+  - Claudio Comandini
   - storia
 tags:
   - castelli romani

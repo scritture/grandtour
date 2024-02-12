@@ -11,7 +11,7 @@ image: /images/2016/10/parlamento-fantasma.jpg
 title: Il continuo ritorno della Dama Bianca
 categories:
   - antropologia
-  - Diario
+  - Claudio Comandini
   - filosofia
   - letteratura
   - narrazioni

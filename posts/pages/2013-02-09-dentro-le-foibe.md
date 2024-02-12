@@ -4,7 +4,7 @@ date: 2013-02-09 11:00:13+00:00
 image: /images/2016/07/il-cammino-inverso-della-pace-678x381.jpg
 title: Dentro le foibe
 categories:
-  - Diario
+  - Claudio Comandini
   - filosofia
   - letteratura
   - narrazioni

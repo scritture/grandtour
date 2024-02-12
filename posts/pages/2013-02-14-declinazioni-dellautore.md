@@ -4,7 +4,7 @@ date: 2013-02-14 11:00:52+00:00
 image: /images/2013/02/autore-678x381.jpg
 title: Declinazioni dell'autore
 categories:
-  - Diario
+  - Claudio Comandini
   - editoria
   - filosofia
   - letteratura

@@ -4,7 +4,7 @@ date: 2013-01-13
 image: /images/2016/07/vestitinudi-678x381.jpg
 title: Il tredicesimo mese. Aforismi
 categories:
-  - Diario
+  - Claudio Comandini
   - letteratura
 tags:
   - Claudio Comandini

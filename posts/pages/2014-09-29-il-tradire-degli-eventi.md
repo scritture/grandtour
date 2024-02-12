@@ -7,7 +7,7 @@ categories:
   - antropologia
   - cinema
   - comunicazione
-  - Diario
+  - Claudio Comandini
   - filosofia
   - geopolitica
   - narrazioni

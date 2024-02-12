@@ -5,7 +5,7 @@ image: /images/2016/07/incomunicazioni-678x381.jpg
 title: 'Comunicare è vivere?' 
 categories: 
   - comunicazione 
-  - Diario 
+  - Claudio Comandini 
   - filosofia 
   - società tags: 
   - 11 settembre 

@@ -5,7 +5,7 @@ image: /images/2016/07/faceworld-678x381.jpg
 title: 'Facebook, la borsa e le relazioni'
 categories:
   - comunicazione
-  - Diario
+  - Claudio Comandini
   - economia
   - società
 tags:

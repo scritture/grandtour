@@ -4,7 +4,7 @@ author: Claudio Comandini
 date: 2015-02-28 11:00:17+00:00 
 image: /images/2016/08/citta_noir-678x381.jpg
 categories: 
-  - Diario 
+  - Claudio Comandini 
   - letteratura 
   - narrazioni 
   - società tags: 

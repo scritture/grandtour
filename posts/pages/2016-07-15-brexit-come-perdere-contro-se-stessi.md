@@ -12,7 +12,7 @@ link: http://redazione.scritture.net/mag/brexit-come-perdere-contro-se-stessi/
 slug: brexit-come-perdere-contro-se-stessi
 title: 'Brexit: come perdere contro se stessi'
 categories:
-  - Diario
+  - Claudio Comandini
   - filosofia
   - geopolitica
   - musica

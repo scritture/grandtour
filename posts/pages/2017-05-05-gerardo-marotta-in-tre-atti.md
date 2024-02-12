@@ -2,7 +2,7 @@
 date: '2017-05-05'
 title: 'Gerardo Marotta in tre atti'
 categories:
-  - Diario
+  - Claudio Comandini
   - filosofia
   - politica
 tags:

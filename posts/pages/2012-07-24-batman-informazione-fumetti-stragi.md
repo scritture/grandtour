@@ -6,7 +6,7 @@ title: "Le colpe di Batman. L'informazione, i fumetti e le stragi"
 categories:
   - cinema
   - comunicazione
-  - Diario
+  - Claudio Comandini
   - fumetti
   - narrazioni
   - società

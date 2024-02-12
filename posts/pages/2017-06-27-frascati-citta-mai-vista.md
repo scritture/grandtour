@@ -2,7 +2,7 @@
 date: '2017-06-27'
 title: 'La città mai vista'
 categories:
-  - Diario
+  - Claudio Comandini
   - letteratura
   - narrazioni
   - poesia

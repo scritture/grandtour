@@ -2,7 +2,7 @@
 date: 2012-05-14
 title: "La natura dopo la natura. Montale: la perdita dell'innocenza e la conquista   del linguaggio"
 categories:
-  - Diario
+  - Claudio Comandini
   - storia
 tags:
   - castelli romani

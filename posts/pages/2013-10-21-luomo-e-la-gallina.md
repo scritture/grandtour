@@ -4,7 +4,7 @@ date: 2013-10-21
 image: /images/2013/10/la-maschera-e-il-gallo-678x381.jpg
 title: L'uomo e la gallina
 categories:
-  - Diario
+  - Claudio Comandini
   - filosofia
   - scienza
   - umorismo

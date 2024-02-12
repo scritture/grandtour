@@ -4,7 +4,7 @@ author: Claudio Comandini
 date: '2016-06-26'
 title: Bisogna saper vincere
 categories:
-  - Diario
+  - Claudio Comandini
   - politica
   - società
 tags:

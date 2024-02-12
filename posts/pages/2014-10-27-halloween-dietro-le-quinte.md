@@ -11,7 +11,7 @@ slug: halloween-dietro-le-quinte
 title: Halloween dietro le quinte
 categories:
   - antropologia
-  - Diario
+  - Claudio Comandini
   - filosofia
   - fumetti
   - letteratura

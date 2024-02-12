@@ -6,7 +6,7 @@ title: Charlie Hebdo e la satira integrale
 categories:
   - antropologia
   - arte
-  - Diario
+  - Claudio Comandini
   - filosofia
   - fumetti
   - geopolitica

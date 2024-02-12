@@ -16,7 +16,7 @@ title: Montale prima e dopo il novecento
 categories:
   - arte
   - comunicazione
-  - Diario
+  - Claudio Comandini
   - letteratura
   - poesia
   - società

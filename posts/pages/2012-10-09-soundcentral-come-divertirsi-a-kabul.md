@@ -6,7 +6,7 @@ image: /images/2016/07/frattura-678x381.jpg
 title: 'Soundcentral: come divertirsi a Kabul'
 categories:
   - comunicazione
-  - Diario
+  - Claudio Comandini
   - filosofia
   - geopolitica
   - musica

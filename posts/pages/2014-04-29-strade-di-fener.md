@@ -4,7 +4,7 @@ date: 2014-04-29 10:00:57+00:00
 image: /images/2016/07/strada-di-fener-678x381.jpg
 title: Strade di Fener
 categories:
-  - Diario
+  - Claudio Comandini
   - filosofia
   - letteratura
   - religioni

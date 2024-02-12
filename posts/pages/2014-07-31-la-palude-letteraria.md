@@ -4,7 +4,7 @@ date: 2014-07-31 10:00:55+00:00
 image: /images/2016/08/palude-di-citta-678x381.jpg
 title: La palude letteraria
 categories:
-  - Diario
+  - Claudio Comandini
   - editoria
   - filosofia
   - letteratura

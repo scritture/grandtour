@@ -4,7 +4,7 @@ date: 2012-06-06 10:00:29+00:00
 image: /images/2016/07/musica-da-passeggio-678x381.jpg
 title: Musica e contemporanei 
 categories: 
-  - Diario 
+  - Claudio Comandini 
   - filosofia 
   - musica 
 tags: 

@@ -4,7 +4,7 @@ date: 2014-12-31 11:00:24+00:00
 image: /images/2014/12/phallus-dei.jpg
 title: Le parole del sesso taciuto 
 categories: 
-  - Diario 
+  - Claudio Comandini 
   - filosofia 
   - politica 
   - religioni 

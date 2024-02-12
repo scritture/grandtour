@@ -3,7 +3,7 @@ date: '2017-05-20'
 title: Ritorno a Frascati. La felicità del non più troppo giovane Goethe
 categories:
   - arte
-  - Diario
+  - Claudio Comandini
   - filosofia
   - letteratura
   - narrazioni

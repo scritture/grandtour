@@ -5,7 +5,7 @@ image: /images/2013/07/stella-del-cavalierato.jpg
 title: Il cavaliere, le armi e gli amori (o giù di lì)
 categories:
   - comunicazione
-  - Diario
+  - Claudio Comandini
   - economia
   - filosofia
   - fumetti

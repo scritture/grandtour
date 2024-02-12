@@ -4,7 +4,7 @@ title: Animali e uomini tra malattia e guarigione
 categories:
   - antropologia
   - arte
-  - Diario
+  - Claudio Comandini
   - filosofia
   - letteratura
   - religioni

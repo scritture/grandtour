@@ -5,7 +5,7 @@ image: /images/2016/08/santa-sofia-riflessa-nelle-acque-678x381.jpg
 title: Spazi vuoti
 categories:
   - antropologia
-  - Diario
+  - Claudio Comandini
   - filosofia
   - letteratura
   - poesia

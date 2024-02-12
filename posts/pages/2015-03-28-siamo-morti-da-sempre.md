@@ -4,7 +4,7 @@ date: 2015-03-28
 image: /images/2016/07/atropo-678x381.jpg
 title: Siamo morti da sempre
 categories:
-  - Diario
+  - Claudio Comandini
   - letteratura
   - narrazioni
   - società

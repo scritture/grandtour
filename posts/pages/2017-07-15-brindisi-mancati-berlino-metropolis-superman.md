@@ -6,7 +6,7 @@ image:  /images/2017/10/brindisi_mancati.jpg
 categories:
   - arte
   - cinema
-  - Diario
+  - Claudio Comandini
   - filosofia
   - fumetti
   - letteratura

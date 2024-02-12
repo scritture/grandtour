@@ -5,7 +5,7 @@ date: 2013-04-02 10:00:09+00:00
 image: /images/2016/07/il_cavallo_di_marco-aurelio-678x381.jpg
 title: I tre pontificati di Benedetto IX
 categories:
-  - Diario
+  - Claudio Comandini
   - filosofia
   - narrazioni
   - religioni

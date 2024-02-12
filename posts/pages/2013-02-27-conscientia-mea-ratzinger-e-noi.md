@@ -5,7 +5,7 @@ date: '2013-02-27'
 title: '«Conscientia mea»: Ratzinger e noi'
 categories:
   - cinema
-  - Diario
+  - Claudio Comandini
   - filosofia
   - politica
   - religioni

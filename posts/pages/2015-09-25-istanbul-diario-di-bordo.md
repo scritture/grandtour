@@ -15,7 +15,7 @@ slug: istanbul-diario-di-bordo
 title: 'Istanbul: diario di bordo'
 categories:
   - arte
-  - Diario
+  - Claudio Comandini
   - filosofia
   - geopolitica
   - musica

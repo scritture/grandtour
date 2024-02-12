@@ -5,7 +5,7 @@ date: '2012-05-16 10:00:24+00:00'
 image: /images/2016/07/giochi-di-guerra-678x381.jpg 
 title: Monopoli e Risiko! Guerre globali e crisi finanziarie 
 categories: 
-  - Diario 
+  - Claudio Comandini 
   - economia 
   - geopolitica 
   - storia tags: 

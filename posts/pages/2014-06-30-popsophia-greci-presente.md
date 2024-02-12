@@ -5,7 +5,7 @@ image: /images/2014/06/athenapop.jpg
 title: La popsophia, i greci e la critica del presente
 categories:
   - cinema
-  - Diario
+  - Claudio Comandini
   - filosofia
   - narrazioni
   - società

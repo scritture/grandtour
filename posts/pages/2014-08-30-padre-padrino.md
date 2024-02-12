@@ -4,7 +4,7 @@ date: 2014-08-30 10:00:08+00:00
 image: /images/2014/08/descende-et-imperium-coepit-678x381.jpg
 title: Padre Padrino
 categories:
-  - Diario
+  - Claudio Comandini
   - letteratura
   - narrazioni
   - religioni

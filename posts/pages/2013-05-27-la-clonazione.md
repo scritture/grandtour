@@ -5,7 +5,7 @@ image: /images/2013/05/riflessi.jpg
 title: La clonazione dalle pecore a Dio (passando per Berlusconi)
 categories:
   - comunicazione
-  - Diario
+  - Claudio Comandini
   - filosofia
   - fumetti
   - letteratura

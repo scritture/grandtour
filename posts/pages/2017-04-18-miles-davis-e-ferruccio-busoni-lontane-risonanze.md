@@ -3,7 +3,7 @@ author: Claudio Comandi
 date: '2017-04-18'
 title: 'Miles Davis e Ferruccio Busoni: lontane risonanze'
 categories:
-  - Diario
+  - Claudio Comandini
   - filosofia
   - musica
 tags:

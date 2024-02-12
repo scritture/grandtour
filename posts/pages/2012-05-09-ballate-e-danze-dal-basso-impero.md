@@ -1,6 +1,6 @@
 ---
 categories:
-  - Diario
+  - Claudio Comandini
   - letteratura
   - musica
   - narrazioni

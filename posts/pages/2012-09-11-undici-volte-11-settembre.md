@@ -5,7 +5,7 @@ image: /images/2016/09/il-cielo-sopra-678x381.jpg
 title: Undici volte 11 settembre
 categories:
   - comunicazione
-  - Diario
+  - Claudio Comandini
   - fumetti
   - geopolitica
   - politica

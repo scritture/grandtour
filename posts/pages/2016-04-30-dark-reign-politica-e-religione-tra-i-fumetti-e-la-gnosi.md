@@ -5,7 +5,7 @@ image: /images/2016/07/Spider-man-is-watching-you-678x381.jpg
 title: 'Dark Reign: politica e religione tra i fumetti e la gnosi' 
 categories: 
   - cinema 
-  - Diario 
+  - Claudio Comandini 
   - filosofia 
   - fumetti 
   - narrazioni 

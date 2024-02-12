@@ -5,7 +5,7 @@ image: /images/2014/06/neolingue.jpg
 title: De neolingua
 categories:
   - comunicazione
-  - Diario
+  - Claudio Comandini
   - editoria
   - filosofia
   - letteratura

@@ -5,7 +5,7 @@ image: /images/2012/10/Hirisci-Satura-from-Tokyo-678x381.jpg
 title: Contingenze del paesaggio tra Grizzana Morandi e la metropoli globale
 categories:
   - arte
-  - Diario
+  - Claudio Comandini
   - filosofia
 tags:
   - Appennino

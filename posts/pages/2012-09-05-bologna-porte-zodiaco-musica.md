@@ -5,7 +5,7 @@ date: '2012-09-05 10:00:15+00:00'
 title: 'Bologna e le dodici chiavi dello zodiaco. Porta Lame, in Fa maggiore'
 categories:
   - arte
-  - Diario
+  - Claudio Comandini
   - musica
   - scienza
   - storia

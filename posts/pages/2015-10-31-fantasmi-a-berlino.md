@@ -4,7 +4,7 @@ date: 2015-10-31 11:00:32+00:00
 image: /images/2016/07/fantasma-di-un-futuro-passato-640x381.jpg
 title: Fantasmi a Berlino
 categories:
-  - Diario
+  - Claudio Comandini
   - economia
   - filosofia
   - musica

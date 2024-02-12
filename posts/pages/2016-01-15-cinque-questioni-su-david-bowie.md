@@ -4,7 +4,7 @@ title: Cinque questioni su David Bowie
 categories:
   - arte
   - cinema
-  - Diario
+  - Claudio Comandini
   - letteratura
   - musica
   - poesia

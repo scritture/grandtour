@@ -3,7 +3,7 @@ date: '2016-12-31'
 title: 'Momenti della fine: tre religioni a confronto'
 categories:
   - antropologia
-  - Diario
+  - Claudio Comandini
   - filosofia
   - geopolitica
   - politica

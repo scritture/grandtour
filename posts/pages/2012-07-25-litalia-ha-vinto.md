@@ -6,7 +6,7 @@ link: http://redazione.scritture.net/mag/litalia-ha-vinto/
 slug: litalia-ha-vinto
 title: "L'Italia ha vinto"
 categories:
-  - Diario
+  - Claudio Comandini
   - letteratura
   - musica
   - narrazioni

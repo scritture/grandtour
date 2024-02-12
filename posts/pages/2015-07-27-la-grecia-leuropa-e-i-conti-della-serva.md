@@ -4,7 +4,7 @@ date: 2015-07-27 10:00:48+00:00
 image: /images/2016/07/costruire-accanto-alle-macerie-609x381.jpg
 title: La Grecia, l'Europa e i conti della serva
 categories:
-  - Diario
+  - Claudio Comandini
   - economia
   - filosofia
   - geopolitica

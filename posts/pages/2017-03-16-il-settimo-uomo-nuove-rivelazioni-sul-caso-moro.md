@@ -2,7 +2,7 @@
 date: '2017-03-16'
 title: 'Il settimo uomo (nuove rivelazioni sul caso Moro)'
 categories:
-  - Diario
+  - Claudio Comandini
   - poesia
   - politica
   - società

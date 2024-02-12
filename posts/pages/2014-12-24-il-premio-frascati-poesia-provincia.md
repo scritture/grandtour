@@ -4,7 +4,7 @@ date: 2014-12-24 11:00:52+00:00
 image: /images/2016/07/il-premio-del-carcerato-536x381.jpg
 title: 'Il Premio Frascati: la poesia e la provincia del secolo passato'
 categories:
-  - Diario
+  - Claudio Comandini
   - letteratura
   - poesia
   - società

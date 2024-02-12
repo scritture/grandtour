@@ -15,7 +15,7 @@ slug: mein-kampf-per-tutti
 title: Mein Kampf per tutti
 categories:
   - comunicazione
-  - Diario
+  - Claudio Comandini
   - politica
   - società
   - storia

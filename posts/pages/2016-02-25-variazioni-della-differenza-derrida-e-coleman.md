@@ -16,7 +16,7 @@ title: 'Variazioni della differenza: Derrida e Coleman'
 categories:
   - arte
   - comunicazione
-  - Diario
+  - Claudio Comandini
   - filosofia
   - musica
   - società

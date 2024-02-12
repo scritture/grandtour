@@ -5,7 +5,7 @@ image: images/2016/07/omaggio-alla-soglia-di-dalla-678x381.jpg
 title: 'Quando passa Nuvolari. Sulla morte di Lucio Dalla e il sesso degli angeli' 
 categories: 
   - comunicazione 
-  - Diario 
+  - Claudio Comandini 
   - musica 
   - poesia 
   - società tags: 

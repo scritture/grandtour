@@ -15,7 +15,7 @@ slug: berlino-dopo-lunione
 title: Berlino dopo l'unione
 categories:
   - cinema
-  - Diario
+  - Claudio Comandini
   - economia
   - filosofia
   - geopolitica

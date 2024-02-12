@@ -4,7 +4,7 @@ date: 2016-09-11 10:00:52+00:00
 image: /images/2016/09/P9280050-640x381.jpg
 categories: 
   - cinema 
-  - Diario 
+  - Claudio Comandini 
   - fumetti 
   - geopolitica 
   - letteratura 

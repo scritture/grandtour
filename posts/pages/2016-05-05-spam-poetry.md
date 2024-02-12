@@ -5,7 +5,7 @@ image: /images/2016/05/Disturbo-444x381.jpg
 title: Spam poetry! 
 categories: 
   - comunicazione 
-  - Diario 
+  - Claudio Comandini 
   - poesia 
 tags: 
   - Claudio Comandini 

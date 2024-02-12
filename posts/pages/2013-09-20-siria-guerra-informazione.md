@@ -5,7 +5,7 @@ date: 2013-09-20 10:00:23+00:00
 title: La Siria, la guerra e l'informazione
 categories:
   - antropologia
-  - Diario
+  - Claudio Comandini
   - filosofia
   - geopolitica
   - letteratura

@@ -6,7 +6,7 @@ author: Claudio Comandini
 image:  /images/2017/11/Vetrata-Palma-di-Montechiaro-AG.jpg
 categories:
   - arte
-  - Diario
+  - Claudio Comandini
   - filosofia
   - politica
   - religioni
