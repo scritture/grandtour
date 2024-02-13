@@ -1,7 +1,7 @@
 ---
 categories:
   - comunicazione
-  - Diario
+  - Claudio Comandini
   - società
   - umorismo
 tags:
