@@ -36,7 +36,7 @@ tags:
 author: Claudio Comandini
 ---
 
-*Dichiarazioni americane e conseguenze mondiali. Storia di una città, dei suoi popoli e dei suoi monumenti. Parcellizzazione dei Luoghi Sacri e parzialità dei poteri umani.*
+*Dichiarazioni americane e conseguenze mondiali. Storia di una città, dei suoi popoli e dei suoi monumenti. Parcellizzazione dei Luoghi Sacri e parzialità dei poteri.*
 
 ### 1. La città senza pace
 
@@ -44,7 +44,7 @@ La storia ha già dimostrato quanto sia difficile pretendere, senza che ciò pro
 
 In tremila anni la lotta per Gerusalemme ha coinvolto filistei, ebrei, assiri, babilonesi, greci, egizi, seleucidi, romani, persiani, bizantini, musulmani, crociati, mongoli, mamelucchi, ottomani, inglesi, sionisti, arabi e, infine, israeliani, giordani e palestinesi. Così, renderla capitale di una nazione la sminuisce: merita piuttosto uno statuto internazionale di *corpus separatum*, peraltro già stabilito nella risoluzione ONU n. 181 del 1947.
 
-Fondata da tribù della penisola arabica come *Yebus* nel 3000 a.C., nel 2500 a.C. i Canaaniti la chiamano *Ursalem*, "Dio della pace", e legano la sua collina più alta all'apparizione del dio *Shalem*. Per gli israeliani è *Jerushalaim*, "città della pace", Davide vi stabilisce la seconda capitale del suo regno trovandovi poi sepoltura; per i cristiani è la *Terra Santa* nella quale si svolge passione, morte e resurrezione di Gesù Cristo e c'è il suo sepolcro; per gli arabi è *Al-Quds*, "la santa", terza città dell'Islam, dove Maometto riceve il Corano e verso la quale fino alla costruzione della Mecca i fedeli si volgevano per la preghiera.
+Fondata da tribù della penisola arabica come *Yebus* nel 3000 a.C., nel 2500 a.C. i Canaaniti la chiamano *Ursalem*, "Dio della pace", e legano la sua collina più alta all'apparizione del dio *Shalem*. Per gli ebrei è *Jerushalaim*, "città della pace", Davide vi stabilisce la seconda capitale del suo regno trovandovi poi sepoltura; per i cristiani è la *Terra Santa* nella quale si svolge passione, morte e resurrezione di Gesù Cristo e c'è il suo sepolcro. Per i musulmani è *Al-Quds*, “la santa”, terza città dell’Islam, dove Maometto arriva in volo sul Buraq e ascende a Dio e verso la quale fino all'istituzione della Mecca i fedeli si volgevano per la preghiera.
 
 Da parte sua, Trump nel 6 dicembre 2017 annuncia lo spostamento dell'ambasciata americana a Gerusalemme e la dichiara con atto unilaterale capitale d'Israele, ratificando una decisione dello stato pronunciata nel 1950 poi confermata da una legge della Knesset nel 1980 ma mai accettata dall'ONU. Pur dicendo di rispettarne la sacralità per i tre monoteismi e quindi di volere una soluzione che \_«riconosca i due stati» \_laddove *«concordata dalle parti»*, scavalca ogni richiesta di parte palestinese e nega il ruolo internazionale della città. I rischi impliciti in tale posizione sono tali che persino il pontefice di Roma ha per il momento semplicemente proclamato la necessità di mantenere lo *status quo*.
 
