@@ -947,5 +947,11 @@
   },
   "book.qmd": {
     "book.html": "7de2931d"
+  },
+  "posts/pages/intellettuale.qmd": {
+    "intellettuale.html": "ee691d35"
+  },
+  "apertura.qmd": {
+    "apertura.html": "2a613fe5"
   }
 }
