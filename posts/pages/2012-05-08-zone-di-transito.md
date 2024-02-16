@@ -62,20 +62,22 @@ Ansante sordida metallica distesa\
 Sponda compatta erompi di spuma\
 Carezzata dei gabbiani le strida\
 Le teste sotto la sabbia sepolte\
-Schiacciata dalle nuvole qui nate Freddo abisso del nord
+Schiacciata dalle nuvole qui nate\
+Freddo abisso del nord
 
 Sulla superficie olio\
 Melma nel profondo\
 Veliero abbandonato alla tramontana\
 Che porta l'eco di campane fiamminghe\
-Nei morti capelli d'un'alga marina Mare del Nord
+Nei morti capelli d'un'alga marina\
+Mare del Nord
 
 Nella chiara luce del vuoto accogli\
 Carcasse rami spezzati detriti\
 A queste bianche e secche piagge tratti\
 Dal fiottolo lucente attraversando\
 Vasto l'orizzonte che cupo cerchia\
-il golfo
+                                  il golfo
 
 *(texel estate 88)*
 
@@ -95,8 +97,8 @@ una ferita, come un sorriso,\
 come un ombra che la luce non cancella.
 
 Per te,\
-e per tutti quelli che abbiamo amato\
-e perduto.
+    e per tutti quelli che abbiamo amato\
+        e perduto.
 
 *(primavera 95)*
 
