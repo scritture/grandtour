@@ -23,7 +23,9 @@ Ho visto il mondo ad occhi chiusi\
 Ho sentito il gallo bestemmiare\
 Nel gelido rasoio di un mattino
 
-*Amsterdam, estate 1987 Premio D'Annunzio e Michetti, Pescara 2000*
+*Amsterdam, estate 1987 - Premio D'Annunzio e Michetti, Pescara 2000*
+
+\
 
 **PORTO MEDITERRANEO**
 
@@ -37,7 +39,9 @@ Torbide le acque dell'approdo\
 
 E pescatori reti a riparare...
 
-*Civitavecchia, autunno 88 -- primavera 91 Premio Europeo Antonio Seccareccia 1999 Frascati*
+*Civitavecchia autunno 88, primavera 91 - Premio Europeo Antonio Seccareccia 1999 Frascati*
+
+\
 
 **LA SERA PRIMA DEL GIORNO DOPO**
 
@@ -58,7 +62,9 @@ di noi, come se tutto fosse presagio di\
 
 sfere prima che l'ora scocchi.
 
-*Autunno 1996 Premio D'Annunzio e Michetti, Pescara 2000*
+*Autunno 1996 - Premio D'Annunzio e Michetti, Pescara 2000*
+
+\
 
 **PAVANE (danza d'amore e morte)**
 
@@ -76,11 +82,15 @@ senza mai sciogliere il nodo fra disgrazia e\
 
 benedizione.
 
-*Autunno 1998 Premio Internazionale Domenico Stromei, Tocco di Casauria, 2000* ù **RELATIVITÁ**
+*Autunno 1998 - Premio Internazionale Domenico Stromei, Tocco di Casauria, 2000*
+
+\
+
+**RELATIVITÁ**
 
 spazio tempo curvo\
 senza ascisse ordinate\
-e ordinate ascisse\
+e ordinate ascisse
 
 volto specchio mondo\
 io non\
@@ -89,7 +99,9 @@ io non\
 corpo spezzato suono\
 io non
 
-*Primavera 2000 Slam Poetry, Colonna 2001*
+*Primavera 2000 - Slam Poetry, Colonna 2001*
+
+\
 
 [**GUERRA VIRTUALE REALE**](https://soundcloud.com/claudio_comandini/guerra-virtuale-reale)
 
@@ -104,12 +116,14 @@ della tua vita.
 
 (ogni cosa se stessa ha tradito)\
 
-ASPETTIAMO SOLO IL TUO CORPO COME SALDO
-TUTTO IL RESTO  STATO CONSEGNATO.\
+ASPETTIAMO SOLO IL TUO CORPO COME SALDO\
+TUTTO IL RESTO È STATO CONSEGNATO.\
 SEI STATO GI COMPIANTO, NON PREOCCUPARTI.\
 E PENSACI TU A SEPPELLIRE DIO.
 
-*Inverno 2001 Premio Un passo dalla poesia, Tollo 2002*
+*Inverno 2001 - Premio Un passo dalla poesia, Tollo 2002*
+
+\
 
 **GRANDE CONCORSO A PREMI LA POESIA OGGI**
 
@@ -130,8 +144,7 @@ E questa gente\
 Soltanto andando\
 A capo\
 Ogni\
-Tanto
-E gracida e squittisce\
+Tanto E gracida e squittisce\
 Di stinti cromatismi\
 Di osceni eufemismi\
 Di pruriti e di linguismi\
@@ -145,10 +158,10 @@ Tra memoria e giorno dopo\
 La voce rompe gli argini delle cose\
 Dal fossato al firmamento precipita.
 
-*Inverno 1989 -- inverno 1993 Slam Poetry -- Colonna 2001*
+*Inverno 1989, inverno 1993 - Slam Poetry, Colonna 2001*
 
 •
 
-*"Porto mediterraneo" e "Grande premio a premi la poesia oggi" sono pubblicate su "Un giorno lungo un sogno", 2001; "Zona Limite" e "La sera prima d'incontrarci" su "Antologia del premio D'Annunzio e Michetti", 2000; "Pavane -- Canzone d'amore e morte" sull'antologia "Premio internazionale Città di Tocco di Caudsaria", 2000; "Guerra virtuale e reale" è presente in una versione musicata sul CD audio "Parachuting Nonsense!", 2009 -- e in un'altra versione sul Soundcloud a mio nome. Tutti i libri sono stati pubblicati dalle edizioni Noubs di Chieti, il CD è uscito per la label Setola di Maiale di Pordenone; la disponibilità delle opere è al momento esaurita.*
+*"Porto mediterraneo" e "Grande premio a premi la poesia oggi" sono pubblicate su "Un giorno lungo un sogno", 2001; "Zona Limite" e "La sera prima d'incontrarci" su "Antologia del premio D'Annunzio e Michetti", 2000; "Pavane - Canzone d'amore e morte" sull'antologia "Premio internazionale Città di Tocco di Causaria", 2000; "Guerra virtuale e reale" è presente in una versione musicata sul CD audio "Parachuting Nonsense!", 2009 e in un'altra versione sul mio Soundcloud. Tutti i libri sono stati pubblicati dalle edizioni Noubs di Chieti, il CD è uscito per la label Setola di Maiale di Pordenone; la disponibilità delle opere è al momento esaurita.*
 
 *Fotografia: Claudio Comandini, "Intensità" - Bologna marzo 2008.*
