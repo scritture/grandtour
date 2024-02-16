@@ -72,7 +72,8 @@ Nei morti capelli d'un'alga marina Mare del Nord
 
 Nella chiara luce del vuoto accogli\
 Carcasse rami spezzati detriti\
-A queste bianche e secche piagge tratti Dal fiottolo lucente attraversando\
+A queste bianche e secche piagge tratti\
+Dal fiottolo lucente attraversando\
 Vasto l'orizzonte che cupo cerchia\
 il golfo
 
@@ -86,7 +87,8 @@ Non è la morte a dividerci\
 ma questo spazio che non ci accoglie\
 nella distanza dove tu sei presente.\
 Ogni cosa serba traccia del tuo passaggio\
-e solo resto a tessere quello che resta.  La prossima vita sapremo riconoscerci,\
+e solo resto a tessere quello che resta.\
+La prossima vita sapremo riconoscerci,\
 la prossima volta saprà essere migliore,\
 ed intanto ti porto con me come\
 una ferita, come un sorriso,\
