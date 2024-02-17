@@ -77,7 +77,7 @@ Carcasse rami spezzati detriti\
 A queste bianche e secche piagge tratti\
 Dal fiottolo lucente attraversando\
 Vasto l'orizzonte che cupo cerchia\
-                                  il golfo
+il golfo
 
 *(texel estate 88)*
 
@@ -97,8 +97,8 @@ una ferita, come un sorriso,\
 come un ombra che la luce non cancella.
 
 Per te,\
-    e per tutti quelli che abbiamo amato\
-        e perduto.
+e per tutti quelli che abbiamo amato\
+e perduto.
 
 *(primavera 95)*
 
