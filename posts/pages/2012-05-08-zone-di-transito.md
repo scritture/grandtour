@@ -1,10 +1,12 @@
 ---
 categories:
   - letteratura
-  - poesia
+  - Claudio Comandini
 tags:
   - Claudio Comandini
   - Emerico Giachery
+  - poesia
+  - musica
 date: '2012-05-08'
 title: 'Zone di transito'
 excerpt: "I testi esemplari qui prescelti [...] possono considerarsi precipitati di un più che decennale, multiforme processo alchemico, risultati di un'intensa ricerca di amore, libertà, conoscenza, esperita in presenza del gioco vitale degli elementi, del mistero del dì e della notte, della parola e del silenzio."
@@ -23,10 +25,10 @@ layout: PostLayout
 ##### IL GIORNO PIU' LUNGO
 
 Vive della sua distruzione - fango senza tregua\
-come vortici trasportano la danza
-
+come vortici trasportano la danza\
+\
 la verità è un errore - assenza di niente\
-caduto il cielo con la terra
+caduto il cielo con la terra\
 
 *(inverno 93 – autunno 95)*
 
@@ -70,14 +72,14 @@ Melma nel profondo\
 Veliero abbandonato alla tramontana\
 Che porta l'eco di campane fiamminghe\
 Nei morti capelli d'un'alga marina\
-Mare del Nord
+Mare del Nord\
 
 Nella chiara luce del vuoto accogli\
 Carcasse rami spezzati detriti\
 A queste bianche e secche piagge tratti\
 Dal fiottolo lucente attraversando\
 Vasto l'orizzonte che cupo cerchia\
-il golfo
+                          il golfo\
 
 *(texel estate 88)*
 
@@ -97,8 +99,8 @@ una ferita, come un sorriso,\
 come un ombra che la luce non cancella.
 
 Per te,\
-e per tutti quelli che abbiamo amato\
-e perduto.
+    e per tutti quelli che abbiamo amato\
+                         e perduto.
 
 *(primavera 95)*
 
@@ -113,7 +115,7 @@ serrata da quattro ordini di inferriate,\
 né sonno né coscienza tracciano in disegni\
 sequenze di attimi, grovigli di fili spezzati,\
 fra pareti da dove promana un sentore\
-di putrefazione.\
+                  di putrefazione.\
 \
 Come il piccione senza volo\
 che t'accompagna per un'ora nell'agonia\
