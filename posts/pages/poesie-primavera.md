@@ -123,13 +123,14 @@ E PENSACI TU A SEPPELLIRE DIO.
 
 ###### *Inverno 2001 - Premio Un passo dalla poesia, Tollo 2002*
 
-###### 
+\
 
 **GRANDE CONCORSO A PREMI LA POESIA OGGI**
 
 Certa gente vorrebbesi dichiarar poeta\
 Perché magari su di un foglio imbratta\
-Il vago lamento Dei suoi sentimentalismi\
+Il vago lamento\
+Dei suoi sentimentalismi\
 Facendone versi\
 Come gli animali.\
 
@@ -144,7 +145,8 @@ E questa gente\
 Soltanto andando\
 A capo\
 Ogni\
-Tanto E gracida e squittisce\
+Tanto\
+E gracida e squittisce\
 Di stinti cromatismi\
 Di osceni eufemismi\
 Di pruriti e di linguismi\
