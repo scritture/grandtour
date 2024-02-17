@@ -1,9 +1,26 @@
 ---
-ls
+title: 'Gerusalemme: guida possibile alla terra negata' 
+date: '2017-12-11' 
+image: /images/2017/12/Old-City-of-Jerusalem-Encyclopedia-Britannica-1997.jpg 
+categories: 
+  - Claudio Comandini 
+  - filosofia 
+  - geopolitica 
+  - letteratura 
+  - religioni 
+tags: 
+  - Claudio Comandini 
+  - Cristianesimo 
+  - Derrida 
+  - Gerusalemme 
+  - Islam 
+  - Israele 
+  - Rashid Husain
+  - S. Yzhar 
+  - Turchia 
+  - USA
+author: Claudio Comandini
 ---
-
-title: 'Gerusalemme: guida possibile alla terra negata' date: '2017-12-11' image: /images/2017/12/Old-City-of-Jerusalem-Encyclopedia-Britannica-1997.jpg categories: - antropologia - Claudio Comandini - filosofia - geopolitica - letteratura - politica - religioni tags: - Bisanzio - Claudio Comandini - Cristianesimo - Crociate - Derrida - Ebrei - filosofia - Gerusalemme - guerra globale - Inghilterra - Islam - Israele - Medio Oriente - Parusia - Rashid Husain - religione - Roma - S. Yzhar - Templari - Trump - Turchia - USA author: Claudio Comandini ---
-
 *Dichiarazioni americane e conseguenze mondiali. Storia di una città, dei suoi popoli e dei suoi monumenti. Parcellizzazione dei Luoghi Sacri e parzialità dei poteri.*
 
 ### 1. La città senza pace
