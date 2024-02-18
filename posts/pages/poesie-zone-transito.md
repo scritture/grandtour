@@ -79,7 +79,7 @@ Carcasse rami spezzati detriti\
 A queste bianche e secche piagge tratti\
 Dal fiottolo lucente attraversando\
 Vasto l'orizzonte che cupo cerchia\
-                          il golfo\
+                                  il golfo\
 
 *(texel estate 88)*
 
@@ -99,8 +99,8 @@ una ferita, come un sorriso,\
 come un ombra che la luce non cancella.
 
 Per te,\
-    e per tutti quelli che abbiamo amato\
-                         e perduto.
+       e per tutti quelli che abbiamo amato\
+                                           e perduto.
 
 *(primavera 95)*
 
@@ -115,9 +115,9 @@ serrata da quattro ordini di inferriate,\
 né sonno né coscienza tracciano in disegni\
 sequenze di attimi, grovigli di fili spezzati,\
 fra pareti da dove promana un sentore\
-                  di putrefazione.\
+di putrefazione.\
 \
-Come il piccione senza volo\
+                Come il piccione senza volo\
 che t'accompagna per un'ora nell'agonia\
 di uno squallido trapezio. Qui orbita e indugia\
 nei domini suoi la mezzaluna\
