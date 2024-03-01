@@ -1,11 +1,12 @@
 [
   {
-    "listing": "/scritture.html",
+    "listing": "/diario.html",
     "items": [
+      "/posts/pages/Pessimus virus.html",
       "/posts/pages/intellettuale.html",
       "/posts/pages/post-four.html",
       "/posts/pages/2018-01-09-profilazioni.html",
-      "/posts/pages/post-five.html",
+      "/posts/pages/gerusalemme-terra-negata.html",
       "/posts/pages/2017-12-04-nature-spirituali-fraccacreta-poesia.html",
       "/posts/pages/2017-11-27-premonizioni-del-settantasette.html",
       "/posts/pages/2017-11-13-colpo-di-stato-malaparte.html",
@@ -126,7 +127,7 @@
       "/posts/pages/2013-05-27-la-clonazione.html",
       "/posts/pages/2013-05-05-maschile-femminile-sessualita-scrittura-basso-impero.html",
       "/posts/pages/2013-04-02-i-tre-pontificati-di-benedetto-ix.html",
-      "/posts/pages/2013-03-21-poesie-per-un-giorno-di-primavera.html",
+      "/posts/pages/poesie-primavera.html",
       "/posts/pages/2013-02-27-conscientia-mea-ratzinger-e-noi.html",
       "/posts/pages/2013-02-16-lacrime-e-barche-sanremo-e-la-politica.html",
       "/posts/pages/2013-02-14-declinazioni-dellautore.html",
@@ -151,17 +152,18 @@
       "/posts/pages/2012-05-14-montale-natura-innocenza-linguaggio.html",
       "/posts/pages/2012-05-10-possedimenti-memorie-tuscolo.html",
       "/posts/pages/2012-05-09-ballate-e-danze-dal-basso-impero.html",
-      "/posts/pages/2012-05-08-zone-di-transito.html",
+      "/posts/pages/poesie-zone-transito.html",
       "/posts/pages/2012-05-04-il-pianeta-dei-famosi.html"
     ]
   },
   {
-    "listing": "/diario.html",
+    "listing": "/scritture.html",
     "items": [
+      "/posts/pages/Pessimus virus.html",
       "/posts/pages/intellettuale.html",
       "/posts/pages/post-four.html",
       "/posts/pages/2018-01-09-profilazioni.html",
-      "/posts/pages/post-five.html",
+      "/posts/pages/gerusalemme-terra-negata.html",
       "/posts/pages/2017-12-04-nature-spirituali-fraccacreta-poesia.html",
       "/posts/pages/2017-11-27-premonizioni-del-settantasette.html",
       "/posts/pages/2017-11-13-colpo-di-stato-malaparte.html",
@@ -282,7 +284,7 @@
       "/posts/pages/2013-05-27-la-clonazione.html",
       "/posts/pages/2013-05-05-maschile-femminile-sessualita-scrittura-basso-impero.html",
       "/posts/pages/2013-04-02-i-tre-pontificati-di-benedetto-ix.html",
-      "/posts/pages/2013-03-21-poesie-per-un-giorno-di-primavera.html",
+      "/posts/pages/poesie-primavera.html",
       "/posts/pages/2013-02-27-conscientia-mea-ratzinger-e-noi.html",
       "/posts/pages/2013-02-16-lacrime-e-barche-sanremo-e-la-politica.html",
       "/posts/pages/2013-02-14-declinazioni-dellautore.html",
@@ -307,7 +309,7 @@
       "/posts/pages/2012-05-14-montale-natura-innocenza-linguaggio.html",
       "/posts/pages/2012-05-10-possedimenti-memorie-tuscolo.html",
       "/posts/pages/2012-05-09-ballate-e-danze-dal-basso-impero.html",
-      "/posts/pages/2012-05-08-zone-di-transito.html",
+      "/posts/pages/poesie-zone-transito.html",
       "/posts/pages/2012-05-04-il-pianeta-dei-famosi.html"
     ]
   }

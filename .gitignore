@@ -33,3 +33,5 @@ vignettes/*.pdf
 docs/.nojekyll
 docs/CNAME
 CNAME
+
+/.quarto/
