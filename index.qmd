@@ -1,8 +1,9 @@
 ---
 title: "Grand Tour BookWineBar"
+toc: false
 ---
 
-![](images/logo_grandtour_new.jpeg){width="400"}
+![](images/logo_grandtour_new.jpeg){fig-align="center" width="40%"}
 
 **Largo Duca di York 8 Frascati**
 
@@ -15,7 +16,5 @@ Un luogo dove scovare, tra un bicchiere di vino, un té o una tisana, mille offe
 ![](images/shop/calendario.jpg)
 
 ![](images/albar.jpg)
-
-# 
 
 ![](images/shop/libreria04.jpeg){width="708"}

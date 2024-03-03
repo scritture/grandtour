@@ -15,7 +15,7 @@ title: "Pessimus virus"
 author: "Claudio Comandini"
 ---
 
-{{< video https://https://www.youtube.com/watch?v=HwWkcwgaBX >}}
+{{< video  https://www.youtube.com/watch?v=HwWkcwgaBX >}}
 
 *La malattia sembra regnare sovrana, arrivando a istituire nazioni, legittimare diritti e fondare categorie dal carattere presuntivamento democratico eppure indiscutibile. Aggredior virus, quattro anni dopo.*
 
