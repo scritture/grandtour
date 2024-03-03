@@ -2,13 +2,25 @@
 toc: false
 ---
 
-![](images/logo_grandtour_trasparente.png){fig-align="center" width="30%"}
+::: grid
 
-## Grand Tour BookWineBar
+::: {.g-col-12 .g-col-md-1}
+:::
 
+::: {.g-col-12 .g-col-md-3}
+![](images/logo_grandtour_trasparente.png){fig-align="left" width="100%"}
+:::
+
+
+::: {.g-col-12 .g-col-md-7}
+##  Grand Tour BookWineBar 
 **Largo Duca di York 8 Frascati**
+:::
+
+:::
 
 La prima, unica e vera osteria letteraria di Frascati. È una libreria, un bar, un circolo: un piccolo spazio che si propone quale tappa di qualsiasi viaggio possibile. Pubblicazioni, oggetti e vestiti usati, prodotti tipici e pregiati, laboratorio di produzioni culturali. Presso il centro storico, a Largo Duca di York 8, immediatamente riconoscibile dai murales d'ingresso.
+
 
 ![](images/shop/Fuorinew.jpeg){fig-align="center" width="95%"}
 
