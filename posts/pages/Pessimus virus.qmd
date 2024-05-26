@@ -11,15 +11,10 @@ tags:
   - filosofia
   - infodemia
 date: '2024-01-26'
+images: /images/aggredior_virus.jpg
 title: "Pessimus virus"
 author: "Claudio Comandini"
 ---
-
-<<<<<<< HEAD
-{{< video https://youtu.be/HwWkcwgaBXI?si=5kXDCQwsV9_yVNgp >}}
-=======
-{{< video  https://www.youtube.com/watch?v=HwWkcwgaBX >}}
->>>>>>> 5ca3390854fb694cf5117dafd0688ac1458669c8
 
 *La malattia sembra regnare sovrana, arrivando a istituire nazioni, legittimare diritti e fondare categorie dal carattere presuntivamento democratico eppure indiscutibile. Aggredior virus, quattro anni dopo.*
 
@@ -30,3 +25,5 @@ Intanto, mentre la situazione successiva al lockdown procedeva disattendendo ogn
 Il quadro che delineavo in 'Aggredior virus' era composito, niente a che fare né con teorie del complotto né con legittimizzazioni striscianti; il sottotitolo era ironico, eppure non scherzava affatto. Infatti, quelli erano davvero 'i migliori giorni della nostra vita', giorni che ancora mantenevano fiducia e cercavano speranza in modi che oggi sembrano insensati. Io ero lì, a registrarne attentamente ogni sollecitazione cercando di fare in modo che scrittura, memoria e intelletto significassero realmente qualcosa. Credevo fosse importante nonché utile decostruire l'attualità, chiamare all'appello le ragioni taciute del presente e così aprirlo alle possibilità.
 
 Eppure, chiusure e paure predominano ad ogni livello, l'attualità è definitivamente in fuga da se stessa, tutto è a pezzi per conto proprio. Da sempre trovo indegni tanto un potere feroce pur se sostanzialmente impotente, quanto una dissidenza agitata che sa soltanto ostentare inadeguatezze; non riesco a trovare alcun interesse verso i troppi che cercano visibilità per esibire la propria miseria personale e intellettuale. Resta quindi decisamente più interessante cercare quanto qualcuno, già molto prima di me, definì quali 'segni dell'antica fiamma', i cui percorsi odierni sono rigorosamente fuori da ideologie o pseudotali, tutte maistream e tutte datate, e dal loro gioco a somma zero. Così, dopo l'esperienza di questo libro, che comunque trovo tuttora sorprendente, non ho scritto molto e ho pubblicato ancor meno. Ad ogni modo, ciò non ha poi grande importanza in un mondo intossicato anche da troppe parole, delle quali spesso si è costretti ad essere complici.
+
+{{< video https://youtu.be/HwWkcwgaBXI?si=5kXDCQwsV9_yVNgp >}}

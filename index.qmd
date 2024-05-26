@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-git---
-title: "Grand Tour BookWineBar"
-=======
 ---
 toc: false
->>>>>>> 5ca3390854fb694cf5117dafd0688ac1458669c8
 ---
 
 ::: grid
@@ -25,10 +20,12 @@ La prima, unica e vera osteria letteraria di Frascati. È una libreria, un bar, 
 
 ![](images/shop/Fuorinew.jpeg){fig-align="center" width="95%"}
 
-Un luogo dove scovare, tra un bicchiere di vino, un té o una tisana, mille offerte culturali: laboratori di filosofia, letture, musica dal vivo e giochi da tavolo. Il murales, realizzato da Stefano Salvi, con una decostruzione delle colonne d'Ercole del Teatro delle Acque di Villa Aldobrandini, introduce allo spazio e alle sue suggestioni.
+Un luogo dove scovare, tra un bicchiere di vino, un té o una tisana, mille offerte culturali laboratori di filosofia, letture, musica dal vivo e giochi da tavolo. Il murales, realizzato da Stefano Salvi, con una decostruzione delle colonne d'Ercole del Teatro delle Acque di Villa Aldobrandini, introduce allo spazio e alle sue suggestioni.
 
 ![](images/shop/calendario.jpg){fig-align="center" width="95%"}
 
-![](images/albar.jpg){fig-align="center" width="95%"}
+![](images/menu.jpeg)
+
+![](images/menu2.jpg)
 
 ![](images/shop/libreria04.jpeg){fig-align="center" width="95%"}
