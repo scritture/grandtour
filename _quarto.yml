@@ -9,7 +9,7 @@ website:
   title: "Grand Tour"
   
   navbar:
-#    logo: "/images/scritture_logo.png"
+#    logo: "/images/logo_grandtour_trasparente.png"
     left:
       - text: Claudio Comandini
         href: /diario.html#category=Claudio%20Comandini
