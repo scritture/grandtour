@@ -21,6 +21,7 @@ tags:
   - USA
 author: Claudio Comandini
 ---
+
 *Dichiarazioni americane e conseguenze mondiali. Storia di una città, dei suoi popoli e dei suoi monumenti. Parcellizzazione dei Luoghi Sacri e parzialità dei poteri.*
 
 ### 1. La città senza pace
