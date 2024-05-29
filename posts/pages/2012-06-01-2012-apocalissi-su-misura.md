@@ -4,40 +4,20 @@ author: Claudio Comandini
 date: '2012-06-01' 
 title: '2012: apocalissi su misura' 
 categories: 
-  - antropologia 
   - Claudio Comandini 
   - filosofia 
   - fumetti 
   - religioni 
   - scienza 
-  - società tags: 
+  - società 
+  tags: 
   - Agamben 
-  - Andrea Tagliapietra 
-  - Anthony Aveni 
-  - Apocalisse 
-  - calendari 
-  - Claudio Comandini 
   - Cristianesimo 
-  - Ebrei 
-  - frattali 
-  - Grant Morrison 
-  - IChing 
-  - Invisibles 
+  - Ebraismo 
   - Islam 
-  - John Major Jenkins 
-  - Joseph 
   - Jung 
   - Kant 
-  - Kurzwail 
-  - Lawrence E. Joseph 
-  - Lungo Computo 
-  - Mandelbrot 
-  - Maya 
-  - McKenna 
-  - new age 
-  - Niribu 
-  - San Paolo 
-  - stelle 
+  - frattali
   - Žižek 
 ---
 
@@ -231,4 +211,4 @@ Sono tempi incerti, incerta è la terra. Segnala Agamben che nell'escatologia, d
 
 •
 
-*Fotografia: Claudio Comandini, "Labyrintime" -- Berlino, gennaio 2006.*
+*Fotografia: Claudio Comandini, "Labyrintime" - Berlino, gennaio 2006.*

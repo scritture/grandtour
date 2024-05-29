@@ -6,19 +6,14 @@ categories:
   - narrazioni
 tags:
   - Basso impero
-  - Claudio Comandini
   - Frascati
   - Roma
 date: '2012-05-09'
 title: 'Ballate e danze dal Basso Impero'
-excerpt: "I testi esemplari qui prescelti [...] possono considerarsi precipitati di un più che decennale, multiforme processo alchemico, risultati di un'intensa ricerca di amore, libertà, conoscenza, esperita in presenza del gioco vitale degli elementi, del mistero del dì e della notte, della parola e del silenzio."
-metaDescription: Diario
-
+excerpt: "Un'intensa ricerca di amore, libertà, conoscenza, esperita in presenza del gioco vitale degli elementi, del mistero del dì e della notte, della parola e del silenzio."
 image:  /images/2012/05/telegono-1-494x381.jpg
-
 author: Claudio Comandini
 layout: PostLayout
-
 ---
 
 *Una lettera dai tempi del conflitto generalizzato. Ritratto affettuoso di una ragazza futile. Cronache di ieri e di oggi. Note di diario. Sogni. Dal romanzo "Basso Impero".*
@@ -59,7 +54,7 @@ La giustificazione, forma di menzogna, è una delle più stupide ma la più cont
 
 ### COME IN UN SOGNO
 
-https://soundcloud.com/claudio_comandini/gioia
+(https://soundcloud.com/claudio_comandini/gioia)
 
 La televisione è spenta, staccata la spina. Sul muro c'è un calendario senza giorni e vengono gli operai a fare i lavori. Ho le tasche piene di monete. E Serena mi porta un supplì. Con Jimmy Santorini troviamo una bella canna di bambù e la regaliamo al creatore, che la usa per fare il male. Allora gliela togliamo e la regaliamo a un poverello.
 

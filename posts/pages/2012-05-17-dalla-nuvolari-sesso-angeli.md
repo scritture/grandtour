@@ -8,18 +8,16 @@ categories:
   - Claudio Comandini 
   - musica 
   - poesia 
-  - società tags: 
+  - società 
+  tags: 
   - Adorno 
   - Bologna 
   - Byron 
   - Chiesa 
-  - Claudio Comandini 
   - Freud 
   - Israele 
   - Lacan 
   - Lucio Dalla 
-  - pinkwashing 
-  - Roberto Roversi 
   - sessualità 
   - Voltaire 
   - Weininger 
@@ -35,7 +33,7 @@ Di fronte a tali goffaggini e isterismi, persino  è riuscito a farci una figur
 
 Dove gli esponenti della Chiesa, con cui il cantante intratteneva rapporti personali, hanno pacatamente svolto il compito di amministrare le esequie, le tristi aggressive polemiche per questo mancato *coming-out* sembrano manifestare spiccate tentazioni egemoni da parte del movimento gay. Se si parla spesso dell'omosessualità diffusa nella Chiesa, bisognerà anche notare la pretesa ecumenica dei gay nella comunicazione. Riconoscere la dignità delle persone omosessuali non risparmia dal segnalare in chi parla a nome dell'intera categoria la presunzione di imporre un proprio canone, come se la ragione della diversità del reale risiedesse esclusivamente nell'identità con se stessi.
 
-In questo abuso del concetto di identità, l'omosessualità diventa un valore universale apparentemente infallibile, così "ecclesiastico" da configurarsi come una specie di "papato" dei nostri tempi, che coerentemente può anche associarsi a quel sistema usato da politici e stati per rifarsi la faccia noto come *pinkwashing*, praticato dall'Israele destrorso di Nethanyau come da incolori amministrazioni italiote. Non è questo quanto serve ai diritti delle categorie meno protette e alla crescita sociale collettiva, e sembra piuttosto riguardare quei pregiudizi che tendono a diffondersi indistintamente.
+In questo abuso del concetto di identità, l'omosessualità diventa un valore universale apparentemente infallibile, così "ecclesiastico" da configurarsi come una specie di "papato" dei nostri tempi, che coerentemente può anche associarsi a quel sistema usato da politici e stati per rifarsi la faccia noto come *pinkwashing*, praticato dall'Israele destrorso di Nethanyau come da incolori amministrazioni italiote. Non è questo quanto serve ai diritti delle categorie meno protette e alla crescita sociale collettiva, e sembra piuttosto riguardare queinpregiudizi che tendono a diffondersi indistintamente.
 
 Infatti, la realtà non è in bianco e nero. Dove esiste per ognuno un'unica e personale sessualità da coordinare con affetti e pulsioni, preferire lo stesso o il differente non cambia. Cercando per davvero di "pensare diverso", Byron, che amava le donne come gli uomini, ci sorprende affermando che la Chiesa cattolica esprima appieno l'*«ermafroditismo»* di Roma. Weininger, più di un secolo fa, ricordava che nelle persone le gradazioni tra i poli maschile e femminile sono tali da rendere la stessa contrapposizione omosessuale-eterosessuale insensata. Adorno ci ammonisce sul fatto che il "femminile" medesimo è una costruzione omosessuale maschile, e che la famiglia è l'anello terminale del meccanismo con cui il sistema precisa i suoi condizionamenti, per cui gusti personali e composizione del nucleo non cambiano ruoli e funzioni. Lacan ci ricorda che l'amore è sempre eterosessuale, laddove riguarda l'incontro tra diversità. Insomma, la libertà è un po' più avanti, sempre, e va bene così.
 
@@ -43,9 +41,9 @@ Inoltre, siamo poi tanto sicuri che questa società apparentemente così permiss
 
 Lucio Dalla, estroso e riservato, si faceva gli affari suoi, e tutti erano d'accordo. Lo so pure io che si pomiciava i capelloni già negli anni '60, mentre un'attitudine propriamente definibile come pederastia sembrava piuttosto marcata. I dettagli delle sue abitudini sessuali però non dovrebbero nemmeno interessarci, ed è peraltro evidente la presenza nella sua vita di amori eterosessuali, e colpisce la capacità della sua arte di tratteggiare figure femminili mai stucchevoli. E infatti, parlare d'amore nella lingua di tutti pertiene proprio agli angeli, sul cui sesso le chiacchiere umane invano si affaticano, e che magari, come ricorda la canzone, piscerebbero tranquilli tranquilli in testa a tutti.
 
-Chi non è un angelo, alla diffusa pretesa di fare bandiera di una qualsiasi presunta "identità" di orientamento sessuale esclusivista, può opporre la realtà di una sessualità fluida, fatta di corpi senzienti le cui possibilità sono oltre ogni steccato istituito e tutte le manipolazioni possibili, la quale oltrepassa i generi eppure ne mantiene polarità e attrazione. Infatti, riconoscere la legittimità dei rapporti tra congeneri non deve inibire la ricerca delle alterità di cui il sesso è naturalmente costituito, a meno che non si voglia menomare la persona dalle possibilità di incontro: qui lo stesso Freud, peraltro contrario ad ogni discriminazione contro i gay in tempi non sospetti, può ancora aiutarci.
+Chi non è un angelo, alla diffusa pretesa di fare bandiera di una qualsiasi presunta "identità" di orientamento sessuale esclusivista, può opporre la realtà di una sessualità di corpi senzienti le cui possibilità sono oltre ogni steccato istituito e tutte le manipolazioni possibili, la quale oltrepassa i generi eppure ne mantiene polarità e attrazione. Infatti, riconoscere la legittimità dei rapporti tra congeneri non deve inibire la ricerca delle alterità di cui il sesso è naturalmente costituito, a meno che non si voglia menomare la persona dalle possibilità di incontro: qui lo stesso Freud, peraltro contrario ad ogni discriminazione contro i gay in tempi non sospetti, può ancora aiutarci.
 
-L'omofobia (più propriamente \_omoerotofobia - \_la parola omofobia significherebbe letteralmente "odiare il simile", e non aiuta molto a comprendere) è una violenza: lo è però anche istigare (in forme più o meno larvate) all'omosessualità e allo stesso tempo renderla passibile di ricatto se non si osservano certe condizioni prescritte da precise associazioni di categoria. Ma soprattutto, e questo è decisivo, l'eterofobia non può e non deve costituire un criterio. Nel rispetto dei gusti personali, e pur considerando la sempre maggiore diffusione di incompletezze sessuali di ogni tipo, un mondo geneticamente indifferenziato non è auspicabile e nemmeno possibile: su questo, soccorre anche l'opinione di un indiscutibile assertore di diritti e laicità come Voltaire.
+L'omofobia (più propriamente *omoerotofobia* - la parola omofobia significherebbe letteralmente "odiare il simile", e non aiuta molto a comprendere) è una violenza: lo è però anche istigare (in forme più o meno larvate) all'omosessualità e allo stesso tempo renderla passibile di ricatto se non si osservano certe condizioni prescritte da precise associazioni di categoria. Ma soprattutto, e questo è decisivo, l'eterofobia non può e non deve costituire un criterio. Nel rispetto dei gusti personali, e pur considerando la sempre maggiore diffusione di incompletezze sessuali di ogni tipo, un mondo geneticamente indifferenziato non è auspicabile e nemmeno possibile: su questo, soccorre anche l'opinione di un indiscutibile assertore di diritti e laicità come Voltaire.
 
 Non fare né misteri né parate in fatto di sesso è normale per molti. Le pulsioni conoscono solo esempi e rifuggono le norme, e comunque è innegabile che ogni concreta tipologia di rapporto tende oggi ad assumere un significato sociale. La legislazione mondiale si sta coerentemente impegnando nel riconoscere le unioni civili di ogni tipo, le cui esigenze crescono con i cambiamenti e per le quali vanno considerati tanto i diritti individuali e la tutela del presente, quanto le successioni e gli assetti futuri. È questo il punto decisivo, alle cui domande spesso si sfugge per rifugiarsi in uno strano conformismo. Ma laddove i rapporti tendono a svincolarsi dalla complementarietà tra generi e/o dall'aspetto riproduttivo, fino a che punto il diritto deve adeguarsi?
 
@@ -61,4 +59,4 @@ https://youtu.be/myjzEfTdkC0
 
 •
 
-*Fotografia: Claudio Comandini, "Omaggio alla soglia di Dalla" -- Bologna 2012*
+*Fotografia: Claudio Comandini, "Omaggio alla soglia di Dalla" - Bologna 2012*

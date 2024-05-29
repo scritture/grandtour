@@ -9,24 +9,11 @@ categories:
   - musica 
 tags: 
   - Agamben 
-  - Arutiuniam 
-  - Butch Morris 
-  - Carisi 
   - Claudio Comandini 
-  - Copland 
   - Giancarlo Schiaffini 
-  - Günter Muller 
   - Hindemit 
   - improvvisazione 
-  - Istanbul 
-  - Jolivet 
-  - Otomo Yoshihide 
-  - Sauter 
-  - Thurston Moore 
-  - Walter Prati 
-  - Wiltgen 
-  - Wolff 
-  - Wolpe 
+  - Istanbul
 ---
 
 *Contemporanei tra luci e ombre: Agamben. Musiche di Jolivet, Copland, Hindemit, Arutiuniam, Wiltgen, Carisi, Sauter, Wolff, Wolpe, Günter Muller-Otomo Yoshihide, Butch Morris-Istanbul conduction, Giancarlo Schiaffini-Thurston Moore-Walter Prati.*

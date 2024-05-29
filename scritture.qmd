@@ -13,13 +13,13 @@ title-block-banner: false
 
 ::: grid
 ::: g-col-12
-![](/images/scritture_logo.png){fig-align="center" width="50%"}
+![Decostruire l'attualità](/images/scritture_logo.png){fig-align="center" width="50%"}
 :::
 
 ::: {.g-col-12 .g-col-md-3}
-#### Lotta armata, giustizia pop, varia letteratura
+#### La Russia, l'Eurasia, il multipolarismo
 
-[![](/images/2017/10/Battisti_noir-1.jpg){fig-align="left"}](/posts/pages/2017-10-09-lotta-armata-giustizia-pop-varia-letteratura.html)
+[![](/images/2017/04/Childrens-Choir-of-Russia.jpg){fig-align="left"}](/posts/pages/russia-eurasia-mutipolarismo.md)
 
 #### Piotr Merkurj: la pittura della luce
 
@@ -27,9 +27,9 @@ title-block-banner: false
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-## Gerusalemme: guida possibile alla terra negata
+## Dante domestico, Dante musulmano
 
-[![Dichiarazioni americane e conseguenze mondiali. Storia di una città, dei suoi popoli e dei suoi monumenti. Parcellizzazione dei Luoghi Sacri e parzialità dei poteri umani.](/images/2017/12/Old-City-of-Jerusalem-Encyclopedia-Britannica-1997.jpg){fig-align="left"}](/posts/pages/post-five.html)
+[![Del perché Dante ha ancora qualcosa da insegnare a tutti.](/images/gerione.jpg){fig-align="left"}](/posts/pages/danteislam.qmd)
 :::
 
 ::: {.g-col-12 .g-col-md-3}

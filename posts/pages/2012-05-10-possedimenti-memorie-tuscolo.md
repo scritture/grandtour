@@ -3,26 +3,18 @@ date: 2012-05-10
 title: Possedimenti e memorie della perduta città di Tuscolo
 categories:
   - Claudio Comandini
+  - Frascati
+  - Roma
   - storia
 tags:
-  - castelli romani
-  - Claudio Comandini
-  - Frascati
-  - Gregorovius
-  - Le Goff
-  - Liutprando da Cremona
-  - Mario Sanfilippo
-  - Pier Damiani
-  - Piranesi
-  - Rodolfo il Glabro
-  - Roma
+  - medioevo
   - Templari
   - Tuscolo
 image:  /images/2010/07/custode.jpg
 author: Claudio Comandini
 ---
 
-Tuscolo anima del medioevo romano. Le Goff: la dispersione locale dei poteri. Dispersione attuale del patrimonio archeologico. Distribuzione delle proprietà del feudo tuscolano: la rocca, i castelli, le torri, le coste, la via Latina. Congiunti e discendenti della potente casa baronale: i Colonna e gli altri. L'Aventino. I Templari al palazzo di Marozia e Alberico. Le chiese e i mitrei. Benedettini e basiliani. Papi e imperatori. Pellegrini e crociati S. Pietro e l'immagine di Gerusalemme.
+*Tuscolo anima del medioevo romano. Le Goff: la dispersione locale dei poteri. Dispersione attuale del patrimonio archeologico. Distribuzione delle proprietà del feudo tuscolano: la rocca, i castelli, le torri, le coste, la via Latina. Congiunti e discendenti della potente casa baronale: i Colonna e gli altri. L'Aventino. I Templari al palazzo di Marozia e Alberico. Le chiese e i mitrei. Benedettini e basiliani. Papi e imperatori. Pellegrini e crociati. S. Pietro e l'immagine di Gerusalemme.*
 
 **1. Possedimenti**
 

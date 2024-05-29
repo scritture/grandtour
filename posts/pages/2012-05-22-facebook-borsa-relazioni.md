@@ -10,10 +10,8 @@ categories:
   - società
 tags:
   - Claudio Comandini
-  - finanza tossica
   - Internet
   - Perniola
-  - social network
 ---
 
 *Relazioni e utenti. Borsa e social network. Contatti e amicizie. Differenza tra new economy e social business. Similiarità tra net economy e old economy. I primi tre giorni di contrattazioni. La Morgan Stanley gioca d'azzardo. Società cognitiva e inibizione di giudizio.*
@@ -42,4 +40,4 @@ La finanza continua a giocare d'azzardo, alla virtualizzazione dell'economia seg
 
 Tuttavia, potrebbe pure essere che non piaccia poi così tanto.
 
-*Fotografia: Claudio Comandini, "Faceworld"- Graziana Morandi, maggio 2012.*
+*Fotografia: Claudio Comandini, "Faceworld"- Graziana Morandi, maggio 2012.*
