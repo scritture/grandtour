@@ -9,28 +9,43 @@ categories:
   - Claudio Comandini
   - letteratura
   - musica
-  - narrazioni
   - società
 tags:
   - Basso impero
-  - Claudio Comandini
   - Frascati
   - immigrazione
-  - narrazioni
   - Roma
 ---
 
 *Dove si vince la partita e si incontrano quattramicialbar a fare festa e sono funerali di stato. Dal romanzo "Basso Impero".*
 
-*«Cosa significano queste carte?»* \_ «Servono per vedere il futuro.»\_
+*«Cosa significano queste carte?»*
+
+*«Servono per vedere il futuro.»*
 
 La partita procedeva da un quarto d'ora e già era stanca. Ingiurie erano dedicate a tutti i partecipanti al gioco, con rare incitazioni in forma d'insulto. Non era una partita di quelle che stai attizzato.
 
-*«E che vuol dire ?»* *«Il Folle, il Diavolo, il Giudizio rovesciato, la Torre pure, la Morte. Perdiamo.»* *«E ci volevano le carte per capirlo?»* *«Ci vediamo qualche filmetto?»* *«Faccio una canna.»* *«Un'altra? Dammi una carta da cento.»* *«E chi ce l'ha. Da mille. Fare comunque canna.»* *«Arrotolala intanto.»*
+*«E che vuol dire ?»*
 
-Pippano pippano e strapippano. Arriva il gol della Nigeria. A Porkoskin va di traverso. Soffia sullo specchio accuratamente rifinito di striscioline bianche, e la polveretta va tutta intorno nel salotto buono.
+*«Il Folle, il Diavolo, il Giudizio rovesciato, la Torre pure, la Morte. Perdiamo.»*
 
-*«Cretinodeficentepezzodimerdaidiotaimbecillefrocio!»* \_ «Ma questi cazzo di negri...»\_
+*«E ci volevano le carte per capirlo?»*
+
+*«Ci vediamo qualche filmetto?»*
+
+*«Faccio una canna.»*
+
+*«Un'altra? Dammi una carta da cento.»*
+
+*«E chi ce l'ha. Da mille. Fare comunque canna.»*
+
+*«Arrotolala intanto.»*
+
+[Pippano pippano e strapippano. Arriva il gol della Nigeria. A Porkoskin va di traverso. Soffia sullo specchio accuratamente rifinito di striscioline bianche, e la polveretta va tutta intorno nel salotto buono.](https://soundcloud.com/claudio_comandini/litalia-ha-vinto)
+
+*«Cretinodeficentepezzodimerdaidiotaimbecillefrocio!»*
+
+*«Ma questi cazzo di negri...»*
 
 Senza prodursi in ulteriori spropositi, si pippano tutto il salotto buono, lo spolverano infilando il naso in ogni angolo e in ogni fibra, regrediscono a livelli futuribili. E restano catodici svariati minuti. Poi, la frenesia s'esterna.
 
@@ -46,13 +61,19 @@ Mentre Porkoskin stava sbocchinando il cazzo sporco di merda di Lele che se l'er
 
 Mentre sono in piazza a pianificare, entra in scena Mario in un Maserati pieno di bandiere. Con un urlo e due trombette da stadio, annuncia l'intenzione di andare a fare giustizia in città per festeggiare il furto dell'automobile e la sconfitta degli sporchi negri.
 
-*«Ma 'ndo l'hai rimediato ?»* «Lo 'nculato a uno che era andato a pià il giornale e figurate  se co la partita lo cercavano! Eh eh eh!»«Il 190?»«Fuso. Rimasto a Vermicino. Nu' rompete li cojoni, 'namo.»
+*«Ma 'ndo l'hai rimediato ?»*
+
+*«Lo 'nculato a uno che era andato a pià il giornale e figurate  se co la partita lo cercavano! Eh eh eh!»*
+
+*«Il 190?»*
+
+*«Fuso. Rimasto a Vermicino. Nu' rompete li cojoni, 'namo.»*
 
 Per arrivare alla città c'è una sola strada che conosce tante deviazioni. Qui il paesaggio si offre inconsueto, con luoghi che potrebbero essere ovunque, e quasi sembra di essere condotto in altre città. Queste deviazioni riportano poi improvvise alla vista rassicurante delle grandi piazze, da cui poi si snodano altri percorsi, dentro la stessa e in altre città.
 
 Ad uno degli incroci di queste strade c'è Abdul, dal Togo. Non sa come stanno i suoi figli, sua moglie. Manda loro i soldi, centocinquantamila al mese dal guadagno al semaforo. Un terzo le tiene per se. Qualcuno dice che i suoi guadagni sono più alti e che non paga le tasse, e che a furia di pulirli i vetri si sporcano di più. Dorme alle rovine dell'acquedotto Felice. Non è mai invadente, ringrazia, ed augura la buona fortuna agli automobilisti, sempre.
 
-[Presso le arcate è stato trovato il suo corpo carbonizzato, col cranio spaccato, e tre colpi in pieno petto inferti successivamente al suo decesso. L'Italia aveva vinto, e con i rumori dei festeggiamenti non se ne sarebbe accorto nessuno.](https://soundcloud.com/claudio_comandini/litalia-ha-vinto)
+Presso le arcate è stato trovato il suo corpo carbonizzato, col cranio spaccato, e tre colpi in pieno petto inferti successivamente al suo decesso. L'Italia aveva vinto, e con i rumori dei festeggiamenti non se ne sarebbe accorto nessuno.
 
 A Porkoskin l'hanno lasciato a maledire il giorno che continua a sorgere seminando massacri. È stato lui a terminare Abdull, per pietà, dopo che gli avevano dato fuoco, e visto contorcersi urlando. Adesso il coraggio per terminare se stesso non lo trova. L'unica cosa sensata da fare, e non gli riesce. Lele è scappato con gli altri, la pistola gli è rimasta in tasca per sbaglio, ora la getterà via da qualche parte.
 
@@ -78,4 +99,8 @@ Il sole implacabile secca le piante più deboli. Non vuole piovere. Non vuole pr
 
 •
 
-*Tratto da: Claudio Comandini, Basso Impero, Sovera Roma 2006, pp. 60-62.* *Musica: L'Italia ha vinto (Comandini), registrata al Sound Club di Marino da Ernesto Ranieri nel maggio 2007. Claudio Comandini, voce, tromba, elettronica -- Caterina Rosolino, kora -- Ernesto Ranieri, chitarra elettrica -- Francesco Ranieri, basso elettrico, batteria, percussioni.* *Fotografia: Claudio Comandini, "Forza, Italia" -- Bologna-Roma 2011*
+*Tratto da: Claudio Comandini, Basso Impero, Sovera Roma 2006, pp. 60-62.*
+
+*Musica: L'Italia ha vinto (Comandini), registrata al Sound Club di Marino da Ernesto Ranieri nel maggio 2007. Claudio Comandini: voce, tromba, elettronica - Caterina Rosolino: kora - Ernesto Ranieri: chitarra elettrica - Francesco Ranieri: basso elettrico, batteria, percussioni.*
+
+*Fotografia: Claudio Comandini, "Forza, Italia" - Bologna-Roma 2011*

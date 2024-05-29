@@ -12,26 +12,11 @@ categories:
   - società
 tags:
   - Alan Moore
-  - Alessandro Di Nocera
-  - Angelo Aquaro
   - Batman
-  - Christofer Nolan
-  - Claudio Comandini
-  - DC
   - Frank Miller
-  - Fredric Werthan
   - Garth Ennis
-  - Hellblazer
-  - Internet
-  - James Holmes
-  - Mike Carey
   - Neil Gaiman
-  - Pasquale Cinquemani
   - Preacher
-  - pulp
-  - Sandman
-  - Simon Bisley
-  - Vertigo
 ---
 
 *Strage in un cinema di Colorado alla prima del film su Batman di Christopher Nolan. Gravi svarioni giornalistici sull'attribuzione della paternità del personaggio e della responsabilità del fatto. Breve profilo di James Holmes, autore delle strage, e dinamica dell'accaduto. "The Seduction of Innocents" di Wertham, la condanna dei fumetti, l'introduzione del Comics Code Authority durante la "caccia alle streghe". Le responsabilità criminali dei giornalisti secondo autori contemporanei di fumetti: Frank Miller, Neil Gaiman, Mike Carey, Garth Ennis. Reazioni inadeguate, sicurezza paranoide. Il mutamento dei rapporti tra realtà ed immaginazione.*
@@ -48,7 +33,7 @@ Per quanto riguarda altre aziende in qualche modo e loro malgrado coinvolte, la 
 
 Dal canto suo  l'ineffabile Aquaro, invece di farsi un minimo di scrupoli, gioca ad erigersi a censore, e attribuisce senza troppe perifrasi la colpa dell'accaduto ad uno scrittore, come è tipico di chi disprezza o di chi ha un'opinione deviata del lavoro intellettuale: lo dimostra anche dove sbaglia in maniera vistosissima e men che dilettantesca la paternità di un personaggio e l'età di un autore, dati basilari per l'argomento in questione. Tuttavia, anche se può sembrare ridicolo, non è la prima volta che sono imputate responsabilità criminali ai personaggi dei fumetti (nel mondo reale, oltre che in quello di carta...).
 
-Infatti, nel pieno clima della *caccia alle streghe*, lo psichiatra Fredric Wertham pubblica *The Seduction of the Innocent* (1954), cavalcando l'ondata moralizzatrice con cui un paese incapace di assumersi la responsabilità del suo disagio, coltivava l'assurda idea che i comics esercitassero *«un'influenza altamente negativa sulla personalità dei giovani»*, che avrebbero potuto così  *«essere indotti con facilità a imitare comportamenti scellerati e destabilizzanti»* (citato in Alessandro Di Nocera, *Supereroi e superpoteri,* Castevecchi, Roma II ed. 2006, p. 27). Se uscire la sera vestiti da pipistrello o da altre bestie strane potrebbe effettivamente essere considerata come una cosa fuori di testa (come peraltro mettono in chiaro proprio fumettisti come Frank Miller...), Aquaro recupera inconsapevolmente le grossolane ipotesi dello psichiatra sui "*crime comics*" e, nel suo piccolo, la proietta su scala globale, costringendo l'informazione ad un lampante caso di coazione a ripetere.
+Infatti, nel pieno clima della *caccia alle streghe*, lo psichiatra Fredric Wertham pubblica *The Seduction of the Innocent* (1954), cavalcando l'ondata moralizzatrice con cui un paese incapace di assumersi la responsabilità del suo disagio, coltivava l'assurda idea che i comics esercitassero *«un'influenza altamente negativa sulla personalità dei giovani»*, che avrebbero potuto così *«essere indotti con facilità a imitare comportamenti scellerati e destabilizzanti»* (citato in Alessandro Di Nocera, *Supereroi e superpoteri,* Castevecchi, Roma II ed. 2006, p. 27). Se uscire la sera vestiti da pipistrello o da altre bestie strane potrebbe effettivamente essere considerata come una cosa fuori di testa (come peraltro mettono in chiaro proprio fumettisti come Frank Miller...), Aquaro recupera inconsapevolmente le grossolane ipotesi dello psichiatra sui "*crime comics*" e, nel suo piccolo, la proietta su scala globale, costringendo l'informazione ad un lampante caso di coazione a ripetere.
 
 A suo tempo Werthan, orientato a sinistra ma avvezzo ad impiegare contro i *«lavaggi del cervello»* a suo dire praticati dai comunisti termini simili a quelli usati dalla CIA, contribuì enormemente ad un'isteria popolare che comportò rilevanti conseguenze giuridiche nel costringere gli editori ad autocensurarsi attraverso l'adozione del *Codics Code Autorithy*, un cappio che ha a lungo pesato sui contenuti delle storie illustrate. Questo non ha evitato che un fumetto come Batman (creato nel 1939 da Bob Kane, con la collaborazione di Bill Finger e di altri autori dello staff della Detective Comics), in una produzione inevitabilmente costellata di alti e bassi, abbia regalato numerosissime perle. Invece Neil Gaiman (nato "solo" nel 1960, come altri scrittori è stato anche giornalista, sicuramente di quelli con il  gusto per la documentazione), ha prodotto autentici e riconosciuti capolavori, tanto nel fumetto (*Sandman*, 1989-1996), quanto nella narrativa (*American Gods*, 2001).
 
@@ -60,7 +45,7 @@ La scena di una strage al cinema la possiamo ritrovare proprio nella celebrata g
 
 Invece, ad un assurdo convegno di serial killer, Neil Gaiman, per i graffianti disegni di Mike Dringenberger e Malcom Jones III, mette in bocca a Sandman, sorta di divinità dal gusto dark legata ai sogni, un deciso anatema per chi si diletta della morte in serie: *«Voi, che vi dite collezionisti. Finora avete avuto fantasie prolungate in cui eravate gli sfortunati eroi delle vostre stesse storie. Sogni confortevoli in cui, alla fine, eravate dalla parte del giusto. Non più. Per voi il sogno è finito. Io ve lo tolgo. Ecco la mia sentenza: saprete in ogni momento, e per sempre, cosa siete esattamente. E saprete quanto poco questo significhi.»* (*Sandman Master of Dreams*, n. 14 1990, tav. 35-36)
 
-Queste parole sono terribili per tutti coloro che vivono nella menzogna: ovviamente, la mente corre anche a molti di coloro che si dicono giornalisti, portando a supporre un legame particolarmente essenziale tra mass media e omicidi seriali. Al riguardo, nel presentare una storia di Mike Carey disegnata  in  modi sofferenti da Leonardo Manco e Chris Brunner, nella quale il controverso detective occultista John Constantine si trova ad affrontare, per l'ennesima volta, un assassino seriale, questo addirittura ispirato da Dio (*Hellblazer* n. 195-196, 2004), così si esprime l'editore Pasquale Cinquemani: *«I serial killer sono probabilmente uno degli aspetti più deleteri della civiltà dell'informazione. Prima, per essere ricordati dai libri di storia bisognava essere colpevoli di stragi erodiane o immani genocidi, ora basta seguire una vocina nella testa e fare fuori due o tre persone per ritenersi degni dell'immortalità.»* (*Vertigo Presenta*, n. 50, giugno 2006, Magic Press).
+Queste parole sono terribili per tutti coloro che vivono nella menzogna: ovviamente, la mente corre anche a molti di coloro che si dicono giornalisti, portando a supporre un legame particolarmente essenziale tra mass media e omicidi seriali. Al riguardo, nel presentare una storia di Mike Carey disegnata in modi sofferenti da Leonardo Manco e Chris Brunner, nella quale il controverso detective occultista John Constantine si trova ad affrontare, per l'ennesima volta, un assassino seriale, questo addirittura ispirato da Dio (*Hellblazer* n. 195-196, 2004), così si esprime l'editore Pasquale Cinquemani: *«I serial killer sono probabilmente uno degli aspetti più deleteri della civiltà dell'informazione. Prima, per essere ricordati dai libri di storia bisognava essere colpevoli di stragi erodiane o immani genocidi, ora basta seguire una vocina nella testa e fare fuori due o tre persone per ritenersi degni dell'immortalità.»* (*Vertigo Presenta*, n. 50, giugno 2006, Magic Press).
 
 Tuttavia, ad approfondire le implicazioni della replica di Gaiman sulle responsabilità criminali dei giornalisti ci ha pensato un altro autore, piuttosto diverso come stile. Infatti, Garth Ennis, supportato dall'espressivo tratto di Steve Dillon, ci regala la figura di un giornalista serial killer, che così si autoincensa: *«Ricordi la storia del serial killer che sto seguendo? Bè, ad essere franco: io sono lui. L'esclusiva più facile che abbia avuto, credimi.»* (*Preacher*, n.7, 1996, tav. 4). Questo è il tipo di storie che può catalizzare un giovane prete alcolizzato posseduto dal frutto dell'unione di un angelo e di una diavolessa, ma ora non è il caso di approfondire la questione, anche perché poi c'è chi si impressiona.
 
@@ -74,4 +59,4 @@ Se attribuire responsabilità di tutti i tipi ai personaggi fittizi  appartiene
 
 •
 
-*F\_\_otografia: Claudio Comandini, "Punti di vista" -- Amsterdam, aprile 2009.*
+*Fotografia: Claudio Comandini, "Punti di vista" - Amsterdam, aprile 2009.*
