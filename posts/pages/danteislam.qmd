@@ -3,9 +3,6 @@ categories:
   - letteratura
   - filosofia
   - religioni
-  - Claudio Comandini
-tags:
-  - Claudio Comandini
   - Dante
   - Cristianesimo
   - Islam
