@@ -9,7 +9,7 @@ categories:
   - musica 
   - poesia 
   - società 
-  tags: 
+tags: 
   - Adorno 
   - Bologna 
   - Byron 

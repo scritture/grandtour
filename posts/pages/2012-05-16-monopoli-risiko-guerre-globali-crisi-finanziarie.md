@@ -9,7 +9,7 @@ categories:
   - economia 
   - geopolitica 
   - storia 
-  tags: 
+tags: 
   - 11 settembre 
   - Freud
   - Fondamentalismo
