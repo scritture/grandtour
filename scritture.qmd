@@ -13,16 +13,17 @@ title-block-banner: false
 
 ::: grid
 ::: g-col-12
+![](images/scritture_logo.jpg){fig-align="center"}
 :::
 
 ::: {.g-col-12 .g-col-md-3}
 #### La Russia, l'Eurasia, il multipolarismo
 
-[![](/images/2017/04/Childrens-Choir-of-Russia.jpg){fig-align="left"}](/posts/pages/russia-eurasia-mutipolarismo.html)
+[![La Russia di oggi non è l’URSS di ieri, e nemmeno quella più remota dell’impero degli Zar. C’è uno scenario del tutto nuovo.Ma se il presente non è schiacciato sul passato prossimo, ha comunque una storia.](/images/2017/04/Childrens-Choir-of-Russia.jpg){fig-align="left"}](/posts/pages/russia-eurasia-multipolarismo.html)
 
 #### Piotr Merkurj: la pittura della luce
 
-[![](/images/2017/11/Vetrata-Palma-di-Montechiaro-AG.jpg){fig-align="left"}](/posts/pages/2017-11-07-piotr-merkurj-la-pittura-della-luce.html)
+[![Un pittore russo tra Oriente e Occidente. Pensare le icone, dipingere nel pensiero. Dialogo su luce e materia, forma e colore, spiritualità dell’arte, autonomia della cultura.](/images/2017/11/Vetrata-Palma-di-Montechiaro-AG.jpg){fig-align="left"}](/posts/pages/2017-11-07-piotr-merkurj-la-pittura-della-luce.html)
 :::
 
 ::: {.g-col-12 .g-col-md-6}
@@ -34,11 +35,11 @@ title-block-banner: false
 ::: {.g-col-12 .g-col-md-3}
 #### Montale e Kavàfis nella lettura di Cristiano Luciani
 
-[![](/images/2017/12/panni_stesi_sull_egeo.jpg){fig-align="left"}](/posts/pages/2017-09-21-montale-kavafis-cristiano-luciani.html)
+[![Disincanto, ironia, lingua fluida, miti rovesciati e tempo non lineare in Montale e Kavàfis nella lettura di Cristiano Luciani.](/images/2017/12/panni_stesi_sull_egeo.jpg){fig-align="left" width="508"}](/posts/pages/2017-09-21-montale-kavafis-cristiano-luciani.html)
 
 #### Brindisi mancati a Berlino
 
-[![Le origini Superman, la storia di Metropolis, l\'amore perduto di Adolf Hitler. Una separazione sullo scenario di una città separata.](/images/2017/10/brindisi_mancati.jpg){fig-align="left"}](/posts/pages/2017-07-15-brindisi-mancati-berlino-metropolis-superman.html)
+[![Le origini Superman, la storia di Metropolis, l'amore perduto di Adolf Hitler. Una separazione sullo scenario di una città separata.](/images/2017/10/brindisi_mancati.jpg){fig-align="left"}](/posts/pages/2017-07-15-brindisi-mancati-berlino-metropolis-superman.html)
 :::
 :::
 
