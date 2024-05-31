@@ -21,11 +21,9 @@ tags:
   - Sindone
   - Stuart
   - Tuscolo
-  - viaggi
-images: "/images/2017/05/goethe_frascati.jpg"
-author: Claudio Comandini
+  - viaggiauthor: Claudio Comandini
 ---
-![](/images/2017/05/goethe_frascati.jpg)
+![](/images/2017/05/goethe_frascati.jpg){width=100%}
 
 «Bisogna scrivere come si vive, in primo luogo per noi stessi, e allora si esiste anche per chi ci è affine.» (*Johann Wolfgang von Goethe*, Viaggio in Italia - Corrispondenza, Albano 5 ottobre 1787). *Nel 1776 [Goethe](https://it.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe#Romanzi_e_novelle), due anni dopo il grande successo de [I dolori del giovane Werther](https://it.wikipedia.org/wiki/I_dolori_del_giovane_Werther), entra al servizio del duca di [Sassonia-Weimar-Eisenach](https://it.wikipedia.org/wiki/Sassonia-Weimar-Eisenach), uno dei circa 300 staterelli assoluti in cui era divisa la Germania. Assume un titolo nobiliare e diventa consigliere ministeriale per gli affari militari, la viabilità, le miniere e la pubblica amministrazione, ed è sovrintendente ai musei. Dieci anni dopo, nel settembre 1786, non ne può più di uffici e corti, non sopporta minimamente i tedeschi, è stanco dei suoi amori, è stufo anche di scrivere. Ha trentasette anni, lo Sturm und Drang è finito da un pezzo, lontana la stagione di Jena. Del resto,* «chi vive deve essere pronto ai mutamenti»*.* *Informa del suo volere il duca Carlo Augusto, di cui era già stato precettore. Parte senza dire niente a nessuno, monta in carrozza e dalle scomode strade tedesche muove verso le pessime strade italiane. In modo insolito ed esemplare, nel periodo in cui solitamente oggi come ieri si cerca di assestare la propria vita, il poeta rifiuta un posto fisso piuttosto prestigioso e si da' alla macchia, prendendosi così cura della propria formazione artistica.*
 
