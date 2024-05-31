@@ -25,7 +25,8 @@ tags:
 images: "/images/2017/05/goethe_frascati.jpg"
 author: Claudio Comandini
 ---
- 
+![](/images/2017/05/goethe_frascati.jpg)
+
 «Bisogna scrivere come si vive, in primo luogo per noi stessi, e allora si esiste anche per chi ci è affine.» (*Johann Wolfgang von Goethe*, Viaggio in Italia - Corrispondenza, Albano 5 ottobre 1787). *Nel 1776 [Goethe](https://it.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe#Romanzi_e_novelle), due anni dopo il grande successo de [I dolori del giovane Werther](https://it.wikipedia.org/wiki/I_dolori_del_giovane_Werther), entra al servizio del duca di [Sassonia-Weimar-Eisenach](https://it.wikipedia.org/wiki/Sassonia-Weimar-Eisenach), uno dei circa 300 staterelli assoluti in cui era divisa la Germania. Assume un titolo nobiliare e diventa consigliere ministeriale per gli affari militari, la viabilità, le miniere e la pubblica amministrazione, ed è sovrintendente ai musei. Dieci anni dopo, nel settembre 1786, non ne può più di uffici e corti, non sopporta minimamente i tedeschi, è stanco dei suoi amori, è stufo anche di scrivere. Ha trentasette anni, lo Sturm und Drang è finito da un pezzo, lontana la stagione di Jena. Del resto,* «chi vive deve essere pronto ai mutamenti»*.* *Informa del suo volere il duca Carlo Augusto, di cui era già stato precettore. Parte senza dire niente a nessuno, monta in carrozza e dalle scomode strade tedesche muove verso le pessime strade italiane. In modo insolito ed esemplare, nel periodo in cui solitamente oggi come ieri si cerca di assestare la propria vita, il poeta rifiuta un posto fisso piuttosto prestigioso e si da' alla macchia, prendendosi così cura della propria formazione artistica.*
 
 *Nei due anni nei quali attraversa i paesi e gli stati della penisola usa preferibilmente il nome di Herr Philipp Möller, di mestiere pittore, godendo di insospettati vantaggi dalla condizione di* «mezzo incognito». *Passando per il Brennero, giunge sul lago di Garda e quindi a Verona, Vicenza, Venezia, Ferrara e Bologna; attraversa gli Appennini, sosta a Perugia, Assisi, Civita Castellana. Quindi, giunge finalmente a Roma, dove si ferma a lungo. Muove poi verso Napoli e la Sicilia, tornando successivamente a Roma per un secondo e più duraturo soggiorno, durante il quale risiede a cento passi da Piazza del Popolo in una casa sulla Via Lata (Via del Corso). Roma è apertamente considerata come la propria città, che lo coinvolge in un definitivo* «risveglio pagano». *Visita a più riprese [i dintorni della capitale dello Stato della Chiesa](http://www.artemide-edizioni.it/dettagli_prodotto/67-Goethe/9788886291392.html#.WRl_SFIQPaY) (dal 13 al 16 novembre 1786, a metà giugno, dal 25 settembre al 27 ottobre, dall'11 al 13 dicembre del 1787): Frascati, Tivoli, Albano, Castel Gandolfo, Rocca di Papa, Ariccia, Genzano, Nemi, Marino, non trascorrendo in ogni località mai più di quindici giorni consecutivi.*
@@ -64,7 +65,7 @@ E penso a quella bella Velia, che spero scacci via la delusione di Maddalena, la
 
 **2. Per esperienza diretta**
 
-![goethe-profili_e\_labbra_matita_e\_penna_marrone_dicembre_1787](/images/2017/05/goethe-profili_e_labbra_matita_e_penna_marrone_dicembre_1787.jpg)
+![](/images/2017/05/goethe-profili_e_labbra_matita_e_penna_marrone_dicembre_1787.jpg)
 
 - Voi siete un gran signore, e una persona di spirito.
 
