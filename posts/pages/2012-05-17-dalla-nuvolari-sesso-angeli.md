@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2012-05-17 10:00:46+00:00 
-image:  
 title: 'Quando passa Nuvolari. Sulla morte di Lucio Dalla e il sesso degli angeli' 
 categories: 
   - comunicazione 
