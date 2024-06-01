@@ -17,19 +17,21 @@ tags:
   - Serena Grizi
 ---
 
-Enrico Fraccacreta è nato nel 1955 a san Severo (Foggia) da padre pugliese e madre emiliana. Compie i suoi studi universitari a Firenze e Bologna, dove partecipa al movimento del Settantasette. Laureato in Agraria, è appassionato di botanica. La natura, per quanto oppressa dall'uomo, lascia nella sua poesia testimonianze ricche di magie notturne e diurne; tra luci diafane, danze di foglie, canti d'uccelli, balbettii di bacche, la poetica di Fraccacreta matura confrontandosi con la lezione del tempo e i mutamenti del paesaggio.
+*Enrico Fraccacreta è nato nel 1955 a san Severo (Foggia) da padre pugliese e madre emiliana. Compie i suoi studi universitari a Firenze e Bologna, dove partecipa al movimento del Settantasette. Laureato in Agraria, è appassionato di botanica. La natura, per quanto oppressa dall'uomo, lascia nella sua poesia testimonianze ricche di magie notturne e diurne; tra luci diafane, danze di foglie, canti d'uccelli, balbettii di bacche, la poetica di Fraccacreta matura confrontandosi con la lezione del tempo e i mutamenti del paesaggio.*
 
-Tra le sue pubblicazioni, i libri di poesia I nostri pomeriggi (1995 - Premio Montale 1995)\_ , \_Tempo medio (1996), Camera di guardia\_ *(2006)*, *Mademoiselle* *(2012)*, nonché la biografia narrativa *Il giovane Pazienza (2001),* che ricorda l'amicizia con il celebre fumettista. Rispetto a *Tempo ordinario (2015), \_Davide Rondoni nella postfazione ha scritto:* «Questo libro è un taccuino di viaggio e di caccia. Mentre il tempo, i treni, le ideologie, le stagioni passano, il poeta cercatore si muove tra visioni e gemme di alberi, tra abissi e indizi. \[...\] La sua opera, il suo fervido e sapiente *poiein*, dona un mondo -- e una precisa geografia che diventano emblema e occasione di riconoscimento per tutti.»\_
+*Tra le sue pubblicazioni, i libri di poesia* I nostri pomeriggi *(1995 - Premio Montale 1995),* Tempo medio *(1996),* Camera di guardia *(2006),* Mademoiselle *(2012), nonché la biografia narrativa* Il giovane Pazienza *(2001), che ricorda l'amicizia con il celebre fumettista. Rispetto a* Tempo ordinario *(2015), Davide Rondoni nella postfazione ha scritto: «*Questo libro è un taccuino di viaggio e di caccia. Mentre il tempo, i treni, le ideologie, le stagioni passano, il poeta cercatore si muove tra visioni e gemme di alberi, tra abissi e indizi. \[...\] La sua opera, il suo fervido e sapiente poiein, dona un mondo - e una precisa geografia che diventano emblema e occasione di riconoscimento per tutti.»
 
-Al [Premio Frascati](http://www.scritture.net/mag/il-premio-frascati-poesia-provincia/) 2017, vinto da Rondoni con *La natura del bastardo (2016)*, Fraccacreta è arrivato terzo. I titoli sono concreti ed esistenziali, fatti di parole che sembra quasi di poter toccare: oltre questa prima traccia, si può procedere al di là di analisi critica e dati biografici, attraverso un ammirato camminare tra i versi.\_
+*Al [Premio Frascati](http://www.scritture.net/mag/il-premio-frascati-poesia-provincia/) 2017, vinto da Rondoni con* La natura del bastardo *(2016), Fraccacreta è arrivato terzo. I titoli sono concreti ed esistenziali, fatti di parole che sembra quasi di poter toccare: oltre questa prima traccia, si può procedere al di là di analisi critica e dati biografici, attraverso un ammirato camminare tra i versi.*
+
+•
 
 L'uomo contemporaneo, in mancanza di vasti universi sconosciuti da esplorare, sembra avere ancora a propria disposizione il mondo inesplorato degli affetti, laddove questo riesca a tenersi lontano da stereotipi volgari. Così, una cultura altra comincia a presupporre nuove carte di navigazione e più precisi strumenti d'avvistamento per circoscrivere/comprendere coloro con i quali è stato dato in sorte di compiere questo viaggio.
 
-Proprio il poeta può pronunciarsi in proposito, sapendo quanto ogni parola costi in termini d'impegno e di significato. Lo ricordano le poesie per gli affetti del grande Angelo Maria Ripellino: «*Guai a chi sta sulla terra sprovvisto di santi,/ guai a chi resta solo come un re disperato/ fra neri ceffi di lupi digrignanti*/*»*; lo ricorda poi Alda Merini, che forse sull'argomento, oltrepassando anche la mistica del sentimento, ha scritto i versi più veri e dolorosi, confermando come tali attributi spesso non riescano a disgiungersi dal fondo d'una lirica riuscita.
+Proprio il poeta può pronunciarsi in proposito, sapendo quanto ogni parola costi in termini d'impegno e di significato. Lo ricordano le poesie per gli affetti del grande Angelo Maria Ripellino: «*Guai a chi sta sulla terra sprovvisto di santi,/ guai a chi resta solo come un re disperato/ fra neri ceffi di lupi digrignanti»*; lo ricorda poi Alda Merini, che forse sull'argomento, oltrepassando anche la mistica del sentimento, ha scritto i versi più veri e dolorosi, confermando come tali attributi spesso non riescano a disgiungersi dal fondo d'una lirica riuscita.
 
 È proprio ai poeti veleggiare con lucidità tra i rapporti familiari, descrivendo in poche righe una saga lunga più d'un secolo. A distanza, si recupera dolcezza e giusto rapporto con le storie, le parole sgorgano copiose quando la dedica è sincera, e il resto è il cuore a suggerirlo. La metafora della navigazione fa di questo *'insieme in un interno'* un piccolo universo nel quale non è difficile ritrovare qualche proprio sentire, e così avvertire il continuo fluire della vita.
 
-Senza tratteggiare una finitudine borghese, le parole trovano la forza di descrivere semplicemente gli oggetti restituendoli ad una fantasia senza confine, incapace di restare a lungo inerte dietro porte ben chiuse: «*i vasi allagati del ballatoio,/ danzano sulle ragnatele/ per galleggiare». \_Da* Tu stai inquadrato *(\_Camera di guardia):*
+Senza tratteggiare una finitudine borghese, le parole trovano la forza di descrivere semplicemente gli oggetti restituendoli ad una fantasia senza confine, incapace di restare a lungo inerte dietro porte ben chiuse: «*i vasi allagati del ballatoio,/ danzano sulle ragnatele/ per galleggiare».* Da *Tu stai inquadrato* *(Camera di guardia):*
 
 *Tu stai inquadrato*
 
@@ -101,7 +103,7 @@ Senza tratteggiare una finitudine borghese, le parole trovano la forza di descri
 
 Se di questi tempi il lavoro del poeta non ci viene esattamente incontro in libreria, rari i titoli sui tavoli più in vista, anche (soprattutto?) nelle grandi realtà; se occorre cercare remoti scaffali per le consultazioni di testi poetici forse anche in biblioteca; se il poeta non lo si incontra certo per strada anche se non disdegna festival e letture pubbliche - se tutto questo è reale, si può però ancora rintracciare il poeta nei suggerimenti di amici lettori, oppure nel filo sottilissimo che unisce la poetica contemporanea guidando le letture da un testo all'altro, quasi senza soluzione di continuità.
 
-Un filo che tenta di cucire un presente slabbrato e crudele il cui sfondo è un ambiente naturale, fatto di specie viventi, clima e contesto, che a causa del pesante intervento umano non si presenta più come consolatorio. Queste sembrano le coordinate del\* Tempo ordinario\*, e così Enrico Fraccacreta scrive in *Alle ore diciotto:*
+Un filo che tenta di cucire un presente slabbrato e crudele il cui sfondo è un ambiente naturale, fatto di specie viventi, clima e contesto, che a causa del pesante intervento umano non si presenta più come consolatorio. Queste sembrano le coordinate del *Tempo ordinario*, e così Enrico Fraccacreta scrive in *Alle ore diciotto:*
 
 *Sempre, anche se c'è confusione*
 
@@ -173,7 +175,7 @@ L'inversione del rapporto antropocentrico con l'ambiente circostante diventa sor
 
 *così ritorno indietro e ti ritrovo.*
 
-In *È facile sapere dove sei* (da *Mademoiselle*),\_ \_oltre la \_natura naturans, \_torna la natura voluta dagli umani, ancora capaci di 'documentarla' in forme banali, quale semplice fondale. Qui il riferimento è affettuoso: è in ballo il sentimento che lo unisce a colei che, oltre alla terra, è compagna di vita, e quindi moglie:
+In *È facile sapere dove sei* (da *Mademoiselle*), oltre la *natura naturans*, torna la natura voluta dagli umani, ancora capaci di 'documentarla' in forme banali, quale semplice fondale. Qui il riferimento è affettuoso: è in ballo il sentimento che lo unisce a colei che, oltre alla terra, è compagna di vita, e quindi moglie:
 
 *Lo scatto delle palpebre d'estate*
 
@@ -323,4 +325,4 @@ Una sponda è ancora un desiderio, per alcuni quello dell'ultimo passaggio, per 
 
 •
 
-*Fotografia: Serena Grizi, "Angel-o" -- Villa Barbarigo, Andemani, Valsanzibio (PD), novembre 2017.*
+*Fotografia: Serena Grizi, "Angel-o" - Villa Barbarigo, Andemani, Valsanzibio (PD), novembre 2017.*

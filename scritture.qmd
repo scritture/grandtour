@@ -29,13 +29,16 @@ title-block-banner: false
 ::: {.g-col-12 .g-col-md-6}
 ## Dante domestico, Dante musulmano
 
-[![*Del perché Dante ha ancora qualcosa da insegnare a tutti.*](/images/gerione.jpg){fig-align="left"}](/posts/pages/danteislam.html)
-:::
+[![*Del perché Dante può ancora insegnare qualcosa a tutti.*](/images/gerione.jpg){fig-align="left" width="477"}](/posts/pages/danteislam.html)
 
-::: {.g-col-12 .g-col-md-3}
+Dante, pare strano ma occorre ricordarlo, stabilisce le coordinate del *dire poetico* italiano e della sua lingua, segnando la propria preminenza nella cultura del Paese nonché nella sua memoria politica e sociale. La
+considerazione del suo operato è inevitabile per chiunque, in qualsiasi
+modo, abbia a che fare con la poesia o con l’Italia. Dante appare a noi *domestico*, lo chiamiamo sempre per nome e mai per cognome e rappresenta un patrimonio inalienabile delle nostre case. Non può nemmeno mancare nella considerazione dei media che fagocitano ogni cosa e che, in maniera ormai più pervasiva della scuola, ne permettono la diffusione, per quanto a volte soltanto nel nome (ma si sa, basta la parola, dicono…). E così va a finire che Dante, insieme alla Costituzione e alla magistratura, rappresenta il feticcio più nominato e abusato dagli
+italiani.
+
 #### Montale e Kavàfis nella lettura di Cristiano Luciani
 
-[![*Disincanto, ironia, lingua fluida, miti rovesciati e tempo non lineare in Montale e Kavàfis*.](/images/2017/12/panni_stesi_sull_egeo.jpg){fig-align="left" width="508"}](/posts/pages/2017-09-21-montale-kavafis-cristiano-luciani.html)
+[![*Disincanto, ironia, lingua fluida, miti rovesciati e tempo non lineare in Montale e Kavàfis.*](/images/2017/12/panni_stesi_sull_egeo.jpg){fig-align="left" width="508"}](/posts/pages/2017-09-21-montale-kavafis-cristiano-luciani.html)
 
 #### Brindisi mancati a Berlino
 
