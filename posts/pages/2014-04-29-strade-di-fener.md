@@ -9,24 +9,11 @@ categories:
   - letteratura
   - religioni
   - storia
-tags:
-  - Balcani
-  - Bessarione
   - Bisanzio
   - Byron
-  - Claudio Comandini
-  - Eusebio di Cesarea
-  - Fener
-  - Giorgio Scholarios
-  - Grecia
+  - Balcani
   - Islam
   - Istanbul
-  - Mandylion
-  - Odessa
-  - Parigi
-  - Premi
-  - Sindone
-  - Turchia
 ---
 
 *Un mondo nella città. Arrivare a Fener: logistica, ambiente, incontri. Partire da Fener: percorsi, approfondimenti, espansioni. Ritornare a Fener: sviluppi, innovazioni, permanenze. Il faro nascosto.*

@@ -7,18 +7,13 @@ author: Curzio Malaparte
 categories:
   - geopolitica
   - letteratura
-  - narrazioni
   - politica
-  - Rivista
   - società
   - storia
-tags:
   - comunismo
   - Curzio Malaparte
   - Lenin
-  - rivoluzione russa
   - Russia
-  - Scritture
   - Stalin
   - Trotzki
 ---

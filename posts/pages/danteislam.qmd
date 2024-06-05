@@ -4,7 +4,6 @@ categories:
   - filosofia
   - religioni
   - Claudio Comandini
-tags:
   - Dante
   - Cristianesimo
   - Islam
@@ -19,7 +18,7 @@ author: "Claudio Comandini"
 
 *Del perché Dante può ancora insegnare qualcosa a tutti.*
 
-1.  **Dante prima di noi**
+## 1. Dante prima di noi
 
 Dante, pare strano ma occorre ricordarlo, stabilisce le coordinate del *dire poetico* italiano e della sua lingua, segnando la propria preminenza nella cultura del Paese nonché nella sua memoria politica e sociale. La considerazione del suo operato è inevitabile per chiunque, in qualsiasi modo, abbia a che fare con la poesia o con l'Italia. Dante appare a noi *domestico*, lo chiamiamo sempre per nome e mai per cognome e rappresenta un patrimonio inalienabile delle nostre case. Non può nemmeno mancare nella considerazione dei media che fagocitano ogni cosa e che, in maniera ormai più pervasiva della scuola, ne permettono la diffusione, per quanto a volte soltanto nel nome (ma si sa, basta la parola, dicono...). E così va a finire che Dante, insieme alla Costituzione e alla magistratura, rappresenta il feticcio più nominato e abusato dagli italiani.
 
@@ -27,7 +26,7 @@ Anche di fronte alla volgarità di tutto ciò, lo stesso Dante sarebbe rimasto p
 
 Per uscire fuori da tali strettoie, che condizionano fortemente i nostri difficili tempi, occorre, come ammoniva Gombrovich, cercare un Dante che si sottragga alla convenzionalità letteraria e anche all'eccessiva confidenza, e farlo parlare attraverso il rapporto tra testi, epoche e culture. E quindi, come consigliava Montale, ritrovarlo proprio nella sua *estraneità* a noi, intento a parlare a questo nostro nuovo medioevo tecnologico e a questo nostro inferno di cui egli si diceva *«certo»* (*Lo sai: debbo riperderti e non posso*), e rispetto al quale abbiamo quantomeno il compito di decifrarne i caratteri.
 
-2.  **Dante e la lingua**
+## 2. Dante e la lingua
 
 Cerchiamo quindi di entrare nell'opera e nella lingua di Dante e nel loro intreccio. La *Commedia*, chiamata "divina" soltanto da Boccaccio in poi, si staglia come un'immensa cattedrale culturale composta di materiali prefabbricati che maturano in una sintesi originale nel travaglio e nella concentrazione dell'esilio. Ratificando la legittimità dell'uso del volgare in letteratura, viene raccolta l'esperienza di un'epoca nella testimonianza di una concreta persona storica, che converge nell’unità e nell’universalità di una visione improntata alla fede. Dante, poeta propriamente "civile" nel vivere fino in fondo le tensioni del suo tempo, ampiamente glorificato tanto nel risorgimento quanto nel dopoguerra per permettere un'educazione diffusa e una cultura popolare nel segno dell’unità nazionale, rimane propriamente civile e in qualche modo nostro contemporaneo laddove la sua esperienza è quella di un'Italia, ora come allora, travagliata e spezzata, nella quale ogni identità, al di là di rivendicazioni sterili, può formularsi solo per *intersezioni*.
 
@@ -45,7 +44,7 @@ Tale concezione, la cui vasta e sotterranea influenza coinvolge in un *pensiero 
 
 Tutto ciò contribuisce a farci comprendere che il poeta più diffuso nelle nostre case sia stato e rimane, caso piuttosto atipico in una letteratura nazionale composta perlopiù da ruffiani, un *outsider* privo di scrupoli verso ogni comoda collocazione; analogamente, nell'inarrestabile inflazione di pensieri irrimediabilmente terra-terra e di pretese assolute e ineffabili, rimane tuttora viva l'esigenza di fornire spazio ad una mente universale capace di specificarsi in ogni pensiero.
 
-3.  **Dante e Adamo**
+## 3. Dante e Adamo
 
 Lo smarrirsi di Dante nella selva della perdizione è teologico e politico, e trova nella poesia lo strumento della propria salvezza. Tale caduta è analoga a quella di Adamo, che con il Peccato originale perde l'Eden pur rimanendo armato di una lingua con cui opera la ricombinazione nei confronti di un mondo da cui è ormai separato. Adamo è l'Uomo Universale, conosciuto dalla Cabala ebraica con come *Adam Kadmon*, maschio e femmina insieme, unione di misericordia (*Chesed*) e rigore (*Geburath*) che, nel mondo successivo alla loro separazione e quindi alla caduta, tendono costantemente al ricongiungimento. Tale carattere di universalità viene ribadito e approfondito dal sufismo islamico con la nozione di *al-Insān al-Kāmil*, unità intrinseca di ogni creatura e prototipo divino di tutti gli esseri, Volto di Dio nelle creature, la cui conoscenza si rivela attraverso l'intuizione del cuore (*al qalb*). Se per l'Ebraismo la fuoriuscita di Adamo dal Paradiso apre il confronto con la storia che prepara l'avvento del Messia, per il Cristianesimo il suo peccato viene rimesso dalla venuta di Gesù di cui si attende il ritorno, mentre per l'Islam la serie dei profeti da lui inaugurata viene conclusa da Maometto lasciandoci comunque in attesa di un'apocalisse finale. Pur nella differenza con cui i tre diversi monoteismi si articolano, Adamo si situa da solo al principio della storia per poi fornire vita alla specie umana e ai suoi assortiti destini. Nel suo piccolo, Dante si colloca esattamente dalla parte opposta della creazione, alla deriva di un universo che cerca di riassumere nella sua opera poetica, partendo da un'iniziale solitudine per poi confrontarsi serratamente con persone di ogni tipo, e ne decide le sorti.
 
@@ -65,7 +64,7 @@ Può così comprendersi come nella *Commedia* i contenuti del *De Vulgari* venga
 
 Può così evidenziarsi l'aspetto ad un tempo di separatezza e unione proprio al linguaggio. Il *dare nome* alle cose, che è quanto accade nel Secondo capitolo della *Genesi* segnando la prima frattura dell'unità divina, significa distinguerle e opporle a sé in un modo che tuttavia prelude al possibile incontro con la loro essenza. Ciò allude ad una riflessione sulla parola il cui aspetto propriamente *erotico* verrà colto nelle riflessioni del teologo anarco-cattolico von Baader, e il cui studio della loro reciproca *disarticolazione* con le cose impegnerà in tempi a noi più prossimi la riflessione di Foucault. Su un altro registro, il riconoscere il carattere storico delle lingue è visto da Gianfranco Contini come il porsi della necessità *istituzionale* della poesia quale spazio di conservazione di una lingua destinata comunque a consunzione. Tutto sembra destinato all'entropia che domina incontrastata alla fine del tempo. Ma questo è davvero un destino assoluto, e lo è anche per ogni lingua?
 
-4.  **Dante e Maometto**
+## 4. Dante e Maometto
 
 La cultura occidentale ha quindi compreso che la parola può condurci all'anima delle cose proprio perché c'è uno spazio tra parole e cose che rende possibile l'*incontro*, e la letteratura trova un carattere di eternità perlopiù in questa capacità di salvare quanto è più *caduco*. L'Islam, la cui profonda decostruzione delle medesime matrici giudaico-cristiane lo configura come *occidente parallelo*, non conosce tali problematiche e muove secondo altre prospettive. Adamo è, come in seguito Gesù, creato direttamente da Dio, ma non è espressamente nominato quale primo uomo e nemmeno viene inserito nei sei giorni della creazione; sopratutto, non è conosciuto il Peccato originale, in quanto le stesse parole delle creazione vengono a lui suggerite da Dio (*Corano* II:33), così come il suo pentimento dall'inganno diabolico è da Dio accolto senza residui (*Corano* II:37; XX:90).
 
@@ -91,7 +90,7 @@ Così, possiamo ritrovarci a riflettere sul fatto che Dante abbia presso il mond
 
 Cerchiamo di sviluppare tali rapporti, la cui comprensione è tanto più urgente quanto più le loro ragioni apparentemente tendono a negarsi l'un l'altra, disconoscendo proprio quanto più profondamente le lega. Nei testi cristiani, il peccato verso lo Spirito Santo, definito dalla *Somma Teologica* di San Tommaso quale infedeltà accompagnata dall'avversione alla volontà divina, è considerato come quello che non si può perdonare (*Marco* III:28-29; *Matteo* XII:31-32; *Luca* XII:10). Considerando ciò, risultano meno imperdonabili i musulmani che reputano inconcepibile oltraggiare Maometto e considerano la bestemmia linguisticamente impossibile, piuttosto che i cristiani per i quali non è insolito fare allegramente a gara di imprecazioni verso tutto ciò che è sacro. E da parte sua, un musulmano non idiota potrebbe trovare rivelazioni anche in Dante, sempre ammesso che sin troppo diffuso fanatismo non lo abbia reso incapace di scorgere il rapporto tra l'uno e i molti, considerazione che generalmente trova i cristiani o culture cristane più inclini. Ad ogni modo, in termini semplici e laici, si tratta di accogliere quell'azione che consiste nel saper *tornare su se stessi* e mettere in pratica quanto l'esperienza possa aver insegnato. Ma se tutto si può perdonare tranne un costitutivo rifiuto di *consapevolezza*, è disgraziatamente proprio ciò ad essere sin troppo tipico presso i cosiddetti umani tutti.
 
-5.  **Dante dopo Dante**
+## 5. Dante dopo Dante
 
 L'esperienza di Dante resta sospesa sulla letteratura italiana per diffondersi in ogni aspetto della vita culturale del Paese, la sua impronta si sedimenta tanto nella lingua nazionale quanto in quella dei poeti, e ancora oggi la sua opera risulta leggibile e capace di leggere il reale. E indipendentemente se la leggiamo o meno, la *Commedia* continua a leggere in noi e ci ricorda come la nostra vicenda sia intrisecamente religiosa, senza troppi riguardi verso una nostra eventuale confessione.
 

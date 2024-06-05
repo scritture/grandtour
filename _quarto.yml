@@ -17,7 +17,7 @@ website:
         href: /scritture.html
         
     right:
-      - about.qmd
+      - contatti.qmd
       - icon: linkedin
         href: https://www.linkedin.com/groups/4880518/
       - icon: twitter

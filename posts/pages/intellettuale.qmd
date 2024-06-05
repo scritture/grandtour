@@ -4,7 +4,6 @@ categories:
   - cultura
   - Claudio Comandini
   - società
-tags:
   - Husserl
   - Benda
   - Pasolini
