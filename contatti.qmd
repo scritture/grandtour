@@ -1,6 +1,7 @@
 ---
 title: "contatti"
 image: images/shop/libreria10.jpg
+image: images/shop/inside.jpg
 about:
   template: broadside
   links:
