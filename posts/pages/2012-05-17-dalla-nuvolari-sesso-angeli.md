@@ -7,19 +7,15 @@ categories:
   - Claudio Comandini
   - Lucio Dalla
   - musica 
-  - poesia 
   - società 
-tags:
-  - Adorno 
+  - filosofia 
   - Bologna 
   - Byron 
-  - Chiesa 
-  - Freud 
-  - Israele 
-  - Lacan 
+  - religioni
+  - Freud
+  - Lacan
+  - poesia
   - sessualità 
-  - Voltaire 
-  - Weininger 
 ---
 
 ![](/images/2016/07/omaggio-alla-soglia-di-dalla-326x245.jpg){fig-align="center" width="98%"}

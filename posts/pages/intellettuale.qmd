@@ -1,13 +1,11 @@
 ---
 categories:
   - comunicazione
-  - cultura
+  - filosofia
   - Claudio Comandini
   - società
   - Husserl
-  - Benda
   - Pasolini
-  - influencer
 date: '2022-02-02'
 title: "Intellettuale chi?"
 author: "Claudio Comandini"

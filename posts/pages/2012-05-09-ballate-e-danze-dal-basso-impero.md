@@ -31,15 +31,11 @@ Oggi c'è pure la manifestazione. Quella grande. Cinquant'anni sono troppi per r
 
 Intanto che in Italia attendiamo un altro ridicolo miracolo, pronti dopo una breve illusione a sporcarsi di nuovo le mani, Inghilterra e America gettano il resto del mondo nella loro rovina, in Russia stanno peggio di quando stavano male, gli Slavi del sud sono dilaniati da privatizzazioni e guerra, il Ruanda implode e piovono bombe sulla prima elezione in Sudafrica, Israele continua a seminare morti per le sue bibliche fissazioni, l'Islam preme da ogni granello del suo e del nostro deserto. E altre polveriere si preparano. Il conflitto generalizzato come forma di convivenza. Tutti contro tutti in nome di niente. L'impazzimento locale della maionese globale. L'uovo del mondo alla fase terminale. Altro che nuovo ordine mondiale.
 
-### GIOIA
-
-(https://soundcloud.com/claudio_comandini/gioia)
+### [GIOIA](https://soundcloud.com/claudio_comandini/gioia)
 
 Gioia vuole bene a tutti, e gli sta bene così. Lei è così, rossa così, pienotta cosi. Il suo pomeriggio trascorre fra le immagini della tv i cosmetici e le telefonate. Lei adora Fiorello come una muta che attende da lui la voce, e tutte le canzono le ha imparate da lui. È amica di Ambra, certo, gli batte le mani quando si muove così ben telecomandata, ma non ha il suo stile, non fa la saccente con quella forzata disinvoltura che piace tanto ai frustrati. Questo lo sa. Ma non si cura di capire. Cambia ad ogni notiziario, poi figurati oggi che c'è sta manifestazione, cheppalle. La guarda un po', ma poi si rompe, e canta le sigle pubblicitarie. E prega che i Take That non si scioglino mai, lei prega che i Take That non si sciogliano mai. Esce un giorno con me e un giorno con te, e dà a tutti quel che gli và. Lei adesso ha quindici anni, e non gliene importa un granché. Si sente grande, sa di essere piccola. Guarda la borgata fuori, non pensa che sia brutta. Tra un po' esce con Mario, stasera forse farà pace con Lele, magari stasera andrà a ballare. Fuori la pioggia ha smesso, ma può ricominciare, ma non gli importa.
 
-### CRONACHE DAL BASSO IMPERO
-
-(https://soundcloud.com/claudio_comandini/cronache-dal-basso-impero)
+### [CRONACHE DAL BASSO IMPERO](https://soundcloud.com/claudio_comandini/cronache-dal-basso-impero)
 
 Credi davvero che siamo in un'epoca peggiore delle altre, oppure che esista un progresso? Stavo interessandomi alla tarda antichità: alla vita quotidiana durante il basso impero. Ti sembra di sentire le grida di una folla perduta, concentrata in una piazza ricavata dal prosciugamento di una palude, dove la fogna passa a cielo aperto. Nell'ordinarietà del malaffare, la normalità del ladrocinio, in un'epoca di principi del foro bugiardi, di corti piene di puttane. Dove la popolazione è falciata dalle epidemie e dall'ordinaria violenza urbana, il fiume straborda, i rifiuti marciscono per strada, la speculazione edilizia riempie ogni vuoto. Incontrollata l'immigrazione di schiavi delle province, agricoltori senza più terra, che vendono e comprano mogli e figlie alla prostituzione nella suburra perché altro lavoro non c'è. E questi "extracomunitari" sono intrusi pericolosi per gli scaricatori del porto fluviale e i figli di buona famiglia, con cui condividono le stesse sbronze, le stesse chiacchiere, le stesse puttane. Insomma, ritrovo la storia dei nostri giorni. Come se già dai tempi di Roma vivessimo una lunga decadenza. Come se il basso impero non fosse mai finito.
 
@@ -51,10 +47,10 @@ Troppo coraggio e onestà esige l'osservazione di se stessi perché la sua espre
 
 La giustificazione, forma di menzogna, è una delle più stupide ma la più continua delle attività mentali; in tale esclusivo universo l'uomo si rinchiude, reagendo meccanicamente a tutto ciò che accade. E anche le costruzione del pensiero e le architetture sintattiche diventano spesso l'ipocrita diario dell'umanità, la scrittura l'inventario delle sue giustificazioni, la cultura lo spoglio dei suoi equivoci.
 
-### COME IN UN SOGNO
-
-(https://soundcloud.com/claudio_comandini/gioia)
+### [COME IN UN SOGNO](https://soundcloud.com/claudio_comandini/gioia)
 
 La televisione è spenta, staccata la spina. Sul muro c'è un calendario senza giorni e vengono gli operai a fare i lavori. Ho le tasche piene di monete. E Serena mi porta un supplì. Con Jimmy Santorini troviamo una bella canna di bambù e la regaliamo al creatore, che la usa per fare il male. Allora gliela togliamo e la regaliamo a un poverello.
 
-*Brani tratti e adattati da: Claudio Comandini, "Basso Impero", Sovera, Roma 2006, pp. 9-10, 22, \_35-36, 40, 48;* *Registrazioni: Sound Club, Marino, maggio 2007.* *Fotografia: Claudio Comandini, "Telegonus" -- Frascati, maggio 1988.*
+*Brani tratti e adattati da: Claudio Comandini, "Basso Impero", Sovera, Roma 2006, pp. 9-10, 22, 35-36, 40, 48; Registrazioni: Sound Club, Marino, maggio 2007.*
+
+*Fotografia: Claudio Comandini, "Telegonus" - Frascati, maggio 1988.*

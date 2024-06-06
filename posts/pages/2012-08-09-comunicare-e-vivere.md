@@ -4,26 +4,20 @@ date: 2012-08-09 10:00:44+00:00
 image: /images/2016/07/incomunicazioni-678x381.jpg
 title: 'Comunicare è vivere?' 
 categories: 
-  - comunicazione 
   - Claudio Comandini 
-  - filosofia 
-  - società tags: 
+  - comunicazione 
+  - filosofia
+  - società 
   - 11 settembre 
   - Bernays 
   - Cicerone 
   - Claudio Comandini 
   - Freud 
-  - Gandhi 
-  - Goebbels 
-  - Habermas 
   - Internet 
   - Lacan 
-  - Mussolini 
   - Perniola 
-  - pornografia 
+  - sessualità
   - psicologia 
-  - Recalcati 
-  - Rumsfeld 
   - Žižek 
 ---
 
