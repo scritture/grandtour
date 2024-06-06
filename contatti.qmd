@@ -1,7 +1,6 @@
 ---
 title: "contatti"
 image: images/shop/libreria10.jpg
-image: images/shop/inside.jpg
 about:
   template: broadside
   links:
@@ -37,3 +36,5 @@ Venerdì: 12:00 - 2:00
 Sabato: 12:00 - 2:00
 
 Domenica: 12:00 - 24:00
+
+![](/images/shop/inside.jpg)
