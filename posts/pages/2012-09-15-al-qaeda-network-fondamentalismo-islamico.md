@@ -13,7 +13,7 @@ categories:
   - 11 settembre
   - Baudrillard
   - Claudio Comandini
-  - Deleuze
+  - Deleuze.
   - Islam
 ---
 
