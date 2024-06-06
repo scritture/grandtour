@@ -8,17 +8,11 @@ categories:
   - letteratura
   - poesia
   - storia
-tags:
-  - Claudio Comandini
   - contingenza
   - Cristiano Luciani
   - Grecia
   - Kavàfis
   - Montale
-  - poesia
-  - Premio Nobel
-  - Sbarbaro
-  - Sefèris
 ---
 
 *Disincanto, ironia, lingua fluida, miti rovesciati e tempo non lineare in Montale e Kavàfis nella lettura di Cristiano Luciani.*

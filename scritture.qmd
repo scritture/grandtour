@@ -19,11 +19,14 @@ title-block-banner: false
 ::: {.g-col-12 .g-col-md-3}
 #### La Russia, l'Eurasia, il multipolarismo
 
-[![La Russia di oggi non è l'URSS di ieri, e nemmeno quella più remota dell'impero degli Zar. Ma se il presente non è schiacciato sul passato prossimo, ha comunque una storia.](/images/2017/04/Childrens-Choir-of-Russia.jpg){fig-align="left"}](/posts/pages/russia-eurasia-multipolarismo.html)
+[![La Russia di oggi non è l'URSS di ieri, e nemmeno quella più remota dell'impero degli Zar. Ma se il presente non è schiacciato sul passato prossimo, ha comunque una storia. Intervista con Aleksandr Dugin](/images/2017/04/Childrens-Choir-of-Russia.jpg){fig-align="left"}](/posts/pages/russia-eurasia-multipolarismo.html)
 
 #### Piotr Merkurj: la pittura della luce
 
 [![Un pittore russo tra Oriente e Occidente. Pensare le icone, dipingere nel pensiero. Luce e materia, forma e colore, spiritualità dell'arte e autonomia della cultura.](/images/2017/11/Vetrata-Palma-di-Montechiaro-AG.jpg){fig-align="left"}](/posts/pages/2017-11-07-piotr-merkurj-la-pittura-della-luce.html)
+
+### Profilazioni predittive e comportamenti elettorali
+[![Oggi sono i privati ad esercitare il monopolio tecnologico che gestisce gli strumenti della comunicazione pubblica. E l'immaginario è stato colonizzato. Un'analisi di Renato Curcio]{fig-align="left"}](/images/2018/01/urna.png)
 :::
 
 ::: {.g-col-12 .g-col-md-6}
@@ -37,7 +40,11 @@ Dante, pare strano ma occorre ricordarlo, stabilisce le coordinate del *dire poe
 ::: {.g-col-12 .g-col-md-3}
 #### Montale, Kavàfis e le attese capovolte
 
-[![Disincanto, ironia, lingua fluida, miti rovesciati e tempo non lineare in Montale e Kavàfis.](/images/2017/12/panni_stesi_sull_egeo.jpg){fig-align="left" width="508"}](/posts/pages/2017-09-21-montale-kavafis-cristiano-luciani.html)
+[![Cristiano Luciani: disincanto, ironia, lingua fluida, miti rovesciati e tempo non lineare in Montale e Kavàfis.](/images/2017/12/panni_stesi_sull_egeo.jpg){fig-align="left" width="508"}](/posts/pages/2017-09-21-montale-kavafis-luciani.html) 
+
+#### Strade di Fener
+
+[![Un mondo nella città: Fener tra Istanbul e il resto del mondo](/images/2016/07/strada-di-fener-678x381.jpg){fig-align="left" width="508"}](/posts/pages/2014-04-29-strade-di-fener.html)
 
 #### Brindisi mancati a Berlino
 
