@@ -9,13 +9,9 @@ categories:
   - economia 
   - geopolitica 
   - storia 
-tags: 
   - 11 settembre 
   - Freud
-  - Fondamentalismo
-  - Huntigton
   - Islam
-  - Piaget
   - USA
 ---
 

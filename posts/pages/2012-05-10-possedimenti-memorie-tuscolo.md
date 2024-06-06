@@ -6,8 +6,6 @@ categories:
   - Frascati
   - Roma
   - storia
-tags:
-  - medioevo
   - Templari
   - Tuscolo
 image:  /images/2010/07/custode.jpg

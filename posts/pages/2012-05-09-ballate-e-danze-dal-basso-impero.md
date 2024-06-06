@@ -4,7 +4,6 @@ categories:
   - letteratura
   - musica
   - narrazioni
-tags:
   - Basso impero
   - Frascati
   - Roma
