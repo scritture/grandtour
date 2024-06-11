@@ -8,24 +8,15 @@ title: Affinità e divergenze tra fascismi e New Deal
 categories:
   - arte
   - politica
-  - Rivista
   - società
   - storia
-tags:
-  - architettura
   - Berlino
   - Hitler
-  - John A. Garraty
   - Mussolini
   - New York
   - Roma
   - Roosevelt
-  - Ruth Ben-Ghiat
-  - Scritture
   - Stalin
-  - Wolfgang Schivelbusch
-excerpt: null
-metaDescription: Diario
 ---
 
 *Una polemica apparsa recentemente sul* The New Yorker *a firma di* [*Ruth Ben-Ghiat*](https://www.newyorker.com/culture/culture-desk/why-are-so-many-fascist-monuments-still-standing-in-italy) *si chiedeva perché in Italia edifici legati al fascismo, quali il Foro Italico e il Palazzo della Civiltà Italiana (o del Lavoro), non venissero abbattuti. E nel lamentare la presenza di neo-fascisti al Parlamento compiutasi con gli alleati di Berlusconi, che a suo dire nella loro scalata sarebbero addirittura stati aiutati dall’esistenza di palazzi e monumenti e dalla rete di luoghi di pellegrinaggio, ricordava la forte colonizzazione dell’immaginario compiuta da Mussolini durante il ventennio, verso la quale non sarebbe mai stata compiuta alcuna rieducazione analoga a quella tedesca. Tuttavia, se in Italia esiste una recrudescenza fascista, che ha rappresentanze decisamente più impresentabili rispetto alla destra di governo di AN ed eredi, i cui demeriti non vanno comunque minimizzati, questa non trova ragione nei motivi addotti da Ben-Ghiat, che soffrono di più di una* [superficialità di analisi](http://www.corriere.it/cultura/17_ottobre_08/new-yorker-fascismo-mussolini-monumenti-eur-foro-italico-sudisti-3e9b1bae-ac49-11e7-b229-0974b7f57cc3.shtml)*. Piuttosto, se gli stili di cui si avvalse l'architettura del ventennio furono piuttosto vari e niente affatto disprezzabili, la mancata rieducazione degli italiani dipende soprattutto dalla retorica con cui il Paese ha elaborato l’eredità del ventennio, senza approfondire adeguatamente né i motivi interni né quelli internazionali che ne segnarono la fine e l’inizio. Infatti, come mostrano anche le convulse vicende legate all’*[8 settembre](http://www.scritture.net/mag/storia-bombe-frascati-distruzione-tuscolo/)*, fu il parlamento fascista a destituire il Duce, mentre i generali del Re cercarono trattative con gli Alleati e arrivarono in alcuni casi anche collaborare alla Resistenza; da parte loro, gli inizi del fascismo, il cui movimento a fianco della matrice nazionalista ne aveva pure una socialista, ricevettero considerazione piuttosto dignitosa prima da Francia e Inghilterra e poi da esponenti del* [New Deal](http://www.scritture.net/mag/brindisi-mancati-berlino-metropolis-superman/) *americano, con cui comunque non condivideva la forma politica dittatoriale.*

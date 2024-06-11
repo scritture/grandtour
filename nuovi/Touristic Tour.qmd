@@ -1,0 +1,10 @@
+---
+title: "Touristic Tour"
+image: images/shop/caludio_libreria.jpg
+about:
+  template: broadside
+---
+
+## Mistery Tour: la Città Tuscolana
+
+Tuscolo era più antica di Roma e ancora oggi la sovrasta. Alla scoperta delle città dell’eccellenza enogastronomica. Le rovine di epoca imperiale e il Museo del vino presso Monte Porzio, il medioevo e l’abbazia di San Nilo a Grottaferrata, la città di Frascati con la sue incantevole urbanistica e le magnifiche ville barocche che la costellano. A richiesta, è possibile attivare anche la visita dei borghi che sorgono sulle sponde dei laghi di Albano e Nemi, incastonati nei boschi ai piedi di Monte Cavo, la più alta montagna dell’area, e così conoscerne le memorie. L’area tuscolana e i suoi dintorni non avranno più segreti. Servizi di trasporto e turismo con un team professionale e affiatato.
