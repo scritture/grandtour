@@ -8,9 +8,7 @@ categories:
   - comunicazione
   - editoria
   - politica
-  - Rivista
   - società
-tags:
   - Brexit
   - Europa
   - giornalismo
@@ -19,10 +17,6 @@ tags:
   - Inghilterra
   - Internet
   - Katharine Viner
-  - Scritture
-  - social network
-excerpt:
-metaDescription: Diario
 ---
 
 *I social media hanno fagocitato le notizie - minacciando il consolidamento delle cronache giornalistiche di pubblico interesse e inaugurando un'era nella quale ognuno rivendica la creazione di fatti a proprio arbitrio. Questo tradisce del tutto il modello, aperto e agerarchico, al quale originariamente si era fatto riferimento per la Rete, e le conseguenze vanno molto al di là del giornalismo e riguardano sopratutto le nuove dinamiche di potere venutesi a creare, particolarmente brutali. E se c'è stato un tempo nel quale qualcuno era arrivato a credere che Internet avrebbe permesso una specie di repubblica planetaria del giornalismo diffuso, oggi lo spazio virtuale è perlopiù filtrato nel chiuso recinto dei social e vi prevale il sensazionalismo più grossolano. La politica sembra assimilarne i modi a tutti i livelli favorendo e assecondando populismi che minano a loro volta la fiducia nelle istituzioni, compresa la stampa, permettono il diffondersi di narcisismi autoreferenziali e distruttivi nei confronti di programmi e contenuti. Tuttavia, tale modello non regge né di fronte alla complessità del mondo, né nei confronti di quelli che sono i doveri dell'informazione. Un articolo di Katharine Viner, caporedattore del Guardian.*
@@ -173,10 +167,10 @@ Quando lo stato d'animo prevalente è anti-élite e anti-autorità, la fiducia n
 
 Credo che per una cultura giornalistica forte valga la pena lottare. Quindi è un modello di business che serve e che premia le organizzazioni dei media capaci di mettere la ricerca della verità al centro di tutto - capace di costruire un pubblico informato e attivo, capace di esaminare con attenzione i potenti, e non di imbonire una banda di reazionari disinformati capace soltanto di attaccare i deboli. I tradizionali valori dell'informazione devono essere abbracciati e celebrati: relazionare su fatti e verificarli, raccogliere le dichiarazioni di testimoni oculari, fare ogni volta un serio tentativo di scoprire cosa sia realmente accaduto.
 
-Abbiamo il privilegio di vivere in un'epoca in cui  per farlo possiamo utilizzare molte nuove tecnologie - e l'aiuto del nostro pubblico. Dobbiamo però anche affrontare le questioni alla base della cultura digitale, e renderci conto che il passaggio dalla stampa ai media digitali non ha mai riguardato soltanto la tecnologia. Dobbiamo anche affrontare le nuove dinamiche di potere che tali cambiamenti hanno creato. Tecnologia e mezzi di comunicazione non esistono in isolamento - aiutano la forma sociale, così come questa li modella a loro volta. Ciò significa impegnarsi con attori sociali, cittadini, alla pari. Si tratta di fare le pulci al potere, lottando per uno spazio pubblico, assumendosi la responsabilità per creare quel tipo di mondo nel quale davvero vogliamo vivere.
+Abbiamo il privilegio di vivere in un'epoca in cui per farlo possiamo utilizzare molte nuove tecnologie - e l'aiuto del nostro pubblico. Dobbiamo però anche affrontare le questioni alla base della cultura digitale, e renderci conto che il passaggio dalla stampa ai media digitali non ha mai riguardato soltanto la tecnologia. Dobbiamo anche affrontare le nuove dinamiche di potere che tali cambiamenti hanno creato. Tecnologia e mezzi di comunicazione non esistono in isolamento - aiutano la forma sociale, così come questa li modella a loro volta. Ciò significa impegnarsi con attori sociali, cittadini, alla pari. Si tratta di fare le pulci al potere, lottando per uno spazio pubblico, assumendosi la responsabilità per creare quel tipo di mondo nel quale davvero vogliamo vivere.
 
 •
 
-*Pubblicato come: [Katharine Viner,  "How technology disrupted the truth", «The Guardian» 18.06.2016.](https://www.theguardian.com/media/2016/jul/12/how-technology-disrupted-the-truth)*
+*Pubblicato come: [Katharine Viner, "How technology disrupted the truth", «The Guardian» 18.06.2016.](https://www.theguardian.com/media/2016/jul/12/how-technology-disrupted-the-truth)*
 
 *Traduzione: Claudio Comandini.*
