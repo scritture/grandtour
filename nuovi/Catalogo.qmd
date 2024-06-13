@@ -1,0 +1,8 @@
+---
+title: "catalogo"
+image: images/shop/caludio_libreria.jpg
+about:
+  template: broadside
+---
+
+**Musiche** oltre a viaggiare per luoghi, epoche e stili, si propone di promuovere quanto trova vivaio nel **BookWineBar**.
