@@ -1,8 +1,8 @@
 ---
 title: "Touristic Tour"
-image: images/shop/caludio_libreria.jpg
-about:
-  template: broadside
+reference-location: margin
+citation-location: margin
+footnotes-hover: true
 ---
 
 ## Mistery Tour: la Città Tuscolana
