@@ -51,8 +51,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent libero.
     -   ancora pallini
         -   altri pallini
         -   pallini pallini
-        
-
 
 # Note a Margine
 
@@ -60,7 +58,7 @@ Questa è una frase con una nota a margine[^1]. Lorem ipsum dolor sit amet, cons
 
 [^1]: Questa è una nota a margine. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-Qui per maggiori info  [manuale note a margine](https://quarto.org/docs/reference/formats/html.html#footnotes)
+Qui per maggiori info [manuale note a margine](https://quarto.org/docs/reference/formats/html.html#footnotes)
 
 ::: column-margin
 We know from *the first fundamental theorem of calculus* that for $x$ in $[a, b]$:

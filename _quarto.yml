@@ -11,8 +11,8 @@ website:
   navbar:
 #    logo: "/images/logo_grandtour_trasparente.png"
     left:
-      - text: Claudio Comandini
-        href: /diario.html#category=Claudio%20Comandini
+      - text: Musiche
+        href: /musiche.html
       - text: Scritture
         href: /scritture.html
         
