@@ -1,4 +1,76 @@
 #!/bin/bash
-git add .
-git commit -m "aggiorno github"
-git push 
+
+#git add .
+#git commit -m "aggiorno github"
+#git push 
+
+#!/bin/bash
+
+# Nome del branch principale (modifica se usi un nome diverso)
+BRANCH="master"
+
+# Messaggio di commit predefinito
+COMMIT_MESSAGE="Aggiornamenti automatici"
+
+# Funzione per risolvere i conflitti mantenendo la versione remota e numerando le versioni locali
+resolve_conflicts() {
+    for file in $(git diff --name-only --diff-filter=U); do
+        echo "Risoluzione del conflitto per $file..."
+        
+        # Estrai il nome del file e l'estensione
+        filename=$(basename -- "$file")
+        extension="${filename##*.}"
+        filename="${filename%.*}"
+
+        # Trova la versione successiva disponibile
+        version=1
+        while [ -f "${filename}.v${version}.${extension}" ]; do
+            version=$((version + 1))
+        done
+        
+        # Copia il file locale con la nuova versione
+        cp "$file" "${filename}.v${version}.${extension}"
+        
+        # Usa la versione remota per risolvere il conflitto
+        git checkout --theirs "$file"
+        git add "$file"
+    done
+}
+
+echo "Aggiornamento del repository locale con le modifiche dal repository remoto..."
+git pull origin $BRANCH
+
+# Verifica se ci sono conflitti
+if [ $? -ne 0 ]; then
+    echo "Conflitti trovati. Risoluzione automatica dei conflitti..."
+    resolve_conflicts
+
+    echo "Effettuando il commit delle modifiche risolte..."
+    git commit -m "Risoluzione automatica dei conflitti mantenendo la versione remota"
+
+    echo "Pushing delle modifiche risolte nel repository remoto..."
+    git push origin $BRANCH
+
+    if [ $? -ne 0 ]; then
+        echo "Errore durante il push. Verifica la tua connessione e i permessi."
+        exit 1
+    fi
+fi
+
+echo "Aggiunta delle modifiche locali al repository..."
+
+# Aggiungi tutte le modifiche tranne quelle nelle directory 'docs' e '.quarto'
+git add . ':!docs' ':!.quarto'
+
+echo "Effettuando il commit delle modifiche..."
+git commit -m "$COMMIT_MESSAGE"
+
+echo "Pushing delle modifiche nel repository remoto..."
+git push origin $BRANCH
+
+if [ $? -ne 0 ]; then
+    echo "Errore durante il push. Verifica la tua connessione e i permessi."
+    exit 1
+fi
+
+echo "Aggiornamento completato con successo!"
