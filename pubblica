@@ -7,7 +7,7 @@
 #!/bin/bash
 
 # Nome del branch principale (modifica se usi un nome diverso)
-BRANCH="master"
+BRANCH="main"
 
 # Messaggio di commit predefinito
 COMMIT_MESSAGE="Aggiornamenti automatici"
@@ -60,7 +60,7 @@ fi
 echo "Aggiunta delle modifiche locali al repository..."
 
 # Aggiungi tutte le modifiche tranne quelle nelle directory 'docs' e '.quarto'
-git add . ':!docs' ':!.quarto'
+git add . ':!docs' ':!.quarto' '!_freeze'
 
 echo "Effettuando il commit delle modifiche..."
 git commit -m "$COMMIT_MESSAGE"

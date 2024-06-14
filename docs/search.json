@@ -1573,5 +1573,96 @@
     "title": "Musiche",
     "section": "",
     "text": "Musiche oltre a viaggiare per luoghi, epoche e stili, si propone di promuovere quanto trova vivaio nel BookWineBar."
+  },
+  {
+    "objectID": "nuovi/esempio.html",
+    "href": "nuovi/esempio.html",
+    "title": "Esempi di Formattazione con Quarto",
+    "section": "",
+    "text": "https://quarto.org/docs/reference/ è il sito che contiene tutto il codice di riferimento"
+  },
+  {
+    "objectID": "nuovi/esempio.html#sottotitolo-1",
+    "href": "nuovi/esempio.html#sottotitolo-1",
+    "title": "Esempi di Formattazione con Quarto",
+    "section": "Sottotitolo",
+    "text": "Sottotitolo\n\nSotto Sottotitolo\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.\n\n\nSottotitolo\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent libero."
+  },
+  {
+    "objectID": "nuovi/esempio.html#sottotitolo-2",
+    "href": "nuovi/esempio.html#sottotitolo-2",
+    "title": "Esempi di Formattazione con Quarto",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent libero.\n1.## Titolo numerato\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nTitolo numerato\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\nSottotitolo numerato\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nAnche se si sbaglia numero il programma lo ricalcola qui c’era scritto 5 che invece viene corretto\n\n\n\nSottotitolo numerato Lorem ipsum dolor sit amet, consectetur adipiscing elit.\nelenchi puntati\n\naltri pallini\nancora pallini\n\naltri pallini\npallini pallini"
+  },
+  {
+    "objectID": "nuovi/esempio.html#foto-centrate-a-tutta-larghezza",
+    "href": "nuovi/esempio.html#foto-centrate-a-tutta-larghezza",
+    "title": "Esempi di Formattazione con Quarto",
+    "section": "Foto centrate a tutta larghezza",
+    "text": "Foto centrate a tutta larghezza\n\n\n\nEsempio di Foto a Tutta Larghezza\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "objectID": "nuovi/esempio.html#foto-centrate-a-tutta-larghezza-con-caption",
+    "href": "nuovi/esempio.html#foto-centrate-a-tutta-larghezza-con-caption",
+    "title": "Esempi di Formattazione con Quarto",
+    "section": "Foto centrate a tutta larghezza con caption",
+    "text": "Foto centrate a tutta larghezza con caption\n Foto con una didascalia\nLorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "objectID": "nuovi/esempio.html#video-da-file-locale",
+    "href": "nuovi/esempio.html#video-da-file-locale",
+    "title": "Esempi di Formattazione con Quarto",
+    "section": "Video da file locale",
+    "text": "Video da file locale\nLorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "objectID": "nuovi/esempio.html#video-altri-esempi",
+    "href": "nuovi/esempio.html#video-altri-esempi",
+    "title": "Esempi di Formattazione con Quarto",
+    "section": "Video altri esempi",
+    "text": "Video altri esempi"
+  },
+  {
+    "objectID": "nuovi/esempio.html#footnotes",
+    "href": "nuovi/esempio.html#footnotes",
+    "title": "Esempi di Formattazione con Quarto",
+    "section": "Note",
+    "text": "Note\n\n\nQuesta è una nota a margine. Lorem ipsum dolor sit amet, consectetur adipiscing elit.↩︎\nArticolo interessante↩︎\nNota a fondo pagina. Lorem ipsum dolor sit amet, consectetur adipiscing elit.↩︎\n Lorem ipsum dolor sit amet.↩︎\nDOI: doi.org/10.1112/plms/s2-42.1.230 Turing orem ipsum dolor sit amet.↩︎\nArchive.org↩︎"
+  },
+  {
+    "objectID": "nuovi/esempio.html#layout-con-colonne",
+    "href": "nuovi/esempio.html#layout-con-colonne",
+    "title": "Esempi di Formattazione con Quarto",
+    "section": "Layout con Colonne",
+    "text": "Layout con Colonne\n\nParagrafi a due colonne\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at sapien sit amet diam viverra varius. Nulla facilisi.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at sapien sit amet diam viverra varius. Nulla facilisi.\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at sapien sit amet diam viverra varius. Nulla facilisi.\nPer allontanare le colonne tra di loro usare una colonna vuota.\n\n\n\n\nParagrafi a tre colonne\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at sapien sit amet diam viverra varius. Nulla facilisi.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at sapien sit amet diam viverra varius. Nulla facilisi.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at sapien sit amet diam viverra varius. Nulla facilisi."
+  },
+  {
+    "objectID": "nuovi/esempio.html#titolo-numerato",
+    "href": "nuovi/esempio.html#titolo-numerato",
+    "title": "Esempi di Formattazione con Quarto",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\nTitolo numerato\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\nSottotitolo numerato\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nAnche se si sbaglia numero il programma lo ricalcola qui c’era scritto 5 che invece viene corretto\n\n\n\nSottotitolo numerato Lorem ipsum dolor sit amet, consectetur adipiscing elit.\nelenchi puntati\n\naltri pallini\nancora pallini\n\naltri pallini\npallini pallini"
+  },
+  {
+    "objectID": "nuovi/esempio.html#sottotitolo",
+    "href": "nuovi/esempio.html#sottotitolo",
+    "title": "Esempi di Formattazione con Quarto",
+    "section": "Sottotitolo",
+    "text": "Sottotitolo\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget co."
+  },
+  {
+    "objectID": "nuovi/esempio.html#elenchi-numerati",
+    "href": "nuovi/esempio.html#elenchi-numerati",
+    "title": "Esempi di Formattazione con Quarto",
+    "section": "Elenchi numerati",
+    "text": "Elenchi numerati\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nTitolo numerato\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\nSottotitolo numerato\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nAnche se si sbaglia numero il programma lo ricalcola qui c’era scritto 5 che invece viene corretto\n\nSottotitolo\nnumerato Lorem ipsum dolor sit amet, consectetur adipiscing elit.\nelenchi puntati\n\naltri pallini\nancora pallini\n\naltri pallini\npallini pallini\n\n\n\nBordato\n\nThis content can be styled with a border\n\n\nHere is a warning."
+  },
+  {
+    "objectID": "nuovi/esempio.html#poesie",
+    "href": "nuovi/esempio.html#poesie",
+    "title": "Esempi di Formattazione con Quarto",
+    "section": "Poesie",
+    "text": "Poesie\n\nSOLDATI\nSi sta come\nd’autunno\nsugli alberi\nle foglie.\n\nUngaretti 99 La poesia è stata composta nel bosco di Courton nei pressi di Bligny in Francia, durante gli ultimi mesi della prima guerra mondiale . Il contingente italiano fu inviato a dare manforte all’esercito francese per contenere gli ultimi assalti tedeschi. In queste decisive fasi finali la morte incombeva sul destino di ogni soldato, al punto che sembrava impossibile scamparla.\nBosco di Courton luglio 1918"
   }
 ]

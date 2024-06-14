@@ -1,0 +1,204 @@
+---
+title: "Esempi di Formattazione con Quarto"
+author: "Autore"
+date: "2024-06-14"
+reference-location: margin
+citation-location: margin
+footnotes-hover: true
+---
+
+#### Manuali
+
+<https://quarto.org/docs/reference/> è il sito che contiene tutto il codice di riferimento
+
+# Titolo Principale
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a ultrices mi. Nulla facilisi. Proin at sapien sit amet diam viverra varius. **Neretto** *Italico **NerettoItalico***
+
+## Sottotitolo
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget co.
+
+## Sottotitolo
+
+### Sotto Sottotitolo
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.
+
+### Sottotitolo
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent libero.
+
+## Elenchi numerati
+
+1.  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+2.  Titolo numerato
+
+3.  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+    1.  Sottotitolo numerato
+    2.  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    3.  Anche se si sbaglia numero il programma lo ricalcola qui c'era scritto 5 che invece viene corretto
+
+    ### Sottotitolo
+
+4.  numerato Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+5.  elenchi puntati
+
+    -   altri pallini
+    -   ancora pallini
+        -   altri pallini
+        -   pallini pallini
+        
+
+
+# Note a Margine
+
+Questa è una frase con una nota a margine[^1]. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+[^1]: Questa è una nota a margine. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+Qui per maggiori info  [manuale note a margine](https://quarto.org/docs/reference/formats/html.html#footnotes)
+
+::: column-margin
+We know from *the first fundamental theorem of calculus* that for $x$ in $[a, b]$:
+
+$$\frac{d}{dx}\left( \int_{a}^{x} f(u)\,du\right)=f(x).$$
+:::
+
+Margin References Footnotes and the bibliography typically appear at the end of the document, but you can choose to have them placed in the margin by setting the following option[^2] in the document front matter:
+
+[^2]: Questa è una nota a margine. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+Testo a cui agganciare la nota[^3]
+
+[^3]: Questa è una nota a piè di pagina oppure a margine a seconda di come è configurato il file
+
+#### Per mettere le note a margine aggiungere alla intestazione yaml le righe:
+
+``` cite
+---
+reference-location: margin
+citation-location: margin
+---
+```
+
+In questo esempio ho messo le note a margine.
+
+# Altri Tipi di Note
+
+Questa è una nota che si riferisce a un altro articolo su web[^4].
+
+[^4]: [Articolo interessante](https://www.esempio.com)
+
+Questa è una nota a fondo pagina[^5].
+
+[^5]: Nota a fondo pagina. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+Questa è una nota a margine con una foto[^6].
+
+[^6]: ![Una bella foto](https://via.placeholder.com/150) Lorem ipsum dolor sit amet.
+
+Questa è una nota con DOI[^7].
+
+[^7]: DOI: [doi.org/10.1112/plms/s2-42.1.230](https://doi.org/10.1112/plms/s2-42.1.230) Turing orem ipsum dolor sit amet.
+
+Questa è una nota con un link a archive.org[^8].
+
+[^8]: [Archive.org](https://archive.org)
+
+## Poesie
+
+### SOLDATI
+
+Si sta come\
+d'autunno\
+sugli alberi\
+le foglie.\
+
+***Ungaretti*** [^9]
+
+[^9]: La poesia è stata composta nel bosco di Courton nei pressi di Bligny in Francia, durante gli ultimi mesi della prima guerra mondiale . Il contingente italiano fu inviato a dare manforte all'esercito francese per contenere gli ultimi assalti tedeschi. In queste decisive fasi finali la morte incombeva sul destino di ogni soldato, al punto che sembrava impossibile scamparla.
+
+*Bosco di Courton luglio 1918*
+
+# Foto
+
+Questa è una foto semplice:
+
+![Esempio di Foto](https://via.placeholder.com/300)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+## Foto centrate a tutta larghezza
+
+![Esempio di Foto a Tutta Larghezza](https://via.placeholder.com/600){width="100%"}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+## Foto centrate a tutta larghezza con caption
+
+![Esempio di Foto con Caption](https://via.placeholder.com/600){width="100%"} *Foto con una didascalia*
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+# Video
+
+## Video da file locale
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+## Video altri esempi
+
+{{< video https://www.youtube.com/embed/wo9vZccmqwc >}}
+
+{{< video local-video.mp4 >}}
+
+{{< video https://www.youtube.com/embed/wo9vZccmqwc >}}
+
+{{< video https://vimeo.com/548291297 >}}
+
+{{< video https://youtu.be/wo9vZccmqwc width="400" height="300" >}}
+
+{{< video https://www.youtube.com/embed/wo9vZccmqwc title="What is the CERN?" start="116" aspect-ratio="21x9" >}}
+
+## Layout con Colonne
+
+### Paragrafi a due colonne
+
+::: columns
+::: {.column width="30%"}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at sapien sit amet diam viverra varius. Nulla facilisi.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at sapien sit amet diam viverra varius. Nulla facilisi.
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="68%"}
+{{< video https://www.youtube.com/embed/wo9vZccmqwc >}}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at sapien sit amet diam viverra varius. Nulla facilisi.
+
+**Per allontanare le colonne tra di loro usare una colonna vuota.**
+:::
+:::
+
+### Paragrafi a tre colonne
+
+::: columns
+::: {.column width="33%"}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at sapien sit amet diam viverra varius. Nulla facilisi.
+:::
+
+::: {.column width="33%"}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at sapien sit amet diam viverra varius. Nulla facilisi.
+:::
+
+::: {.column width="33%"}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at sapien sit amet diam viverra varius. Nulla facilisi.
+:::
+:::
