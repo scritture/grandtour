@@ -13,7 +13,7 @@ title-block-banner: false
 
 ::: grid
 ::: g-col-12
-![](images/scritture_logo.jpg){fig-align="center"}
+![](images/immagini_scritture/scritture_logo.png){fig-align="center"}
 :::
 
 ::: {.g-col-12 .g-col-md-3}
@@ -31,9 +31,13 @@ Un pittore russo tra Oriente e Occidente. Pensare le icone, dipingere nel pensie
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-[![](/images/gerione.jpg){fig-align="left" width="477"}](/posts/pages/danteislam.html)
-
+::: grid
+::: {.g-col-12 .g-col-md-6}
 ## Dante domestico, Dante musulmano
+:::
+:::
+
+[![](images/immagini_scritture/gerione.jpg){fig-align="center"}](/posts/pages/danteislam.html)
 
 #### Del perché Dante può ancora insegnare qualcosa a tutti.
 
