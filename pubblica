@@ -4,7 +4,7 @@
 #git commit -m "aggiorno github"
 #git push 
 
-#!/bin/bash
+
 
 # Nome del branch principale (modifica se usi un nome diverso)
 BRANCH="main"
