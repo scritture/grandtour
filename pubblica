@@ -60,7 +60,7 @@ fi
 echo "Aggiunta delle modifiche locali al repository..."
 
 # Aggiungi tutte le modifiche tranne quelle nelle directory 'docs' e '.quarto'
-git add . ':!docs' ':!.quarto' '!_freeze'
+git add . ':!docs' ':!.quarto' 
 
 echo "Effettuando il commit delle modifiche..."
 git commit -m "$COMMIT_MESSAGE"
