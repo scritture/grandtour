@@ -11,6 +11,12 @@ website:
   navbar:
 #    logo: "/images/logo_grandtour_trasparente.png"
     left:
+      - text: BookWineBar
+        href: /bookwinebar.html
+      - text: Catalogo
+        href: /catalogo.html   
+      - text: Touristic tour
+        href: /touristic_tour.html
       - text: Musiche
         href: /musiche.html
       - text: Scritture
