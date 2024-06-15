@@ -16,6 +16,7 @@ about:
       href: mailto:grandtour.frascati@gmail.com
       aria-label: Email
 ---
+
 ## GRAND TOUR BookWineBar
 
 Largo Duca di York 8 00044 Frascati
@@ -38,6 +39,6 @@ Sabato: 12:00 - 2:00
 
 Domenica: 12:00 - 24:00
 
-![](images/immagini_bookwinebar/fuori1.JPG){fig-align="right"}
+![](images/immagini_bookwinebar/Fuorinew.jpeg){fig-align="center"}
 
 ![](images/immagini_bookwinebar/albar.jpg){fig-align="center"}
