@@ -18,7 +18,7 @@ categories:
   - Tuscolo
 ---
 
-*Profilo di un condottiero del Rinascimento. Dalla Disfida di Barletta al Sacco di Roma, passando per Pisa, Bologna, Genova, Modena, Ravenna, Verona, Milano e altre battaglie. Lo Statuto del Castello di Frascati e la giurisprudenza dell'epoca. Morte di Marcantonio a Milano e permanenza a Frascati della moglie Lucrezia. Note sul Sacco di Roma e sul Miracolo di Capocroce del 1527, sul Concistoro del 1538. Cinquecento anni dopo.*
+*Profilo di un condottiero del Rinascimento. Dalla Disfida di Barletta al Sacco di Roma, passando per Pisa, Bologna, Genova, Modena, Ravenna, Verona, Milano e altre battaglie. Lo Statuto del Castello di Frascati e la giurisprudenza dell'epoca. Morte di Marcantonio a Milano e permanenza a Frascati della moglie Lucrezia. Note sul Sacco di Roma e sul Miracolo di Capocroce del 1527, sul Concistoro del 1538 e l'istiuzione di Frascati quale Civitas. Cinquecento anni dopo.*
 
 ## 1. Il castello e il condottiero
 
