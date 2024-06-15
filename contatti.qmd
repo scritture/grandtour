@@ -23,6 +23,10 @@ Largo Duca di York 8 00044 Frascati
 
 06.44248940 (negli orari indicati) - 346.7284282 (messaggio whatsapp)
 
+![](images/immagini_bookwinebar/mappa.jpeg){fig-align="left"}
+
+![](images/immagini_bookwinebar/fuori1.JPG){fig-align="right"}
+
 Lunedi: chiuso
 
 Martedì: 17:00 - 24:00
@@ -37,4 +41,4 @@ Sabato: 12:00 - 2:00
 
 Domenica: 12:00 - 24:00
 
-![](/images/shop/inside.jpg)
+![](images/immagini_bookwinebar/albar.jpg){fig-align="center"}

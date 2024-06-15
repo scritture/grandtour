@@ -20,7 +20,7 @@ La prima, unica e vera osteria letteraria di Frascati. È una libreria, un bar, 
 
 ![](images/immagini_bookwinebar/Fuorinew.jpeg)I murales, realizzati dal pittore Stefano Salvi, con libri che sbocciano in volo e omaggi decostruzionisti alle colonne d'Ercole del Teatro delle Acque di Villa Aldobrandini, introducono allo spazio. Nel locale è possibile scovare migliaia di libri, dischi e fumetti, rigorosamente mappati sugli scaffali, e un assortita scelta di vestiti e oggetti vintage.
 
-![](docs/images/vestiti.jpeg)
+![](images/immagini_bookwinebar/vestiti.jpeg){fig-align="center"}
 
 ![](images/immagini_bookwinebar/libreria04.jpeg){fig-align="center"}
 
