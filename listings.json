@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/diario.html",
+    "listing": "/scritture.html",
     "items": [
       "/posts/pages/danteislam.html",
       "/posts/pages/pessimus-virus.html",
@@ -158,7 +158,7 @@
     ]
   },
   {
-    "listing": "/scritture.html",
+    "listing": "/diario.html",
     "items": [
       "/posts/pages/danteislam.html",
       "/posts/pages/pessimus-virus.html",
