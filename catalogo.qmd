@@ -53,7 +53,7 @@ Ecologia & Agricoltura
 
 Cinema & Teatro
 
-## **Scaffale sinistra (i luoghi del bello)**
+## **Scaffale sinistro (i luoghi del bello)**
 
 Arte
 
@@ -63,7 +63,7 @@ Viaggi
 
 Libri in Lingua (Inglese, francese, tedesco, spagnolo)
 
-## **Scaffale destra (storia & storie)**
+## **Scaffale destro (storia & storie)**
 
 Storia
 
@@ -139,9 +139,9 @@ Classici Greci
 
 Classici Latini
 
-## **Baule del verso**
+## **Baule della poesia**
 
-Testi poetici
+Libri, sillogi, raccolte poetiche
 
 ## **Scaffale riviste**
 
@@ -189,11 +189,15 @@ Vocabolari
 
 ## **Colonnina sinistra**
 
-Roba russa
+Letteratura russa
+
+Teatro russo
+
+Storie della guerra fredda
 
 ## **Nella vetrina (e qua e là)**
 
-Vitange assortito: vestiti, bigiotteria, quadri, cartoline, oggetti
+Vitange: vestiti, bigiotteria, quadri, cartoline, oggetti
 
 ------------------------------------------------------------------------
 
@@ -209,7 +213,7 @@ Vitange assortito: vestiti, bigiotteria, quadri, cartoline, oggetti
 
 ![](images/immagini_bookwinebar/vintage.jpeg){fig-align="center"}
 
-**Vintage assortito**
+**Vintage: abbigliamento e modernariato**
 
 ------------------------------------------------------------------------
 
