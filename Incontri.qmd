@@ -19,7 +19,7 @@ footnotes-hover: true
 
 ## **Laboratorio filosofia: La notte dell'Occidente**
 
-Il Laboratorio si ripete ogni giovedì e prende le mosse dalla lettura del "Tramonto dell'Occidente" di Oswald Spengler, elaborato durante il travaglio della Grande Guerra, per qundi esaminarne aspetti, portata e influenze.
+**Il Laboratorio si ripete ogni giovedì e prende le mosse dalla lettura del "Tramonto dell'Occidente" di Oswald Spengler, elaborato durante il travaglio della Grande Guerra, per qundi esaminarne aspetti, portata e influenze.**
 
 «*Ci si è proposti di predire il destino di una civiltà e, propriamente, dell'unica civiltà che oggi stia realizzandosi sul nostro pianeta, la civiltà euro-occidentale e americana, nei suoi stadi futuri.*» Il filosofo tedesco introduce così la sua opera, chiedendosi se esista e quale sia la logica che muove la storia.
 
@@ -33,7 +33,7 @@ Inoltre, si cercherà di comprendere se quella che è definita civiltà araba-ma
 
 ## **Ciclo di conferenze**
 
-Cura di sé, cura del mondo. Psicologia, ambiente, società: riusciamo davvero ad essere all'altezza di questo mondo tossico?
+**Cura di sé, cura del mondo. Psicologia, ambiente, società: riusciamo davvero ad essere all'altezza di questo mondo tossico?**
 
 ![](images/immagini_bookwinebar/conferenza%20dipendenze.jpg){fig-align="center"}
 
@@ -43,7 +43,7 @@ Cura di sé, cura del mondo. Psicologia, ambiente, società: riusciamo davvero a
 
 ## **Serate di gala**
 
-Musica, teatro, performance, mostre. Momenti speciali per progetti speciali.
+**Musica, teatro, performance, mostre. Momenti speciali per progetti speciali.**
 
 ![](images/immagini_bookwinebar/maschere_inverse.jpg){fig-align="center"}
 
@@ -53,7 +53,7 @@ Musica, teatro, performance, mostre. Momenti speciali per progetti speciali.
 
 ## **Feste comandate**
 
-Capodanni e altre ricorrenze
+**Capodanni e altre ricorrenze**
 
 ![](images/immagini_bookwinebar/Capodanno.jpg){fig-align="center"}
 
