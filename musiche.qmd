@@ -7,7 +7,7 @@ footnotes-hover: true
 
 ![](images/immagini_bookwinebar/_fotolocale/Musici.JPG)
 
-*Musiche si propone di promuovere quanto trova spazio negli [Incontri](https://grandtour.shop/incontri.html) del [BookWineBar](https://grandtour.shop/bookwinebar.html), e anche a viaggiare per luoghi, epoche e stili.*
+*Musiche si propone di promuovere quanto trova spazio negli [Incontri](https://grandtour.shop/incontri.html) del [BookWineBar](https://grandtour.shop/bookwinebar.html), e anche di viaggiare per luoghi, epoche e stili.*
 
 ## Claudio Comandini
 
@@ -28,5 +28,9 @@ footnotes-hover: true
 ## Improgressive 
 
 [Live (2016)](https://www.youtube.com/watch?v=zwdDUPT1D9U)
+
+## Iolanda La Carrubba
+
+[Areare l'area (2023)](https://youtu.be/XizPYvwnEZk?si=e1q2cQ9fD0zNW0au)
 
 (In costruzione - intanto un assaggio...)
