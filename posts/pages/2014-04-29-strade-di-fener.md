@@ -10,7 +10,6 @@ categories:
   - letteratura
   - religioni
   - storia
-  - Byron
   - Islam
   - Istanbul
 ---

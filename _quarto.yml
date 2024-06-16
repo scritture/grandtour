@@ -14,11 +14,13 @@ website:
       - text: BookWineBar
         href: /bookwinebar.html
       - text: Catalogo
-        href: /catalogo.html   
+        href: /catalogo.html
+      - text: Incontri
+        href: /incontri.html
+      - text: Turismo
+        href: /turismo.html
       - text: Musiche
         href: /musiche.html
-      - text: Touristic tour
-        href: /touristic_tour.html
       - text: Scritture
         href: /scritture.html
         
