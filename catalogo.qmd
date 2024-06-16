@@ -81,6 +81,22 @@ Narrazioni Contemporanee
 
 Musica & Audiovisivi
 
+Vinili 33 giri
+
+Vinili 45 giri
+
+CD audio
+
+DVD
+
+Manuali
+
+Spartiti
+
+Monografie
+
+Riviste
+
 ## **Scaffale Rosso (Letterature pop)**
 
 Gialli & Noir
@@ -161,34 +177,38 @@ Libri Antichi & Rari
 
 Vino & Cucina
 
-## **Scaffale defizioni (Sopra il bancone)**
+RIcettari
+
+Profumi
+
+## **Scaffale definizioni (sopra il bancone)**
 
 Dizionari
+
+Vocabolari
 
 ## **Colonnina sinistra**
 
 Roba russa
 
-•
-
 ## **Nella vetrina (e qua e là)**
 
 Vitange assortito: vestiti, bigiotteria, quadri, cartoline, oggetti
 
-•
+------------------------------------------------------------------------
 
 ## Piano inferiore
 
-Offerte speciali
+![](images/immagini_bookwinebar/occasioni.jpeg)**Offerte speciali**
 
-Collezioni fumetti avventura, Bonelli, Marvel, DC
+**![](images/immagini_bookwinebar/collezioni_marvel.jpeg)Collezioni Marvel & DC**
 
-Vintage assortito: vestiti, scarpo, quadri, artigianato, oggetti.
+![](images/immagini_bookwinebar/vintage.jpeg){fig-align="center"}
+
+**Vintage assortito**
 
 ------------------------------------------------------------------------
 
 **SE NON VEDETE QUALCOSA, CHIEDETE!**
 
 (pagina in via di allestimento)
-
-![](images/immagini_bookwinebar/scarpe1.jpeg){fig-align="center"}

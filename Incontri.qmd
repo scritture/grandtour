@@ -17,7 +17,7 @@ footnotes-hover: true
 
 ![](images/immagini_bookwinebar/calendario.jpg)
 
-## **Laboratorio Filosofia: La notte dell'Occidente**
+## **Laboratorio filosofia: La notte dell'Occidente**
 
 Il Laboratorio si ripete ogni giovedì e prende le mosse dalla lettura del "Tramonto dell'Occidente" di Oswald Spengler, elaborato durante il travaglio della Grande Guerra, per qundi esaminarne aspetti, portata e influenze.
 
