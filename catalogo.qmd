@@ -79,7 +79,7 @@ Narrazioni Contemporanee
 
 ## **Nicchia sound & vision**
 
-Musica & Audiovisivi
+Musica & audiovisivi
 
 Vinili 33 giri
 
@@ -99,13 +99,13 @@ Riviste
 
 ## **Scaffale rosso (letterature pop)**
 
-Gialli & Noir
+Gialli & noir
 
 Spionaggio
 
-Fantascienza, Fantasy, Horror
+Fantascienza, fantasy, horror
 
-Confidenziali & Umoristici
+Confidenziali & umoristici
 
 Fiabe
 
@@ -115,7 +115,7 @@ Fiabe
 
 ## **Scaffale blu (fumetti)**
 
-Classici & Avventura
+Classici & avventura
 
 Numeri speciali Bonelli
 
@@ -135,9 +135,9 @@ Sceneggiature
 
 ## **Nicchia destra (greco-romana)**
 
-Classici Greci
+Classici greci
 
-Classici Latini
+Classici latini
 
 ## **Baule della poesia**
 
@@ -171,13 +171,15 @@ Roma, Tuscolo & territorio
 
 ## **Scaffale sopra la vetrina (preziosità)**
 
-Libri Antichi & Rari
+Libri antichi & rari
 
 ## **Scaffale gastronomico (sotto il bancone)**
 
-Vino & Cucina
+Vino & cucina
 
 RIcettari
+
+Enotecnica
 
 Profumi
 
@@ -203,13 +205,17 @@ Vitange: vestiti, bigiotteria, quadri, cartoline, oggetti
 
 ## Piano inferiore
 
-![](images/immagini_bookwinebar/occasioni.jpeg)**Offerte speciali**
+![](images/immagini_bookwinebar/occasioni.jpeg)
+
+**Offerte speciali**
 
 ![](images/immagini_bookwinebar/collezioni_bonelli2.jpeg){fig-align="center"}
 
 **Collezioni Bonelli**
 
-**![](images/immagini_bookwinebar/collezioni_marvel.jpeg)Collezioni Marvel & DC**
+![](images/immagini_bookwinebar/collezioni_marvel.jpeg)
+
+**Collezioni Marvel & DC**
 
 ![](images/immagini_bookwinebar/vintage.jpeg){fig-align="center"}
 
