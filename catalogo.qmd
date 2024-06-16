@@ -11,7 +11,7 @@ footnotes-hover: true
 
 Crisi della sinistra in offerta!
 
-## **Scaffale alto (saggistica)**
+## **Scaffale alto (Saggistica)**
 
 Storia della filosofia
 
@@ -63,7 +63,7 @@ Viaggi
 
 Libri in Lingua (Inglese, francese, tedesco, spagnolo)
 
-## **Scaffale destra (Storia & Storie)**
+## **Scaffale destra (Storia & storie)**
 
 Storia
 
@@ -81,7 +81,7 @@ Narrazioni Contemporanee
 
 Musica & Audiovisivi
 
-## **Scaffale Rosso (Letterature Pop)**
+## **Scaffale Rosso (Letterature pop)**
 
 Gialli & Noir
 
@@ -101,13 +101,15 @@ Fiabe
 
 Classici & Avventura
 
-Collezioni Bonelli
+Numeri speciali Bonelli
 
-Collezioni Marvel
+Numeri speciali Marvel
 
-Collezioni DC
+Numeri speciali DC
 
-Collezioni Manga
+Numeri speciali Manga
+
+Produzioni indipendenti
 
 ## **Angolo del Teatro**
 
@@ -115,7 +117,7 @@ Testi teatrali
 
 Sceneggiature
 
-## **Nicchia destra (Greco-Romana)**
+## **Nicchia destra (greco-romana)**
 
 Classici Greci
 
@@ -172,6 +174,16 @@ Roba russa
 ## **Nella vetrina (e qua e là)**
 
 Vitange assortito: vestiti, bigiotteria, quadri, cartoline, oggetti
+
+•
+
+## Piano inferiore
+
+Offerte speciali
+
+Collezioni fumetti avventura, Bonelli, Marvel, DC
+
+Vintage assortito: vestiti, scarpo, quadri, artigianato, oggetti.
 
 ------------------------------------------------------------------------
 
