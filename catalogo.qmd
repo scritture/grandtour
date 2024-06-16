@@ -11,7 +11,7 @@ footnotes-hover: true
 
 Crisi della sinistra in offerta!
 
-## **Scaffale alto (Saggistica)**
+## **Scaffale alto (saggistica)**
 
 Storia della filosofia
 
@@ -53,7 +53,7 @@ Ecologia & Agricoltura
 
 Cinema & Teatro
 
-## **Scaffale sinistra (I luoghi del bello)**
+## **Scaffale sinistra (i luoghi del bello)**
 
 Arte
 
@@ -63,7 +63,7 @@ Viaggi
 
 Libri in Lingua (Inglese, francese, tedesco, spagnolo)
 
-## **Scaffale destra (Storia & storie)**
+## **Scaffale destra (storia & storie)**
 
 Storia
 
@@ -77,7 +77,7 @@ Narrazioni Contemporanee
 
 ![](images/immagini_bookwinebar/angolosx.jpeg){fig-align="center"}
 
-## **Nicchia Sound & Vision**
+## **Nicchia sound & vision**
 
 Musica & Audiovisivi
 
@@ -97,7 +97,7 @@ Monografie
 
 Riviste
 
-## **Scaffale Rosso (Letterature pop)**
+## **Scaffale rosso (letterature pop)**
 
 Gialli & Noir
 
@@ -113,7 +113,7 @@ Fiabe
 
 ![](images/immagini_bookwinebar/angolodxbig.jpeg){fig-align="center"}
 
-## **Scaffale Blu (Fumetti)**
+## **Scaffale blu (fumetti)**
 
 Classici & Avventura
 
@@ -127,7 +127,7 @@ Numeri speciali Manga
 
 Produzioni indipendenti
 
-## **Angolo del Teatro**
+## **Angolo del teatro**
 
 Testi teatrali
 
@@ -143,7 +143,7 @@ Classici Latini
 
 Testi poetici
 
-## **Scaffale Riviste**
+## **Scaffale riviste**
 
 Luoghi
 
@@ -200,6 +200,10 @@ Vitange assortito: vestiti, bigiotteria, quadri, cartoline, oggetti
 ## Piano inferiore
 
 ![](images/immagini_bookwinebar/occasioni.jpeg)**Offerte speciali**
+
+![](images/immagini_bookwinebar/collezioni_bonelli2.jpeg){fig-align="center"}
+
+**Collezioni Bonelli**
 
 **![](images/immagini_bookwinebar/collezioni_marvel.jpeg)Collezioni Marvel & DC**
 
