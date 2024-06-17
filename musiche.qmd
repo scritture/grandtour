@@ -43,4 +43,4 @@ footnotes-hover: true
 
 •
 
-(In costruzione - intanto qualche assaggio...)
+*(In costruzione - intanto qualche assaggio...)*
