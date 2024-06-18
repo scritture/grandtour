@@ -6,22 +6,18 @@ image:  /images/2017/12/Angel-o.jpg
 categories:
   - letteratura
   - poesia
-  - Rivista
-tags:
   - Andrea Pazienza
   - Davide Rondoni
   - Enrico Fraccacreta
   - poesia
-  - Premio Frascati
-  - Scritture
   - Serena Grizi
 ---
 
 *Enrico Fraccacreta è nato nel 1955 a san Severo (Foggia) da padre pugliese e madre emiliana. Compie i suoi studi universitari a Firenze e Bologna, dove partecipa al movimento del Settantasette. Laureato in Agraria, è appassionato di botanica. La natura, per quanto oppressa dall'uomo, lascia nella sua poesia testimonianze ricche di magie notturne e diurne; tra luci diafane, danze di foglie, canti d'uccelli, balbettii di bacche, la poetica di Fraccacreta matura confrontandosi con la lezione del tempo e i mutamenti del paesaggio.*
 
-*Tra le sue pubblicazioni, i libri di poesia* I nostri pomeriggi *(1995 - Premio Montale 1995),* Tempo medio *(1996),* Camera di guardia *(2006),* Mademoiselle *(2012), nonché la biografia narrativa* Il giovane Pazienza *(2001), che ricorda l'amicizia con il celebre fumettista. Rispetto a* Tempo ordinario *(2015), Davide Rondoni nella postfazione ha scritto: «*Questo libro è un taccuino di viaggio e di caccia. Mentre il tempo, i treni, le ideologie, le stagioni passano, il poeta cercatore si muove tra visioni e gemme di alberi, tra abissi e indizi. \[...\] La sua opera, il suo fervido e sapiente poiein, dona un mondo - e una precisa geografia che diventano emblema e occasione di riconoscimento per tutti.»
+*Tra le sue pubblicazioni, i libri di poesia "I nostri pomeriggi"" (1995 - Premio Montale 1995), "Tempo medio"" (1996), "Camera di guardia"" (2006), "Mademoiselle"" (2012), nonché la biografia narrativa "Il giovane Pazienza"" (2001), che ricorda l'amicizia con il celebre fumettista. Rispetto a "Tempo ordinario"" (2015), Davide Rondoni nella postfazione ha scritto: «Questo libro è un taccuino di viaggio e di caccia. Mentre il tempo, i treni, le ideologie, le stagioni passano, il poeta cercatore si muove tra visioni e gemme di alberi, tra abissi e indizi. [...] La sua opera, il suo fervido e sapiente poiein, dona un mondo - e una precisa geografia che diventano emblema e occasione di riconoscimento per tutti.»*
 
-*Al [Premio Frascati](http://www.scritture.net/mag/il-premio-frascati-poesia-provincia/) 2017, vinto da Rondoni con* La natura del bastardo *(2016), Fraccacreta è arrivato terzo. I titoli sono concreti ed esistenziali, fatti di parole che sembra quasi di poter toccare: oltre questa prima traccia, si può procedere al di là di analisi critica e dati biografici, attraverso un ammirato camminare tra i versi.*
+*Al [Premio Frascati](https://grandtour.shop/posts/pages/2014-12-24-il-premio-frascati-poesia-provincia.html) 2017, vinto da Rondoni con "La natura del bastardo (2016),* *Fraccacreta è arrivato terzo. I titoli sono concreti ed esistenziali, fatti di parole che sembra quasi di poter toccare: oltre questa prima traccia, si può procedere al di là di analisi critica e dati biografici, attraverso un ammirato camminare tra i versi.*
 
 •
 

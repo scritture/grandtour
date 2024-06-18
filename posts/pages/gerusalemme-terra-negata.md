@@ -8,15 +8,11 @@ categories:
   - geopolitica 
   - letteratura 
   - religioni 
-tags: 
-  - Claudio Comandini 
   - Cristianesimo 
   - Derrida 
   - Gerusalemme 
   - Islam 
-  - Israele 
-  - Rashid Husain
-  - S. Yzhar 
+  - Ebraismo
   - Turchia 
   - USA
 author: Claudio Comandini
