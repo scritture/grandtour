@@ -11,7 +11,6 @@ categories:
   - politica
   - società
   - Cesare Battisti
-  - Claudio Comandini
   - Hans-Dieter Bahr
   - Italia
   - Lello Voce

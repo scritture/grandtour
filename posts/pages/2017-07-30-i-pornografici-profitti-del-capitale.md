@@ -7,30 +7,25 @@ categories:
   - antropologia
   - economia
   - politica
-  - Rivista
   - società
-tags:
   - Internet
   - Mark Hay
-  - neoliberismo
-  - pornografia
-  - Scritture
   - sessualità
 ---
 
-*Di [sesso oramai si parla](http://www.scritture.net/mag/le-parole-del-sesso-taciuto/) davvero tanto: è questo segno di una maggiore liberazione, oppure vuol dire che la sua effettiva esperienza si è in qualche modo allontanata? La prostituzione è accettata e convalidata e sembra addirittura  porsi come elemento di emancipazione sociale: ma siamo davvero più aperti e spregiudicati, oppure siamo soltanto maggiormente inibiti nel concepire gratuità e dono rispetto a quanto è intimo ed essenziale? Il digitale ha permesso alla pornografia varietà e disponibilità senza precedenti, questa impone i propri standard su qualsiasi produzione, le sue star si arrischiano a stabilire criteri etici e ontologici validi per tutti: ma siamo davvero emancipati, oppure semplicemente l'intercambialità delle merci e il profitto a tutti i costi si sono ormai imposti su ogni pratica? Vedere donne strisciare in pannolini, transessuali accoppiarsi con futanari, finti incesti e orge interrazziali e qualsiasi altra mania e qualsiasi altro fantasma, è davvero così eccitante oppure rischia di mortificare il nostro autentico erotismo? Chattare e accoppiarsi con chiunque sia disposto a fare da schermo alla nostra fantasia appartiene realmente all'ambito dell'incontro sessuale, oppure si limita a socializzare la masturbazione costringendoci alla regressione psichica? Stabilisce un campo nel quale poter articolare tali questioni Mark Hay, che si occupa di politica, sessualità, identità e delle loro intersezioni.*
+*Di [sesso oramai si parla](http://www.scritture.net/mag/le-parole-del-sesso-taciuto/) davvero tanto: è questo segno di una maggiore liberazione, oppure vuol dire che la sua effettiva esperienza si è in qualche modo allontanata? La prostituzione è accettata e convalidata e sembra addirittura  porsi come elemento di emancipazione sociale: ma siamo davvero più aperti e spregiudicati, oppure siamo soltanto maggiormente inibiti nel concepire gratuità e dono rispetto a quanto è intimo ed essenziale? Il digitale ha permesso alla pornografia varietà e disponibilità senza precedenti, questa impone i propri standard su qualsiasi produzione, le sue star si arrischiano a stabilire criteri etici e ontologici validi per tutti: ma siamo davvero emancipati, oppure semplicemente l'intercambialità delle merci e il profitto a tutti i costi si sono ormai imposti su ogni pratica? Vedere donne strisciare in pannolini, transessuali accoppiarsi con futanari, finti incesti e orge interrazziali e qualsiasi altra mania e qualsiasi altro fantasma, è davvero così eccitante oppure rischia di mortificare il nostro autentico erotismo? Chattare e accoppiarsi con chiunque sia disposto a fare da schermo alla nostra fantasia appartiene realmente all'ambito dell'incontro sessuale, oppure si limita a socializzare la masturbazione costringendoci alla regressione psichica? Stabilisce un campo nel quale poter articolare tali questioni Mark Hay, che si occupa di politica, sessualità, identità e delle loro intersezioni.*
 
-**1. Il mercato del desiderio**
+## 1. Il mercato del desiderio
 
 Il genere umano non ha ancora capito quale sarà l'effetto del porno online sulla sessualità collettiva. Alcune persone lo vedono come una forza liberatoria, che mette a disposizione nuovi livelli di piacere, soddisfazione e conoscenza di noi stessi. Altri pensano che sia corrosivo, una porta aperta verso trasgressioni innominabili e illegali. La maggior parte delle persone si limita a tapparsi le orecchie per evitare questo dibattito così spinoso e confuso.
 
 Eppure Internet è sull'orlo di un'altra rivoluzione, l'accelerazione definitiva che potrebbe trasformare la sessualità umana. Se prima l'industria del porno lanciava qui e là a caso delle esche in rete sperando di catturare i feticisti, ora le fantasie più morbose arrivano direttamente a noi. A seconda di quello che abbiamo cercato su piattaforme come Pornhub o xHamster, si aprono finestre pubblicitarie che hanno l'aspetto dei nostri fantasmi: dalla ragazza in topless che indossa solo un pannolone ai video di finto incesto.
 
-Il fatto che il porno non venga più cercato ma ci arrivi direttamente - anche se nelle forme più varie  particolari - potrebbe dare l'illusione che le persone siano pronte ad abbracciare un orizzonte sempre più vasto di corpi e perversioni. Ma non dobbiamo dimenticare che questa rivoluzione è il frutto di un profondo stravolgimento economico dell'industria del porno. Vuol dire che i contenuti sempre più mirati che ci arriveranno non saranno necessariamente i più liberatori o i più desiderabili, ma saranno semplicemente i contenuti che fanno guadagnare di più.
+Il fatto che il porno non venga più cercato ma ci arrivi direttamente - anche se nelle forme più varie particolari - potrebbe dare l'illusione che le persone siano pronte ad abbracciare un orizzonte sempre più vasto di corpi e perversioni. Ma non dobbiamo dimenticare che questa rivoluzione è il frutto di un profondo stravolgimento economico dell'industria del porno. Vuol dire che i contenuti sempre più mirati che ci arriveranno non saranno necessariamente i più liberatori o i più desiderabili, ma saranno semplicemente i contenuti che fanno guadagnare di più.
 
 Non c'è ancora niente di sicuro, ma ci sono buone probabilità che l'intersezione tra grandi quantità di dati, grandi aziende e perenne connessione a Internet permetterà al mercato di influenzare il nostro sviluppo sessuale, sostituendosi a modalità di esplorazione delle nostre fantasie sessuali che prima erano più private, idiosincratiche e forse liberatorie. Alla fine, sarà il capitalismo a diventare l'arbitro del nostro desiderio.
 
-**2. Tutti i dati del consumo sessuale**
+## 2. Tutti i dati del consumo sessuale
 
 Il porno è una miniera d'oro di dati: siti come Pornhub, XVideos e xHamster hanno miliardi di pagine viste al mese da milioni di persone che lasciano piccole ma preziose tracce di sé. Gli studi che producono film porno realizzano diecimila titoli all'anno per accontentare orde di persone arrapate, superando di gran lunga l'offerta di Hollywood (circa 550 titoli all'anno). Secondo alcune stime, i video porno rappresentano il 4 per cento di tutti i contenuti di Internet, il 14 per cento di tutte le ricerche e il 30 per cento del traffico di dati online.
 
@@ -40,7 +35,7 @@ Uno dei dati più semplici da ottenere è la localizzazione dell'utente. Siti co
 
 Il problema è che il singolo utente può trovarsi costretto, a causa degli algoritmi legati al suo sesso, alla sua età e alla sua provenienza, a inseguire un gusto di massa che potrebbe non essere il suo. Pornhub, per esempi, sta cercando di attirare più donne. Lo fa proponendo video con una trama. Questo significa, per qualche ragione, una maggiore promozione del genere *fauxcest* (video con attori professionisti che simulano scene incestuose). Il risultato è che uno spettatore si ritrova a guardare contenuti basati su giochi erotici di ruolo a sfondo incestuoso anche se non era quello che cercava.
 
-**3. Le metamorfosi del porno**
+## 3. Le metamorfosi del porno
 
 Il problema di fondo è che la disponibilità così capillare di porno online ha divorato dall'interno l'industria tradizionale, il cui giro d'affari è crollato del 50 per cento tra il 2007 e il 2011. Gli studi che producono film porno non hanno lo stesso accesso ai dati degli utenti che hanno le piattaforme online, quindi si basano su un modello di business arretrato: provano proporre qualcosa di nuovo e vedono come va.
 

@@ -6,17 +6,14 @@ image: /images/2017/11/olio_di_ricino.jpg
 title: I giornalisti americani e il giornalismo fascista
 categories:
   - politica
-  - Rivista
   - società
   - storia
-tags:
   - Curzio Malaparte
   - fascismo
   - giornalismo
   - Mauro Canali
   - Mussolini
   - Roma
-  - Scritture
   - USA
 excerpt:
 metaDescription: Diario
@@ -162,6 +159,6 @@ Decisiva ai fini dell'onnipotenza e dell'onnipotenza della censura fu, con la co
 
 Tratto da Mauro Canali, *La scoperta dell'Italia. Il fascismo raccontato dai corrispondenti americani*, Marsilio, Venezia 2017 (pp. 496), pp. 163-175 (adattamento di Claudio Comandini).
 
-![La-scoperta-dellItalia](/images/2017/11/La-scoperta-dellItalia.jpg)
+![](/images/2017/11/La-scoperta-dellItalia.jpg)
 
 ISBN: 978-88-317-2756-3 - € 20,00

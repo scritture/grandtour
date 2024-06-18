@@ -6,27 +6,16 @@ image: /images/2017/10/ago.jpg
 title: Contro i vaccini. I perché di un'opinione
 categories:
   - politica
-  - Rivista
   - scienza
   - società
-tags:
   - Accademia Nazionale dei Lincei
-  - Alberto Mantovani
-  - Giovanni Rezza
-  - Guido Forni
-  - Lorenzo Moretta
-  - Marianna Gianna Ferrenti
-  - medicina
   - politica
-  - Scritture
   - vaccini
-excerpt:
-metaDescription: Diario
 ---
 
-*Per potersi iscrivere ai nidi e alle materne pubbliche e private [10 vaccini](http://www.pianetamamma.it/il-bambino/malattie/vaccini-obbligatori-novita.html) sono ora obbligatori ai sensi della [Legge n. 119 del 31.07.2017](http://www.gazzettaufficiale.it/eli/id/2017/08/5/17G00132/sg), che aggiorna e smussa le disposizioni previste dal [DDL n. 73/7.06.2017](http://www.gazzettaufficiale.it/eli/id/2017/08/05/17A05515/sg). L’obbligo copre fino ai 16 anni d'età, senza alcun ostacolo alla frequenza di scuole elementari, medie e superiori. L’autocertificazione permette di iscrivere il bambino non ancora vaccinato, con un termine per mettersi in regola e mantenendo divieto e sanzioni per chi non rispetta le disposizioni. Le Asl dovranno impegnarsi e attivarsi nella ricerca di chi non è ancora in regola con il piano vaccinale. Le vaccinazioni già obbligatorie erano: [anti-difterica](https://it.wikipedia.org/wiki/Vaccino_antidifterico), [anti-tetanica](https://it.wikipedia.org/wiki/Vaccino_antitetanico), [anti-poliomelitica](https://it.wikipedia.org/wiki/Vaccino_antipoliomielite), [anti-epatite virale B](https://it.wikipedia.org/wiki/Epatite_B). A queste si sono aggiunte: [anti-rosolia](http://www.studiomedicodestefanis.it/Vaccini/Vaccini30.htm), [anti-morbillo](https://it.wikipedia.org/wiki/Vaccino_del_morbillo), [anti-pertosse](https://it.wikipedia.org/wiki/Vaccino_della_pertosse), [anti-parotite](https://it.wikipedia.org/wiki/Vaccino_della_parotite), [anti-varicella](https://it.wikipedia.org/wiki/Vaccino_della_parotite), [anti-haemophilus influenzae](http://redazione.scritture.net/wp-admin/anti-aemophilus%20influenzae). Sono soltanto consigliati, ad offerta attiva e gratuita ma senza obbligo, da parte di Regioni e Province autonome: [anti-meningococco B](http://www.farmacoecura.it/prevenzione/vaccino-per-la-meningite-costo-effetti-copertura/), [anti-meningococco C](http://blog.unisalute.it/vaccino-meningite-cosa-sapere/) (fortemente consigliate); [anti-rotavirus](http://www.humanitas.it/enciclopedia/vaccini/vaccino-anti-rotavirus), [anti-pneumococco](http://www.my-personaltrainer.it/benessere/vaccinazione-pneumococco.html) (consigliate). Non tutti i vaccini vanno fatti singolarmente perché alcuni vengono raggruppati nella stessa seduta. ll dirigente scolastico è tenuto a segnalare entro 10 giorni alla Asl, per non incorrere in omissione di atti d'ufficio, i casi di minori non vaccinati; i genitori che non hanno presentato la documentazione verranno convocati presso l’ufficio di igiene per effettuare la prevenzione entro un termine prefissato. Le [polemiche](http://www.secoloditalia.it/2017/05/vaccini-obbligatori-a-scuola-il-decreto-scatena-le-polemiche-lo-impugneremo/) hanno così riguardato tanto la legittimità legale nonché costituzionale della disposizione, quanto la sua insufficienza ai fini pratici; alcuni hanno poi denunciato un [legame](http://www.altrainformazione.it/wp/vaccini-killer/il-lato-oscuro-delle-vaccinazioni-obbligatorie/) tra vaccini e autismo, a sua volta [smentito](https://www.ilmattino.it/primopiano/sanita/vaccini_autismo_roberto_burioni_studio_nature-2296623.html) da ricerche pubblicate su* «Nature»*. Come è ormai consueto, da una parte e dall’altra, si fornisce e si cerca nell’informazione la conferma ai propri pregiudizi senza indagare fino a che punto ha ruolo la tutela della salute e fino dove arriva l’interesse della case farmaceutiche. Contro un giornalismo di pancia incapace di vagliare i motivi stessi di cui dibatte, su «*Informazione senza Filtro» *[Marianna Gianna Ferrenti](http://www.informazionesenzafiltro.it/author/mariannagianna-ferretti/) ha fornito in un [dettagliato articolo](http://www.informazionesenzafiltro.it/vaccinazione-a-scuola-diciamole-tutte/) un ventaglio di opinioni capace di permettere al lettore di farsi una propria idea al riguardo. Per comprendere meglio con quali modalità può essere scritta e descritta la nostra società e il suo rapporto con la salute, assume particolare rilevanza un [rapporto dell'Accademia Nazionale dei Lincei](http://www.lincei.it/files/documenti/I_vaccini_def12maggio2017.pdf), dei quali presentiamo un breve estratto sui movimenti di opinione contro i vaccini, a cura di Guido Forni, Alberto Mantovani, Lorenzo Moretta, Giovanni Rezza.*
+*Per potersi iscrivere ai nidi e alle materne pubbliche e private [10 vaccini](http://www.pianetamamma.it/il-bambino/malattie/vaccini-obbligatori-novita.html) sono ora obbligatori ai sensi della [Legge n. 119 del 31.07.2017](http://www.gazzettaufficiale.it/eli/id/2017/08/5/17G00132/sg), che aggiorna e smussa le disposizioni previste dal [DDL n. 73/7.06.2017](http://www.gazzettaufficiale.it/eli/id/2017/08/05/17A05515/sg). L’obbligo copre fino ai 16 anni d'età, senza alcun ostacolo alla frequenza di scuole elementari, medie e superiori. L’autocertificazione permette di iscrivere il bambino non ancora vaccinato, con un termine per mettersi in regola e mantenendo divieto e sanzioni per chi non rispetta le disposizioni. Le Asl dovranno impegnarsi e attivarsi nella ricerca di chi non è ancora in regola con il piano vaccinale. Le vaccinazioni già obbligatorie erano: [anti-difterica](https://it.wikipedia.org/wiki/Vaccino_antidifterico), [anti-tetanica](https://it.wikipedia.org/wiki/Vaccino_antitetanico), [anti-poliomelitica](https://it.wikipedia.org/wiki/Vaccino_antipoliomielite), [anti-epatite virale B](https://it.wikipedia.org/wiki/Epatite_B). A queste si sono aggiunte: [anti-rosolia](http://www.studiomedicodestefanis.it/Vaccini/Vaccini30.htm), [anti-morbillo](https://it.wikipedia.org/wiki/Vaccino_del_morbillo), [anti-pertosse](https://it.wikipedia.org/wiki/Vaccino_della_pertosse), [anti-parotite](https://it.wikipedia.org/wiki/Vaccino_della_parotite), [anti-varicella](https://it.wikipedia.org/wiki/Vaccino_della_parotite), [anti-haemophilus influenzae](http://redazione.scritture.net/wp-admin/anti-aemophilus%20influenzae). Sono soltanto consigliati, ad offerta attiva e gratuita ma senza obbligo, da parte di Regioni e Province autonome: [anti-meningococco B](http://www.farmacoecura.it/prevenzione/vaccino-per-la-meningite-costo-effetti-copertura/), [anti-meningococco C](http://blog.unisalute.it/vaccino-meningite-cosa-sapere/) (fortemente consigliate); [anti-rotavirus](http://www.humanitas.it/enciclopedia/vaccini/vaccino-anti-rotavirus), [anti-pneumococco](http://www.my-personaltrainer.it/benessere/vaccinazione-pneumococco.html) (consigliate). Non tutti i vaccini vanno fatti singolarmente perché alcuni vengono raggruppati nella stessa seduta. ll dirigente scolastico è tenuto a segnalare entro 10 giorni alla Asl, per non incorrere in omissione di atti d'ufficio, i casi di minori non vaccinati; i genitori che non hanno presentato la documentazione verranno convocati presso l’ufficio di igiene per effettuare la prevenzione entro un termine prefissato. Le [polemiche](http://www.secoloditalia.it/2017/05/vaccini-obbligatori-a-scuola-il-decreto-scatena-le-polemiche-lo-impugneremo/) hanno così riguardato tanto la legittimità legale nonché costituzionale della disposizione, quanto la sua insufficienza ai fini pratici; alcuni hanno poi denunciato un [legame](http://www.altrainformazione.it/wp/vaccini-killer/il-lato-oscuro-delle-vaccinazioni-obbligatorie/) tra vaccini e autismo, a sua volta [smentito](https://www.ilmattino.it/primopiano/sanita/vaccini_autismo_roberto_burioni_studio_nature-2296623.html) da ricerche pubblicate su* «Nature»*. Come è ormai consueto, da una parte e dall’altra, si fornisce e si cerca nell’informazione la conferma ai propri pregiudizi senza indagare fino a che punto ha ruolo la tutela della salute e fino dove arriva l’interesse della case farmaceutiche. Contro un giornalismo di pancia incapace di vagliare i motivi stessi di cui dibatte, su «*Informazione senza Filtro» [*Marianna Gianna Ferrenti*](http://www.informazionesenzafiltro.it/author/mariannagianna-ferretti/) *ha fornito in un [dettagliato articolo](http://www.informazionesenzafiltro.it/vaccinazione-a-scuola-diciamole-tutte/) un ventaglio di opinioni capace di permettere al lettore di farsi una propria idea al riguardo. Per comprendere meglio con quali modalità può essere scritta e descritta la nostra società e il suo rapporto con la salute, assume particolare rilevanza un [rapporto dell'Accademia Nazionale dei Lincei](http://www.lincei.it/files/documenti/I_vaccini_def12maggio2017.pdf), dei quali presentiamo un breve estratto sui movimenti di opinione contro i vaccini, a cura di Guido Forni, Alberto Mantovani, Lorenzo Moretta, Giovanni Rezza.*
 
-**1. Radici storiche**
+## 1. Radici storiche
 
 Già nel settecento la diffusione in Europa della pratica della variolizzazione aveva suscitato numerose reazioni contrarie di alto impatto emotivo. In una domenica del 1722 il Reverendo Edmund Massey pronunciò nella chiesa di Saint Andrew’s Holborn a Londra il *Sermon against the dangerous and sinful practice of inoculation*, sermone che stampato e diffuso in Inghilterra e Nord America accese infuocate reazioni contrarie alla vaccinazione (Massey, 2010).
 
@@ -60,7 +49,7 @@ Perché, dunque, questa persistente e diffusa opposizione? L’opposizione ai va
 
 È da notare, però, che gli stessi argomenti contro la variolizzazione e contro la vaccinazione anti-vaiolosa che erano stati alla base dell’infuocato dibattito settecentesco continuano a serpeggiare tra i motivi dell’attuale opposizione ai vaccini, pur assumendo accenti e intensità differenti. Le ragioni principali che stanno portando alla  riduzione della copertura vaccinale nelle popolazioni del mondo occidentale possono essere aggregate in alcuni insiemi.
 
-**2. L’alterata percezione del rapporto rischio/beneficio**
+## 2. L’alterata percezione del rapporto rischio/beneficio
 
 Nelle nazioni industrializzate si è progressivamente dimenticato cosa significhi veder morire di tetano neonatale un bambino perché il parto avviene in condizioni non igieniche, per esempio quando vengono usati strumenti non sterilizzati per tagliare il cordone ombelicale. Solo i medici di una certa età ricordano le morti per croup difterico, cioè le lesioni causate dal bacillo della difterite alla laringe, che rendono difficoltosa la respirazione fino a impedirla.
 
@@ -70,7 +59,7 @@ La drastica riduzione delle malattie infettive nelle nazioni occidentali, in gra
 
 Comuni distorsioni nella percezione del rischio portano a dare maggior importanza agli eventi pericolosi osservati direttamente o raccontati (ad esempio racconto di un bambino che sta male dopo una vaccinazione) rispetto ai dati tecnici (per esempio la lettura dei dati sull’incidenza dei rischi associati alle vaccinazioni). Si dà anche maggior importanza ai rischi creati dagli esseri umani (ad esempio danno causato dai vaccini) rispetto a quelli causati da eventi naturali (diffusione di una malattia infettiva e la sua pericolosità) (Khan, 2013; Grignolio 2016).
 
-**3. La convinzione dell'inefficacia dei vaccini e i timori sulla loro pericolosità**
+## 3. La convinzione dell'inefficacia dei vaccini e i timori sulla loro pericolosità
 
 Nei movimenti di opposizione ai vaccini è diffusa la convinzione che i vaccini siano inefficaci: le malattie infettive sono scomparse non per la diffusione dei vaccini, ma per miglioramento della nutrizione, delle condizioni di vita, dell'igiene, ecc.
 
@@ -94,7 +83,7 @@ Negli ultimi cento e cinquant’anni si sono susseguite continue ondate di paure
 
 Di volta in volta i governi e le autorità sanitarie delle varie nazioni hanno risposto con l’istituzione di commissioni d’indagine che, con maggiore o minore rapidità ed efficacia comunicativa, hanno fornito risposte riassicuranti, mettendo in evidenza l’inconsistenza del nesso causale tra vaccinazione ed evento avverso. Per autorevoli che siano queste valutazioni e per evidenti che siano i dati forniti dalle commissioni di controllo, sembra pressoché impossibile rimuovere il sospetto che queste smentite ufficiali siano il frutto di manipolazioni interessate e di complotti globali (Grignolio, 2016; Burioni, 2017a).
 
-**4. La lotta contro gli interessi canaglia delle multinazionali del farmaco**
+## 4. La lotta contro gli interessi canaglia delle multinazionali del farmaco
 
 Numerose ipotesi, teorizzazioni e congetture attribuiscono la causa prima degli eventi umani a complotti. Tali teorie vengono spesso elaborate in occasioni di eventi che suscitano forte impressione nell'opinione pubblica anche per effetto della loro ampia diffusione da parte dei mass media (Teorie del complotto, 2017). Il sospetto che le pratiche della vaccinazione e della vaccinazione di massa siano il risultato di complotti internazionali corre frequentemente in rete e serpeggia nelle istanze di alcuni movimenti politici (Mieli, 2016; Battista, 2016).
 
@@ -106,7 +95,7 @@ Le politiche applicate al costo dei vaccini e l’oligopolio dei produttori non 
 
 Inoltre, come ben illustrato nell’Allegato 1 del PPN 2017-2019 il costo che hanno per il Servizio  Sanitario Nazionale i farmaci e i trattamenti necessari per la terapia delle malattie, anche di quelle ritenute più leggere, possono essere assai superiori al costo del vaccino per la prevenzione di quella malattia (Piano Prevenzione Vaccinale 2017-2019). Ai costi dei farmaci per la cura delle malattie insorte per mancata vaccinazione si dovrebbe aggiungere il costo globale della malattia, con le sue implicazioni socio-economiche e di sofferenza personale.
 
-**5. Il rispetto della natura**
+## 5. Il rispetto della natura
 
 Già nelle reazioni settecentesche la variolizzazione e la vaccinazione antivaiolosa apparivano come intollerabili interferenze tecnologiche con il volere di Dio e l’ordine della natura. Anche oggi una concezione della natura vista come un ordine buono non può che considerare i vaccini come un’inaccettabile interferenza (Grignolio, 2016).
 
@@ -114,7 +103,7 @@ Se una malattia infettiva non è più vista come un’occasione di pentimento e 
 
 Comunque le malattie infettive si possono evitare semplicemente vivendo in modo più naturale, con una migliore alimentazione e adottando migliori stili di vita. Queste teorie sono anche comuni a quanti seguono le terapie alternative. In effetti, il 50% dei genitori che rifiutano le vaccinazioni segue le teorie omeopatiche.
 
-**6. La difesa della libertà individuale contro l’atteggiamento paternalistico e dispotico delle istituzioni**
+## 6. La difesa della libertà individuale contro l’atteggiamento paternalistico e dispotico delle istituzioni
 
 La contrapposizione tra la libertà individuale e tutela del bene comune, rappresentato in modo emblematico dall’Antigone di Sofocle nel 442 a.C., è uno dei punti nodali della cultura occidentale. Se il contratto sociale non è condiviso, fino a che punto si deve (o si può) tollerare la libertà di rigettarlo?
 
@@ -130,7 +119,7 @@ La tradizione utilitaristica suggerisce che la libertà individuale di rifiutare
 
 Nella polemica contro i vaccini questi differenti motivi di reazione vengono comunemente interconnessi con argomentazioni che sfumano da uno all’altro. Come tipico dei movimenti che si contrappongono contro il potere, la sindrome delle minoranze porta ad argomentare e diffondere le ragioni della paura e dell’obiezione con un entusiasmo militante che contrasta con la pacata e documentata risposta delle istituzioni e degli esperti (per esempio vedi Vaccine Safety Net, 2017). Un’interessante eccezione è il diretto libro di R. Burioni sull’importanza dei vaccini (Burioni, 2017a).
 
-**7. La lotta contro i vaccini al tempo di Internet**
+## 7. La lotta contro i vaccini al tempo di Internet
 
 I gruppi contrari alla vaccinazione, che erano relegati in nicchie a causa della difficoltà di contatti col grande pubblico e della difficoltà di diffondere le loro pubblicazioni, con la rete (world-wide web, blog, network, ecc.) hanno trovato un modo molto efficace per diffondere le loro idee. In rete la discussione sui vaccini è particolarmente frequente negli Stati Uniti, Inghilterra, Canada e Australia, mentre lo è meno nei Paesi europei.
 
@@ -138,7 +127,7 @@ Però, mentre nel primo gruppo di Paesi i messaggi (“post”) ed i siti sono p
 
 Su Facebook il gruppo nazionale Coordinamento del Movimento Italiano per la Libertà di Vaccinazione (COMILVA, 2017), uno dei più attivi gruppi anti-vaccino, ha oltre 18.000 membri e riceve in media più di cento “post” al giorno, contenenti informazioni, notizie, commenti, annunci di eventi, testimonianze e petizioni contro i vaccini (Bellone, 2014).
 
-**8. Tradizione, politica e religione contro i vaccini**
+## 8. Tradizione, politica e religione contro i vaccini
 
 Mentre nelle nazioni occidentali i movimenti d’opinione contro la vaccinazione sono in genere numerosi, in quelle a regime comunista la concezione sociale dello stato ne ha sopito la diffusione. In Africa, invece, i temi dei movimenti che si oppongono alla vaccinazione presentano forti analogie con quelli delle reazioni settecentesche contro la variolizzazione e la vaccinazione anti-vaiolosa, ma fortemente coniugati in senso anti-occidentale.
 
@@ -156,47 +145,45 @@ D’altro canto, l’esperienza attuale e la storia delle settecentesche epidemi
 
 Come spesso accade quando si tratta di decisioni importanti che riguardano le nuove realtà della scienza e della tecnologia, le società democratiche appaiono in difficoltà nel far comprendere quale sia la decisione che meglio contribuisce al benessere sociale (Kahan, 2013). Se da una parte il rifiuto dei vaccini deve essere accettato come una realtà sociale abbastanza diffusa, dall’altra i dati epidemiologici mettono costantemente in evidenza il drammatico costo in sofferenza, malattie e morti generato da questi movimenti: *«Scientists, medics and commentators who have fought vaccine disinformation in the past must take a deep breath and return to the fray»* (Nature editorial, 2017).
 
-•
+## Referenze
 
-**Referenze**
-
-Battista P., 2016, *Dalla Bilderberg ai vaccini, complottismo figlio dei tempi*, «Corriere delle Sera», 30 ottobre.
+Battista P., 2016, *Dalla Bilderberg ai vaccini, complottismo figlio dei tempi*, «Corriere delle Sera», 30 ottobre.
 
 Bello-Orgaz G. - Hernandez-Castro J., 2017, Camacho H., *Detecting discussion communities on vaccination in Twitter*, Future Generation Comp Syst 66:125.
 
-Blake J.B., 1959, *Public health in the town of Boston*, 1630 - 1822, Harvard University Press, Cambridge.
+Blake J.B., 1959, *Public health in the town of Boston*, 1630 - 1822, Harvard University Press, Cambridge.
 
-Burioni R., 2017a, *Il vaccino non è un’opinione*, Mondadori.
+Burioni R., 2017a, *Il vaccino non è un’opinione*, Mondadori.
 
-Burioni R.,2017b, [*La congiura dei somari - Pagina Facebook*](https://it%20-%20it.facebook.com/robertoburioniMD/).
+Burioni R.,2017b, [*La congiura dei somari - Pagina Facebook*](https://it%20-%20it.facebook.com/robertoburioniMD/).
 
 Christakis N.A., 2009, Fowler J.H., *Connected, Black Bay Books*, New York.
 
 [Comilva](http://www.comilva.org/), 2017.
 
-Giovanetti F. - Gangemi M., 2016, *La comunicazione efficace e le problematiche medico-legali nelle vaccinazioni*, [Quaderni acp](http://www.quaderniacp.it/).
+Giovanetti F. - Gangemi M., 2016, *La comunicazione efficace e le problematiche medico-legali nelle vaccinazioni*, [Quaderni acp](http://www.quaderniacp.it/).
 
-Grignolio A., 2016, *Chi ha paura dei vaccini?*, Codice edizioni.
+Grignolio A., 2016, *Chi ha paura dei vaccini?*, Codice edizioni.
 
-Kahan D.M., 2013, *A Risky Science Communication Environment for Vaccines*, Science 342:54.
+Kahan D.M., 2013, *A Risky Science Communication Environment for Vaccines*, Science 342:54.
 
-Mantovani A., 2016, *Immunità e vaccini*, Mondadori, Milano.
+Mantovani A., 2016, *Immunità e vaccini*, Mondadori, Milano.
 
-Massey E., 2010, *A sermon against the dangerous and sinful practice of inoculation*. Preach'd at St. Andrew's Holborn, on Sunday, July the 8th, 1722. ECCO.
+Massey E., 2010, *A sermon against the dangerous and sinful practice of inoculation*. Preach'd at St. Andrew's Holborn, on Sunday, July the 8th, 1722. ECCO.
 
 Mello M.M. - Studdert D.M. - Parmet W.E., 2015, *Shifting vaccination politics. The end of personal-belief exemptions in California*, New Engl J Med 785-787.
 
-Mieli P., 2016, *Cinque Stelle, la malattia pericolosa dei complottisti anti-vaccini*. «Corriere della Sera», 20 ottobre.
+Mieli P., 2016, *Cinque Stelle, la malattia pericolosa dei complottisti anti-vaccini*. «Corriere della Sera», 20 ottobre.
 
-Nature Editorial, 2017, *Stand up for vaccines*, Nature 541:259.
+Nature Editorial, 2017, *Stand up for vaccines*, Nature 541:259.
 
-[Pearson-Patel J.,2015, *A Brief History of Vaccines in Colonial Africa*](http://activehistory.ca/2015/04/a%20-%20brief%20-%20history%20-%20of%20-%20vaccines%20-%20in%20-%20colonial%20-%20africa/), «Active History CA» 2 aprile.
+[Pearson-Patel J.,2015, *A Brief History of Vaccines in Colonial Africa*](http://activehistory.ca/2015/04/a%20-%20brief%20-%20history%20-%20of%20-%20vaccines%20-%20in%20-%20colonial%20-%20africa/), «Active History CA» 2 aprile.
 
-[Piano Nazionale Prevenzione Vaccinale, 2017, 2017-2019](http://www.salute.gov.it/imgs/C_17_pubblicazioni_2571).
+[Piano Nazionale Prevenzione Vaccinale, 2017, 2017-2019](http://www.salute.gov.it/imgs/C_17_pubblicazioni_2571).
 
-Poscia A. et al, 2012, *Disponibilità e qualità delle Informazioni presenti sul Web riguardo alle vaccinazioni. Revisione sistematica e implicazioni in sanità pubblica*, Ann Ig, 2114:113, Zanichelli.
+Poscia A. et al, 2012, *Disponibilità e qualità delle Informazioni presenti sul Web riguardo alle vaccinazioni. Revisione sistematica e implicazioni in sanità pubblica*, Ann Ig, 2114:113, Zanichelli.
 
-Salmon DA, Omer SB, 2006, *Individual freedoms versus collective responsibility: immunization decision-making in the face of occasionally competing values*, Emerging Themes in Epidemiology 3:13.
+Salmon DA, Omer SB, 2006, *Individual freedoms versus collective responsibility: immunization decision-making in the face of occasionally competing values*, Emerging Themes in Epidemiology 3:13.
 
 [Teorie del complotto, Wikipedia](https://it.wikipedia.org/wiki/Teoria_del_complotto), 2017.
 
@@ -204,9 +191,7 @@ Salmon DA, Omer SB, 2006, *Individual freedoms versus collective responsibility
 
 [Vaccination controversies, Wikipedia](https://en.wikipedia.org/wiki/Vaccine_controversies), 2017.
 
-•
-
-[ACCADEMIA NAZIONALE DEI LINCEI  Rapporto: I Vaccini, 12 maggio 2017](http://www.lincei.it/files/documenti/I_vaccini_def12maggio2017.pdf)
+[ACCADEMIA NAZIONALE DEI LINCEI  Rapporto: I Vaccini, 12 maggio 2017](http://www.lincei.it/files/documenti/I_vaccini_def12maggio2017.pdf)
 
 Gruppo di lavoro (ordine alfabetico):
 

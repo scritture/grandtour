@@ -8,14 +8,9 @@ categories:
   - economia
   - letteratura
   - narrazioni
-  - Rivista
-tags:
   - enogastronomia
   - Leonardo Da Vinci
-  - Luca Maroni
   - rinascimento
-  - Scritture
-  - vino
 ---
 
 *Il vino ha definitivamente conquistato una propria cultura, aperta a tutto il ventaglio di stimoli che può offrire una pratica antica che ha tanto della scienza quanto dell'arte. Tuttavia, per chi ancora vuole godere di un bicchiere con una certa onestà, ci sono degli aspetti collaterali da considerare. Infatti, se prima era spesso reputato roba da poveracci e pochi erano i cultori autentici e competenti, oggi il vino gode di un'enfasi degna della peggiore comunicazione, favorendo poi il fastidioso fenomeno degli [enofighetti](http://www.doctorwine.it/Firmato-DoctorWine/Firmato-DW/Gli-enofighetti). L'autoreferenzialità, il ritardo culturale e le pretese ridicole di certi parvenu enologici possono essere ridimensionati, oltre che da una sensata pratica di bevute, anche nel confronto con le eccellenze del settore. Tra queste, Luca Maroni che, pur se soffre a sua volta di uno scientismo vagamente stilnovista e un po' allucinatorio che non si risparmia iperboli su quanto chiama «vino-frutto» e sulla formula «quali-quantita» inconfutabile del vino perfetto, annovera tra i meriti quello di aver elaborato una [ruota sinestetica](http://www.ruotasensorialesinestetica.com/public/files/Ruota%20Sensoriale%2023_1_17%20RGB_2.pdf)*\_ che tenta la codifica dei rapporti possibili tra le differenti percezioni sensoriali, nonché l'aver curato a Milano il ripristino del [*vigneto di Leonardo Da Vinci*](http://www.ilfattoquotidiano.it/2015/02/21/luca-maroni-enologo-ed-editore-ritrovato-reimpiantato-vigna-leonardo-vinci/1441977/). L'interesse di Leonardo per il vino è poi riscontrabile anche nei suoi codici, i cui passaggi sulle diverse fasi del prodotto sono qui organizzati in percorso ideale che procede dalla poesia della vite agli effetti più funesti delle sbronze.\_
