@@ -16,11 +16,11 @@ author: Claudio Comandini
 layout: PostLayout
 ---
 
-«I testi esemplari qui prescelti \[...\] possono considerarsi precipitati di un più che decennale, multiforme processo alchemico, risultati di un'intensa ricerca di amore, libertà, conoscenza, esperita in presenza del gioco vitale degli elementi, del mistero del dì e della notte, della parola e del silenzio. Di questo gioco, di questo mistero, rimane traccia, ora come filigrana ora come lievito, nelle strutture poetiche di Claudio Comandini, severe, ma anche a volte aperte al balenare di un'accesa visività. L'approdo poetico rappresenta per Comandini l'autentica meta, il punto di condensazione di un'ampia spirale di appassionate avventure intellettuali attraverso non soltanto le contrade d'Europa, o i suggestivi ipogei dove regnano le Madri e gli archetipi, ma anche attraverso le filosofie d'oriente e occidente, la vecchia e la nuova scienza, la musica direttamente praticata.» (Emerico Giachery)
+*«I testi esemplari qui prescelti \[...\] possono considerarsi precipitati di un più che decennale, multiforme processo alchemico, risultati di un'intensa ricerca di amore, libertà, conoscenza, esperita in presenza del gioco vitale degli elementi, del mistero del dì e della notte, della parola e del silenzio. Di questo gioco, di questo mistero, rimane traccia, ora come filigrana ora come lievito, nelle strutture poetiche di Claudio Comandini, severe, ma anche a volte aperte al balenare di un'accesa visività. L'approdo poetico rappresenta per Comandini l'autentica meta, il punto di condensazione di un'ampia spirale di appassionate avventure intellettuali attraverso non soltanto le contrade d'Europa, o i suggestivi ipogei dove regnano le Madri e gli archetipi, ma anche attraverso le filosofie d'oriente e occidente, la vecchia e la nuova scienza, la musica direttamente praticata.» (Emerico Giachery)*
 
 \
-
-##### IL GIORNO PIU' LUNGO
+\
+## IL GIORNO PIU' LUNGO
 
 Vive della sua distruzione - fango senza tregua\
 come vortici trasportano la danza\
@@ -29,10 +29,10 @@ la verità è un errore - assenza di niente\
 caduto il cielo con la terra\
 
 *(inverno 93 – autunno 95)*
-
+\
 \
 
-[**SINFONIA DI LEI**](https://soundcloud.com/claudio_comandini/tre-poesie)
+## [**SINFONIA DI LEI**](https://soundcloud.com/claudio_comandini/tre-poesie)
 
 Lei non è come se fosse cialda,\
 una mannequin che gira fra festoni e cellulari\
@@ -53,10 +53,10 @@ Quando ti guarda la riconosci,\
 quando si avvicina lei è presente.
 
 *(inverno 95)*
-
+\
 \
 
-[**MARE DEL NORD**](https://soundcloud.com/claudio_comandini/mare-del-nord)
+## [**MARE DEL NORD**](https://soundcloud.com/claudio_comandini/mare-del-nord)
 
 Ansante sordida metallica distesa\
 Sponda compatta erompi di spuma\
@@ -77,13 +77,13 @@ Carcasse rami spezzati detriti\
 A queste bianche e secche piagge tratti\
 Dal fiottolo lucente attraversando\
 Vasto l'orizzonte che cupo cerchia\
-                                  il golfo\
+                          il golfo\
 
 *(texel estate 88)*
-
+\
 \
 
-**L'ASSENZA**
+## L'ASSENZA
 
 Non è la morte a dividerci\
 ma questo spazio che non ci accoglie\
@@ -97,14 +97,14 @@ una ferita, come un sorriso,\
 come un ombra che la luce non cancella.
 
 Per te,\
-       e per tutti quelli che abbiamo amato\
-                                           e perduto.
+      e per tutti quelli che abbiamo amato\
+                                 e perduto.
 
 *(primavera 95)*
-
+\
 \
 
-**REGINA COELI**
+## REGINA COELI
 
 E dritta in piedi accanto\
 alla tua branda senti, quando,\
@@ -115,7 +115,7 @@ sequenze di attimi, grovigli di fili spezzati,\
 fra pareti da dove promana un sentore\
 di putrefazione.\
 \
-                Come il piccione senza volo\
+            Come il piccione senza volo\
 che t'accompagna per un'ora nell'agonia\
 di uno squallido trapezio. Qui orbita e indugia\
 nei domini suoi la mezzaluna\
@@ -126,10 +126,10 @@ di un telegramma, di una morte che non puoi\
 morire, e speri che l'inferno ti salvi.
 
 *(autunno 97)*
-
+\
 \
 
-**ANNULLAMENTO GRAVITAZIONALE**
+## ANNULLAMENTO GRAVITAZIONALE
 
 Possiamo soltanto sperare che\
 il collasso di una stella stanca\
@@ -148,10 +148,10 @@ innocente\
 all'inizio della grande bugia.
 
 *(estate 94)*
-
+\
 \
 
-**PASSAGGIO**
+## PASSAGGIO
 
 e giunge sull'ametista di trasparenze insondabili\
 la risonanza rapita alle grida\
@@ -178,5 +178,5 @@ un altro mondo inizia, lo stesso,\
 \
 •\
 \
-*Prima pubblicazione: «La Scrittura» n. 7, autunno-inverno 97/98.* \
+*Prima pubblicazione: «La Scrittura» n. 7, autunno-inverno 97/98.* \
 *Fotografia: Claudio Comandini, "Some candies publications" – Paros, agosto 1993.*
