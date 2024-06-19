@@ -7,20 +7,13 @@ categories:
   - economia
   - geopolitica
   - politica
-  - Rivista
-tags:
-  - finanza
   - Matteo Cavallitto
-  - neoliberismo
-  - populismo
-  - Scritture
-  - Trump
   - USA
 ---
 
-*Mentre per i Paesi emergenti si profila il rischio di una pericolosa crisi debitoria, l'[isolazionismo](http://www.lindro.it/lisolazionismo-trump-un-muro-verso-la-presidenza/)del **nuovo presidente americano sembra incapace di proporre soluzioni, tanto per i flussi migratori, quanto per le nuove povertà interne, restando così confinato, oltre che ad un apprezzamento del dollaro minaccioso nei confronti della crescita globale, a banali proclami da social. Il problema politico che sembra generalmente ormai imporsi, e non soltanto negli USA, riguarda la** difficoltà di scegliere tra efficacia decisionale e allargamento della rappresentanza; le misure diventano ambedue deleterie laddove si assimilano al populismo. E se la democrazia americana sembra esposta in modo piuttosto peculiare al degenerare in «dittatura della maggioranza», come già evidenziato da Tocqueville, il Paese sembra scontare anche il peso di due emergenze: il fallimento delle pretese imperiali della sua politica estera, quanto la definitiva sostituzione della comunicazione alla politica. Il primo aspetto rivela una pulsione revisionista e autolesionista piuttosto viva e dettata anche dall'arretramento dei profitti delle multinazionali, per soddisfare la quale il presidente non però ha affatto potere, laddove restano a limitarlo le prerogative del Congresso ([Dario Fabbri, "La sensibilità imperiale degli Stati Uniti è il destino del mondo", «Limes» 2/2017](http://www.limesonline.com/cartaceo/la-sensibilita-imperiale-degli-stati-uniti-e-il-destino-del-mondo?prv=true)); inoltre, le possibilità relative alla riduzione dei conflitti in Medio Oriente e dei finanziamenti alla NATO sono già state ampiamente vanificate, risolvendosi interamente in mere promesse elettorali, facendo comprendere la pericolosa rilevanza del secondo aspetto. Infatti, è ormai evidente che il predominio della comunicazione, solennizzato con la formula di "post-verità", è tutto meno che democratico; per essere contenuto, esige ad ogni livello il recupero del ruolo delle competenza professionali e tecniche, formulando una [tecnocrazia democratica](http://www.scritture.net/mag/il-disgusto-della-democrazia/index.html) capace di portarci oltre le delusioni dei radicalismi di maniera e i facili miti della democrazia diretta del populismo. E proprio con Trump, capace di riciclare vecchi slogan no-global per politiche reazionarie, il populismo svela di essere maschera di un particolarismo neoprotezionista tutto a favore dei ceti dominanti, come evidenzia un [dossier](https://stores.streetlib.com/it/search?publisher=Valori) pubblicato dalla rivista "Valori". Di fronte a \_\_questa e altre incongruenze, c'è da chiedersi se questo bizzarro presidente riuscirà ad arrivare a fine mandato.*
+*Mentre per i Paesi emergenti si profila il rischio di una pericolosa crisi debitoria, l'[isolazionismo](http://www.lindro.it/lisolazionismo-trump-un-muro-verso-la-presidenza/)* *del nuovo presidente americano sembra incapace di proporre soluzioni, tanto per i flussi migratori, quanto per le nuove povertà interne, restando così confinato, oltre che ad un apprezzamento del dollaro minaccioso nei confronti della crescita globale, a banali proclami da social. Il problema politico che sembra generalmente ormai imporsi, e non soltanto negli USA, riguarda la difficoltà di scegliere tra efficacia decisionale e allargamento della rappresentanza; le misure diventano ambedue deleterie laddove si assimilano al populismo. E se la democrazia americana sembra esposta in modo piuttosto peculiare al degenerare in «dittatura della maggioranza», come già evidenziato da Tocqueville, il Paese sembra scontare anche il peso di due emergenze: il fallimento delle pretese imperiali della sua politica estera, quanto la definitiva sostituzione della comunicazione alla politica. Il primo aspetto rivela una pulsione revisionista e autolesionista piuttosto viva e dettata anche dall'arretramento dei profitti delle multinazionali, per soddisfare la quale il presidente non però ha affatto potere, laddove restano a limitarlo le prerogative del Congresso ([Dario Fabbri, "La sensibilità imperiale degli Stati Uniti è il destino del mondo", «Limes» 2/2017](http://www.limesonline.com/cartaceo/la-sensibilita-imperiale-degli-stati-uniti-e-il-destino-del-mondo?prv=true)); inoltre, le possibilità relative alla riduzione dei conflitti in Medio Oriente e dei finanziamenti alla NATO sono già state ampiamente vanificate, risolvendosi interamente in mere promesse elettorali, facendo comprendere la pericolosa rilevanza del secondo aspetto. Infatti, è ormai evidente che il predominio della comunicazione, solennizzato con la formula di "post-verità", è tutto meno che democratico; per essere contenuto, esige ad ogni livello il recupero del ruolo delle competenza professionali e tecniche, formulando una [tecnocrazia democratica](http://www.scritture.net/mag/il-disgusto-della-democrazia/index.html) capace di portarci oltre le delusioni dei radicalismi di maniera e i facili miti della democrazia diretta del populismo. E proprio con Trump, capace di riciclare vecchi slogan no-global per politiche reazionarie, il populismo svela di essere maschera di un particolarismo neoprotezionista tutto a favore dei ceti dominanti, come evidenzia un [dossier](https://stores.streetlib.com/it/search?publisher=Valori) pubblicato dalla rivista "Valori". Di fronte a questa e altre incongruenze, c'è da chiedersi se questo bizzarro presidente riuscirà ad arrivare a fine mandato.*
 
-**1. La dottrina Trump**
+## 1. La dottrina Trump
 
 Tra i capisaldi della dottrina Trump, un elemento in particolare è sembrato emergere con forza alle prime battute della lunga campagna elettorale: l'avversione ideologica nei confronti della globalizzazione. Nei mesi che hanno preceduto la sua elezione, il magnate statunitense ha promesso di imporrei un dazio del 45% sulle importazioni cinesi accusando ufficialmente Pechino di manipolazioni della valuta.
 
@@ -30,7 +23,7 @@ Nel mentre, ha sostanzialmente affossato le discussioni sul TTIP - l'accordo di 
 
 Retorica acchiappavoti? Può darsi, ma l'ipotesi di nuove strategie protezioniste resta comunque concreta. Con conseguenze davvero rilevanti anche a fronte di provvedimenti più leggeri rispetto a quelli annunciati.
 
-**2. Crescita globale a rischio**
+## 2. Crescita globale a rischio
 
 Sotto i riflettori, in primo luogo, c'è il futuro delle relazioni con la Cina, che nel 2015 - l'ultimo anno per il quale sono disponibili dati definitivi - ha introdotto in America prodotti di consumo, semilavorati e materie prime per quasi mezzo trilione di dollari.
 
@@ -40,7 +33,7 @@ Secondo il chief economisti della divisione USA di Barclays, Michael Gapen, infi
 
 Innalzare al 15% i dazi sui prodotti cinesi a al 7% quelli sui beni messicani (entrambi soggetti, oggi, a tariffe comprese tra il 2 e il 19% a seconda del tipo di merci), ha spiegato in una recente nota alla clientela, potrebbe costare al PIL statunitense circa mezzo punto percentuale. Ovvero, un quarto del tasso di crescita previsto per il 2017.
 
-**3. Lo spettro del super dollaro**
+## 3. Lo spettro del super dollaro
 
 In prima fila ad attendere le temute decisioni di Trump, ci sono, idealmente, i cosiddetti mercati emergenti. Nel 2016, evidenziano le stime del Fondo Monetario Internazionale, il loro tasso di crescita si sarebbe attestati al 4,2% conto l'1,6% delle economie mature. Ma il contesto, si sa, è fatto di luci e ombre. Buona parte dell'espansione complessiva viene infatti dall'Asia, ormai impegnata in una corsa solitaria.
 
