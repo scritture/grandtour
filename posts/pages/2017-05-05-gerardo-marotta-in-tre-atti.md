@@ -5,18 +5,12 @@ categories:
   - Claudio Comandini
   - filosofia
   - politica
-tags:
-  - Andrei Rossius
-  - Claudio Comandini
   - Filippo Tarantino
-  - Florinda Vigni
   - Frascati
-  - Gerardo Bianco
   - Gerardo Marotta
   - Istituto italiano per gli studi filosofici
   - Luigi Miraglia
   - Maurizio Torrini
-  - Napoli
   - Vivarium Novum
 image: /images/2017/05/Raffael_063.jpg
 author: Claudio Comandini
@@ -24,17 +18,19 @@ author: Claudio Comandini
 
 *Storia di una biblioteca in cerca di una sede, di un istituto di filosofia, del loro fondatore. Perché la ricerca continui a diffondersi.*
 
+## 1. Fondazione
+
 *«Fondare biblioteche è come costruire ancora granai pubblici»*. Questa frase di Marguerute Yourcenar fa comprendere l'importanza sociale dei luoghi dove i libri sono raccolti in collezioni ordinate con un certo criterio. Eppure, se nelle attuali trasformazioni delle forme di trasmissione del sapere la figura cruciale è probabilmente quella del bibliotecario, non sempre la cura delle biblioteche è al livello del loro compito. Può così accadere che collezioni decisive vengano indegnamente trascurate.
 
-Questo sta accadendo, in maniera esemplare e terribile, per una biblioteca di oltre 300.000 tomi, che comprende anche testi rari e introvabili quali originali di Giordano Bruno e Giovan Battista Vico, raccolta grazie alla ricerca generosa e instancabile compiuta presso fondi librari e antiquari di mezza Europa dall'avvocato [Gerardo Marotta](https://it.wikipedia.org/wiki/Gerardo_Marotta). Recentemente scomparso e definito da [Sebastiano Maffettone](http://www.ilsole24ore.com/art/commenti-e-idee/2017-01-26/gerardo-marotta-filosofo-napoli-204830.shtml?uuid=AE0E2gI) (docente di Scienza politica alla Luiss di Roma) quale *«\_\_un esemplare unico di combattente per la filosofia»*, Marotta ha ricevuto un sentito omaggio corale in occasione del convegno [*Utopia e Concretezza*](http://www.iisf.it/pdfsito/locandine/27%20aprile%202017%20-%20Frascati.pdf) presso l'[Accademia Vivarium Novum](https://vivariumnovum.net) diretta da [Luigi Miraglia](https://it.wikipedia.org/wiki/Luigi_Miraglia_(latinista)) ([Villa Falconieri](https://it.wikipedia.org/wiki/Villa_Falconieri), Frascati). Il significato della sua battaglia è stato compendiato da Maurizio Torrini (Università «Federico II» di Napoli) nel «*raccogliersi in buona volontà contro la barbarie antiumanistica di una cultura che distrugge se stessa.»*
+Questo sta accadendo, in maniera esemplare e terribile, per una biblioteca di oltre 300.000 tomi, che comprende anche testi rari e introvabili quali originali di Giordano Bruno e Giovan Battista Vico, raccolta grazie alla ricerca generosa e instancabile compiuta presso fondi librari e antiquari di mezza Europa dall'avvocato [Gerardo Marotta](https://it.wikipedia.org/wiki/Gerardo_Marotta). Recentemente scomparso e definito da [Sebastiano Maffettone](http://www.ilsole24ore.com/art/commenti-e-idee/2017-01-26/gerardo-marotta-filosofo-napoli-204830.shtml?uuid=AE0E2gI) (docente di Scienza politica alla Luiss di Roma) quale *«un esemplare unico di combattente per la filosofia»*, Marotta ha ricevuto un sentito omaggio corale in occasione del convegno [*Utopia e Concretezza*](http://www.iisf.it/pdfsito/locandine/27%20aprile%202017%20-%20Frascati.pdf) presso l'[Accademia Vivarium Novum](https://vivariumnovum.net) diretta da [Luigi Miraglia](https://it.wikipedia.org/wiki/Luigi_Miraglia_(latinista)) ([Villa Falconieri](https://it.wikipedia.org/wiki/Villa_Falconieri), Frascati). Il significato della sua battaglia è stato compendiato da Maurizio Torrini (Università «Federico II» di Napoli) nel «*raccogliersi in buona volontà contro la barbarie antiumanistica di una cultura che distrugge se stessa.»*
 
 Marotta nel 1975 a Napoli aveva fondato l'[Istituto italiano per gli studi filosofici](http://www.iisf.it) in collaborazione con Enrico Cerulli, presidente dell'Accademia dei Lincei, ed Elena Croce, figlia di Benedetto Croce. L'istituto, insignito di un pubblico riconoscimento Unesco nel 1993, per oltre 40 anni ha svolto intensa attività culturale di rilevanza nazionale e internazionale, distribuendo oltre 3000 borse di studio e fondando circa 200 scuole di alta formazione.
 
-Nel 2009 l'istituto subisce il taglio dei finanziamenti; anche nei governi successivi a Tremonti la politica, apparentemente troppo coinvolta nell'intrattenimento effimero, continua a togliere fondi alla cultura: un esito paradossale e beffardo per la raccolta di un'istituto che ha coltivato un'attitudine eminentemente politica. Sfrattata dai locali di via Calascione, la biblioteca resta dispersa tra i depositi di un magazzino a Casoria, i sotterranei dell'Istituto Bianchi e le cantine di alcuni privati sostenitori, lasciando così inaccessibile un patrimonio inestimabile ed esponendolo rischio di furto e rovina.
+Nel 2009 l'istituto subisce il taglio dei finanziamenti; anche nei governi successivi a Tremonti la politica, apparentemente troppo coinvolta nell'intrattenimento effimero, continua a togliere fondi alla cultura: un esito paradossale e beffardo per la raccolta di un'istituto che ha coltivato un'attitudine eminentemente politica. Sfrattata dai locali di via Calascione, la biblioteca resta dispersa tra i depositi di un magazzino a Casoria, i sotterranei dell'Istituto Bianchi e le cantine di alcuni privati sostenitori, lasciando così inaccessibile un patrimonio inestimabile ed esponendolo rischio di furto e rovina.
 
-Ne *Le memorie di Adriano* la Yourcenar concludeva che la fondazione delle biblioteche significava *«ammassare riserve contro l'inverno dello spirito che da molti indizi, mio malgrado, vedo venire»*: alla luce di tale vicenda, potremmo concludere che probabilmente occorre tempo prima di una nuova bella stagione. A favore di questa preziosa biblioteca, della quale Marotta non ha potuto vedere nemmeno la fine dei lavori relativi alla nuova sede prevista a piazza Santa Maria degli Angeli, è disponibile una [petizione](https://www.change.org/p/firma-anche-tu-per-salvare-la-biblioteca-dell-istituto-italiano-per-gli-studi-filosofici). Di solito, si mettono firme per meno di niente; invece, salvare una biblioteca di filosofia può permettere ad ognuno di porre un argine alla propria stessa minorazione, e inoltre contribuire a liberare la politica dal pressappochismo e dalla corruzione e indirizzarla a prendersi più cura del sapere e delle sue istituzioni.
+Ne *Le memorie di Adriano* la Yourcenar concludeva che la fondazione delle biblioteche significava *«ammassare riserve contro l'inverno dello spirito che da molti indizi, mio malgrado, vedo venire»*: alla luce di tale vicenda, potremmo concludere che probabilmente occorre tempo prima di una nuova bella stagione. A favore di questa preziosa biblioteca, della quale Marotta non ha potuto vedere nemmeno la fine dei lavori relativi alla nuova sede prevista a piazza Santa Maria degli Angeli, è disponibile una [petizione](https://www.change.org/p/firma-anche-tu-per-salvare-la-biblioteca-dell-istituto-italiano-per-gli-studi-filosofici). Di solito, si mettono firme per meno di niente; invece, salvare una biblioteca di filosofia può permettere ad ognuno di porre un argine alla propria stessa minorazione, e inoltre contribuire a liberare la politica dal pressappochismo e dalla corruzione e indirizzarla a prendersi più cura del sapere e delle sue istituzioni.
 
-**2. Il destino dell'Istituto**
+## 2. Destino
 
 La nuova direttrice dell'Istituto Florinda Vigni, impegnata a riportarlo agli antichi splendori, segnala quanto le difficoltà superino le possibilità degli attuali collaboratori, richiedendo così capacità quali quelle dal fondatore e dei sodali dell'epoca quali Antonio Gargano. L'istituto nacque a Napoli in un momento particolare, come risultato di impegni che la gioventù del dopoguerra aveva coltivato nelle scuole e nella città.
 
@@ -46,11 +42,11 @@ Tra i 'misteri' dell'Istituto, essere inesauribile e ricco: la Di Vigni evidenzi
 
 1.  Idee forti perseguite costantemente e messe in pratica non dogmaticamente, con apertura a tutti i saperi e a tutte le opinioni. Una luce interpretativa molto netta è stata così resa disponibile ad un dibattito mai ordinario.
 
-2.  L'amore per il sapere e per le sue eccellenze si è accompagnato al rapporto dinamico con la promozione nei contesti sociali e la divulgazione scolastica. Una raffinata alchimia di conoscenze diventa  capace di muoversi in forma estesa.
+2.  L'amore per il sapere e per le sue eccellenze si è accompagnato al rapporto dinamico con la promozione nei contesti sociali e la divulgazione scolastica. Una raffinata alchimia di conoscenze diventa capace di muoversi in forma estesa.
 
 3.  Capacità di attrarre i giovani, educandoli con cura e imparando da loro. In un mondo profondamente cambiato nei modi di trasmissione della cultura e degli scenari internazionali, oggi occorre rilanciare il progetto con nuove modalità. Come in un altro intervento ha ricordato Gerardo Bianco (Società Magna Grecia), l'eredità di Marotta deve essere raccolta da nuove forze.
 
-**3. La prassi di un pensiero**
+## 3. Prassi
 
 Se la nostra autobiografia è nel ricordo degli altri, Torrini ha evidenziato come la vita di Marotta sia intessuta di alterità. A partire dalla sua filiazione da Bernardo Spaventa, è l'hegelismo di sinistra, e quindi l'attitudine marxiana a trasformare il reale in razionale, a permettere l'approfondimento dei rapporti tra filosofia e politica. Questo mette in condizione di impegnarsi per una trasmissione del sapere che, pur se compiuta in via diretta e fuori dagli ordinari canali istituzionali, è capace di rigorosa selezione ed è molto curata nei rapporti internazionali. Al riguardo, Andrei Rossius ha testimoniato le circostanze del recupero di un codice di Giordano Bruno custodito a Mosca. E il 25 gennaio 2017, dopo aver a lungo discusso di Giordano Bruno, si è spento l'ottantanovenne avvocato filosofo.
 
@@ -60,7 +56,7 @@ Se la figura di Marotta nella Napoli terremotata, transennata e lugubre degli an
 
 Il felice e prezioso connubio di utopia e concretezza è quindi realizzato da una capacità di donazione che permette di spogliarsi dell'egoismo bestiale e raggiungere mete compiutamente umane, superando le gerarchie di uomini, valori e istituzioni. Infatti, ricorda Miraglia, dove l'avvocato si privò del proprio patrimonio personale per permettere un'educazione filosofica diffusa, fuggì a quella chiusura nel "privato" che tale parola assume tanto in greco (dove significa *idiota*) e latino (dove indica *sottrazione*), ottemperando peraltro al dettato costituzionale degli art. 42-43 per i quali la proprietà privata deve servire al bene collettivo.
 
-E così, diverse sono le vie con cui il l*ogos* ritrova il presente. Affidamento alla provvidenza e senso dell'eterno. Rapporto personale con il divino. Superamento del contingente accompagnato alla responsabilità per la storia. Contribuire con il proprio *officium* all'edificazione della civiltà. E nella sede di questo *officium*, a Palazzo Serra di Cassano, funerali in forma privata hanno salutato la verve metafisica e la piena laicità di questo uomo con cappello, pastrano e voce potente.
+E così, diverse sono le vie con cui il *logos* ritrova il presente. Affidamento alla provvidenza e senso dell'eterno. Rapporto personale con il divino. Superamento del contingente accompagnato alla responsabilità per la storia. Contribuire con il proprio *officium* all'edificazione della civiltà. E nella sede di questo *officium*, a Palazzo Serra di Cassano, funerali in forma privata hanno salutato la verve metafisica e la piena laicità di questo uomo con cappello, pastrano e voce potente.
 
 •
 
