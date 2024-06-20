@@ -18,7 +18,7 @@ categories:
   - USA
 ---
 
-*Bob Dylan ha ricevuto il Premio Nobel per la Letteratura per aver* «creato una nuova poetica espressiva all'interno della canzone americana»*. Una sua lettera all'Accademia di Svezia. La partecipazione di Patti Smith alla cerimonia. Il testo di* “A Hard Rain's A-Gonna Fall”.
+*Bob Dylan ha ricevuto il Premio Nobel per la Letteratura per aver «creato una nuova poetica espressiva all'interno della canzone americana». Una sua lettera all'Accademia di Svezia. La partecipazione di Patti Smith alla cerimonia. Il testo di “A Hard Rain's A-Gonna Fall”.*
 
 ## 1. Bob Dylan: Banquet Speech (da leggersi a tavola)
 
