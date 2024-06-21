@@ -10,29 +10,13 @@ categories:
   - filosofia
   - geopolitica
   - musica
-tags:
   - Adorno
-  - Al Jabri
-  - Cheb Khaled
   - Edward Said
   - Franco Fabbri
   - improvvisazione
   - integralismo
   - Islam
   - Kabul
-  - Kabul Dreams
-  - Lloyd Miller
-  - Nasida Ria
-  - Nusrat Fathe Ali Kanh
-  - Pit Panther Party
-  - Ring of Steel
-  - Soundcentral
-  - tambuir
-  - Tears of Sun
-  - Travis Beard
-  - Uhm Khultum
-  - Unknown District
-  - White City
 ---
 
 *Situazione attuale in Afghanistan e fine dei negoziati Usa con i Talebani. Soundcentral, festival di musica alternativa a Kabul. Golpe e dominazioni. Al Jabri: modernismo dell'Islam. Derrida: divenire "altro" dell'Occidente. Said: critica all'orientalismo di maniera. Lloyd Miller e i concerti di tambuir. Le band di Soundcentral: Unknown District, White City, Kabul Dreams, Ring of Steel, Tears of Sun. Adorno: falsa alternativa e logica del consenso. Franco Fabbri: psicoguerra americana e riferimenti musicali datati. Esempi memorabili della musica islamica: Uhm Khultum, Nusrat Fathe Ali Kanh, Nasida Ria, Cheb Khaled. La biodiversità musicale e le forme del divertimento.*
@@ -53,7 +37,7 @@ Al riguardo, nel 1974, durante l'esperienza della prima repubblica afghana, proc
 
 Quest'anno, a Sound Central, evento che si propone di essere\* «non-partigiano e non-politico ma semplicemente musicale»\* hanno chiesto di partecipare più di 50 band. Numerosi sponsor e sedi diplomatiche internazionali hanno messo a disposizione le loro risorse per situazioni rigorosamente alcool-free, come vuole l'Islam. Le proposte si sono ristrette ad una decina di presenze, oltre a vari performer: tra queste, gli Unknown District, band metal afgana di cui la stampa ci avverte che *«ha portato sul palco tutta l'energia della giovinezza»*; il leader Yo Khalifa ha dichiarato la *«sensazione di euforia data dalla libertà di espressione»*: a parte i toni dell'ufficio stampa, sulla loro versione di [*Sweet Dreams*](http://www.youtube.com/watch?v=DKxxOKpn6es) degli Eurythmics pesa gravemente l'ipoteca di Marylin Manson, e di afghano sembrano avere ormai solo il senso di una qual certa devastazione. Tra le altre *resident band*, i White City, fondata dal direttore artistico Travis, la cui hit è [*Space Cadet*](http://www.youtube.com/watch?v=wAyVngDOy_s), pop-rock ben costruito dal vago sapore post-sovietico, e tuttavia afgana come un hashish tagliato con la paraffina; l'indie rock dei Kabul Dreams, di cui [*Chill Morghak*](http://www.youtube.com/watch?v=mWWKfjKqKto) sembra davvero rock e anche abbastanza originale, ma è in loco reputata come [pessima influenza secolarizzante filo-occidentale](http://www.youtube.com/watch?v=Xtvi5K8iJx8i).
 
-La proposta più interessante è quella offerta dai Ring of Steel, dei quali [*In Fear of the Massacre*](http://vimeo.com/48824973) tributa la giornalista [Marie Colvin](http://it.wikipedia.org/wiki/Marie_Colvin), la prima ad intervistare Gheddafi dopo il golpe e morta recentemente in Siria sotto le bombe governative; il lungo brano ne utilizza gli scritti in uno sperimentalismo ambient e post-rock evocativo e sospeso, con riprese di guerra low-fi.
+La proposta più interessante è quella offerta dai Ring of Steel, dei quali [*In Fear of the Massacre*](http://vimeo.com/48824973) tributa la giornalista [Marie Colvin](http://it.wikipedia.org/wiki/Marie_Colvin), la prima ad intervistare Gheddafi dopo il golpe e morta recentemente in Siria sotto le bombe governative; il lungo brano ne utilizza gli scritti in uno sperimentalismo ambient e post-rock evocativo e sospeso, con riprese di guerra low-fi.
 
 In rappresentanza di altri paesi, ci sono stati gli uzbeki [Tears of the Sun](http://www.youtube.com/watch?v=HOy0dvaSBbI), con un funk-rock ben strutturato, gli australiani Pit Panther Party e il loro brutal rap metal dai contenuti politici. Ospiti di punta, gli Asian Dub Foundation, e come contorno artisti multimediali quali Arian Delawari, e inoltre busker, graffitari e dj. Il [clip promozionale](http://www.youtube.com/watch?v=HPO6byW9BAo), com'è piuttosto tipico, non facilita la comprensione del contesto e dei contenuti musicali, e la sua conclusione, dove il pur simpatico Travis indossa in rapida successione le magliette delle band occidentali più alla moda, può divertire ma anche inquietare; dal canto loro, i giovani ripresi e intervistati sembrano divertirsi esattamente come ci si dovrebbe divertire anche in Occidente, e tutto sembra un film già visto.
 
@@ -65,4 +49,4 @@ La biodiversità di questo mondo musicale potrebbe anche essere travolta dall'in
 
 •
 
-*Fotografia: Claudio Comandini, "Frattura" --  L'Aquila, agosto 2010.*
+*Fotografia: Claudio Comandini, "Frattura" - L'Aquila, agosto 2010.*

@@ -207,8 +207,7 @@ Quali elementi possono più strettamente assimilare il funzionamento di Al Qaeda
 
 [\[38\]](http://www.claudiocomandini.net/wp-admin/post.php?post=970&action=edit#_ftnref38) Ahmed Rashid, *The Taliban: Exporting Estremism*, cit.
 
-[\[39\]](http://www.claudiocomandini.net/wp-admin/post.php?post=970&action=edit#_ftnref39) Magdi Allam, *Come funziona la rete di Bin Laden*, Quaderni Speciali di Limes» n. 1, cit. pp. 81-82 
-[\[40\]](http://www.claudiocomandini.net/wp-admin/post.php?post=970&action=edit#_ftnref39) Loretta Napoleoni, *La morsa*, Chiare Lettere, Milano 2009, pp. 9-11, 35-40.
+[\[39\]](http://www.claudiocomandini.net/wp-admin/post.php?post=970&action=edit#_ftnref39) Magdi Allam, *Come funziona la rete di Bin Laden*, Quaderni Speciali di Limes» n. 1, cit. pp. 81-82 [\[40\]](http://www.claudiocomandini.net/wp-admin/post.php?post=970&action=edit#_ftnref39) Loretta Napoleoni, *La morsa*, Chiare Lettere, Milano 2009, pp. 9-11, 35-40.
 
 [\[41\]](http://www.claudiocomandini.net/wp-admin/post.php?post=970&action=edit#_ftnref40)[Matteo Guglielmo, *Al Qaida in Africa: dall'11 setttembre ad oggi.* «Limes online» 10.01.2011](http://temi.repubblica.it/limes/al-qaida-in-africa-dall11-settembre-ad-oggi/17934).
 
