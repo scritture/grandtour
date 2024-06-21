@@ -1,4 +1,5 @@
 ---
+author: Claudio Comandini
 date: '2017-03-16'
 title: 'Il settimo uomo (nuove rivelazioni sul caso Moro)'
 categories:
@@ -10,7 +11,7 @@ categories:
 image:  /images/2017/03/Moro.jpg
 ---
 
-*[Aldo Moro](https://it.wikipedia.org/wiki/Aldo_Moro) fu rapito dalle Brigate Rosse il 16 marzo 1978. Aveva in tasca un nuovo governo, che nessuno vide mai. L'Italia perse il futuro; ancora oggi, regna un presente assente a se stesso. L'unica "rivelazione" effettiva con la quale purtroppo ci troviamo a fare i conti (tra i troppi depistaggi, dai quale prende le mosse questa poesia ispirata ad un ipotetico "settimo uomo" coinvolto nel sequestro) è quella di una politica incapace, in alto come in basso, nel verticismo come nel populismo, di «promuovere una nuova condizione umana.»*
+[*Aldo Moro*](https://it.wikipedia.org/wiki/Aldo_Moro) *fu rapito dalle Brigate Rosse il 16 marzo 1978. Aveva in tasca un nuovo governo, che nessuno vide mai. L'Italia perse il futuro; ancora oggi, regna un presente assente a se stesso. L'unica "rivelazione" effettiva con la quale purtroppo ci troviamo a fare i conti (tra i troppi depistaggi, dai quale prende le mosse questa poesia ispirata ad un ipotetico "settimo uomo" coinvolto nel sequestro) è quella di una politica incapace, in alto come in basso, nel verticismo come nel populismo, di «promuovere una nuova condizione umana.»*
 
 Il settimo uomo fu un odore di cordite\
 appeso al gancio del nostro rancore\
