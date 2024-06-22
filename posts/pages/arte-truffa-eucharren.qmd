@@ -2,7 +2,7 @@
 title: "Pablo Eucharren: l’arte quale truffa"
 author: "Marcello Faletra"
 images:
-date: '2024-08-03'
+date: '2021-08-03'
 categories:
   - arte
   - società
