@@ -6,12 +6,8 @@ image: /images/2017/12/Tomas_particolare.jpg
 categories:
   - letteratura
   - narrazioni
-  - Rivista
   - società
-tags:
   - Andrea Appetito
-  - narrativa
-  - Scritture
 ---
 
 *«Speravo che si aprisse sotto di me un baratro, un inferno in cui nascondermi e da cui rinascere dopo molte generazioni.» In una città sul mare il sogno di un potere totalirio ambizioso e senza scrupoli sta per realizzarsi. L'apparizione di una nave misteriosa segna l'inizio di un'ondata di violenza che scuote la città fino alla sua distruzione. Sette personaggi ne raccontano gli ultimi eventi con punti di vista diversi. Ciò che li accomuna è il loro rapporto con Tomàs, un ragazzo scomparso all'improvviso proprio dopo l'apparizione della nave. Tomàs è il tassello mancante di una trama che vede coinvolti il passato dell'autocrate e l'organizzazione dei suoi oppositori. Sullo sfondo, una storia d'amore perduto dai risvolti inquietanti.*
