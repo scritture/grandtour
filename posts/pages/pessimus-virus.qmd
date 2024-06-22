@@ -4,8 +4,6 @@ categories:
   - coronavirus
   - Claudio Comandini
   - società
-  - fiosofia
-  - coronavirus
   - filosofia
   - infodemia
 date: '2024-01-26'

@@ -1,6 +1,6 @@
 ---
 title: Frammenti di Tomàs
-date: '2021-12-20'
+date: '2017-12-20'
 author: Andrea Appetito
 image: /images/2017/12/Tomas_particolare.jpg
 categories:
