@@ -1,6 +1,6 @@
 ---
 title: "Vedere, scrivere, forse cadere (da una finestra, dopo lungo silenzio)"
-author: "CLaudio Comandini"
+author: "Claudio Comandini"
 images:
 date: '2022-08-29'
 categories:
