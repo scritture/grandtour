@@ -1,25 +1,20 @@
 ---
-author: Carlo Signori
+author: Scuola dell'Obbligo
 comments: false
 date: 2016-08-11 10:00:12+00:00
 image: /images/2016/08/piccolo-mondo-andato.jpg
 title: Compiti per le vacanze
 categories:
-  - letteratura
-  - Rivista
-  - umorismo
-tags:
-  - Scritture
-  - scuola
-  - umorismo
-excerpt:
+   - scuola
+   - letteratura
+   - umorismo
 metaDescription: Diario
-
 ---
 
-_I bambini delle elementari alle prese con la lingua italiana. Un simpatico repertorio di evidenti errori e poesia possibile, gentilmente fornito da una maestra di una zona imprecisata dello stivale._
+*I bambini delle elementari alle prese con la lingua italiana. Un simpatico repertorio di evidenti errori e poesia possibile, gentilmente fornito da una maestra di una zona imprecisata dello stivale.*\
+\
 
-**Prima ora: geografia**
+## Prima ora: geografia
 
 Gli adulti lavorano per arricchire l'Italia, ma anche le bestie.
 
@@ -27,13 +22,14 @@ Il mare è una penisola.
 
 La Alpi sono la catena di montaggio dell'Italia.
 
-Le risate (_vedi: risaie_) si trovano nelle parti più opposte.
+Le risate (*vedi: risaie*) si trovano nelle parti più opposte.
 
 Nelle ciminiere si trova carbone e pietre preziose.
 
 La terra bagnata dalle tigri è un frate che si chiama Mesopotamia.
+\
 
-**Seconda ora: storia**
+## Seconda ora: storia
 
 Tabernacolo: dove vivevano gli uomini primitivi.
 
@@ -50,8 +46,9 @@ Il faraone l'hanno rotolato nei lenzuoli e l'hanno chiuso in una bara.
 Davanti alla capanna del presepe ci sono gli apostrofi.
 
 Abbiamo visitato la basilica di San Michele con la maestra che è molto antica.
+\
 
-**Terza ora: educazione civica**
+## Terza ora: educazione civica
 
 Per attraversare la strada bisogna passare sui pedoni.
 
@@ -64,8 +61,9 @@ Il vigile osserva il trofeo delle macchine.
 L'arbitro fischia il violino.
 
 Spero di essere capace di fare questo lavoro per diventare una donna desiderata da tutti.
+\
 
-**Quarta ora: scienze**
+## Quarta ora: scienze
 
 Il cranio ha una fronte intelligentissima.
 
@@ -82,8 +80,9 @@ Le pannocchie di granoturco si seminano in primavera.
 Il fuco mangia i frati.
 
 Firmamento: carte dove tutti firmano.
+\
 
-**Tema in classe: la mia famiglia e la città dove vivo**
+## Tema in classe: la mia famiglia e la città dove vivo
 
 I genitori ci circondano col loro feto.
 
@@ -100,8 +99,9 @@ Mia zia ha una pigna d'uva.
 La banda del paese suonava diversi ninnoli.
 
 I volti delle persone erano curvi.
+\
 
-**Tema in classe: pensieri in libertà**
+## Tema in classe: pensieri in libertà
 
 L'aria se la rendi leggera sembra un sottile mobile.
 
@@ -121,4 +121,4 @@ Lo stormo grida in classe.
 
 •
 
-_Fotografia: Claudio Comandini, "Piccolo mondo andato" - Grizzana Morandi - Ca' Benassi di Veggio,  2010._
+*Fotografia: Claudio Comandini, "Piccolo mondo andato" - Grizzana Morandi - Ca' Benassi di Veggio, 2010.*

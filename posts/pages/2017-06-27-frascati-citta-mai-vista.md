@@ -2,11 +2,11 @@
 date: '2017-06-27'
 title: 'La città mai vista'
 categories:
-  - Claudio Comandini
   - letteratura
   - società
-  - Italo Calvino
   - Frascati
+  - Italo Calvino
+  - Claudio Comandini
 image:  /images/2017/10/panorama_1600.jpg
 author: Claudio Comandini
 ---

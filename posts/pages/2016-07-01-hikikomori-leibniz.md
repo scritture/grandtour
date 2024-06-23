@@ -4,29 +4,25 @@ date: 2016-07-01 10:00:49+00:00
 image: /images/2016/07/laboratorio-678x381.jpg
 title: Hikikomori nella prospettiva di Leibniz
 categories:
-  - cinema
   - filosofia
   - letteratura
-tags:
-  - Bong Joon-ho
-  - Carmelo Bene
-  - Deleuze
-  - Fabio Treppiedi
+  - cinema
   - Giappone
-  - Guattari
   - Hikikomori
   - Leibniz
-  - Scritture
+  - Deleuze
+  - Bong Joon-ho
   - Tatsuhiko Takimoto
+  - Fabio Treppiedi
 ---
 
-*Pensate di essere strani quando riuscite a concentrare il vostro mondo in una stanza pur senza passare per le solite canzoni? Siete preoccupati perché vi sembra di vivere perlopiù in spazi privati o virtuali? Niente paura: laddove non sussiste altra forma patologica diagnosticata, potreste far parte di un fenomeno sociale diffuso e di una straordinaria trasmigrazione concettuale. Infatti, come spiega questo contributo di Fabio Treppiedi (autore di "Differenti ripetizioni", 2015, curatore del canale di Filosofia del sito tesionline.it), che riprende una conferenza tenuta al Filosofestival di Albenga (29-30 agosto 2015), l'hikikomori ('stare in disparte') rappresenta una sorta di 'personaggio concettuale' che, prendendo le mosse da Deleuze e dalle implicazioni politiche dell'atto di creazione, permette di 'riattivare' nel contesto attuale la monade di Leibniz: l'unità di coscienza che esprime se stessa e la totalità del mondo, i quali non esistono l'una senza l'altra pur senza confondersi mai tra loro.*
+*Pensate di essere strani quando riuscite a concentrare il vostro mondo in una stanza pur senza passare per le solite canzoni? Siete preoccupati perché vi sembra di vivere perlopiù in spazi privati o virtuali? Niente paura: laddove non sussiste altra forma patologica diagnosticata, potreste far parte di un fenomeno sociale diffuso e di una straordinaria trasmigrazione concettuale. Infatti, come spiega questo contributo di Fabio Treppiedi (autore di "Differenti ripetizioni", 2015, curatore del canale di Filosofia del sito tesionline.it), che riprende una conferenza tenuta al Filosofestival di Albenga (29-30 agosto 2015), l'hikikomori ('stare in disparte') rappresenta una sorta di 'personaggio concettuale' che, prendendo le mosse da Deleuze e dalle implicazioni politiche dell'atto di creazione, permette di 'riattivare' nel contesto attuale la monade di Leibniz: l'unità di coscienza che esprime se stessa e la totalità del mondo, i quali non esistono l'una senza l'altra pur senza confondersi mai tra loro.*
 
-Che cos'è *hikikomori*? O meglio, chi è Hikikomori? È un fenomeno sociale, carico di implicazioni cliniche, che ha preso forma in Giappone sin dalla fine degli anni Ottanta. Vengono infatti chiamati hikikomori quei ragazzi giapponesi che hanno scelto di ritirarsi dalla vita sociale e abbandonarsi ad un isolamento sempre più radicale all'interno dei loro piccoli appartamenti o, se vivono in famiglia come il più delle volte accade, all'interno delle loro camerette (hikikomori, significa infatti 'isolato', 'ritirato in disparte').
+Che cos'è *hikikomori*? O meglio, chi è Hikikomori? È un fenomeno sociale, carico di implicazioni cliniche, che ha preso forma in Giappone sin dalla fine degli anni Ottanta. Vengono infatti chiamati hikikomori quei ragazzi giapponesi che hanno scelto di ritirarsi dalla vita sociale e abbandonarsi ad un isolamento sempre più radicale all'interno dei loro piccoli appartamenti o, se vivono in famiglia come il più delle volte accade, all'interno delle loro camerette (hikikomori, significa infatti *'isolato'*, *'ritirato in disparte'*).
 
 Quella dell'hikikomori è un'esistenza che inverte i ritmi del mondo fuori, quasi ad accentuare la scelta dell'isolamento: s'inverte ad esempio l'alternarsi del sonno e della veglia, così come anche il tempo dei pasti, e si fa addirittura del disordine una regola. Ciò che immediatamente suggestiona e impressiona dell'hikikomori è infatti la sua stanza, trasformata in un mondo di oggetti da cui non si stacca assolutamente: fra questi soprattutto i manga, la televisione, i videogiochi e appunto il pc, a supporto di un ininterrotto collegamento a internet, che sostituisce del tutto i rapporti sociali.
 
-È alla letteratura e al cinema che, d'altra parte, possiamo attingere per avere subito un'istantanea dell'hikikomori, del suo mondo, della sua stanza: da film come\* Shaking Tokyo\* di Bong Joon-ho (episodio del film collettivo *Tokyo!* del 2008), *Castaway on the moon* di Lee Hae- jun (2009) e *Confessions di Tetsuya Nakashima* (2010) fino al romanzo *Welcome to NHK* di Tatsuhiko Takimoto (2002), successivamente trasposto in manga e in film d'animazione a episodi.
+È alla letteratura e al cinema che, d'altra parte, possiamo attingere per avere subito un'istantanea dell'hikikomori, del suo mondo, della sua stanza: da film come *Shaking Tokyo\* di Bong Joon-ho (episodio del film collettivo *Tokyo!* del 2008), *Castaway on the moon* di Lee Hae- jun (2009) e *Confessions di Tetsuya Nakashima* (2010) fino al romanzo *Welcome to NHK* di Tatsuhiko Takimoto (2002), successivamente trasposto in manga e in film d'animazione a episodi.
 
 Ma perché approcciare l'esperienza dell'hikikomori assumendo sin da subito cinema e letteratura come chiavi d'accesso? Deleuze, il suo modo di approcciare i problemi ma soprattutto la sua concezione dell'arte come *«la sola cosa che resiste alla morte»* \[1\], possono rappresentare di per sé la risposta a questa domanda.
 
@@ -36,11 +32,11 @@ Pensare l'hikikomori nell'immediatezza del ritratto che di esso offrono cinema e
 
 •
 
-Ecco allora che, pervertendone il cliché, l'hikikomori non è più soltanto la vittima del suo disagio ma è anche l'anonimo cittadino della metropoli giapponese preso in un 'divenire mostruoso' al pari del Riccardo III di Bene \[2\]. Un po' come quest'ultimo vede comparire sul proprio corpo mostruose escrescenze, l'hikikomori scatena nella sua solitudine fantasticherie e paranoie le quali altro non sono però che una serie di virtualità su cui il mondo, da cui ora l'hikikomori si ritira, gettava un'ombra tale da non favorirne né un passaggio all'atto né una benché minima consapevolezza.
+Ecco allora che, pervertendone il cliché, l'hikikomori non è più soltanto la vittima del suo disagio ma è anche l'anonimo cittadino della metropoli giapponese preso in un *'divenire mostruoso'* al pari del Riccardo III di Bene \[2\]. Un po' come quest'ultimo vede comparire sul proprio corpo mostruose escrescenze, l'hikikomori scatena nella sua solitudine fantasticherie e paranoie le quali altro non sono però che una serie di virtualità su cui il mondo, da cui ora l'hikikomori si ritira, gettava un'ombra tale da non favorirne né un passaggio all'atto né una benché minima consapevolezza.
 
 Guardare l'hikikomori alle prese col suo divenire mostruoso significa, attraverso Deleuze, assumerlo come un personaggio concettuale, una figura in movimento che è sì improntabile al fenomeno dell'hikikomori, ma che è anche qualcos'altro rispetto al suo cliché \[3\].
 
-Certo. Lì dove Deleuze e Guattari affermano che i personaggi concettuali *«operano i movimenti che descrivono il piano d'immanenza dell'autore e intervengono nella creazione stessa dei suoi concetti»* \[4\] è chiaro che l'invenzione di un personaggio concettuale va ascritta in primo luogo al filosofo creatore del concetto che il personaggio concettuale mette in movimento. Sul non meno rilevante piano dell'evoluzione storica dei concetti, però, è possibile individuare personaggi concettuali che, proprio perché collocati su milieux altri da quelli in cui i grandi filosofi hanno creato concetti ad essi sorprendentemente correlabili, ci fanno scoprire l'attualità di un concetto che si pensava superato o sepolto, favorendone inattesi sviluppi, 'riattivandoli' e operando quel 'taglio insolito' sulla realtà che per Deleuze e Guattari è il segno più tangibile del rilancio di un concetto filosofico del passato \[5\].
+Certo. Lì dove Deleuze e Guattari affermano che i personaggi concettuali *«operano i movimenti che descrivono il piano d'immanenza dell'autore e intervengono nella creazione stessa dei suoi concetti»* \[4\] è chiaro che l'invenzione di un personaggio concettuale va ascritta in primo luogo al filosofo creatore del concetto che il personaggio concettuale mette in movimento. Sul non meno rilevante piano dell'evoluzione storica dei concetti, però, è possibile individuare personaggi concettuali che, proprio perché collocati su milieux altri da quelli in cui i grandi filosofi hanno creato concetti ad essi sorprendentemente correlabili, ci fanno scoprire l'attualità di un concetto che si pensava superato o sepolto, favorendone inattesi sviluppi, 'riattivandoli' e operando quel *'taglio insolito'* sulla realtà che per Deleuze e Guattari è il segno più tangibile del rilancio di un concetto filosofico del passato \[5\].
 
 In questa prospettiva, l'hikikomori è più propriamente quel personaggio concettuale che 'riattiva' la monade di Leibniz nel mondo contemporaneo. La monade esprime infatti, nello stesso tempo, se stessa e la totalità del mondo: queste due componenti -- distinguibili solo per astrazione -- non esistono l'una senza l'altra e tuttavia non si confondono mai l'una con l'altra, essendo reciprocamente impermeabili. In questo senso Leibniz definiva la monade come qualcosa d'impenetrabile:
 
@@ -70,7 +66,7 @@ Un radicale confronto con quest'impenetrabilità è allora il compito cui l'hiki
 
 \[4\] Ivi, p. 53.
 
-\[5\] *«Se un concetto è 'migliore' del precedente, è perchè esso fa intendere nuove variazioni e risonanze sconosciute, opera tagli insoliti. \[...\] Se oggi si può essere platonici, cartesiani o kantiani, è perchè si è in diritto di pensare che i loro concetti possano essere riattivati entro i nostri problemi e ispirare i concetti da creare. E qual è il modo migliore di seguire i grandi filosofi? Ripetere ciò che hanno detto, o invece fare ciò che hanno fatto, ossia creare concetti per problemi che necessariamente cambiano?»*, ivi, pp. 17-18.
+\[5\] *«Se un concetto è 'migliore' del precedente, è perchè esso fa intendere nuove variazioni e risonanze sconosciute, opera tagli insoliti. \[...\] Se oggi si può essere platonici, cartesiani o kantiani, è perchè si è in diritto di pensare che i loro concetti possano essere riattivati entro i nostri problemi e ispirare i concetti da creare. E qual è il modo migliore di seguire i grandi filosofi? Ripetere ciò che hanno detto, o invece fare ciò che hanno fatto, ossia creare concetti per problemi che necessariamente cambiano?»*, ivi, pp. 17-18.
 
 \[6\] G. W. Leibniz, *Monadologia*, § 7, Bompiani, Milano, 2001, p. 61.
 
@@ -78,6 +74,6 @@ Un radicale confronto con quest'impenetrabilità è allora il compito cui l'hiki
 
 •
 
-*Fabio Treppiedi,  "Leibniz a Tokyo. L'Hikikomori come personaggio concettuale", «Logoi.ph - Journal of Philosophy», n. II , 4, 2016. ISSN 2420-9775*
+*Fabio Treppiedi, "Leibniz a Tokyo. L'Hikikomori come personaggio concettuale", «Logoi.ph - Journal of Philosophy», n. II , 4, 2016. ISSN 2420-9775*
 
 *Fotografia: Claudio Comandini, "Laboratorio", Grizzana Morandi, agosto 2013.*

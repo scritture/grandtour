@@ -6,8 +6,8 @@ image: /images/2016/08/intensita-640x381.jpg
 title: Poesie per un giorno di primavera
 categories:
   - letteratura
-  - Claudio Comandini
   - poesia
+  - Claudio Comandini
 ---
 
 *Alcuni momenti di una lunga stagione poetica.*\
@@ -115,7 +115,7 @@ E PENSACI TU A SEPPELLIRE DIO.\
 *Inverno 2001 - Premio Un passo dalla poesia, Tollo 2002*\
 \
 
-## GRANDE CONCORSO A PREMI LA POESIA OGGI 
+## GRANDE CONCORSO A PREMI LA POESIA OGGI
 
 \
 Certa gente vorrebbesi dichiarar poeta\

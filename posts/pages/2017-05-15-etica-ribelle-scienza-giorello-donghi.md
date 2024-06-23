@@ -8,16 +8,11 @@ slug: etica-ribelle-scienza-giorello-donghi
 title: Etica del ribelle. La scienza e la storia tra fratture e continuità
 categories:
   - filosofia
-  - politica
-  - religioni
   - scienza
   - società
-  - storia
-  - Averroè
-  - Enriques
-  - Giulio Giorello
-  - Islam
   - Kant
+  - Popper
+  - Giulio Giorello
   - Pino Donghi
 ---
 
@@ -65,7 +60,7 @@ GG: Mi sembra quasi un omaggio alla grande divisione di Hume, se vuoi: *fatti co
 
 PD: *Kuhn, Feyerabend e Lakatos, questi tre giganti della disciplina, il cui pensiero hai seguito per larga patto della tua vita intellettuale, si definiscono pro o contro Popper; e dunque, come tu stesso hai avuto modo di dire, grazie a Popper…*
 
-GG: Tutti e tre sono contrapposti alla *Logica della scoperta scientifica \_di Popper; tutti e tre pretendevano non di abolire, ma di perfezionare Popper; ma tutti e tre, per dirla un po' rozzamente, a Popper “hanno fatto girare le scatole”; oltretutto, la replica di Popper è stata, apparentemente, di chiusura. Il limite di tutto questo che è ora, secondo me, siamo andati oltre i paradigmi di Kuhn, oltre la sua dicotomia tra scienza normale e scienza rivoluzionaria. Adesso si tratta veramente, come capiva Geymonat già nel 1985, di andare a scovare la filosofia dentro le pieghe della scienza e vedere come i grandi problemi filosofici prendano oggi veste scientifica. Voglio proprio dire i problemi come, che so io, l'\_essere e il nulla*, ovvero *perché c'è qualcosa invece che nulla*: tutto ciò oggi va affrontato alla luce non solo della logica, ma della fisica o della biologia, tenendo conto dei risultati di tali discipline. Come si fa a parlare di essere e nulla, se si ignorano le idee di Einstein, di Bohr, di Pauli, di Schrödinger, di Dirac? Se non ci si confronta con le teorie della materia e dell'antimateria? E come mai è potuto emergere *evolutivamente* un soggetto cosciente? Un paio d'anni fa ho sentito un bell'intervento di Massimo Cacciari alla Milanesiana, in cui concludeva più o meno così: «*Signori filosofi, qui o studiate fisica (e biologia) o chiudete bottega!»*
+GG: Tutti e tre sono contrapposti alla *Logica della scoperta scientifica* di Popper; tutti e tre pretendevano non di abolire, ma di perfezionare Popper; ma tutti e tre, per dirla un po' rozzamente, a Popper *“hanno fatto girare le scatole”*; oltretutto, la replica di Popper è stata, apparentemente, di chiusura. Il limite di tutto questo che è ora, secondo me, siamo andati oltre i paradigmi di Kuhn, oltre la sua dicotomia tra scienza normale e scienza rivoluzionaria. Adesso si tratta veramente, come capiva Geymonat già nel 1985, di andare a scovare la filosofia dentro le pieghe della scienza e vedere come i grandi problemi filosofici prendano oggi veste scientifica. Voglio proprio dire i problemi come, che so io, *l' essere e il nulla*, ovvero *perché c'è qualcosa invece che nulla*: tutto ciò oggi va affrontato alla luce non solo della logica, ma della fisica o della biologia, tenendo conto dei risultati di tali discipline. Come si fa a parlare di essere e nulla, se si ignorano le idee di Einstein, di Bohr, di Pauli, di Schrödinger, di Dirac? Se non ci si confronta con le teorie della materia e dell'antimateria? E come mai è potuto emergere *evolutivamente* un soggetto cosciente? Un paio d'anni fa ho sentito un bell'intervento di Massimo Cacciari alla Milanesiana, in cui concludeva più o meno così: «*Signori filosofi, qui o studiate fisica (e biologia) o chiudete bottega!»*
 
 PD: *D'accordo! E allora?*
 
@@ -77,7 +72,7 @@ GG: Il positivismo ha avuto grandi meriti, quelli stessi che nella sua *Meditazi
 
 PD: *Un'altra accusa che va di gran moda è quella di scientista.*
 
-GG: Trovo ridicola l'accusa di scientismo a chi difende la scienza dome componente imprescindibile della nostra cultura. Però, è storia vecchia: siamo nel Paese ove è nato Galileo ma che è anche quello dove è stato condannato. D'altra parte, trovo superficiale l'accusa anche l'idea che talora viene definita come il “vangelo secondo la scienza”. Si vorrebbe fare della scienza una nuova religione, ma perché? A leggere certe prese di posizione, magari in replica ad alcune provocazioni, sembra di assistere a riti per onorare le particelle elementari o qualche altra entità della scienza. Ci siamo fatti prendere in giro a sufficienza da locuzioni come la “particella di Dio”, a proposito del Bosone di Higgs. Cosa dovremmo fare, costruire altari o fare un monumento al bosone dentro la cattedrale di Saint-Pierre, a Ginevra, da cui partì la riforma di Calvino? Dovremmo istituire, poniamo, un culto degli integrali? E le derivate? Come la prenderebbero le derivate?
+GG: Trovo ridicola l'accusa di scientismo a chi difende la scienza dome componente imprescindibile della nostra cultura. Però, è storia vecchia: siamo nel Paese ove è nato Galileo ma che è anche quello dove è stato condannato. D'altra parte, trovo superficiale l'accusa anche l'idea che talora viene definita come il *"vangelo secondo la scienza".* Si vorrebbe fare della scienza una nuova religione, ma perché? A leggere certe prese di posizione, magari in replica ad alcune provocazioni, sembra di assistere a riti per onorare le particelle elementari o qualche altra entità della scienza. Ci siamo fatti prendere in giro a sufficienza da locuzioni come la *"particella di Dio"*, a proposito del Bosone di Higgs. Cosa dovremmo fare, costruire altari o fare un monumento al bosone dentro la cattedrale di Saint-Pierre, a Ginevra, da cui partì la riforma di Calvino? Dovremmo istituire, poniamo, un culto degli integrali? E le derivate? Come la prenderebbero le derivate?
 
 PD: *Non è di molto tempo fa la moda dell'idea di una fine della storia; e se finisce la storia finisce anche la rivoluzione…*
 
@@ -92,8 +87,6 @@ PD: *Ma è difficile in ogni rivoluzione politica, anche in quelle del nostro Oc
 *Sono tanti i modi in cui l'etica del ribelle può spegnersi. Ma il fatto che la vita si conclude nella morte è forse una ragione per decidere da subito di non vivere?*
 
 \[…\]
-
-•
 
 ![](/images/2017/05/eticaribelle.jpg){fig-align="center"}
 

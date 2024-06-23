@@ -7,23 +7,17 @@ title: Le avventure di Saro e Giambologna
 categories:
   - letteratura
   - narrazioni
-  - Rivista
   - umorismo
-tags:
   - animali
-  - Appennino
+  - psichedelia
   - Bologna
   - Jung
-  - psichedelia
   - Roberto Vannucci
-  - Scritture
 excerpt:
 metaDescription: Diario
 ---
 
 *Esistono autori che inventano nuovi procedimenti di scrittura, altri ancora che si astengono dal pubblicare. Se la prima tipologia è attualmente particolarmente fiorente, l'esistenza della seconda è invece piuttosto a rischio: infatti, dove la tecnologia digitale ha favorito varie e interessanti sperimentazioni, ha anche permesso di infestare il mondo di parole anche a perfetti analfabeti. Ad ogni modo, tali tipologie di autori sono tra quelle ricordate da [Ezra Pound in “L'ABC del leggere”](http://www.scritture.net/mag/declinazioni-dellautore/), e Roberto Vannucci, da me chiamato Giambologna per la tendenza affabulatoria di inserirsi in tutte le storie di una Bologna di tempi ormai andati, adorava questo libro, e presso la sua casa sull'Appennino si dedicava perlopiù al leggere e allo scrivere, pratiche assunte come cose serissime seppure in modi sempre divertiti. È quindi scomparso nel luglio 2012 - per essere più precisi, si è lasciato morire, perché probabilmente gli è sembrata la cosa più sensata da fare per rinascere davvero - lasciando uno scatolone colmo di quaderni di ogni colore, nei quali ha registrato minuziosamente studi e letture, alcune poesie, varie riflessioni, compilate secondo una scrittura nitida e ben scandita, sospesa in uno spazio meditativo e incontaminato. Esponente di una cultura che rifiutava ogni forma di istituzionalizzazione, era provvisto di una laurea in Lettere conseguita circa nel Sessantotto seppur con studio tenace, si era interessato di religioni orientali diventando poi monaco zen, ed era anche astrologo con il gusto matematico degli astri e quello junghiano dei simboli: con lui potevi parlare di stelle e pianeti senza sentirti troppo imbecille. Sfornito di computer, ne manteneva una vaga curiosità, e su Internet non ha ricevuto nessuna menzione a parte questa, smentendo la banale e superstiziosa credenza che la Rete raccolga automaticamente tutto ciò che esiste. Al massimo della sua tecnologia, si divertiva a spedire sms, caratterizzati dall'essere esenti dai vizi linguistici quali abbreviazioni barbare, iconismo spinto, abuso di k e di x, altre volgarità; soltanto in un secondo tempo, eventualmente, trascriveva a penna quanto da lui scritto sul cellulare. Qui seguono i sorprendenti resoconti del suo accudimento di Saro, una specie di cane-leone davvero ingombrante e piuttosto vivace, ormai anche lui scomparso. Saro il mio cane, Roberto il vicino di casa: grandi amici perduti a cui sarò sempre grato e che non perderò mai. Ecco quindi avventure immaginarie assurde e spassose, condite da riflessioni originali e brillanti, dove trovare forme classiche e immagini psichedeliche, echi di Jack Kerouac e Thomas Mann, toni per nulla stereotipati e soluzioni piuttosto indispensabili. Forse, quasi senza accorgersene, nel suo strenuo opporsi alla stessa ipotesi di una qualsiasi pubblicazione, Roberto ha davvero inventato un nuovo procedimento: o quantomeno, ne ha tratto una letteratura.*
-
-•
 
 Abduk kastì emeini tòs ebmeini tòs. Kasùn telèi oka. Peren? (05.02.08)
 
@@ -151,4 +145,4 @@ La festa è stata rimandata a tempi migliori. Quando ci vediamo? Saro mi manca e
 
 •
 
-*Fotografia: Claudio Comandini, "Saro Guardiano" - Ca' Benassi di Veggio, gennaio 2014.*
+*Fotografia: Claudio Comandini, "Saro Guardiano" - Ca' Benassi di Veggio, gennaio 2014.*

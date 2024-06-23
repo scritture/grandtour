@@ -1,10 +1,11 @@
 ---
 categories:
   - letteratura
-  - Claudio Comandini
-  - Emerico Giachery
   - poesia
   - musica
+  - Emerico Giachery
+  - Claudio Comandini
+title: Zone di transito
 date: '2012-05-08'
 image:  /images/2016/07/some_candies_publications.jpg
 author: Claudio Comandini
@@ -15,6 +16,7 @@ layout: PostLayout
 \
 
 ## IL GIORNO PIU' LUNGO
+
 \
 Vive della sua distruzione - fango senza tregua\
 come vortici trasportano la danza\
@@ -26,6 +28,7 @@ caduto il cielo con la terra\
 \
 
 ## [**SINFONIA DI LEI**](https://soundcloud.com/claudio_comandini/tre-poesie)
+
 \
 Lei non è come se fosse cialda,\
 una mannequin che gira fra festoni e cellulari\
@@ -49,6 +52,7 @@ quando si avvicina lei è presente.\
 \
 
 ## [**MARE DEL NORD**](https://soundcloud.com/claudio_comandini/mare-del-nord)
+
 \
 Ansante sordida metallica distesa\
 Sponda compatta erompi di spuma\
@@ -75,6 +79,7 @@ il golfo\
 \
 
 ## L'ASSENZA
+
 \
 Non è la morte a dividerci\
 ma questo spazio che non ci accoglie\
@@ -95,6 +100,7 @@ e perduto.\
 \
 
 ## REGINA COELI
+
 \
 E dritta in piedi accanto\
 alla tua branda senti, quando,\
@@ -119,6 +125,7 @@ morire, e speri che l'inferno ti salvi.\
 \
 
 ## ANNULLAMENTO GRAVITAZIONALE
+
 \
 Possiamo soltanto sperare che\
 il collasso di una stella stanca\
@@ -140,6 +147,7 @@ all'inizio della grande bugia.\
 \
 
 ## PASSAGGIO
+
 \
 e giunge sull'ametista di trasparenze insondabili\
 la risonanza rapita alle grida\
@@ -164,7 +172,6 @@ un altro mondo inizia, lo stesso,\
 \
 *(tharros equinozio d'autunno 88)*\
 
-•
-\
+•\
 *Prima pubblicazione: «La Scrittura» n. 7, autunno-inverno 97/98.*\
 *Fotografia: Claudio Comandini, "Some candies publications" – Paros, agosto 1993.*
