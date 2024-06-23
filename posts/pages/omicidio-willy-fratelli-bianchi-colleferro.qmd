@@ -8,6 +8,7 @@ categories:
   - Willy Monteiro Duarte
   - società
   - Colleferro
+  - Claudio Comandini
 ---
 
 ![](/images/immagini_scritture/willy.jpeg){fig-align="center"}
