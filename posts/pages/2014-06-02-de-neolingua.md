@@ -24,6 +24,7 @@ categories:
   - Nietzsche
   - Orwell
   - Manzoni
+  - Scruton
   - Perniola
   - Claudio Comandini
 ---

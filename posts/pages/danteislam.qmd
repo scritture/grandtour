@@ -7,8 +7,9 @@ categories:
   - Cristianesimo
   - Islam
   - Dante
-  - Miguel Asìn Palacios
+  - Averroè
   - Heidegger
+  - Miguel Asìn Palacios
   - Claudio Comandini
 date: '2024-05-27'
 title: "Dante domestico, Dante musulmano"
