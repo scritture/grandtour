@@ -1,6 +1,7 @@
 ---
 categories:
   - letteratura
+  - poesia
   - filosofia
   - religioni
   - Cristianesimo
