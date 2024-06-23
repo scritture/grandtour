@@ -5,31 +5,15 @@ image: /images/2014/06/athenapop.jpg
 title: La popsophia, i greci e la critica del presente
 categories:
   - cinema
-  - Claudio Comandini
   - filosofia
   - narrazioni
   - società
-tags:
-  - Aristotele
-  - Benjamin
-  - Claudio Comandini
-  - Diogene Laerzio
-  - Eschilo
-  - Euripide
-  - Fichte
-  - Hegel
-  - Heidegger
-  - Leibniz
-  - Leo Strauss
-  - Omero
-  - Platone
-  - Prometeo
-  - Protagora
-  - Sergio Givone
-  - Simone Weil
-  - Socrate
   - Umberto Curi
-  - Vangeli
+  - Aristotele
+  - Fichte
+  - Benjamin
+  - Simone Weil
+  - Claudio Comandini
 ---
 
 *Principî e ambiti della popsophia. I greci e la modernità. Umberto Curi: pensiero e narrazione. Il Protagora di Platone. Stupore e timore. Pathos e mathos nel mondo greco. La Poetica di Aristotele. La storia e le sue trasformazioni. Racconti impossibili tra Leibniz e Benjamin. Protagora e la formazione politica. Fichte e la diffusione della ragione. Leo Strauss tra persecuzione e reticenza. Narrare la frattura del presente.*
@@ -54,9 +38,9 @@ La tesi di Protagora sulla coincidenza di scienza e sensazione è contestata nel
 
 Quanti sono sul punto di creare, tanto nel corpo come nell'anima, sono accomunati dall'indispensabile requisito della sofferenza \[*pathos*\]: *«la generazione del nuovo presuppone il patimento»* (Platone, *Simposio*, 206c-207). Nel nesso genetico tra dolore e conoscenza s'instaura una condizione "patetica", ed esclusivamente da questa è prodotto il nuovo. La filosofia, anche laddove si configura con piena razionalità, comincia e prende origine nell'esser colmi di stupore e timore \[*thaumazein*\] (Platone, *Teeteto*, 155d), portando così a coincidenza principio \[*arché*\] e origine \[*ghenesi*\], l'inizio in senso eziologico e il cominciamento temporale. Per Aristotele (*Metafisica*, Alfa 982b 14) il *thaumazein* è causa e inizio della filosofia e si rapporta al *mythos* laddove *«pure colui che si rivolge e vive nel mito \[philomythos\] è in certo modo filosofo, in quanto anche il mito viene a formarsi in un inquieto stupore \[thauma\]»*. Nel mito è però più immediatamente individuabile il rapporto con il "numinoso" e l'elemento "*fascinans et tremendum"* espresso nel *thauma*.
 
-Il mondo greco arcaico e classico sa che il *pathos* produce conoscenza \[*mathos*\]: Euripide fa affermare a Medea che il parto è più cruento di una guerra, in Eschilo il coro riconosce saggezza a Zeus laddove ha permesso ad Agamennone di *«imparare attraverso la sofferenza»* \[*ton pathei mathos*\], in Omero *«ciò che suscita paura e incute sgomento»* ricorre dove Polifemo è un «mostro immenso» \[*thaum'ettykto pelorion*\] (*Odissea*, IX v. 190). Nei *Vangeli \_sinottici, scritti in greco e, a detta di Simone Weil, manifestazioni delle tensioni del pensiero ellenico, Ponzio Pilato, di fronte al non rispondere di Gesù, prova uno stato d'animo che trova descrizione nel \_thaumazein*, convalidando l'opposizione di questo rispetto al banale senso comune.
+Il mondo greco arcaico e classico sa che il *pathos* produce conoscenza \[*mathos*\]: Euripide fa affermare a Medea che il parto è più cruento di una guerra, in Eschilo il coro riconosce saggezza a Zeus laddove ha permesso ad Agamennone di *«imparare attraverso la sofferenza»* \[*ton pathei mathos*\], in Omero *«ciò che suscita paura e incute sgomento»* ricorre dove Polifemo è un «mostro immenso» \[*thaum'ettykto pelorion*\] (*Odissea*, IX v. 190). Nei *Vangeli \_sinottici, scritti in greco e, a detta di Simone Weil, manifestazioni delle tensioni del pensiero ellenico, Ponzio Pilato, di fronte al non rispondere di Gesù, prova uno stato d'animo che trova descrizione nel thaumazein*, convalidando l'opposizione di questo rispetto al banale senso comune.
 
-Ogni narrazione, per la *Poetica* di Aristotele, comporta una trama \[*desis*\] o intreccio \[*ploké*\] nella quale si "annodano" i diversi fatti, e quindi lo "scioglimento" \[*lysis*\] dove i nodi intrecciati si districano e il racconto si conclude; nelle forme con cui tale movimento si realizza, possono essere tra loro distinti il "colpo di scena" \[*peripeteia*\] e il  "riconoscimento" \[*anaghorisis*\].
+Ogni narrazione, per la *Poetica* di Aristotele, comporta una trama \[*desis*\] o intreccio \[*ploké*\] nella quale si "annodano" i diversi fatti, e quindi lo "scioglimento" \[*lysis*\] dove i nodi intrecciati si districano e il racconto si conclude; nelle forme con cui tale movimento si realizza, possono essere tra loro distinti il "colpo di scena" \[*peripeteia*\] e il "riconoscimento" \[*anaghorisis*\].
 
 Riconducendo la poetica alla metafisica e riconoscendole così piena importanza teoretica, è stabilito che l'aspetto decisivo del cambiamento di fortuna del protagonista deve saper provocare stupore nello stabilire una particolare "consecuzione" tra antecedenti e conseguenti che intervenga contro le aspettative, in modo imprevisto e in contrasto con l'attesa \[*para ten doxan*\] per quanto in maniera non inverosimile.
 
@@ -72,7 +56,7 @@ Nell'argomentazione di Curi, c'è un passaggio da sciogliere e riannodare. Prota
 
 Tale posizione non è assimilabile, com'è invece proposto, a quanto per Aristotele è permesso dal "verosimile" \[*eikos*\] caratteristico della poesia nel riferirsi all'universale nella forma della probabilità e capace di renderla "più filosofica" \[*philosophoteron*\] e "più seria" \[*spoudaioteron*\] della storia, invece ancorata al particolare in quanto si occupa soltanto di cose effettivamente accadute. L'approfondimento di tale passaggio può aiutare a comprendere la tensione tra uno e molti dalla quale nessuna filosofia può sottrarsi.
 
-Protagora era un sapiente conosciuto e apprezzato, *«abilissimo dell'arte della parola»*, il primo ad insegnare dietro compenso e a tenere gare dialettiche; laddove *sophia* indica il sapere intellettuale e politico, il termine sofista da cui è connotato non ha ancora il  significato dispregiativo che assumerà in seguito. Nell'argomentazione esposta dal dialogo platonico, non prescinde da un principio di giustizia \[*dike*\] di relazioni reciproche capace di permettere l'umana convivenza e l'utilità pubblica e privata, insito per natura negli uomini e sviluppabile attraverso un'educazione capace di assicurare la necessità della legge dello Stato \[*nomos*\]; chi non è interessato ad esserne partecipe, la legge di Zeus ne stabilisce la soppressione.
+Protagora era un sapiente conosciuto e apprezzato, *«abilissimo dell'arte della parola»*, il primo ad insegnare dietro compenso e a tenere gare dialettiche; laddove *sophia* indica il sapere intellettuale e politico, il termine sofista da cui è connotato non ha ancora il significato dispregiativo che assumerà in seguito. Nell'argomentazione esposta dal dialogo platonico, non prescinde da un principio di giustizia \[*dike*\] di relazioni reciproche capace di permettere l'umana convivenza e l'utilità pubblica e privata, insito per natura negli uomini e sviluppabile attraverso un'educazione capace di assicurare la necessità della legge dello Stato \[*nomos*\]; chi non è interessato ad esserne partecipe, la legge di Zeus ne stabilisce la soppressione.
 
 Nel testo *Sullo stato primitivo* Protagora salvaguarda la politica e quindi le basi della propria professione d'educatore, ma nella *Verità o i discorsi demolitori* esclude norme universali dalla natura umana, lasciando ad ogni singolo uomo l'esclusiva "misura" del proprio piccolo mondo particolare. Diogene Laerzio (*Vite dei filosofi*, IX 51) segnala che era specializzato nei *dissoi logoi* o *Antilogie* secondo cui su ogni argomento si possono tenere discorsi contrapposti e inconciliabili; se Platone ne riporta il pensiero in modi imprecisi e caricaturali, il sofista cade in contraddizione rispetto all'unità delle virtù, per Socrate imprescindibile, proprio per assecondare una vanitosa disinvoltura di dire tutto e l'opposto. Pur rivalutandone i contributi nella definizione di un "pensiero narrato", occorre salvaguardarsi dal rischio di restare confinati in piccole storie irrelate banalmente competitive, ed essere così *«vinti dall'ignoranza»* in modi sin troppo simili a quanto accade nell'imperversare di un pop-pensiero piuttosto sofistico, poco filosofico e per nulla critico, almeno rispetto all'inevitabile significato kantiano d'interrogazione sui presupposti del conoscere.
 
@@ -86,6 +70,6 @@ Ad ogni modo, molte trame sono disponibili per una *epideiknymi* (capacità dimo
 
 •
 
-*Pubblicato come ["Contributi ad una popsophia quale critica del presente",  «Popsophia» 29.06.2014](http://www.popsophia.it/it/blog/d/110/art/698-contributi-ad-una-popsophia-quale-critica-del-presente/). Riveduto e ampliato.*
+*Pubblicato come ["Contributi ad una popsophia quale critica del presente", «Popsophia» 29.06.2014](http://www.popsophia.it/it/blog/d/110/art/698-contributi-ad-una-popsophia-quale-critica-del-presente/). Riveduto e ampliato.*
 
-*Fotografia: Claudio Comandini, "Athenapop" -- Atene, agosto 1993*
+*Fotografia: Claudio Comandini, "Athenapop" - Atene, agosto 1993*

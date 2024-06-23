@@ -4,11 +4,9 @@ date: 2013-01-13
 image: /images/2016/07/vestitinudi-678x381.jpg
 title: Il tredicesimo mese. Aforismi
 categories:
-  - Claudio Comandini
   - letteratura
-tags:
+  - aforismi
   - Claudio Comandini
-  - poesia
 ---
 
 *Come in un calendario, il tempo ritorna e celebra nuovi inizi.*
@@ -65,7 +63,6 @@ XIII
 
 Ventre di uomo gravido di madri.
 
+*Aforisma XIII e foto pubblicate in "Nuovo Millennio :  Nature Umane - L'ultimo calendario antico", realizzato in collaborazione con Maurizio Vincenzo Ciminelli, Greta Correani, Massimiliano Nemez per Edizioni Creative Partner, Roma 2000.*
 
-*Aforisma XIII e foto pubblicate in "Nuovo Millennio :  Nature Umane -- L'ultimo calendario antico", realizzato in collaborazione con Maurizio Vincenzo Ciminelli, Greta Correani, Massimiliano Nemez per Edizioni Creative Partner, Roma 2000.*
-
-*Fotografia: Claudio Comandini, "Vestitinudi" -- Anagni, ottobre 1995.*
+*Fotografia: Claudio Comandini, "Vestitinudi" - Anagni, ottobre 1995.*
