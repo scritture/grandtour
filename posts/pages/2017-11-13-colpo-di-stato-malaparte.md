@@ -5,20 +5,20 @@ date: '2017-11-12'
 images:  /images/2017/11/kalinin-lenin-trotzki.jpg
 author: Curzio Malaparte
 categories:
-  - geopolitica
   - letteratura
   - politica
-  - società
   - storia
-  - comunismo
-  - Curzio Malaparte
-  - Lenin
+  - società
   - Russia
-  - Stalin
+  - Lenin
   - Trotzki
+  - Stalin
+  - Curzio Malaparte
 ---
 
-*Il carattere di presa violente del potere di [rivoluzione russa](#0), fascismo italiano e nazionalsocialismo tedesco sono messi in sequenza da "[Tecnica del colpo di Stato](http://fulviocortese.it/?p=507)" di Curzio Malaparte (Parigi 1931- pubblicato in Italia nel 1948), che ne indaga i caratteri specifici e le rispettive differenti. La testimonianza diretta degli eventi si intreccia con cadenze da storico classico, la descrizione distaccata ingegneria del potere con gli appassionati ritratti dei protagonisti, incrociando giornalismo e letteratura in modi inestricabili ed esemplari.*
+![](/images/2017/11/kalinin-lenin-trotzki.jpg){fig-align="center"}
+
+*Il carattere di presa violenta del potere di [rivoluzione russa](#0), fascismo italiano e nazionalsocialismo tedesco sono messi in sequenza in "[Tecnica del colpo di Stato](http://fulviocortese.it/?p=507)" di Curzio Malaparte (Parigi 1931- pubblicato in Italia nel 1948), che ne indaga i caratteri specifici e le rispettive differenti. La testimonianza diretta degli eventi si intreccia con cadenze da storico classico, la descrizione distaccata ingegneria del potere con gli appassionati ritratti dei protagonisti, incrociando giornalismo e letteratura in modi inestricabili ed esemplari.*
 
 *In cortocircuito con il pensiero dominante lo scrittore rivendica l'assoluta libertà dello scrittore, in grado di giocare contemporaneamente su più fronti e al di sopra di tutti (Ferruccio Pinotti, curatore dell'edizione Adephi). Il libro scava le proprie intuizioni con la solidità di un basso rilievo, lasciando quali fondamentali lezioni che le conquiste democratiche siano «il bene più fragile» e la psicologia dei dittatori sia particolarmente «violenta e timida», lanciando inoltre inascoltati appelli per «l'arte di difendere lo Stato» che somigliano in modo inquietante a consigli su come occuparlo. In questa logica, l'«intelligenza allo stato di natura» di Stalin, «il solo uomo di Stato europeo che abbia saputo trarre profitto dalla lezione dell'ottobre 1917», deve necessariamente prevalere su Trotzki «dominato dall'ambizione e dall'immaginazione» e sul suo tentativo d'impadronirsi del potere. Questo libro, per quanto legato ineluttabilmente all'imporsi dei totalitarismi degli anni Trenta, lascia sospesa la denuncia dell'«ostinata cecità della leadership europea, inamovibile nella sua indefessa e perseverante convinzione che le sole tradizionali misure di polizia potessero esser sufficienti a sventare ogni minaccia di insurrezione armata, sia popolare che militare» ([Ilenia Bernardini](#0))*
 
@@ -32,7 +32,7 @@ categories:
 
 Se lo stratega della rivoluzione bolscevica è Lenin, il tattico del colpo di Stato dell'ottobre 1917 è Trotzki. Al principio del 1929, trovandomi in Russia, ho avuto l'occasione d'intrattenermi con vari comunisti, incontrati negli ambienti più diversi, sulla parte avuta da Trotzki nella rivoluzione. La tesi che circola ufficialmente nell'URSS, sul conto di Trotzki, è quella di Stalin: ma dappertutto, specialmente a Mosca e Leningrado, dove il partito trokziano era più forte che altrove, ho udito esprimere su Trotzki giudizi che non si accordano molto con quelli di Stalin. Il solo che non abbia risposto alle mie domande è Lunatciarski, e la tesi di Stalin non mi è stata giustificata obiettivamente che da Madame Kamenew; ciò che non può sorprendere, quando si pensi che Madame Kamenew è la sorella di Trotzki.
 
-Non tocca a me entrare nella polemica fra Stalin e Trotzki a proposito della *"rivoluzione permanente"* e della parte sostenuta da Trotzki nel colpo di Stato dell'ottobre 1917. Stalin nega che Trotzki sia stato l'organizzatore dell'insurrezione, e ne rivendica il merito alla Commissione formata da Sverdlow, Stalin, Boubnow, Ouritzi e Dzejinski. Quella Commissione, nella quale non figuravano né Lenin né Trotzki, era parte integrante del Comitato militare internazionale rivoluzionario, di cui Trotzki era il Presidente. La polemica fra Stalin e il teorico della *"rivoluzione permanente"* non può cambiare la storia dell'insurrezione d'Ottobre, che afferma Lenin, fu organizzata e diretta da Trotzki. Lenin è lo stratega, l'ideologo, l'animatore, l'\_homo ex machina \_della rivoluzione; ma il creatore della tecnica del colpo di Stato bolscevico è Trotzki.
+Non tocca a me entrare nella polemica fra Stalin e Trotzki a proposito della *"rivoluzione permanente"* e della parte sostenuta da Trotzki nel colpo di Stato dell'ottobre 1917. Stalin nega che Trotzki sia stato l'organizzatore dell'insurrezione, e ne rivendica il merito alla Commissione formata da Sverdlow, Stalin, Boubnow, Ouritzi e Dzejinski. Quella Commissione, nella quale non figuravano né Lenin né Trotzki, era parte integrante del Comitato militare internazionale rivoluzionario, di cui Trotzki era il Presidente. La polemica fra Stalin e il teorico della *"rivoluzione permanente"* non può cambiare la storia dell'insurrezione d'Ottobre, che afferma Lenin, fu organizzata e diretta da Trotzki. Lenin è lo stratega, l'ideologo, l'animatore, l' *homo ex machina* della rivoluzione; ma il creatore della tecnica del colpo di Stato bolscevico è Trotzki.
 
 Nell'Europa moderna, il pericolo comunista, dal quale i governi debbono difendersi, non è la strategia di Lenin, è la tattica di Trotski. Non si può comprendere la strategia di Lenin all'infuori della situazione generale della Russia nel 1917. Ma la tattica di Trotzki non è vincolata alle condizioni generali del paese, la sua applicazione non dipende dalle circostanze, che sono indispensabili all'applicazione della strategia di Lenin: la tattica di Trotzki rappresenta il pericolo permanente di un colpo di Stato comunista in ciascun paese d'Europa. In altri termini, la strategia di Lenin non può essere applicata, in un qualunque paese dell'Europa occidentale, che sopra un terreno favorevole, con l'aiuto delle stesse circostanze che si erano verificate in Russia nel 1917.
 
@@ -56,7 +56,7 @@ La maggioranza parlamentare di sinistra era preoccupata dell'azione sindacale, c
 
 Le idee di Trotzki, su questo punto, sono molto nette. La tattica insurrezionale non dipende, per Trotzki, dalle condizioni generali del paese, e dall'esistenza di una situazione rivoluzionaria favorevole all'insurrezione. La Russia di Kerenski non presenta, all'applicazione della tattica dell'ottobre 1917, minori difficoltà dell'Olanda o della Svizzera.
 
-Le quattro circostanze specifiche, enunciate da Lenin in \_La malattia infantile del comunismo \_(e cioè la possibilità di associare la rivoluzione bolscevica alla liquidazione di una guerra imperialista; la possibilità di approfittare per qualche tempo della guerra tra due gruppi di potenze, che altrimenti si sarebbero unite per combattere la rivoluzione bolscevica; la possibilità di sostenere una guerra civile relativamente lunga, sia per la immensità della Russia, sia per il cattivo stato delle vie di comunicazione; l'esistenza di un movimento rivoluzionario borghese-democratico in seno alla massa dei contadini), circostanze che caratterizzavano la situazione in Russia nel 1917, non sono indispensabili alla riuscita di un colpo di Stato comunista.
+Le quattro circostanze specifiche, enunciate da Lenin in *La malattia infantile del comunismo* (e cioè la possibilità di associare la rivoluzione bolscevica alla liquidazione di una guerra imperialista; la possibilità di approfittare per qualche tempo della guerra tra due gruppi di potenze, che altrimenti si sarebbero unite per combattere la rivoluzione bolscevica; la possibilità di sostenere una guerra civile relativamente lunga, sia per la immensità della Russia, sia per il cattivo stato delle vie di comunicazione; l'esistenza di un movimento rivoluzionario borghese-democratico in seno alla massa dei contadini), circostanze che caratterizzavano la situazione in Russia nel 1917, non sono indispensabili alla riuscita di un colpo di Stato comunista.
 
 Se da quelle stesse circostanze, da quelle stesse condizioni, dalle quali dipendono la strategia di Lenin e la rivoluzione proletaria nei paesi dell'Europa occidentale, dipendesse anche la tattica dell'insurrezione bolscevica, non esisterebbe attualmente un pericolo comunista in ogni paese d'Europa.
 

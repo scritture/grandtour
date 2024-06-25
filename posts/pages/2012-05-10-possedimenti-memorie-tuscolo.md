@@ -2,18 +2,18 @@
 date: 2012-05-10
 title: Possedimenti e memorie della perduta città di Tuscolo
 categories:
-  - Claudio Comandini
-  - Frascati
-  - Roma
   - storia
+  - Frascati
   - Tuscolo
+  - Roma
+  - Claudio Comandini
 image:  /images/2010/07/custode.jpg
 author: Claudio Comandini
 ---
 
 *Tuscolo anima del medioevo romano. Le Goff: la dispersione locale dei poteri. Dispersione attuale del patrimonio archeologico. Distribuzione delle proprietà del feudo tuscolano: la rocca, i castelli, le torri, le coste, la via Latina. Congiunti e discendenti della potente casa baronale: i Colonna e gli altri. L'Aventino. I Templari al palazzo di Marozia e Alberico. Le chiese e i mitrei. Benedettini e basiliani. Papi e imperatori. Pellegrini e crociati. S. Pietro e l'immagine di Gerusalemme.*
 
-**1. Possedimenti**
+## 1. Possedimenti
 
 Ci sono storie che già in tempi lontani sembravano lontane, e figurarsi quindi a noi quanto possono sembrare distanti. Tuttavia, la loro influenza sugli eventi è stata enorme e di queste storie, tra loro intrecciate come radici, tuttora le strade di Roma e le pendici del Tuscolo nascondono le memorie: forse memorie morte, comunque avviluppate e fitte.
 
@@ -43,7 +43,7 @@ Congiunti e discendenti più diretti dei Conti tuscolani sono i Conti di Galeria
 
 Le vicende di Tivoli rappresentano un parallelo piuttosto interessante a quelle di Tuscolo, ed un altro elemento di decodifica della storia nascosta di Roma, che riguarda non tanto i monumenti del centro storico e la straordinaria capacità di assimilazione e di ospitalità che l'Urbe testimonia nel carattere composito dell'epoca dei Re e dell'Impero, quanto la spietata pretesa di dominazione e la rigida impostazione militare e fiscale, a cui si collega la sistematica distruzione delle città ribelli, già dal Gregorovius messa in evidenza come azione tipica sia della fase dell'antica Repubblica romana che del Comune medioevale. E infatti, della Tuscolo un tempo potente, oggi non ne resta più traccia.
 
-**2. Memorie**
+## 2. Memorie
 
 Se le storie di Tuscolo appartengono a pietre distrutte, spesso i documenti le riportano in modo frammentario e incerto. A Roma, alcune di queste storie sembrano incontrarsi, in tempi e modi diversi, in un palazzo celebre ancora oggi ma per altre attrattive, appartenuto a illustri proprietari che quasi nessuno ricorda, ancora visibile sull'Aventino e nell'antichità noto per essere luogo di sepoltura di Remo, fratello del fondatore della città.
 

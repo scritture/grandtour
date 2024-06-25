@@ -1,15 +1,14 @@
 ---
 categories:
-  - Claudio Comandini
   - letteratura
   - musica
   - narrazioni
   - Basso impero
   - Frascati
   - Roma
+  - Claudio Comandini
 date: '2012-05-09'
 title: 'Ballate e danze dal Basso Impero'
-excerpt: "Un'intensa ricerca di amore, libertà, conoscenza, esperita in presenza del gioco vitale degli elementi, del mistero del dì e della notte, della parola e del silenzio."
 image:  /images/2012/05/telegono-1-494x381.jpg
 author: Claudio Comandini
 layout: PostLayout
@@ -50,6 +49,8 @@ La giustificazione, forma di menzogna, è una delle più stupide ma la più cont
 ### [COME IN UN SOGNO](https://soundcloud.com/claudio_comandini/gioia)
 
 La televisione è spenta, staccata la spina. Sul muro c'è un calendario senza giorni e vengono gli operai a fare i lavori. Ho le tasche piene di monete. E Serena mi porta un supplì. Con Jimmy Santorini troviamo una bella canna di bambù e la regaliamo al creatore, che la usa per fare il male. Allora gliela togliamo e la regaliamo a un poverello.
+
+•
 
 *Brani tratti e adattati da: Claudio Comandini, "Basso Impero", Sovera, Roma 2006, pp. 9-10, 22, 35-36, 40, 48; Registrazioni: Sound Club, Marino, maggio 2007.*
 

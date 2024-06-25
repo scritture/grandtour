@@ -8,6 +8,7 @@ categories:
   - Islam
   - Dante
   - Averroè
+  - Baader
   - Heidegger
   - Miguel Asìn Palacios
   - Claudio Comandini

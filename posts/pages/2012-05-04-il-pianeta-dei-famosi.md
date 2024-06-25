@@ -7,7 +7,6 @@ categories:
   - Claudio Comandini
 date: '2012-05-04'
 title: Il pianeta dei famosi
-excerpt: 'Ormai ci sono festival per tutto, premi per ogni cosa, manifestazioni e trasmissioni per qualsiasi prurito. I quindici minuti di celebrità procapite di cui Andy Warhol annunciava profeticamente la promessa si sono trasformati in una minacciosa realtà.'
 image: /images/2016/07/studium-678x381.jpg
 author: Claudio Comandini
 ---

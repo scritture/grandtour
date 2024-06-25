@@ -40,7 +40,6 @@ E pescatori reti a riparare...\
 
 ## LA SERA PRIMA DEL GIORNO DOPO
 
-\
 La sera prima d'incontrarci\
 avevo incontrato un'altra, tu eri altrove,\
 l'amico si perse sotto la pioggia per un mio ritardo\
@@ -62,7 +61,6 @@ sfere prima che l'ora scocchi.\
 
 ## PAVANE (danza d'amore e morte)
 
-\
 Misurando il passo, lenta nella cadenza\
 terribile nell'incedere, splendida come lama\
 incide a fuoco il cuore d'ogni segreto\
@@ -77,7 +75,7 @@ senza mai sciogliere il nodo fra disgrazia e\
 \
 benedizione.\
 \
-*Autunno 1998 - Premio Internazionale Domenico Stromei, Tocco di Casauria, 2000*
+*Autunno 1998 - Premio Internazionale Domenico Stromei, Tocco di Casauria, 2000*\
 
 ## RELATIVITÁ
 
@@ -117,7 +115,6 @@ E PENSACI TU A SEPPELLIRE DIO.\
 
 ## GRANDE CONCORSO A PREMI LA POESIA OGGI
 
-\
 Certa gente vorrebbesi dichiarar poeta\
 Perché magari su di un foglio imbratta\
 Il vago lamento\
@@ -153,6 +150,7 @@ Dal fossato al firmamento precipita.\
 \
 *Inverno 1989, inverno 1993 - Slam Poetry, Colonna 2001*
 
+\
 •
 
 *"Porto mediterraneo" e "Grande premio a premi la poesia oggi" sono pubblicate su "Un giorno lungo un sogno", 2001; "Zona Limite" e "La sera prima d'incontrarci" su "Antologia del premio D'Annunzio e Michetti", 2000; "Pavane - Canzone d'amore e morte" sull'antologia "Premio internazionale Città di Tocco di Causaria", 2000; "Guerra virtuale e reale" è presente in una versione musicata sul CD audio "Parachuting Nonsense!", 2009 e in un'altra versione sul mio [Soundcloud](https://soundcloud.com/claudio_comandini). Tutti i libri sono stati pubblicati dalle edizioni Noubs di Chieti, il CD è uscito per la label Setola di Maiale di Pordenone; la disponibilità delle opere è al momento esaurita.*

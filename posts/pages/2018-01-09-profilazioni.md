@@ -4,11 +4,11 @@ date: '2018-01-09'
 image: /images/2018/01/urna.png
 author: Renato Curcio
 categories:
-  - comunicazione
-  - economia
   - politica
-  - Renato Curcio
+  - economia
+  - comunicazione
   - Internet
+  - Renato Curcio
 ---
 
 *Denunciare una realtà e svelarne il nome, per quanto scomodo possa essere, significa iniziare a trasformarla: la politica dovrebbe saperlo, eppure fa finta di niente. Assecondare luoghi comuni, pure laddove venga fatto con buone intenzioni, vuol dire lasciare le cose come stanno: la cosidetta cultura dovrebbe preoccuparsi di questo, altrimenti è un'altra cosa. Svelare l'ideologia implicita della digitalizzazione e demistificare le illusioni di progresso sociale e di smisurata libertà di Internet potrebbe contribuire a tutelare e proteggere le nostre autentiche libertà e anche a fare buon uso della Rete: questo non accade, ma bisogna comunque provvedere a farne crescere la consapevolezza. Il sociologo Renato Curcio sulle trasformazioni indotte dal digitale ha pubblicato L'impero virtuale (2015), L'egemonia digitale (2016), La società artificiale (2017).* *Il primo libro descrive come l'egemonia di aziende che gestiscono i dati legati all'utilizzo dei dispositivi digitali disegnino mappe concettuali di desideri e necessità della popolazione mondiale. Il secondo si concentra sulle ricadute di Internet nelle condizioni concrete del mondo del lavoro, e chiude denunciando le sue patologie: autismo digitale, obesità tecnologica, ethos della quantità, smarrimento dei limiti. Il terzo, sempre affiancando questioni strutturali e testimonianze vissute, si apre focalizzando lo sfruttamento digitale delle relazioni umane, laddove sono gli strumenti tecnologici che, seguendo uno schema capitalistico, usano come loro protesi persone ridotte a fonti di dati.*

@@ -4,10 +4,9 @@ author: "Claudio Comandini"
 images:
 date: '2022-08-29'
 categories:
-  - Claudio Comandini
-  - scrittura
   - filosofia
   - poesia
+  - Claudio Comandini
 ---
 
 ![](/images/immagini_scritture/daunafinestra.jpg)

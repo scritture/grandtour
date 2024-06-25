@@ -1,11 +1,11 @@
 ---
 categories:
-  - comunicazione
   - filosofia
-  - Claudio Comandini
+  - comunicazione
   - società
   - Husserl
   - Pasolini
+  - Claudio Comandini
 date: '2022-02-02'
 title: "Intellettuale chi?"
 author: "Claudio Comandini"
