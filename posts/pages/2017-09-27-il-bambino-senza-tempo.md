@@ -10,12 +10,9 @@ categories:
   - religioni
   - società
   - guerra globale
-  - Medio Oriente
-  - Mediterraneo
-  - Michele Iacono
-  - narrazioni
   - Siria
   - Turchia
+  - Michele Iacono
 ---
 
 *Il romanzo di Michele Iacono* Il bambino senza tempo*, di cui qui presentiamo il primo capitolo, prende lo spunto da un fatto di cronaca: la morte di un bambino in un paese del Medio Oriente. Alfredo Bonafede, un uomo di mezza età dalla vita anonima, leggendo la notizia rimane profondamente colpito dalla frase pronunciata dal bimbo in punto di morte: «Lo dirò a Dio».* *Da quel momento, il protagonista rimane intrappolato in una sorta di sogno tra le strade del centro storico di Palermo, senza poterne uscire. Crede, o si illude, di poter salvare realmente il bambino da quella morte orribile, tornando indietro nel tempo, a un attimo prima che la bomba esplodesse: e così, intrappolato in uno strano loop temporale e narrativo, ci prova di continuo, fiducioso nonostante le insidie. Un orologio particolare gli permette di ricominciare la storia ogni volta, in ogni capitolo, dal suo inizio. Ad accompagnarlo in quest'avventura ci sono strani personaggi incontrati tra una piazza e l'altra della città. Il vecchio boss don Peppino, la cartomante Carlotta, il giornalista Tommaso Ferrero, la coppia di trans Viola e Paola, la quasi anoressica Esterina che confeziona bambole e vive con le zie che realizzano ex voto, l'affascinante Liliana col neo sopra le labbra dietro la quale si cela Lucifero. In questo microcosmo di umanità, che si dibatte nell'assurda realtà dell'esistenza, si sviluppano i temi del rapporto tra Dio e l'uomo, della morale, della cultura, delle illusioni.*

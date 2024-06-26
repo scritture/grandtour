@@ -4,22 +4,17 @@ date: '2017-11-07'
 author: Claudio Comandini
 image:  /images/2017/10/Battisti_noir-1.jpg
 categories:
-  - Claudio Comandini
   - filosofia
   - letteratura
   - narrazioni
   - politica
   - società
-  - Cesare Battisti
-  - Hans-Dieter Bahr
-  - Italia
   - Lello Voce
-  - lotta armata
   - Perniola
-  - Processo 7 Aprile
-  - Sessantotto
-  - Settantasette
+  - Hans-Dieter Bahr
   - Toni Negri
+  - Cesare Battisti
+  - Claudio Comandini
 ---
 
 *Piccolo viaggio negli anni di piombo e i suoi fantasmi senza agiografie né riprovazioni. Vita e opere di Cesare Battisti. Prassi e teoria del Processo 7 Aprile. Politica, informazione e terrorismo secondo Toni Negri, Giovanna Procacci, Giorgio Grossi, Hans-Dieter Bahr. Censure e dintorni.*
