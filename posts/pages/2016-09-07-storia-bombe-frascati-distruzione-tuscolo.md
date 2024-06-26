@@ -4,19 +4,20 @@ date: 2016-09-07 10:00:46+00:00
 image: /images/2016/09/persistenza-delle-rovine-678x381.jpg 
 title: La storia e i giorni. Le bombe su Frascati e la distruzione di Tuscolo 
 categories: 
-  - Claudio Comandini 
+  - storia 
   - geopolitica 
   - politica 
   - società 
-  - storia 
-  - Frascati 
-  - Germania 
-  - guerra 
-  - Hitler 
-  - Mussolini 
-  - Raimondo Del Nero 
+  - guerra
+  - Frascati
   - Roma 
   - Tuscolo 
+  - Berlino
+  - Hitler 
+  - Mussolini
+  - Roosevelt
+  - Raimondo Del Nero
+  - Claudio Comandini
 ---
 
 *Il Vulcano Laziale e le anime dei morti. II Guerra Mondiale e storia di Roma nel medioevo. Le prime bombe su Frascati e l'ultimo assedio a Tusculum. Un'icona e i monumenti di una piazza. Douhet: legittimazione teorica delle stragi civili. Storia e memoria dell'8 settembre 1943 e del17 aprile 1091. Dopoguerra e attualità. Freud e le nevrosi della Campagna Romana. L'oblio e le città.*

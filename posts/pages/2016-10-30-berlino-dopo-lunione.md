@@ -1,5 +1,4 @@
 ---
-socialImage: /images/shop/caludio_libreria.jpg
 addTitleSuffix: true
 colors: colors-a
 author: Claudio Comandini
@@ -9,33 +8,29 @@ link: http://redazione.scritture.net/mag/berlino-dopo-lunione/
 slug: berlino-dopo-lunione
 title: Berlino dopo l'unione
 categories:
-  - cinema
-  - Claudio Comandini
-  - economia
+
   - filosofia
-  - geopolitica
-  - letteratura
-  - musica
-  - poesia
-  - società
   - storia
+  - geopolitica
+  - economia
+  - letteratura
+  - poesia
+  - musica
+  - cinema
+  - società
   - architettura
-  - Berlino
-  - Derrida
-  - Fukuyama
-  - Germania
-  - Guerra Fredda
-  - Hegel
-  - Huntington
-  - Kant
-  - Libeskind
-  - Marx
-  - metropoli
-  - Naomi Klein
-  - Nietzsche
-  - rock
-  - sessualità
   - urbanistica
+  - Berlino
+  - Kant
+  - Hegel
+  - Marx
+  - Nietzsche
+  - Huntington
+  - Fukuyama
+  - Derrida
+  - Libeskind
+  - Naomi Klein
+  - Claudio Comandini
 ---
 
 *Benjamin: il paesaggio berlinese e l'orologio della storia. Il Muro, Checkpoint Charlie e la Deutsch Bank. Derrida e gli spettri. Frattura e unione nei Throbbing Gristle e negli Einstürzende Neubauden, e altre belle canzoni. Appunti di geofilosofia tra Hegel e Kant. Huntington: faglia e civiltà. Naomi Klein: critica delle politiche identitarie. Le Germanie al tempo della divisione: gli asili gratuiti, le case occupate, Bettina Wegner. Derek Jarman:* In the shadow of the sun. *Anni '80 e dopo: i sogni libertari svenduti al capitalismo. Postdamer platz: la linea di confine di Win Wenders, l'isolamento sociale di Roger Waters. Il Sony Center, la Kaisersaal e le architetture inventate.*

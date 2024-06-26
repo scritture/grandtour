@@ -10,22 +10,16 @@ date: 2016-10-11
 image: /images/2016/10/parlamento-fantasma.jpg
 title: Il continuo ritorno della Dama Bianca
 categories:
-  - antropologia
-  - Claudio Comandini
   - filosofia
   - letteratura
   - narrazioni
   - poesia
-  - società
-tags:
   - Berlino
-  - Claudio Comandini
   - Dama Bianca
   - Erasmo
-  - Hohenzollern
   - Leibniz
   - Simmel
-  - Sonderweg
+  - Claudio Comandini
 ---
 
 *Piccolo viaggio nel folklore tedesco alla ricerca del fantasma di una donna.*

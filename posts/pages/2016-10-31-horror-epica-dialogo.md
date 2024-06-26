@@ -7,13 +7,11 @@ title: L'epica stordita dell'horror americano
 categories:
   - cinema
   - letteratura
-  - Rivista
   - società
-  - horror
   - Lidia Riviello
 ---
 
-*Cos'è l'orrore in una società che sembra fatta di mostri in lotta tra loro, in uno scontro continuo tra il male e il peggio? Come narrare storie fatte di promesse mancate e i dialoghi senza voce? La scrittrice Lidia Riviello (*L'infinito del verbo andare, *2002;* Sonnologie*, 2016), smontandone la tradizionale lettura catartica, inquadra l'horror nella sua essenziale capacità di far proliferare le immagini.*
+*Cos'è l'orrore in una società che sembra fatta di mostri in lotta tra loro, in uno scontro continuo tra il male e il peggio? Come narrare storie fatte di promesse mancate e i dialoghi senza voce? La scrittrice Lidia Riviello ("L'infinito del verbo andare", 2002; "Sonnologie", 2016), smontandone la tradizionale lettura catartica, inquadra l'horror nella sua essenziale capacità di far proliferare le immagini.*
 
 L'horror americano degli anni settanta e ottanta trae la sua origine dalla propria fine. Nel circuito poco meno che molecolare delle sue immagini, la scena è altamente astratta, quasi sospesa fra vita e morte. In realtà, non c'è parallelismo, come invece si potrebbe pensare, tra lo stato euforico e quello immalinconente: piuttosto, uno fagocita l'altro in una circolarità continua e generatrice di rinvii all'eternità del quotidiano.
 

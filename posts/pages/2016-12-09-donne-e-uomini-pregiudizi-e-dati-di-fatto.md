@@ -5,11 +5,11 @@ date: 2016-12-09 11:00:02+00:00
 image: /images/2016/12/man-161247_1280.png
 title: 'Donne e uomini: pregiudizi e dati di fatto'
 categories:
-  - antropologia
+  - sessualità
+  - psicologia
   - scienza
   - società
   - Caterina Stile
-  - sessualità
 ---
 
 *Fino a che punto uomini e donne sono simili, dove sono differenti? Può sembrare incredibile, ma in un mondo che spesso è tentato di liquidare le questioni di genere e specie senza averle mai comprese davvero, occorre di nuovo interrogarsi sulle basi elementari della sessualità evitando il vizio di ridurle a questioni linguistiche e senza considerare quali dati di fatto le ingerenze della bioingegneria. Caterina Stile, divulgatrice scientifica e responsabile di sito «[Sapere e potere](http://www.saperepotere.it)», autrice del saggio "[Mi illudo- Le illusioni ottiche spiegate dal tuo cervello](http://www.saperepotere.it/ebook.html)", cerca di focalizzare alcuni aspetti fondamentali dei sessi e dei loro rapporti senza assecondare pregiudizi vecchi e nuovi.*
