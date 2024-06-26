@@ -1,10 +1,7 @@
 ---
-excerpt: ''
 socialImage: /images/shop/caludio_libreria.jpg
 addTitleSuffix: true
-
 author: Claudio Comandini
-
 date: 2016-07-15 10:00:01+00:00
 image: /images/2016/06/capo-volto-459x381.jpg
 link: http://redazione.scritture.net/mag/brexit-come-perdere-contro-se-stessi/
@@ -63,7 +60,7 @@ I Kinks, gruppo british per eccellenza, avevano offerto il lucido affresco di un
 
 Un *«nichilismo della forza»*, memore del sempre-dolce-dolce Federico N., trova forma nei PIL-Public Image Ldt, che prendono distanza dalla spettacolarità a tutti i costi, ricordandoci, con tracce enigmatiche come [*Radio 4*](https://www.youtube.com/watch?v=4rVheVCkdEc) (1979, precedentemente conosciuta come *What song is this?*) che si può essere profondamente punk pure in abiti eleganti. E così, per chi sa costruire storie e canzoni, e non perde tempo in rivendicazioni e parate, argomenti quali sesso estremo, travestitismo, droghe e omicidio diventano roba stupenda: come i Soft Cell, che ti fanno canticchiare con allegria [*Meet Murder my Angel*](https://www.youtube.com/watch?v=FjIu3aZyVX4) (1984). Qua e là ci sorprendono poi le domenica della vita, nelle quali emerge l'incanto: l'*«innocente allegria»* dell'arte che passa e va, di cui parlava Hegel, i mercatini dove puoi trovare sfere di cristallo, cappotti austroungarici e tutti i dischi che ti mancavano; e in uno di questi, gemme come [*Nine Cats*](https://www.youtube.com/watch?v=UdimcciEJh8) (1988) dei Porcupine Tree.
 
-E se i gatti in qualche modo ci somigliano, gli androidi hanno i nostri stessi difetti, peggiorati dall'ostinazione a non separarsi mai da smartphone e dall'ossessione per le notifiche; e dove la crudeltà degli androidi e del loro ambiguo rapporto con gli umani non stupiva Philip Dick, Douglas Adams nella *Guida Galattica per Autostoppisti* creò invece il paranoico Marvin: a questo si riferiscono i Radiohead in\* [\_Paranoid Android\*](https://www.youtube.com/watch?v=sPLEbAVjiLA) (1997). Tutto conduce verso la profezia più chiara del Brexit, contenuta in [*Black and White Cities*](https://www.youtube.com/watch?v=7sX4K0JRIDM) (2005) dei Doves, band di Winslow famosa a Manchester amata dai rugbisti; forse, non c'è nessuna chance, e il fatto che *«sbatteremo la testa sul pavimento»* è proprio nei piani di chi ci assiste. Soprattutto se ad assisterci è un ombra nera che sovrasta Londra, come ci ricordano i Current 93 in [*Lucifer over London*](https://www.youtube.com/watch?v=F7NM8d-p5Qg) (1994). Eppure, *«Siamo stanchistanchistanchi del seiseisei»*, e anche il demonio è ormai cosa banale. E, comunque vada, troveremo sempre qualche altra canzone per risollevarci.
+E se i gatti in qualche modo ci somigliano, gli androidi hanno i nostri stessi difetti, peggiorati dall'ostinazione a non separarsi mai da smartphone e dall'ossessione per le notifiche; e dove la crudeltà degli androidi e del loro ambiguo rapporto con gli umani non stupiva Philip Dick, Douglas Adams nella *Guida Galattica per Autostoppisti* creò invece il paranoico Marvin: a questo si riferiscono i Radiohead in\* [\_Paranoid Android\*](https://www.youtube.com/watch?v=sPLEbAVjiLA) (1997). Tutto conduce verso la profezia più chiara del Brexit, contenuta in [*Black and White Cities*](https://www.youtube.com/watch?v=7sX4K0JRIDM) (2005) dei Doves, band di Winslow famosa a Manchester amata dai rugbisti; forse, non c'è nessuna chance, e il fatto che *«sbatteremo la testa sul pavimento»* è proprio nei piani di chi ci assiste. Soprattutto se ad assisterci è un ombra nera che sovrasta Londra, come ci ricordano i Current 93 in qualche modo memori di William Blake in [*Lucifer over London*](https://www.youtube.com/watch?v=F7NM8d-p5Qg) (1994). Eppure, *«Siamo stanchistanchistanchi del seiseisei»*, e anche il demonio è ormai cosa banale. E, comunque vada, troveremo sempre qualche altra canzone per risollevarci.
 
 •
 

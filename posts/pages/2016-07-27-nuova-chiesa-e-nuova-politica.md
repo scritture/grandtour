@@ -4,15 +4,12 @@ date: 2016-07-27 10:00:12+00:00
 image: /images/2016/07/Via-Crucis-444x381.jpg
 title: Nuova Chiesa e nuova politica
 categories:
-  - politica
+  - Cristianesimo
   - religioni
   - società
-tags:
-  - cattolicesimo
-  - George Weigel
-  - riforme
-  - Scritture
+  - Roma
   - USA
+  - George Weigel
 ---
 
 *Le sfide dei cambiamenti e la riforma cattolica. Il definitivo tramonto dell'era della Controriforma e il dispiegarsi del Concilio Vaticano II permette di approfondire quanto la storia ha già modellato nella Chiesa voluta da Cristo: potremmo anche scoprire che il Dio della Bibbia non è il nemico di libertà e scienze, e rispondere agli appelli politici di un mondo confuso. Ne parla l'attivista cattolico statunitense George Weigel (Baltimora, 1951), sostenitore di un dialogo interreligioso razionale e di un etica priva di illusioni, nel libro "Cattolicesimo evangelico" (edizione americana 2013, traduzione italiana 2016).*
@@ -43,8 +40,8 @@ Queste minacce ai religiosi e alla libertà nelle democrazie sviluppate sono div
 
 Alcuni sapranno senza dubbio trovare dell'ironia in tutto ciò: la Chiesa cattolica presa di mira fin dall'illuminismo, a lungo identificata con l'ancien régime degli istituti ecclesiastici, la Chiesa cattolica fautrice della libertà religiosa e dei diritti umani, non è ancora morta, ma la cultura e quindi la storia è cambiata in modo che la Chiesa cattolica è oggi più importante del mondo istituzionale sostenitore dei diritti umani e della democrazia. Il cattolicesimo evangelico del XXI secolo si baserà su quella sorprendente evoluzione del ruolo della Chiesa nella vita pubblica per proteggere le fondamenta della casa della libertà, ovunque essa sia in pericolo (...). I grandi papi della tarda e postmodernità erano uomini lungimiranti, la cui profondità di fede ha permesso loro di piantare semi per il futuro, fiduciosi che ciò che è ben piantato cresce a suo tempo e nel tempo di Dio. Fiduciosi nel fatto che la profondità di fede deve essere integrata da una visione strategica. E nel cattolicesimo evangelico del futuro la visione strategica dei papi dovrà essere necessariamente trifocale: nutrire e guidare la veloce crescita della Chiesa nel Terzo Mondo, sviluppare strategie per la riconversione di un Occidente spiritualmente annoiato e affrontare la sfida dell'Islam jihadista.
 
-![Weigel](/images/2016/07/Weigel-207x300.jpg)
+![George Weigel, *Cattolicesimo evangelico*, Cantagalli 2016, 359 pp.](/images/2016/07/Weigel_front_cover.JPG){fig-align="center"}
 
-\_[George Weigel, "Che la Chiesa sia forza politica", «Il Foglio» 10.07.2016.](http://www.ilfoglio.it/chiesa/2016/07/10/chiesa-cattolica-consigli-papa-francesco-jihad-libro___1-v-144214-rubriche_c148.htm)\_
+[George Weigel, "Che la Chiesa sia forza politica", «Il Foglio» 10.07.2016.](http://www.ilfoglio.it/chiesa/2016/07/10/chiesa-cattolica-consigli-papa-francesco-jihad-libro___1-v-144214-rubriche_c148.htm)\_
 
 *Fotografia: Claudio Comandini, "Via Crucis" - Roma, aprile 2015.*
