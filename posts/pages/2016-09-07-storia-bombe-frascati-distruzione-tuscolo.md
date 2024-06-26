@@ -13,6 +13,7 @@ categories:
   - Roma 
   - Tuscolo 
   - Berlino
+  - USA
   - Hitler 
   - Mussolini
   - Roosevelt
