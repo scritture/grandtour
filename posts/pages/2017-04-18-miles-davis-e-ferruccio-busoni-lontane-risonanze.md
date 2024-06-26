@@ -1,16 +1,16 @@
 ---
-author: Claudio Comandi
+author: Claudio Comandini
 date: '2017-04-18'
 title: 'Miles Davis e Ferruccio Busoni: lontane risonanze'
 categories:
-  - Claudio Comandini
   - filosofia
   - musica
   - Berlino
-  - Ferruccio Busoni
   - Goethe
   - Leibniz
+  - Ferruccio Busoni
   - Miles Davis
+  - Claudio Comandini
 ---
 
 *Percorsi e sfide nella musica di Miles Davis e quella di Ferruccio Busoni. Pratica, pensiero, stili, innovazioni, eredità, ascolti e sogni.*

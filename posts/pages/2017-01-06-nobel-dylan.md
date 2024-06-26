@@ -11,11 +11,9 @@ categories:
   - musica
   - poesia
   - società
-  - Bob Dylan
-  - letteratura
-  - Patti Smith
-  - Premio Nobel
   - USA
+  - Patti Smith
+  - Bob Dylan
 ---
 
 *Bob Dylan ha ricevuto il Premio Nobel per la Letteratura per aver «creato una nuova poetica espressiva all'interno della canzone americana». Una sua lettera all'Accademia di Svezia. La partecipazione di Patti Smith alla cerimonia. Il testo di “A Hard Rain's A-Gonna Fall”.*
@@ -74,7 +72,7 @@ Quando il mattina seguente mi alzai, stava nevicando. Nella sala per la colazion
 
 Quando mio marito Fred è morto, mio padre mi ha detto che il tempo non può guarire tutte le ferite, e tuttavia ci fornisce gli strumenti per resistere loro. Ho trovato che questo è vero tanto nella più grande quanto nella più piccola delle questioni. Guardando al futuro, sono certo che la *«pioggia dura»* di *Hard Rain* non cesserà di cadere, e che tutti dovremo vigilare. L'anno volge al termine; il 30 dicembre eseguirò Horses con la mia band, e con mio figlio e mia figlia, nella città dove sono nata. E tutte le cose che ho visto, vissuto e ricordato saranno dentro di me, e anche il rimorso che ho provato così pesantemente si fonderà gioiosamente con tutti gli altri momenti. Settant'anni di attimi, settant'anni di essere umano.
 
-**•**
+•
 
 ## 3. A HARD RAIN'S A-GONNA FALL
 

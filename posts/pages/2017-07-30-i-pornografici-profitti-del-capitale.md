@@ -4,16 +4,15 @@ date: 2017-07-30 10:00:09+00:00
 image: /images/2017/11/natura_morta.jpg
 title: I pornografici profitti del capitale
 categories:
-  - antropologia
-  - economia
-  - politica
+  - sessualità
   - società
+  - politica
+  - economia
   - Internet
   - Mark Hay
-  - sessualità
 ---
 
-*Di [sesso oramai si parla](http://www.scritture.net/mag/le-parole-del-sesso-taciuto/) davvero tanto: è questo segno di una maggiore liberazione, oppure vuol dire che la sua effettiva esperienza si è in qualche modo allontanata? La prostituzione è accettata e convalidata e sembra addirittura  porsi come elemento di emancipazione sociale: ma siamo davvero più aperti e spregiudicati, oppure siamo soltanto maggiormente inibiti nel concepire gratuità e dono rispetto a quanto è intimo ed essenziale? Il digitale ha permesso alla pornografia varietà e disponibilità senza precedenti, questa impone i propri standard su qualsiasi produzione, le sue star si arrischiano a stabilire criteri etici e ontologici validi per tutti: ma siamo davvero emancipati, oppure semplicemente l'intercambialità delle merci e il profitto a tutti i costi si sono ormai imposti su ogni pratica? Vedere donne strisciare in pannolini, transessuali accoppiarsi con futanari, finti incesti e orge interrazziali e qualsiasi altra mania e qualsiasi altro fantasma, è davvero così eccitante oppure rischia di mortificare il nostro autentico erotismo? Chattare e accoppiarsi con chiunque sia disposto a fare da schermo alla nostra fantasia appartiene realmente all'ambito dell'incontro sessuale, oppure si limita a socializzare la masturbazione costringendoci alla regressione psichica? Stabilisce un campo nel quale poter articolare tali questioni Mark Hay, che si occupa di politica, sessualità, identità e delle loro intersezioni.*
+*Di [sesso oramai si parla](http://www.scritture.net/mag/le-parole-del-sesso-taciuto/) davvero tanto: è questo segno di una maggiore liberazione, oppure vuol dire che la sua effettiva esperienza si è in qualche modo allontanata? La prostituzione è accettata e convalidata e sembra addirittura porsi come elemento di emancipazione sociale: ma siamo davvero più aperti e spregiudicati, oppure siamo soltanto maggiormente inibiti nel concepire gratuità e dono rispetto a quanto è intimo ed essenziale? Il digitale ha permesso alla pornografia varietà e disponibilità senza precedenti, questa impone i propri standard su qualsiasi produzione, le sue star si arrischiano a stabilire criteri etici e ontologici validi per tutti: ma siamo davvero emancipati, oppure semplicemente l'intercambialità delle merci e il profitto a tutti i costi si sono ormai imposti su ogni pratica? Vedere donne strisciare in pannolini, transessuali accoppiarsi con futanari, finti incesti e orge interrazziali e qualsiasi altra mania e qualsiasi altro fantasma, è davvero così eccitante oppure rischia di mortificare il nostro autentico erotismo? Chattare e accoppiarsi con chiunque sia disposto a fare da schermo alla nostra fantasia appartiene realmente all'ambito dell'incontro sessuale, oppure si limita a socializzare la masturbazione costringendoci alla regressione psichica? Stabilisce un campo nel quale poter articolare tali questioni Mark Hay, che si occupa di politica, sessualità, identità e delle loro intersezioni.*
 
 ## 1. Il mercato del desiderio
 

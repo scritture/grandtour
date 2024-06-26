@@ -31,7 +31,7 @@ Nei racconti degli ospiti del *"tendone"*, l’assenza italiana di quella protez
 
 Giunto al venticinquesimo anno di vita e alla sua terza versione (Dublino III è entrato in vigore da pochi mesi), per il regista «*ha mostrato tutta la sua iniquità*», per esempio impedendo di ricongiungersi con la famiglia che già vive in uno Stato e accentuando così l’insicurezza delle persone in fuga che potrebbero invece contare sulla rete familiare. Visto dal tendone di Tor Marancia, il regolamento di Dublino è un paradosso. È l’immagine di un’Italia travagliata dalla crisi, inerte e incapace di sostenere politiche e logiche non emergenziali quando si tratta di immigrazione. Un Paese che si sente invaso da cittadini stranieri. I quali, come Rahell e tanti altri, sognano di andare altrove.
 
-![Terra-di-Transito-WEB_Small](/images/2017/11/Terra-di-Transito-WEB_Small.jpg)
+![](/images/2017/11/Terra-di-Transito-WEB_Small.jpg)
 
 •
 

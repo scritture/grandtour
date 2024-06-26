@@ -2,21 +2,23 @@
 date: '2016-12-31'
 title: 'Momenti della fine: tre religioni a confronto'
 categories:
-  - antropologia
-  - Claudio Comandini
   - filosofia
-  - geopolitica
-  - politica
   - religioni
   - storia
-  - Agamben
-  - Apocalisse
-  - Claudio Comandini
-  - Cristianesimo
-  - Ebraismo
+  - geopolitica
   - guerra
+  - Apocalisse
+  - Parusia
+  - Ebraismo
+  - Cristianesimo
   - Islam
+  - Gerusalemme
   - Tuscolo
+  - USA
+  - Kant
+  - Taubes
+  - Agamben
+  - Claudio Comandini
 image:  /images/2016/12/la-venuta-del-messia.jpg
 ---
 

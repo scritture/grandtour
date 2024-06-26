@@ -2,33 +2,30 @@
 date: '2017-02-10'
 title: Animali e uomini tra malattia e guarigione
 categories:
-  - antropologia
-  - arte
-  - Claudio Comandini
   - filosofia
   - letteratura
   - religioni
-  - musica
-  - scienza
   - società
-  - Agamben
-  - Barbara Carnevali
-  - Beatrix Potter
-  - Bruno
+  - arte
+  - musica
+  - Zenone
   - Cartesio
   - Galilei
-  - Giancarlo Mancori
-  - Heidegger
-  - Hume
+  - Bruno
   - Leibniz
-  - Lorenz
+  - Spinoza
+  - Hume
   - Nietzsche
+  - Heidegger
+  - Lorenz
   - Orwell
   - Perniola
-  - Pink Floyd
-  - Spinoza
+  - Agamben
+  - Barbara Carnevali
   - Walt Disney
-  - Zenone
+  - Beatrix Potter
+  - Giancarlo Mancori
+  - Claudio Comandini
 image:  /images/2017/02/Beatrix-Potter-Peter-Rabbit-1902.jpg
 author: Claudio Comandini
 ---
@@ -111,5 +108,4 @@ Se sapessimo davvero guardare gli animali come sono, se potessimo realmente vede
 
 *Parte dello scritto è stato pubblicato come prefazione a* Il sogno della natura *di Giancarlo Mancori - Catalogo della mostra fotografica al Policlinico di Tor Vergata (Fondazione PTV, Roma 2010).*
 
-*Illustrazione: Beatrix Potter, Peter Rabbit (1902)*
-*Fotografia: Giancarlo Mancori, Accoppiamento cavalieri d'Italia (2016)*
+*Illustrazione: Beatrix Potter, Peter Rabbit (1902)* *Fotografia: Giancarlo Mancori, Accoppiamento cavalieri d'Italia (2016)*

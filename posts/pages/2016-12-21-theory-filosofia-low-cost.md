@@ -7,20 +7,16 @@ link: http://redazione.scritture.net/mag/theory-filosofia-low-cost/
 slug: theory-filosofia-low-cost
 title: 'La “Theory”: una filosofia sintetica low cost'
 categories:
-  - comunicazione
   - filosofia
-  - Rivista
   - società
+  - comunicazione
   - Agamben
-  - Barbara Carnevali
   - Derrida
-  - François Cusset
   - Judith Butler
-excerpt:
-metaDescription: Diario
+  - Barbara Carnevali
 ---
 
-*Il radicalismo di maniera e la falsa anarchia rappresentano ormai il nuovo conformismo e, nonostante la loro inafferrabile e proteiforme imbecillità, hanno a supporto addirittura uno straccio di teoria: anzi, hanno dalla loro proprio quella macedonia di mezze idee rubacchiate qua e là e applicabile un po' a tutto che viene definita* “Theory” *e che pretende di essere filosofia laddove invece ne rappresenta la negazione. Ne parla [Barbara Carnevali](http://cral.ehess.fr/docannexe/file/1493/cv_english_carnevali_2013.pdf), insegnante di Estetica e Filosofia sociale a Parigi e autrice de* Le apparenze sociali. Una filosofia del prestigio(Il Mulino, Bologna 2012).
+*Il radicalismo di maniera e la falsa anarchia rappresentano ormai il nuovo conformismo e, nonostante la loro inafferrabile e proteiforme imbecillità, hanno a supporto addirittura uno straccio di teoria: anzi, hanno dalla loro proprio quella macedonia di mezze idee rubacchiate qua e là e applicabile un po' a tutto che viene definita “Theory” e che pretende di essere filosofia laddove invece ne rappresenta la negazione. Ne parla [Barbara Carnevali](http://cral.ehess.fr/docannexe/file/1493/cv_english_carnevali_2013.pdf), insegnante di Estetica e Filosofia sociale a Parigi e autrice de "Le apparenze sociali. Una filosofia del prestigio" (Il Mulino, Bologna 2012).*
 
 Un simulacro di filosofia, la *Theory*, si aggira per i dipartimenti del mondo intero. Non stiamo parlando dell'opera di un autore particolare, dal momento che molti acclamati *theorist* sono pensatori a tutti gli effetti, e nemmeno dell'autorevole scuola filosofica che ha rivendicato l'appellativo di Teoria Critica; ma di quella specie di scolastica postmoderna nota a chiunque insegni una materia umanistica all'università: un amalgama di idee e formule di varia provenienza disciplinare (prevalentemente filosofia, psicanalisi e sociologia), estratte da un canone di autori disparati ma accumunabili in una generica postura radicale (Marx, Nietzsche, Lacan, Foucault, Deleuze, Bourdieu, Agamben, Said, Spivak, Butler, Žižek, l'onnipresente Benjamin, l'uscente Derrida, la new entry Latour…), fuse in un solo crogiolo e ridotte a un'agenda tematica angusta: il potere, il *bios*, il genere, il desiderio e il godimento, il soggetto e le moltitudini, la coppia dominanti-dominati, il capitale e lo spettacolo, etc.
 

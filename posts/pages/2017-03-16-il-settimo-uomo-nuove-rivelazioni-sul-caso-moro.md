@@ -3,11 +3,11 @@ author: Claudio Comandini
 date: '2017-03-16'
 title: 'Il settimo uomo (nuove rivelazioni sul caso Moro)'
 categories:
-  - Claudio Comandini
   - poesia
   - politica
   - società
   - storia
+  - Claudio Comandini
 image:  /images/2017/03/Moro.jpg
 ---
 
