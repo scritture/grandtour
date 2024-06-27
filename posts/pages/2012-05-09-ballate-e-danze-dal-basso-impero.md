@@ -1,8 +1,8 @@
 ---
 categories:
   - letteratura
-  - musica
   - narrazioni
+  - musica
   - Basso impero
   - Frascati
   - Roma

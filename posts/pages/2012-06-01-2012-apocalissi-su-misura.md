@@ -4,19 +4,19 @@ date: '2012-06-01'
 title: '2012: apocalissi su misura'
 images: /images/2012/06/labyrintime-480x381.jpg
 categories: 
-  - Claudio Comandini 
-  - filosofia 
-  - fumetti 
+  - filosofia
   - religioni 
   - scienza 
+  - fumetti
   - società
-  - Agamben 
   - Cristianesimo 
   - Ebraismo 
   - Islam 
-  - Jung 
+  - Agamben 
   - Kant 
-  - Žižek 
+  - Jung 
+  - Žižek
+  - Claudio Comandini 
 ---
 
 ![](/images/2012/06/labyrintime-480x381.jpg){fig-align="center" width="480"}

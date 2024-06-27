@@ -4,17 +4,16 @@ date: 2012-09-15 10:00:15+00:00
 image: /images/2016/07/mit-aderen-mitteln-678x381.jpg
 title: Al Qaeda network. Il fondamentalismo islamico e le strategie reticolari
 categories:
-  - Claudio Comandini
-  - economia
   - filosofia
   - geopolitica
   - religioni
   - storia
+  - economia
+  - Islam
   - 11 settembre
   - Baudrillard
+  - Deleuze
   - Claudio Comandini
-  - Deleuze.
-  - Islam
 ---
 
 *Nuove sollevazioni nel mondo islamico e "The Innocence of Muslim". L'assalto all'ambasciata libica. Conseguenze in divenire. La sparizione di guerra e pace e le nuove forme di conflitto. Qiao Liang e Wang Xiang: strategie cinesi. Hard-Negri, De Benoist, Galli: simmetria e asimmetria. Mini: terrore e destabilizzazione. Henzesberger: i perdenti radicali. Breve storia del fondamentalismo islamico. La formazione di Al Qaeda nel contesto afgano, la sua diffusione per la Jihad globale, il costituirsi dell'alqaedismo orizzontale. Loretta Napoleoni e l'economia kamikaze. Filosofia dei network. Deleuze-Guattari: connessione ed eterogeità. Caracciolo: omogeneità e sincronizzazione. Al Qaeda e Facebook.*

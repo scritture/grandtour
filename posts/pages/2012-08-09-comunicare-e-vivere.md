@@ -4,21 +4,19 @@ date: 2012-08-09 10:00:44+00:00
 image: /images/2016/07/incomunicazioni-678x381.jpg
 title: 'Comunicare è vivere?' 
 categories: 
-  - Claudio Comandini 
   - comunicazione 
   - filosofia
-  - società 
-  - 11 settembre 
-  - Bernays 
-  - Cicerone 
-  - Claudio Comandini 
+  - sessualità
+  - psicologia
+  - società
+  - Internet
+  - 11 settembre
+  - Cicerone
   - Freud 
-  - Internet 
   - Lacan 
   - Perniola 
-  - sessualità
-  - psicologia 
-  - Žižek 
+  - Žižek
+  - Claudio Comandini 
 ---
 
 *La comunicazione ieri e oggi. Habermas e la comunicazione sociale. Perniola e la critica della comunicazione. La desessualizzazione nel fascismo e nella pornografia. Gandhi e il Duce: usi pubblicitari e improbabilità storiche. Psicologia sociale e marketing tra Le Bon, Freud, Berneys. L'inconscio in Lacan. Nevrosi e psicosi. Democrazia e manipolazione.*
@@ -79,7 +77,7 @@ Circondati da un pensiero dominante che sembra democratico ma procede con un alt
 
 Comunicare è vivere. Ma cos'è comunicare", e cos'è vivere?
 
-•
+Riferimenti:
 
 [\[1\]](http://www.claudiocomandini.net/comunicare-e-vivere/#_ftnref1) Marco Tullio Cicerone, *L'arte di comunicare* (antologia dalle opere *De Oratore, De Inventione, Orator, Brutus*, I sec. A.C.), introduzione di Paolo Marsich, Mondadori, Milano 2007, pp. 9, 87.
 

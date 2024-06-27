@@ -5,12 +5,11 @@ image: /images/2016/07/faceworld-678x381.jpg
 title: 'Facebook, la borsa e le relazioni'
 categories:
   - comunicazione
-  - Claudio Comandini
   - economia
   - società
-  - Claudio Comandini
   - Internet
   - Perniola
+  - Claudio Comandini
 ---
 
 *Relazioni e utenti. Borsa e social network. Contatti e amicizie. Differenza tra new economy e social business. Similiarità tra net economy e old economy. I primi tre giorni di contrattazioni. La Morgan Stanley gioca d'azzardo. Società cognitiva e inibizione di giudizio.*

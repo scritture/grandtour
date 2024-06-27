@@ -4,16 +4,14 @@ date: 2012-06-06 10:00:29+00:00
 image: /images/2016/07/musica-da-passeggio-678x381.jpg
 title: Musica e contemporanei 
 categories: 
-  - Claudio Comandini 
+  - musica
   - filosofia 
-  - musica 
-tags: 
-  - Agamben 
-  - Claudio Comandini 
-  - Giancarlo Schiaffini 
-  - Hindemit 
-  - improvvisazione 
+  - improvvisazione
   - Istanbul
+  - Agamben 
+  - Hindemit
+  - Giancarlo Schiaffini 
+  - Claudio Comandini 
 ---
 
 *Contemporanei tra luci e ombre: Agamben. Musiche di Jolivet, Copland, Hindemit, Arutiuniam, Wiltgen, Carisi, Sauter, Wolff, Wolpe, Günter Muller-Otomo Yoshihide, Butch Morris-Istanbul conduction, Giancarlo Schiaffini-Thurston Moore-Walter Prati.*

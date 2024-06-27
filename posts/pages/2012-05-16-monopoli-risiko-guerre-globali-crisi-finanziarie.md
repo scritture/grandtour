@@ -5,14 +5,16 @@ date: '2012-05-16 10:00:24+00:00'
 image: /images/2016/07/giochi-di-guerra-678x381.jpg 
 title: Monopoli e Risiko! Guerre globali e crisi finanziarie 
 categories: 
-  - Claudio Comandini 
   - economia 
   - geopolitica 
   - storia 
   - 11 settembre 
-  - Freud
   - Islam
   - USA
+  - Freud
+  - Fukuyama
+  - Huntington
+  - Claudio Comandini 
 ---
 
 *Monopoli e Risiko! Regole e influenza. Teorie del gioco: Groos, Freud, Piaget. Fukuyama contro Huntington e loro due contro tutti. Le vendite allo scoperto alla vigilia dell'11 settembre 2001. I movimenti finanziari secondo l'antiterrorismo israeliano. La Deutsch Bank. A.B. "Buzzy" Krongart, direttore esecutivo della CIA. Speculazioni a Londra nel 2005. Soldi non prelevati. La famiglia Bin Laden. Il Gruppo Carlyle, interessi e ramificazioni. Gli affari di Bush jr. Le élite saudite. L'intelligence pakistana. Bin Laden, finanziatori e organizzazioni. Il dissanguamento dell'economia americana. Iraq. Iran. Rapporti tra potenze nell'area.*
@@ -129,7 +131,7 @@ L'Iran, da parte sua, dimostra inizialmente solidarietà all'America e desidera 
 
 La capacità di Monopoli e Risiko! di fungere da modelli scenari e scenari è ormai arrivata al punto di sostituire le altre realtà. E ora, a chi stanno i dadi?
 
-•
+## Riferimenti
 
 [\[1\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref1) Karl Groos, *Die Spiele der Thiere, \_Jena 1896**;** \_Die Spiele der Menschen*, Jena 1899.
 

@@ -4,21 +4,17 @@ author: Claudio Comandini
 date: '2012-09-05 10:00:15+00:00'
 title: 'Bologna e le dodici chiavi dello zodiaco. Porta Lame, in Fa maggiore'
 categories:
-  - arte
-  - Claudio Comandini
   - musica
+  - improvvisazione
   - scienza
   - storia
-  - 8 settembre
+  - guerra
   - Bologna
   - Cicerone
-  - Claudio Comandini
   - Dante
-  - II Guerra Mondiale
-  - arte
-  - improvvisazione
   - Schönberg
   - Žižek
+  - Claudio Comandini
 ---
 
 *Le mura e le porte di Bologna. Corrispondenze: porte della città, segni zodiacali, tonalità musicali. Porta Lame, il Porto di Navile, la Manifattura Tabacchi, l'Archivio Notarile. La battaglia del 7 novembre 1944. L'asteroide Bonomia. Metafisica e impressionismo. Le forme retoriche nell'improvvisazione musicale. Anarchismo epistemologico e istant composition.*

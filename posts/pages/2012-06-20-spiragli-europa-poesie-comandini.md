@@ -4,78 +4,56 @@ date: 2012-06-20 10:00:22+00:00
 image: /images/2016/07/il-negozio-delle-chiavi-572x381.jpg
 title: Spiragli sull'Europa. Quattro poesie.
 categories:
-  - Claudio Comandini
   - poesia
-tags:
-  - Claudio Comandini
   - Europa
-  - poesia
-  - viaggi
+  - Claudio Comandini
 ---
 
 *Quattro poesie di viaggio: Texel, Praga, Monaco, Sitges.*
 
-**LA FABBRICA DELLE NUVOLE**
+## LA FABBRICA DELLE NUVOLE
 
-Nuvole dall'elefantessa bianca partorite
+Nuvole dall'elefantessa bianca partorite\
+Nuvole nel punto morto superiore\
+Nuvole come confezioni di supposte\
+Nuvole in accordo di terza maggiore\
+\
+*texel, estate 88*\
 
-Nuvole nel punto morto superiore
+## AL VECCHIO CIMITERO EBRAICO DI PRAGA
 
-Nuvole come confezioni di supposte
+E lapidi su lapidi alla terra abbandonate\
+La memoria di un ciottolo o una cifra\
+Grappoli d'uva sull'arenaria scolpiti.\
+E l'uno sull'altro nove livelli di sepolti\
+Parole di una lingua da nessuno più compresa\
+L'intreccio dei sambuchi protende le radici.\
+\
+*praga, inverno 91*\
 
-Nuvole in accordo di terza maggiore
+## OCCASIONI SMARRITE
 
-*texel, estate 88*
+Nella piazza del municipio di Monaco\
+(dove statue e carillon il meriggio annunciano)\
+sugli strepiti della folla tranquilla\
+il sole si uccide con passo leggero.\
+\
+Del sol levante passa raminga un'ombra\
+e un cenno mi fa.\
+Va. Perdo il rimbalzo - l'attimo fugge.\
+Nell'oscurità la cerco inutilmente\
+e nella memoria mi insegue ancora.\
+\
+*monaco, estate 87*\
 
-**AL VECCHIO CIMITERO EBRAICO DI PRAGA**
+## ABBAZIA DI SITGES
 
-E lapidi su lapidi alla terra abbandonate
-
-La memoria di un ciottolo o una cifra
-
-Grappoli d'uva sull'arenaria scolpiti.
-
-E l'uno sull'altro nove livelli di sepolti
-
-Parole di una lingua da nessuno più compresa
-
-L'intreccio dei sambuchi protende le radici.
-
-*praga, inverno 91*
-
-**OCCASIONI SMARRITE**
-
-Nella piazza del municipio di Monaco
-
-(dove statue e carillon il meriggio annunciano)
-
-sugli strepiti della folla tranquilla
-
-il sole si uccide con passo leggero.
-
-Del sol levante passa raminga un'ombra
-
-e un cenno mi fa.
-
-Va. Perdo il rimbalzo - l'attimo fugge.
-
-Nell'oscurità la cerco inutilmente
-
-e nella memoria mi insegue ancora.
-
-*monaco, estate 87*
-
-**ABBAZIA DI SITGES**
-
-I flutti muoiono sulle mura
-
-Costellate di bianche torricelle
-
-Nei vicoli si sporgono figure
-
-Dalle mura implorano la morte
-
-*sitges, inverno 85*
+I flutti muoiono sulle mura\
+Costellate di bianche torricelle\
+Nei vicoli si sporgono figure\
+Dalle mura implorano la morte\
+\
+*sitges, inverno 85*\
 
 •
 
@@ -87,7 +65,7 @@ Autori:
 
 Riccardo Angiolani - Francesco Ardolino - Attilia Bellia - Marco Bellocchi - Nicola Biondo - Valerio Bispuri - Simone Caltabellota - Stefano Campa - Marco Cassini - Adele Ciampa - Andrea Colace - Claudio Comandini - Francesco Consiglio - Mario De Felicis - Carla De Simone - Michele Fianco - Fabrizia Gianì - Patrizia Licata - Ippolito Maccio - Gianni Maddalena - Maja Maiore - Marcello Manunza -- Alessandro Mariotti - Anna Matos - Menelvagor - Enrico Monier - Alessia Muroni - Gianni Nicolai - Vincenzo Ostuni - Gianfranco Osu - Paolo Pagnoncelli - Gianni Palocci Poveri - Lorenzo Pompeo - Luciana Preden - Laura Pugno - Dante Quaglietta - Lidia Riviello - Elena Sagretti - Alessio Saitta - Giovanna Salabè - Antonio M. Salvemini - Alimberto Torri - Igor Venturini
 
-*Prima pubblicazione: AAVV, LARP - LABORATORIO APERTO DI RICERCA POETICA, Millelire-Stampa Alternativa, Roma 1993. \_Le poesie sono state successivamente incluse nel libro "Un giorno lungo un sogno" (Noubs, Chieti 2001), e sono qui presenti nelle loro versioni definitive.*
+*Prima pubblicazione: AAVV, LARP - LABORATORIO APERTO DI RICERCA POETICA, Millelire-Stampa Alternativa, Roma 1993 Le poesie sono state successivamente incluse nel libro "Un giorno lungo un sogno" (Noubs, Chieti 2001), e sono qui presenti nelle loro versioni definitive.*
 
 •
 

@@ -6,13 +6,13 @@ link: http://redazione.scritture.net/mag/litalia-ha-vinto/
 slug: litalia-ha-vinto
 title: "L'Italia ha vinto"
 categories:
-  - Claudio Comandini
+  - narrazioni
+  - musica
+  - società
   - Basso impero
   - Frascati
-  - letteratura
-  - musica
   - Roma
-  - società
+  - Claudio Comandini
 ---
 
 *Dove si vince la partita e si incontrano quattramicialbar a fare festa e sono funerali di stato. Dal romanzo "Basso Impero".*

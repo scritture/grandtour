@@ -3,19 +3,17 @@ author: Claudio Comandini
 date: 2012-05-17 10:00:46+00:00 
 title: 'Quando passa Nuvolari. Sulla morte di Lucio Dalla e il sesso degli angeli' 
 categories: 
-  - comunicazione 
-  - Claudio Comandini
-  - Lucio Dalla
-  - musica 
+  - musica
+  - comunicazione
+  - sessualità
   - società 
-  - filosofia 
+  - Cristianesimo
   - Bologna 
   - Byron 
-  - religioni
   - Freud
   - Lacan
-  - poesia
-  - sessualità 
+  - Lucio Dalla
+  - Claudio Comandini
 ---
 
 ![](/images/2016/07/omaggio-alla-soglia-di-dalla-326x245.jpg){fig-align="center" width="98%"}
