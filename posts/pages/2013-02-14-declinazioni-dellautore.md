@@ -4,27 +4,19 @@ date: 2013-02-14 11:00:52+00:00
 image: /images/2013/02/autore-678x381.jpg
 title: Declinazioni dell'autore
 categories:
-  - Claudio Comandini
-  - editoria
-  - filosofia
   - letteratura
-tags:
-  - Agamben
-  - Barthes
-  - Calvino
-  - Claudio Comandini
-  - Derrida
-  - Dubois
-  - editoria
-  - Ferroni
   - filosofia
-  - Foucault
-  - letteratura
-  - Montale
-  - Perniola
-  - Pound
+  - editoria
   - Schopenauer
-  - Svevo
+  - Montale
+  - Calvino
+  - Pound
+  - Barthes
+  - Foucault
+  - Derrida
+  - Perniola
+  - Agamben
+  - Claudio Comandini
 ---
 
 *Responsabilità della scrittura. Pound e la produzione della letteratura. L'autore di fronte a Foucault, Derrida, Barthes, Dubois. Agamben e il gesto. Fare il libro. Ideazione e redazione. Labor limae, elocutio, pronunciatio, editing. Calvino: dalla parte di chi legge. Svevo, Montale e il ruolo dell'editore. Il problema della censura. Schopenauer e la precisione. Ferroni e la ricerca dell'essenziale. Perniola e l'orizzonte mondiale. Dubini e le moltiplicazioni del testo. La condivisione del sapere e l'invenzione dello scaldabagno.*
@@ -64,7 +56,7 @@ La scrittura è sempre plurale. Non tutti i narratori sanno sviluppare dialoghi 
 
 Calvino consigliava di mettersi dalla parte di chi legge, pensando ne sappia sempre di più di te che scrivi, giocare al rialzo e *«sapersi leggere»*, con distacco e partecipazione. Pur considerando che nelle attuali condizioni non è più possibile associare lavoro di scrittura con quello editoriale secondo i modello più blasonati, considerare forme di *autoediting* è inevitabile laddove, in rete come altrove, si è editori di se stessi in molti modi.
 
-Il carteggio Svevo -- Montale, dove il primo ricorda che ci si può occupare di letteratura anche lavorando nell'industria olearia o in quella del pellame, segnala che la relazione scrittore-editore è problematica da tempo. Tuttavia, scrittura ed editoria costituiscono fasi imprescindibili di un lavoro culturale complessivo: la prima rappresenta l'elaborazione stilistica di un pensiero, la seconda indica l'assunzione di responsabilità nel renderlo pubblico. Un autore è inevitabilmente coinvolto dalle esigenze concrete di una pubblicazione e dai servizi specifici dell'attività editoriale quali inserimento in una collana, promozione e distribuzione.
+Il carteggio Svevo - Montale, dove il primo ricorda che ci si può occupare di letteratura anche lavorando nell'industria olearia o in quella del pellame, segnala che la relazione scrittore-editore è problematica da tempo. Tuttavia, scrittura ed editoria costituiscono fasi imprescindibili di un lavoro culturale complessivo: la prima rappresenta l'elaborazione stilistica di un pensiero, la seconda indica l'assunzione di responsabilità nel renderlo pubblico. Un autore è inevitabilmente coinvolto dalle esigenze concrete di una pubblicazione e dai servizi specifici dell'attività editoriale quali inserimento in una collana, promozione e distribuzione.
 
 Questi rapporti sono ulteriormente complicati da diversi fattori. Infatti, se una casa editrice è ormai condizionata dalla propria collocazione di mercato più di quanto lo sia da questioni di carattere intellettuale, l'imporsi della tecnologia digitale ha rivoluzionato definitivamente gli assetti in maniera profonda e decisiva. Se leggere, scrivere e pubblicare fanno ormai parte di un'esperienza diffusa, la scrittura sembra destituita d'autorevolezza negli stessi ambiti in cui tradizionalmente è esercitata. Infatti, se ormai tutti scrivono, per quanto spesso in maniera approssimativa, ed è ormai possibile pubblicare con un semplice click, spesso si affrontano questioni che richiedono studi severi come fossero semplice passatempo, e sembra sempre più difficile leggere con la dovuta concentrazione .
 
@@ -90,7 +82,35 @@ Siamo all'inizio di una storia nuova, ed è necessario prendere atto dei cambiam
 
 **RIFERIMENTI**
 
-Giorgio Agamben, *L'autore come gesto*, in *Profanazioni*, Nottetempo, Roma 2005. Roland Barthes, *Il grado zero della scrittura*, (1953-1972), Einaudi, Torino 1982. Italo Calvino, *Lezioni americane* (1988), Mondadori, Milano 2002. Jacques Derrida, *Posizioni* (1972), Ombre Corte, Verona 1999. Jacques Dubois, *La letteratura come istituzione* (1978), 4venti, Urbino 1980. Paola Dubini, *Voltare pagina? Le trasformazioni del libro e dell'editoria*, Pearson, Milano-Torino 2013. Giulio Ferroni, *Scritture a perdere*, Laterza, Roma-Bari, 2010, p. 110. Michel Foucault, *Che cos'è un autore*? in *Scritti letterar_i (1962-1969) Feltrinelli, Milano 2010. [Mario Perniola, \_Ciò che uno scrittore di saggi può insegnare ad un editore indipendente\_, «Il Manifesto» 5.12.2008, Supplemento.  ](http://www.marioperniola.it/site/dettagliotext.asp?idtexts=178) Ezra Pound,* ABC del leggere (\_1934-1951), Garzanti, Milano 1974. Marshall McLuhan, \_La galassia Gutenberg\_ (1962), Gruppo Editoriale L'Espresso, Roma 2006. Oliviero Ponte di Pino, *I mestieri del libro*, TEA, Milano 20093. J. Rodolfo Wilcok, *Aspettando la censura*, in *Il reato di scrivere*, Adelphi, Milano 2009. Arthur Schopenahuer, *Sul mestiere dello scrittore e dello stile* (1851), Adelphi, Milano 1993. Italo Svevo -- Eugenio Montale,\_ Carteggio\_ -- con gli scritti di Montale su Svevo. A cura di Giorgio Zampa, Mondadori, Milano 1976.
+Giorgio Agamben, *L'autore come gesto*, in *Profanazioni*, Nottetempo, Roma 2005.
+
+Roland Barthes, *Il grado zero della scrittura*, (1953-1972), Einaudi, Torino 1982.
+
+Italo Calvino, *Lezioni americane* (1988), Mondadori, Milano 2002.
+
+Jacques Derrida, *Posizioni* (1972), Ombre Corte, Verona 1999.
+
+Jacques Dubois, *La letteratura come istituzione* (1978), 4venti, Urbino 1980.
+
+Paola Dubini, *Voltare pagina? Le trasformazioni del libro e dell'editoria*, Pearson, Milano-Torino 2013.
+
+Giulio Ferroni, *Scritture a perdere*, Laterza, Roma-Bari, 2010, p. 110.
+
+Michel Foucault, *Che cos'è un autore*? in *Scritti letterari (1962-1969) Feltrinelli, Milano 2010.*
+
+[*Mario Perniola, Ciò che uno scrittore di saggi può insegnare ad un editore indipendente\_, «Il Manifesto» 5.12.2008, Supplemento.*](http://www.marioperniola.it/site/dettagliotext.asp?idtexts=178)
+
+Ezra Pound, *ABC del leggere* (1934-1951), Garzanti, Milano 1974.
+
+Marshall McLuhan, *La galassia Gutenberg* (1962), Gruppo Editoriale L'Espresso, Roma 2006.
+
+Oliviero Ponte di Pino, *I mestieri del libro*, TEA, Milano 20093.
+
+J. Rodolfo Wilcok, *Aspettando la censura*, in *Il reato di scrivere*, Adelphi, Milano 2009.
+
+Arthur Schopenahuer, *Sul mestiere dello scrittore e dello stile* (1851), Adelphi, Milano 1993.
+
+Italo Svevo - Eugenio Montale, *Carteggio - con gli scritti di Montale su Svevo*. A cura di Giorgio Zampa, Mondadori, Milano 1976.
 
 •
 

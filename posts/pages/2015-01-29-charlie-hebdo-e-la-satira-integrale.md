@@ -4,67 +4,50 @@ date: 2015-01-29 11:00:40+00:00
 image: /images/2016/07/maometto-allinferno-640x381.jpg
 title: Charlie Hebdo e la satira integrale
 categories:
-  - antropologia
-  - arte
-  - Claudio Comandini
   - filosofia
   - fumetti
-  - geopolitica
   - letteratura
+  - arte
+  - geopolitica
   - politica
   - religioni
   - società
   - storia
+  - musica
   - umorismo
-tags:
-  - Al Jabri
-  - Averroè
-  - Benjamin
-  - Bisanzio
+  - Ebraismo
+  - Islam
+  - Istanbul
   - Bologna
-  - Borges
-  - Camus
-  - Cardini
-  - cattolicesimo
-  - CCCP
-  - Charlie Hebdo
-  - chassidismo
-  - Claudio Comandini
-  - Corano
-  - Crociate
-  - Darnton
-  - Debord
-  - Derrida
-  - Ebrei
+  - Roma
+  - Francia
+  - Benjamin
   - Edward Said
   - Fatima Mernissi
   - Freud
   - Huntington
-  - integralismo
-  - Islam
-  - Istanbul
   - Leo Strauss
   - Lévi-Strauss
   - Loretta Napoleoni
-  - Meyssan
   - Michel Houllebecq
-  - Mini
+  - Fabio Mini
   - Nietzsche
-  - Norah Jones
-  - Oriana Fallaci
-  - Palestina
-  - papa Francesco
-  - Perniola
+  - Borges
+  - Franco Cardini
+  - CCCP
   - Quintiliano
-  - Roma
-  - Sartre
-  - Todorov
-  - Voltaire
+  - Averroè
+  - Darnton
+  - Debord
+  - Derrida
+  - Perniola
+  - Al Jabri
+  - Claudio Comandini
 ---
 
 *Morire dal ridere. Integralismo e satira. Testi sacri e informazione. Contestazione e industria culturale. Riviste islamiche e cultura francese durante la guerra in Algeria. Testate in conflitto e cultura assente nell'Italia odierna. Intolleranze parallele. Attualità del pensiero andaluso. Donne velate e bestie macellate. Impero Romano e Alessandro Magno nel Corano. Conflitti e accordi tra Islam ed Europa. Dissolvenze ottomane. Soumission e punk islam. Ebraismo e ironia dell'esistere. Cristo spiegato agli arabi di Gerusalemme. Scontri di civiltà e scambi di culture. Orientalismi e terzomondismi. La religione del capitale. Il Sessantotto tra rivoluzione e svendita. I cambiamenti della natura del potere. I limiti delle teorie del complotto e la necessaria riforma dell'intelligence. Nuovi terrorismi e nuova Europa. Islam di pace e ospitalità incondizionale. Risolvere la crisi contro i suoi stereotipi. Sovvertire se stessi e vivere ridendo.*
 
-**1. Les opinions auxquelles nous ne pouvons pas échapper**
+## 1. Les opinions auxquelles nous ne pouvons pas échapper
 
 Immaginatevi una banda di chierichetti pisani che irrompono nella sede de *Il Vernacoliere* colmi d'indignazione verso il fetentissimo Troio, mina vagante contro i valori della famiglia, l'oltraggioso Don Zeucher, pazzo criminale in abito talare, e altri personaggi dell'irriverente rivista, che per il divertimento d'autori e lettori raffigura spesso i vizi sociali in personaggi capaci di trombarsi schifosamente qualsiasi cosa non sia morta da più di mezza giornata. Ora immaginiamo pure che gli indiavolati fanatici religiosi pisani, probabilmente un po' confusi rispetto alle diversità che corrono tra un testo religioso e un testo satirico, non soltanto propinino ramanzine contro la volgarità, ma sterminino pure la redazione del giornale, altri livornesi che si trovano lì magari soltanto per mangiare pastarelle e chiunque capiti a tiro, senza nemmeno chiedergli se per caso questi non sia magari un pisano credente suo malgrado coinvolto. Questa storiella scema può essere indicativa di una diffusa dimensione psicotica che erode i confini tra realtà e rappresentazione, rendendo possibile che si uccida per delle vignette, configurando così le condizioni di quanto è definito quale *«scontro di civiltà»* nel cortocircuito che ognuna di queste può scontare in se stessa. Osserviamo innanzitutto la dinamica di quanto è accaduto presso la redazione di *Charlie Hebdo*, e poi facciamoci un giro tra religioni e civiltà, in modo da poter afferrare il presente senza essere vittime della superstizione di un'attualità costretta a perdere di continuo se stessa.
 
@@ -72,7 +55,7 @@ A Parigi il 7 gennaio 2015 Said e Charif Kouechi, di famiglia algerina ma nati i
 
 Le difficoltà di rappresentarsi la realtà coinvolgono, da diverse prospettive, molte delle parole pronunciate su questa vicenda. La rivendicazione della strage al giornale satirico da parte del ramo yemenita di Al Qaeda compiuta da Nasr Ali Bin al-Ansi appare autentica, pur se contraddice le dichiarazioni secondo cui le implicazioni dell'attacco al negozio kosher coinvolgerebbero l'IS. Si distaccano dalla generica condanna della blasfemia di cui è accusato il giornale francese soprattutto due voci: dal Cairo, la massima istituzione dell'Islam sunnita Al Azhar invita ad ignorare le *«frivolezze odiose»* delle rappresentazioni satiriche del profeta; da Damasco, il presidente siriano Assad si dichiara solidale ai familiari delle vittime e accusa l'Occidente di *«complicità con i terroristi»*. Gli esponenti della *jihad* dichiarano la legittimità degli attacchi. [\[4\]](http://www.claudiocomandini.net/wp-admin/post.php?post=2218&action=edit#_ftn4) Occorre sempre tenere conto che il mondo islamico comprende ogni cosa internamente ad una dimensione ad un tempo religiosa e politica, per la quale Maometto è agente della trasmissione del messaggio divino in maniera analoga allo Spirito Santo ma è puramente umano, e ad avere caratteri di consustanzialità rispetto a Dio è invece il Corano.
 
-Il libro sacro dell'Islam ne *La Sura di Muhammad*, detta anche *del Combattimento*, così afferma: *«E quando incontrate in battaglia quelli che rifiutan la Fede, colpite le cervici, finché li avrete ridotti a vostra mercé, poi stringete bene i ceppi: dopo, o fate loro grazia oppure chiedete il prezzo del riscatto, finché la guerra non abbia deposto il suo carico d'armi. Così dovete fare: ché se Dio avesse voluto si sarebbe vendicato anche da solo, ma non lo ha fatto per provare alcuni di voi per mezzo d'altri. E coloro che vengono uccisi sulla via di Dio, Iddio non vanifica le opere loro. -- Egli li guiderà e l'intenzione loro farà buona - e li farà entrare nel Giardino che ha descritto.»* [\[5\]](http://www.claudiocomandini.net/wp-admin/post.php?post=2218&action=edit#_ftn5) I toni cruenti sembrano fornire giustificazioni alla violenza, ma la *Sura del Pellegrinaggio* integra la visione specificando che *«È dato permesso di combattere a coloro che combattono perché son stati oggetto di tirannia: Dio, certo, è ben possente a soccorrerli; - cioè coloro che son stati cacciati dalla loro patria ingiustamente, soltanto perché dicevano: 'Il Signore è nostro Dio!' E certo se Dio non respingesse alcuni uomini per mezzo d'altro, sarebbero ora distrutti monasteri e sinagoghe, e oratori e templi nei quali si menziona il nome di Dio di frequente.»* [\[6\]](http://www.claudiocomandini.net/wp-admin/post.php?post=2218&action=edit#_ftn6)
+Il libro sacro dell'Islam ne *La Sura di Muhammad*, detta anche *del Combattimento*, così afferma: *«E quando incontrate in battaglia quelli che rifiutan la Fede, colpite le cervici, finché li avrete ridotti a vostra mercé, poi stringete bene i ceppi: dopo, o fate loro grazia oppure chiedete il prezzo del riscatto, finché la guerra non abbia deposto il suo carico d'armi. Così dovete fare: ché se Dio avesse voluto si sarebbe vendicato anche da solo, ma non lo ha fatto per provare alcuni di voi per mezzo d'altri. E coloro che vengono uccisi sulla via di Dio, Iddio non vanifica le opere loro. -- Egli li guiderà e l'intenzione loro farà buona - e li farà entrare nel Giardino che ha descritto.»* [\[5\]](http://www.claudiocomandini.net/wp-admin/post.php?post=2218&action=edit#_ftn5) I toni cruenti sembrano fornire giustificazioni alla violenza, ma la *Sura del Pellegrinaggio* integra la visione specificando che *«È dato permesso di combattere a coloro che combattono perché son stati oggetto di tirannia: Dio, certo, è ben possente a soccorrerli; - cioè coloro che son stati cacciati dalla loro patria ingiustamente, soltanto perché dicevano: 'Il Signore è nostro Dio!' E certo se Dio non respingesse alcuni uomini per mezzo d'altro, sarebbero ora distrutti monasteri e sinagoghe, e oratori e templi nei quali si menziona il nome di Dio di frequente.»* [\[6\]](http://www.claudiocomandini.net/wp-admin/post.php?post=2218&action=edit#_ftn6)
 
 L'esortazione alla lotta riguarda quindi la difesa della vita di tutti coloro che sono fisicamente perseguitati per difendere quello in cui credono, eventualità espressamente ricondotta nell'ambito di ogni forma religiosa, e si richiama alle condizioni di continuo scontro che nel VII sec. segnano l'apparire dell'Islam. Se il termine *jihad*, con il quale spesso si indica la guerra santa, nemmeno compare nel Corano, ricorre il termine *mujàhada*, che nel linguaggio dell'allegoria indica lo sforzo di perfezionamento di sé al quale appartiene anche il perdono, che non può legittimare alcun delitto. [\[7\]](http://www.claudiocomandini.net/wp-admin/post.php?post=2218&action=edit#_ftn7) Dove, pur se refrattari al culto delle immagini, si è pratici di figure retoriche quali le allegorie, si può pure comprendere che qualsiasi ipotesi su idolatria o blasfemia nei riguardi di una vignetta è del tutto fuori da ogni parametro.
 
@@ -84,7 +67,7 @@ Una certa mancanza di concretezza c'è tuttavia anche nel riferimento ai "valori
 
 Il grande maestro di tale impostazione, che va oltre la satira ma permette di comprenderla secondo i connotati propri alle feste dionisiache celebrate nelle tragedie greche, è Nietzsche: i satiri che costituiscono il coro hanno i caratteri intermedi tra uomo e capro ed esprimono l'allegoria del rapporto originario tra cosa in sé ed apparenze nel quale l'individualità giunge a spezzarsi portando ad una fondamentale oscillazione di identità ed esperienze. [\[11\]](http://www.claudiocomandini.net/wp-admin/post.php?post=2218&action=edit#_ftn11) Inoltre, l'affermazione *«Non esistono fenomeni morali, ma solo un'interpretazione morale dei fenomeni...»*, [\[12\]](http://www.claudiocomandini.net/wp-admin/post.php?post=2218&action=edit#_ftn12) se riconoscere il carattere illusorio di quanto pretende elevatezza, non è per degradare ogni realtà a capriccio: piuttosto, suggerisce l'esigenza di collegarsi ad un processo di conoscenza né facile né comodo, che giunge addirittura a sopprimere se stesso, dissolvendo ogni ideologia per affermare un mondo "liberato".
 
-Per rispettare la propria integrità, la *satira* esige la demistificazione d'ogni integralismo palese o presunto: la satira o è integrale, o non è. La satira non può piacere a chi pretende assolutezza, e del resto non vuole affatto piacere né compiacere alcun potere istituito, e inoltre il suo intento non è soltanto quello di provocare: esige cambiamenti. L'antecedente storico delle impertinenti prese di posizione dei vignettisti francesi, solo superficialmente trucide e che oltre alle dissacrazioni offrono anche discussioni e programmi, è rappresentato dalla libellistica illuminista pre-rivoluzionaria di seconda generazione, caratterizzata da una produzione dichiaratamente teppista e dissacrante, che in giornali quali *Le gazatier cuirassé*\*\* \*\*regalava delizie quali «*il confessore del re flitra con i paggi, e il re è così sottomesso ai consiglieri da essere libero soltanto di andare con l'amante, carezzare i cani e firmare matrimoni»*. [\[13\]](http://www.claudiocomandini.net/wp-admin/post.php?post=2218&action=edit#_ftn13)
+Per rispettare la propria integrità, la *satira* esige la demistificazione d'ogni integralismo palese o presunto: la satira o è integrale, o non è. La satira non può piacere a chi pretende assolutezza, e del resto non vuole affatto piacere né compiacere alcun potere istituito, e inoltre il suo intento non è soltanto quello di provocare: esige cambiamenti. L'antecedente storico delle impertinenti prese di posizione dei vignettisti francesi, solo superficialmente trucide e che oltre alle dissacrazioni offrono anche discussioni e programmi, è rappresentato dalla libellistica illuminista pre-rivoluzionaria di seconda generazione, caratterizzata da una produzione dichiaratamente teppista e dissacrante, che in giornali quali *Le gazatier cuirassé* regalava delizie quali «*il confessore del re flitra con i paggi, e il re è così sottomesso ai consiglieri da essere libero soltanto di andare con l'amante, carezzare i cani e firmare matrimoni»*. [\[13\]](http://www.claudiocomandini.net/wp-admin/post.php?post=2218&action=edit#_ftn13)
 
 Tuttavia, se oggi il mondo si è liberato di tutto tranne che di se stesso e la nostra realtà è andata aldilà anche del relativismo, è pure accaduto che il nichilismo più truce ormai lo si sconta proprio nella dimensione piatta e soffocante che accomuna integralisti islamici e liberisti occidentali. Va inoltre considerato che attitudini quali secolarismo e laicismo, che prescindono completamente dalla considerazione del sacro e della religione, non colgono le implicazioni tra religiosità e laicità oggi particolarmente pressanti. Se il tentativo di ripristinare l'assolutezza dei valori costringe all'astrattezza esponendo le idee a conflitti e dissoluzioni e quindi all'inconcludenza, l'indagine sui\* processi\* attraverso i quali vengono attribuiti valori e interpretazioni ai nostri gesti restituisce di continuo significati possibili al reale. Se questo non viene inteso, meglio riconoscere la propria inabilità ad esistere.
 
@@ -104,7 +87,7 @@ La rivista, nella quale si raccolgono parte delle esperienze della precedente te
 
 Caratterizzata da una vivace pluralità di posizioni, è espressione di una stampa e di una sinistra radicale né priva di slanci creativi né di rischi di capitolazione; tali contraddizioni sono parte integrante del suo patrimonio genetico, per il quale, come nota con acutezza lo scrittore Michel Houllebecq, il trionfalismo giovanilista formula le sue contestazioni al capitalismo internamente all'industria del divertimento e in quindi in fondamentale solidarietà con le sue tensioni. [\[24\]](http://www.claudiocomandini.net/wp-admin/post.php?post=2218&action=edit#_ftn24) L'attacco alle religioni è uno degli ingredienti preferiti e non soltanto per una particolare vocazione all'irriverenza praticata dagli autori, i cui antecedenti sono nell'anticristianesimo culturale che percorre la Francia almeno dai tempi di Voltaire: è il clima globale e quotidiano di guerra santa e nevrosi religiosa a rappresentare un argomento inevitabile per chi fa critica del presente. [\[25\]](http://www.claudiocomandini.net/wp-admin/post.php?post=2218&action=edit#_ftn25)
 
-Non aiuta però a ritrovare le capacità critiche capaci di disinnescare odio e integralismo il limitarsi ad una suggestiva *promenade* parigina, oppure lanciare qualche tweet e poi dimenticare tutto il giorno dopo -  tanta ci sarà qualcun'altro pronto a farsi ammazzare, altri cordogli da esprimere più o meno sciattamente. C'è molto altro da fare e, senza stare ad aspettare le fesserie dei vecchi e nuovi media, tante battaglie sono già state fatte anche grazie a qualcosa che si chiama *autonomia del sapere*: può aiutare a comprendere questo come, in altri periodi, il lavoro intellettuale del mondo islamico prendeva a modello proprio la Francia pur se ne rifiutava il dominio coloniale, mentre da parte loro gli scrittori francesi che criticavano il colonialismo non si sentivano certamente obbligati a rappresentare la politica estera e l'unità nazionale del loro paese. E l'incontro tra loro non è episodico, ma programmatico.
+Non aiuta però a ritrovare le capacità critiche capaci di disinnescare odio e integralismo il limitarsi ad una suggestiva *promenade* parigina, oppure lanciare qualche tweet e poi dimenticare tutto il giorno dopo - tanta ci sarà qualcun'altro pronto a farsi ammazzare, altri cordogli da esprimere più o meno sciattamente. C'è molto altro da fare e, senza stare ad aspettare le fesserie dei vecchi e nuovi media, tante battaglie sono già state fatte anche grazie a qualcosa che si chiama *autonomia del sapere*: può aiutare a comprendere questo come, in altri periodi, il lavoro intellettuale del mondo islamico prendeva a modello proprio la Francia pur se ne rifiutava il dominio coloniale, mentre da parte loro gli scrittori francesi che criticavano il colonialismo non si sentivano certamente obbligati a rappresentare la politica estera e l'unità nazionale del loro paese. E l'incontro tra loro non è episodico, ma programmatico.
 
 Infatti, negli anni Cinquanta la rivista libanese *Al Abad*, fondata nel 1953 a Beirut da Suhayl Idris, si ispira espressamente a *Temps Moderns* di Jean-Paul Sartre e associa la lotta di liberazione algerina al movimento di unità del movimento arabo: alla denuncia della violenta politica francese nel paese si unisce la partecipazione degli scrittori francesi favorevoli all'autodeterminazione algerina. Sono ospitati scritti di Sartre, Claude Bourdieu e Jean Sonnac, traduzioni di Simone de Beauvoir e Albert Camus, particolare attenzione viene fornita al marxismo, all'esistenzialismo e alle loro contaminazioni. Sartre nel 1960 redige il *Manifeste des 121*, che proclama il diritto all'insubordinazione per i militari francesi e aderisce apertamente al Réasau Jeanson, organizzazione clandestina sostenitrice del Fronte di Liberazione Algerino. La rivista fornisce spazio a scrittori e intellettuali algerini, quali Kateb Yacine (che scrive in francese, autore del romanzo *Nejima* e di opere di teatro) e Aboulaid Doudouo (che scrive in arabo, e insegna anche nelle università di Vienna e Colonia), incoraggia forme di impegno (*al iltizam*) che non si limitano alla politica, ma riguardano la stessa espressione letteraria.
 
@@ -128,11 +111,11 @@ A quale testimonianza ci stanno chiamando gli eventi? *«Conosco fin troppo bene
 
 E dove sembrano particolarmente esasperate e odiose alcune manifestazioni dell'intolleranza islamica, non potrebbe l'intolleranza occidentale essersi diffusa al punto da far saltare il confine tra politica e satira, impedendo così con lo scherno denunce più approfondite? Non potrebbe la satira, laddove non è costretta all'estinzione da una politica ormai ridicola per conto suo, ritrovarsi dalla parte degli sciovinisti e degli intolleranti e quindi del potere nella sua forma più subdola, quella che ha contribuito all'origine dello stesso terrorismo islamico? Occorre quindi fare delle distinzioni, laddove le vignette della rivista danese *Jyllands-Posten* (2005) e soprattutto il film di produzione statunitense *Innocence of Muslim* (2012), ambedue contestatissimi, rientrano in una casistica di intolleranza, sciovinismo, e ridicolo: tuttavia, in *Charlie Hebdo*, nonostante la totale irriverenza e l'aperto dileggio, è riscontrabile un progetto politico e culturale la cui portata, piaccia o meno, non può essere sottovalutata da nessuno.
 
-La crisi della libertà d'opinione è palpabile: c'è persino chi ci muore. Le questioni però si sono fatte particolarmente controverse. È legittimo prendere come esempio di censura un dissenso rispetto alle politiche omosessualiste, [\[40\]](http://www.claudiocomandini.net/wp-admin/post.php?post=2218&action=edit#_ftn40) laddove nel coretto mediatico rispetto a quella che ormai è diventata l'ideologia dominante a favore dei matrimoni gay sembrerebbe consentito dire soltanto sì, e qualsiasi dibattito effettivo è costretto ad incontrare lamentose isterie? Non potrebbe invece essere che indurre a mostrare l'ano favorisca la diffusione di uno spirito di sottomissione più efficace e diffuso di quanto abbia mai permesso nessuna religione e civiltà, sulle quali poi si presume di sapere ogni cosa anche quando s'ignora quasi tutto? Il problema autentico non è quindi la libertà d'opinione, perché chiunque può dire qualsiasi scemenza senza preoccuparsi di ragioni e conseguenze: il problema, sempre più complesso, è esprimere un'opinione provvista di consistenza, dato che per farsi un'idea onesta occorre confrontarsi con l'alterità, anche con la propria. Così, ritrovare i disconosciuti rapporti di reciproca implicazione che intrattengono Islam e Occidente rappresenta un campo privilegiato per questa ricerca: può aprire la strada [*Angels* ](https://www.youtube.com/watch?v=Cq7kMbOAbE0)(2002) dove Norah Jones canta con i Wax Poetic di Ilhan Erşahin, sassofonista turco residente a New York, un brano di hip-hop raffinato e cosmopolita.
+La crisi della libertà d'opinione è palpabile: c'è persino chi ci muore. Le questioni però si sono fatte particolarmente controverse. È legittimo prendere come esempio di censura un dissenso rispetto alle politiche omosessualiste, [\[40\]](http://www.claudiocomandini.net/wp-admin/post.php?post=2218&action=edit#_ftn40) laddove nel coretto mediatico rispetto a quella che ormai è diventata l'ideologia dominante a favore dei matrimoni gay sembrerebbe consentito dire soltanto sì, e qualsiasi dibattito effettivo è costretto ad incontrare lamentose isterie? Non potrebbe invece essere che indurre a mostrare l'ano favorisca la diffusione di uno spirito di sottomissione più efficace e diffuso di quanto abbia mai permesso nessuna religione e civiltà, sulle quali poi si presume di sapere ogni cosa anche quando s'ignora quasi tutto? Il problema autentico non è quindi la libertà d'opinione, perché chiunque può dire qualsiasi scemenza senza preoccuparsi di ragioni e conseguenze: il problema, sempre più complesso, è esprimere un'opinione provvista di consistenza, dato che per farsi un'idea onesta occorre confrontarsi con l'alterità, anche con la propria. Così, ritrovare i disconosciuti rapporti di reciproca implicazione che intrattengono Islam e Occidente rappresenta un campo privilegiato per questa ricerca: può aprire la strada [*Angels*](https://www.youtube.com/watch?v=Cq7kMbOAbE0)(2002) dove Norah Jones canta con i Wax Poetic di Ilhan Erşahin, sassofonista turco residente a New York, un brano di hip-hop raffinato e cosmopolita.
 
-**2. Come ciechi nella terra dei ciechi**
+## 2. Come ciechi nella terra dei ciechi
 
-La parte asiatica di Istanbul, dove oggi è Kadikoy e un tempo Caldedonia, fu chiamata dall'oracolo di Delphi «*terra dei ciechi»* perché gli abitanti avevano trascurato le potenzialità di porto commerciale della terra a cui guardavano, destinata a diventare capitale di imperi grandi come mondi. Agli albori della cristianità, quella stessa terra diede il nome al concilio che decise il dogma dell'incarnazione; i turchi ottomani vi si stabilirono già durante il declino bizantino. Sull'altra sponda, oggi i minareti si elevano non distanti dai grattacieli.
+La parte asiatica di Istanbul, dove oggi è Kadikoy e un tempo Caldedonia, fu chiamata dall'oracolo di Delphi «*terra dei ciechi»* perché gli abitanti avevano trascurato le potenzialità di porto commerciale della terra a cui guardavano, destinata a diventare capitale di imperi grandi come mondi. Agli albori della cristianità, quella stessa terra diede il nome al concilio che decise il dogma dell'incarnazione; i turchi ottomani vi si stabilirono già durante il declino bizantino. Sull'altra sponda, oggi i minareti si elevano non distanti dai grattacieli.
 
 Nel medioevo andaluso, dalla parte opposta del Mediterraneo, il filosofo arabo e aristotelico Averroè era persuaso che al volgo bastasse fare riferimento al Corano e che non capisse davvero nulla di filosofia, la quale va attentamente tutelata dalle volgarizzazioni; tuttavia, afferma pure che nel cammino per la conoscenza è lecito fare errori e a nessuno può essere proibito lo studio. [\[41\]](http://www.claudiocomandini.net/wp-admin/post.php?post=2218&action=edit#_ftn41) Originario di Cordova, dove secoli prima nacque Seneca, morì nell'altra sponda del Maghreb (Occidente) per l'esilio decretatogli dagli Almohadi, gli integralisti dell'epoca. Il suo pensiero si diffonde grazie ai copisti ebrei e alle influenze esercitate nel mondo latino, non senza diversi fraintendimenti, e può aiutare a comprendere quanto Islam ed Europa siano in realtà, contro l'uso linguistico dominante, due *Occidenti paralleli*.
 
@@ -172,7 +155,7 @@ Da parte sua, Houllebecq rivendica d'essere *«irresponsabile»* in modo da pote
 
 Da parte sua lo scrittore francese, assertore di una religione dell'umanità di stampo positivista e comtiano e ateo e in un modo ormai avvertito come *«insopportabile»*, auspica un'«*ibridazione»* tra Cristianesimo e Islam, il quale se privo di carattere violento non ha purtroppo un papa *«capace di indicare la retta via una volta per tutte.»* [\[60\]](http://www.claudiocomandini.net/wp-admin/post.php?post=2218&action=edit#_ftn60) C'è una nostalgia al fondo di queste parole che prescinde un po' dalla storia: se l'Islam è effettivamente privo di un centro e di una *"chiesa"* ed è caratterizzato dal rapporto personale con la divinità, la figura del papa dal rinascimento in poi ha in teoria la funzione di guida soltanto per i cattolici; inoltre, tanto il carattere di universalità proprio al termine cattolico, quanto l'ibridazione dalla quale ogni forma culturale proviene, sono caratteri ampiamente rimossi.
 
-Quando i cupi propositi dei terroristi islamici erano lontani, i CCCP cantavano [*Punk Islam* ](https://www.youtube.com/watch?v=DakncqB-1t8)(1984), che riusciva a cavar dai bigotti non si sa quanti diavoli. Oggi, nel continuare a perderci ad Istanbul come suggerisce la canzone, possiamo trovare un profeta più plausibile del povero pur se elegantissimo Gheddafi invocato nella canzone nel buon vecchio Gesù Cristo. Incline alla provocazione, imperturbabile alle minacce, la sua nascita ebrea non lo scampa da rapporti controversi con le autorità israelite, e rimane particolarmente gradito ai musulmani per quanto non nei termini incarnazionisti.
+Quando i cupi propositi dei terroristi islamici erano lontani, i CCCP cantavano [*Punk Islam*](https://www.youtube.com/watch?v=DakncqB-1t8)(1984), che riusciva a cavar dai bigotti non si sa quanti diavoli. Oggi, nel continuare a perderci ad Istanbul come suggerisce la canzone, possiamo trovare un profeta più plausibile del povero pur se elegantissimo Gheddafi invocato nella canzone nel buon vecchio Gesù Cristo. Incline alla provocazione, imperturbabile alle minacce, la sua nascita ebrea non lo scampa da rapporti controversi con le autorità israelite, e rimane particolarmente gradito ai musulmani per quanto non nei termini incarnazionisti.
 
 Ci si creda oppure no, attraverso il suo messaggio la Chiesa, con tutti gli avversari interni ed esterni che ha saputo o dovuto meritarsi, e con i vari anticristi che *"cateconticamente"* genera e trattiene, [\[61\]](http://www.claudiocomandini.net/wp-admin/post.php?post=2218&action=edit#_ftn61) è nei secoli riuscita a rinnovare la possibilità operativa di integrare immanenza e trascendenza, consegnando l'universalità del diritto romano e della filosofia greca ad un futuro sempre assetato di verità e giustizia. Tuttavia, le complessità concettuali del Cristianesimo, se sfuggono ampiamente ai credenti per inerzia e agli atei per pigrizia, [\[62\]](http://www.claudiocomandini.net/wp-admin/post.php?post=2218&action=edit#_ftn62) possono tuttora risultare più estreme di trasgressioni ormai ordinarie [\[63\]](http://www.claudiocomandini.net/wp-admin/post.php?post=2218&action=edit#_ftn63), mentre continuano a strutturare la forma culturale di un «*officium»* caratterizzato da impersonalità ed efficacia. [\[64\]](http://www.claudiocomandini.net/wp-admin/post.php?post=2218&action=edit#_ftn64) Per tutti, potrebbe essere più interessante recuperare una memoria di lungo periodo piuttosto che continuare a farsi irretire dall'appiattimento dominante.
 
@@ -184,7 +167,7 @@ I tempi sono difficili, si sente spesso dire: lo erano sicuramente pure nella Ge
 
 Da circa un secolo, si era imposta nei territori devastati da troppe guerre una nuova fede che grazie alla predicazione del passionale e pratico Maometto ricombinava elementi già diffusi in una sintesi originale e autonoma. Per lungo tempo, i musulmani furono assimilati a cristiani scismatici: questo è il motivo per cui il profeta dell'Islam può essere rappresentato all'inferno, come ancora accade nel XV sec. nell'affresco di Giovanni da Modena della basilica di San Petronio di Bologna: questo non comporta nessuna offesa, e piuttosto rivela una logica di inclusione. L'anonimo palestinese da parte sua abbozzava una teologia universale delle genti, sapendo di parlare a dei fratelli forniti di tutti gli strumenti necessari per comprendere le sue parole: Islam, come suggeriscono le parole arabe *salâm* e greche *soterìa* a cui rimanda, vuol dire anche *salvezza*.
 
-**3. Corti circuiti e nuove fulgurazioni**
+## 3. Corti circuiti e nuove fulgurazioni
 
 La reviviscenza delle religioni è una risposta alla globalizzazione, ma la tensione ad una civiltà esiste anche dove le diversità stimolano i processi di acculturazione: lo scontro di cui parla Huntington trascura quanto le faglie e i confini possano essere anche fertili condizioni di scambi. [\[70\]](http://www.claudiocomandini.net/wp-admin/post.php?post=2218&action=edit#_ftn70) Allo stesso tempo, la nozione di orientalismo nella quale Said vede la proiezione delle pretese di dominio dell'Occidente risulta ampiamente incompresa anche dove perdurano rivendicazioni terzomondiste irrimediabilmente datate, tipo quelle applicate all'Islam delle petromonarchie. [\[71\]](http://www.claudiocomandini.net/wp-admin/post.php?post=2218&action=edit#_ftn71) Eppure, alla faccia di tutto il sapere del mondo, una ridondante e inconcludente "cultura del commento" si diffonde prescindendo da ogni ragione e opportunità, propagando ovunque pregiudizi incapaci di accendere idee e muovere cose.
 
@@ -220,7 +203,7 @@ Bisogna anche farla finita di parlare di un "Islam moderato", espressione partic
 
 La Francia è parte di quell'Europa capace di procedere sovvertendo di continuo se stessa, forza tranquilla e largo sguardo da ritrovare in ognuno di noi. Se ai danni del giornale satirico è stato compiuto il più grande attentato sul territorio francese da cinquant'anni, il paese ha sempre destabilizzato e rinnovato se stesso grazie alle proprie menti migliori. Serge Gainsborg con [*Aux armes et cætera*](https://www.youtube.com/watch?v=mLq7EcvRaf0) (1979) rielaborò *La Marsigliese* in stile reggae, ottenendo minacce di morte dai reduci della guerra in Algeria: oggi è storia. La storia ancora procede e nonostante le guerre religiose nelle quali vogliono incastrarci esige tutto *«l'irrispetto democratico»* possa servire. [\[102\]](http://www.claudiocomandini.net/wp-admin/post.php?post=2218&action=edit#_ftn102) Che moriremo è certo: viviamo ridendo.
 
-•
+## Riferimenti
 
 [\[1\]](http://www.claudiocomandini.net/wp-admin/post.php?post=2218&action=edit#_ftnref1) [Soren Seelow, "*C'est Charlie, venez vite, ils sont tous morts"*, «Le Monde» 13.01.2015](http://www.lemonde.fr/societe/article/2015/01/13/c-est-charlie-venez-vite-ils-sont-tous-morts_4554839_3224.html).
 

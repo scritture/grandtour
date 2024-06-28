@@ -4,15 +4,11 @@ date: 2015-03-28
 image: /images/2016/07/atropo-678x381.jpg
 title: Siamo morti da sempre
 categories:
-  - Claudio Comandini
-  - letteratura
   - narrazioni
-  - società
-tags:
   - Basso impero
-  - Claudio Comandini
   - Frascati
   - Roma
+  - Claudio Comandini
 ---
 
 *Dove si lascia l'estremo commiato ad un amico, ucciso da un sasso sull'autostrada. Un frammento narrativo del "Basso Impero" (ambientato nell'anno di disgrazia 1994).*

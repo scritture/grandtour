@@ -12,28 +12,23 @@ categories:
   - musica
   - religioni
   - storia
-tags:
+  - metropoli
   - Berlino
-  - Claudio Comandini
+  - Hitler
+  - Stalin
+  - Kant
+  - Marx
+  - Nietzsche
+  - Spengler
   - Debord
   - Deleuze
   - Fukuyama
-  - Germania
-  - gnosi
-  - Hitler
-  - Kant
-  - Marx
-  - metropoli
-  - neoliberismo
-  - Nietzsche
-  - Sonderweg
-  - Spengler
-  - Stalin
+  - Claudio Comandini
 ---
 
 *Il Muro, lo schermo, il mercato. Weimar: angosce oscure, luminose speranze. Il Nazismo: la natura come progetto. I Verdi: l'economia informale. Nazisti hippy e nazicomunsti. Nuovo Ordine del Mondo. Erosione degli stati nazionali, imporsi del capitale finanziario, eclisse delle ideologie. Scavare nelle macerie. Sul tetto.*
 
-**1. L'equivoco del Muro**
+## 1. L'equivoco del Muro
 
 Venticinque anni fa, un mio conoscente berlinese fu informato dell'apertura del Muro dalla televisione e, avendo bevuto un po', inizialmente pensò fosse un film. Da parte sua, anche Robert Darnton, storico americano dell'illuminismo e della rivoluzione francese, avvezzo ad indagare nei bassifondi di una cultura spesso considerata soltanto dalle vette, trovandosi a Berlino nei giorni intorno al 9 novembre 1989, considera la caduta del Muro come *«un colossale equivoco, un evento letteralmente creato dai mass-media»* (*Berlin Journal 1989-1990*, 1991). Potrebbe quindi capovolgersi l'assunto di *Goodbye Lenin* (2003) di Wolfgang Becker ed essere così l'occidente capitalista a raccontarsi menzogne per credere alla vittoria del mercato, incapace di sopportare la possibilità della sconfitta.
 
@@ -43,7 +38,7 @@ Ai tempi delle divisioni Est e Ovest, il Muro rappresentava lo specchio sul qual
 
 Il vecchio muro sovietico è ormai demolito, lasciando alcuni frammenti nell'arredo urbano della metropoli permettendo l'unificazione di due nuclei distinti per istituzioni e funzionalità. Possiamo però sollevare i rottami del Muro da ogni bidimensionalità e metterli in una prospettiva che restituisca loro una storia.
 
-**2. Tramonti infiniti**
+## 2. Tramonti infiniti
 
 Rompere il consenso strisciante obbligato e luoghi sin troppo comuni permette di individuare le fratture interne di una narrazione a lungo onnipresente ed estremamente riduttiva per la quale gli eventi sono andati incontro ad una condizione di stabilità e così trovare compimento. Tuttavia, la cultura universale dei consumi, pur tendendo ad una piatta omogeneità, ha moltiplicato le disparità: le pretese della sua narrazione sono ormai destituite. Le fratture possono essere ritrovate nello stesso Muro, da attraversare nelle ombre ancora esistenti così come nelle divisioni che lo precedettero. Soprattutto, occorre riabilitare il ruolo di una storia di lungo periodo la cui influenza sorpassa inevitabilmente ogni superstizione del presente.
 
@@ -55,7 +50,7 @@ I progetti di riscatto dell'espressionismo sono intrisi di oscure angosce e lumi
 
 Nel cinema, Fritz Lang ammonisce con *Metropolis* (1922) rispetto ai rischi della moderna società di massa; il film è tratto da un romanzo scritto cinque anni prima dalla moglie Thea Von Harbou, la quale in seguito aderisce al nazismo. Alla sua prima a Berlino  il film, costato 5 milioni di marchi, è accolto piuttosto freddamente. Nessun montaggio dell'opera è mai stata considerato come definitivo.
 
-**3. Politiche della natura**
+## 3. Politiche della natura
 
 Il nazismo concepisce la natura come un'architettura in base alla quale riplasmare la stessa natura umana. L'impulso di questo progetto è tratto dal concetto tardo-romantico di *Landshaft* (paesaggio), la cui mitologia agisce sugli stati profondi dell'emotività popolare (George L. Mosse, *Intellectual origins of the Third Reich*, 1964). Dopo la guerra, a rispondere alla fascinazione per la natura tipica della cultura tedesca, alimentando però il sogno di un comune progetto di pace tra i popoli, sono i Verdi, distinguendosi tra fondamentalisti movimentisti (*Fondi*) e realisti disponibili al confronto istituzionale (*Realos*). Utopia e culto del passato sono associati nell'idea di riconquistare il perduto stato di natura, proponendo il ritorno romantico alle antiche forme di vita e lavoro, nelle quali cerca il proprio riscatto l'angoscia per il futuro (*Zukunfsangst*).
 
@@ -71,19 +66,19 @@ Gli eventi della storia vanno contestualizzati. Nazismo e comunismo non sono mai
 
 L'anno successivo alla caduta del Muro e della contrapposizione tra blocchi, la guerra del Golfo battezza il Nuovo Ordine Mondiale. L'evento toglie terreno tanto a comunisti quanto a fascisti, ad anarchici come ad ambientalisti, in un modo così silenzioso ed efficace che in tanti nemmeno se n'accorgono. I più furbi si adattano, pur se costretti a continui e  vorticosi cambi di schieramento e vestito; gli altri, iniziano ad associare all'odio del sistema l'odio di sé e così entrare nella sindrome del fallimento. Si apre lo spazio di una dimensione nella quale ancora fatichiamo ad orientarci.
 
-**4. Cantando sul tetto**
+## 4. Cantando sul tetto
 
 Con la caduta del Muro proseguono tre processi cruciali delle società capitalistiche avanzate: l'erosione degli stati nazionali, l'imporsi del capitale finanziario, l'eclisse delle ideologie.
 
 I mercati finanziari si espandono anche dove il capitale era statalizzato fagocitandone le forme. Le ideologie conoscono un movimento d'occultamento e proiezione. Le relazioni tra informazione, economia e guerra cambiano strutturalmente. La costituzione dell'opinione pubblica e l'indirizzo dei consumi diventano la prima linea d'attacco delle guerre, l'informazione si estende sulla rete telematica planetaria affermando gli interessi dell'alta finanza e del complesso militare-industriale. Gli apparati istituzionali esercitano controllo e condizionamento sui comportamenti individuali e collettivi.
 
-Le proteste basate sulla semplice recriminazione non permettono di comprendere fino a che punto hanno inciso i cambiamenti comportati dalla globalizzazione. La polemica antiborghese che accomunava le opposizioni classiche è stata destituita da un movimento storico che ha fatto seguire ad una "cetomedizzazione" generale una proletarizzazione collettiva. In questo punto morto della crescita, dove la semplice conservazione del benessere è diventata altamente problematica, la storica alleanza tra borghesia e capitale si è infranta. Alcune macerie del Muro hanno ancora  piena consistenza.
+Le proteste basate sulla semplice recriminazione non permettono di comprendere fino a che punto hanno inciso i cambiamenti comportati dalla globalizzazione. La polemica antiborghese che accomunava le opposizioni classiche è stata destituita da un movimento storico che ha fatto seguire ad una "cetomedizzazione" generale una proletarizzazione collettiva. In questo punto morto della crescita, dove la semplice conservazione del benessere è diventata altamente problematica, la storica alleanza tra borghesia e capitale si è infranta. Alcune macerie del Muro hanno ancora piena consistenza.
 
 Le strutture ideologiche del mercato sono assorbite in una realtà che abbassa ruolo e dignità dell'uomo ad un livello puramente strumentale: questo rischio delle società capitalistiche avanzate è segnalato da Marcuse in *One-dimensional man* (1964), che rilancia per i tempi a venire la denuncia di Hölderlin della lacerazione e dell'appiattimento umani. Infatti, coinvolto *«nel flusso irresistibile dell'industria del divertimento e dell'informazione»*, l'uomo si conforma nei pensieri e nei comportamenti ad una *«falsa coscienza che è immune dalla propria falsità»*. Marcuse è d'origine berlinese ma insegna negli USA; in molti gli danno ragione, ma non basta questo a darci un mondo migliore.
 
-Conseguenze analoghe sono elaborate da Debord assimilando la dialettica hegeliana nell'analisi de *La société du spectacle* (1967): *«nel mondo totalmente capovolto (...) il falso è un momento del vero»*. Lo spettacolo in cui si compone la società contemporanea dipende dalla *«realizzazione tecnica»* della \_«debolezza» \_del pensiero filosofico, dominato dalla scissione tra soggetto e oggetto, dalle categorie basate sul senso della vista, dall'incessante dispiegamento della razionalità tecnica. La realtà vissuta è ridotta alla sua semplice rappresentazione. I ragazzotti del sessantotto prendono una strada diversa rispetto a quanto indicato da un severo maestro quale Debord. In molti si convertono al marketing, e gli sembra perfettamente normale.
+Conseguenze analoghe sono elaborate da Debord assimilando la dialettica hegeliana nell'analisi de *La société du spectacle* (1967): *«nel mondo totalmente capovolto (...) il falso è un momento del vero»*. Lo spettacolo in cui si compone la società contemporanea dipende dalla *«realizzazione tecnica»* della *«debolezza»* del pensiero filosofico, dominato dalla scissione tra soggetto e oggetto, dalle categorie basate sul senso della vista, dall'incessante dispiegamento della razionalità tecnica. La realtà vissuta è ridotta alla sua semplice rappresentazione. I ragazzotti del sessantotto prendono una strada diversa rispetto a quanto indicato da un severo maestro quale Debord. In molti si convertono al marketing, e gli sembra perfettamente normale.
 
-Il mercato afferma la morte dell'ideologia, ma ne assume i caratteri: l'ideologia, è Marx a dirlo, è un *«sapere parziale» \_che pretende di imporsi ad una totalità di cui però non sa fornire ragioni. Sostengono Deleuze e Guattari (\_Sur capitalisme et desir*, 1973) che il desiderio è il motore dell'ideologia e questa entra nell'economia attraverso l'organizzazione del potere. I veri problemi sono quelli che riguardano pianificazioni strutturali e criteri di selezione, ma la lotta politica si accanisce in una disputa para-ideologica del tutto dispersiva. E al contempo, l'ideologia dominante arriva a configurarsi, contro le intenzioni dei due pensatori, come un ricorsivo e autoreferenziale *«desiderio del desiderio»*, una specie di loop interminabile e inconcluso che alimenta di continuo frustrazione e repressione.
+Il mercato afferma la morte dell'ideologia, ma ne assume i caratteri: l'ideologia, è Marx a dirlo, è un *«sapere parziale»* he pretende di imporsi ad una totalità di cui però non sa fornire ragioni. Sostengono Deleuze e Guattari (*Sur capitalisme et desir*, 1973) che il desiderio è il motore dell'ideologia e questa entra nell'economia attraverso l'organizzazione del potere. I veri problemi sono quelli che riguardano pianificazioni strutturali e criteri di selezione, ma la lotta politica si accanisce in una disputa para-ideologica del tutto dispersiva. E al contempo, l'ideologia dominante arriva a configurarsi, contro le intenzioni dei due pensatori, come un ricorsivo e autoreferenziale *«desiderio del desiderio»*, una specie di loop interminabile e inconcluso che alimenta di continuo frustrazione e repressione.
 
 I decenni procedono con l'effervescenza d'un aperitivo, ostentando la compiaciuta superficialità di una splendida incoscienza. Infine, il Muro che definiva gli equilibri della guerra fredda crolla. La gara a proclamare quanto il capitalismo abbia sempre avuto ragione è aperta, ma alla fine la posta in palio è davvero bassa.
 
@@ -95,4 +90,4 @@ Cercando di comprendere le ragioni di una data e di un luogo, nel mio brano *Ber
 
 •
 
-*Fotografia: Claudio Comandini: "Camminare sul cielo" -- Berlino, gennaio 2006*
+*Fotografia: Claudio Comandini: "Camminare sul cielo" - Berlino, gennaio 2006*

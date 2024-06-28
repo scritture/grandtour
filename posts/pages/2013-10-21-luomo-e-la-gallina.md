@@ -6,24 +6,16 @@ title: L'uomo e la gallina
 categories:
   - Claudio Comandini
   - filosofia
+  - psicologia
   - scienza
   - umorismo
-tags:
-  - Aristotele
-  - Claudio Comandini
   - contingenza
-  - Giovani Marmotte
-  - gnosi
-  - Gurdjieff
-  - Kant
+  - Aristotele
   - Leibniz
-  - matematica
-  - Neolingua
+  - Kant
   - Orwell
-  - Ouspensky
-  - Poincaré
-  - psicologia
   - Walt Disney
+  - Claudio Comandini
 ---
 
 *Le galline sanno contare fino a tre, l'uomo fino a due: Giovani Marmotte e Gurdjieff a confronto. Neolingua, principio di non contraddizione, insignificanza: Orwell, Aristotele, il politically correct. La matematica secondo l'induzione totale e il giudizio sintetico a priori: Poincaré e Kant. Limiti e grandezza della condizione umana.*
@@ -34,7 +26,7 @@ Presso un ambito diverso da quello proposto dalle Giovani Marmotte, il filosofo 
 
 Chi lo desidera, potrebbe ricavare alcuni stimoli anche solo dall'osservazione e senza affrontare un impegnativo "lavoro su se stessi" in scuole come quelle fondate da Gurdjeff, scampando così al rischio di cadere in club "esoturistici" a volte lontanissimi da ogni onesto amore per il sapere e meno formativi delle Giovani Marmotte. Potremmo forse anche provare a chiedere direttamente alla gallina, che a vedersi sembrerebbe piuttosto sveglia: ma purtroppo non siamo in grado di capirla, in nessun modo: né riguardo alla dibattutissima origine che contende con il famoso uovo, né per quanto concerne il proprio specifico linguaggio. Potremmo finalmente provare anche noi ad imparare contare, almeno fino a tre, ma è davvero possibile? Contare fino a tre può aiutarci ad essere, se non svegli, almeno attenti quanto basta da non cadere vittima di false opposizioni, paralogismi e abbagli vari, che comprendono anche forme di manipolazione mentale?
 
-Purtroppo, anche tre vocabolari possono trarre in inganno, laddove il loro intento è dare forme ad una *neolingua* come quella teorizzata da Gerge Orwell nel romanzo *1984* quale strumento di un *bispensiero* che costringe a *«condividere simultaneamente due opinioni palesemente contradditore e di affermarle entrambe».* Il *Vocabolario A*, detto delle *«parole comuni»*, ha tra i suoi principali strumenti l'assimilazione dei concetti opposti: per dire cattivo, si usa *sbuono*, per dire buio, *sluce.* Il *Vocabolario B*, detto dei *«termini politici»* o delle *«parole composte»*, si basa soprattutto sull'amalgama nome-verbo: l'ortodossia si esprime come *pensabuono. \_Il \_Vocabolario C*, o dei «termini tecnici», è  purgato da ogni interesse di tipo universale e quindi dell'idea stessa di scienza. La neolingua, nel suo contare fino a tre, dopo il due ricomincia da sempre da uno: il pensiero è del tutto incapace di sintesi esplicativa, e in questa maniera permette che la realtà oggettivata dal potere prescinda da ogni conoscenza possibile. Il bispensiero, portando ad affermazioni come *«la guerra e pace»* e *«la libertà è schiavitù»* viola il principio di non-contraddizione alla base della logica aristotelica (per cui sarebbe impossibile una formula tipo: *A è anche non-A*) e ci confonde le idee; inoltre, pensando l'opposto in esclusiva funzione dell'identico, inibisce la capacità di concepire l'alterità.
+Purtroppo, anche tre vocabolari possono trarre in inganno, laddove il loro intento è dare forme ad una *neolingua* come quella teorizzata da Gerge Orwell nel romanzo *1984* quale strumento di un *bispensiero* che costringe a *«condividere simultaneamente due opinioni palesemente contradditore e di affermarle entrambe».* Il *Vocabolario A*, detto delle *«parole comuni»*, ha tra i suoi principali strumenti l'assimilazione dei concetti opposti: per dire cattivo, si usa *sbuono*, per dire buio, *sluce.* Il *Vocabolario B*, detto dei *«termini politici»* o delle *«parole composte»*, si basa soprattutto sull'amalgama nome-verbo: l'ortodossia si esprime come *pensabuono.* Il *Vocabolario C*, o dei *«termini tecnici»*, è  purgato da ogni interesse di tipo universale e quindi dell'idea stessa di scienza. La neolingua, nel suo contare fino a tre, dopo il due ricomincia da sempre da uno: il pensiero è del tutto incapace di sintesi esplicativa, e in questa maniera permette che la realtà oggettivata dal potere prescinda da ogni conoscenza possibile. Il bispensiero, portando ad affermazioni come *«la guerra e pace»* e *«la libertà è schiavitù»* viola il principio di non-contraddizione alla base della logica aristotelica (per cui sarebbe impossibile una formula tipo: *A è anche non-A*) e ci confonde le idee; inoltre, pensando l'opposto in esclusiva funzione dell'identico, inibisce la capacità di concepire l'alterità.
 
 Nel nostro mondo il bispensiero si manifesta nell'annullamento delle diversità tipico della comunicazione e caratterizza anche le cautele linguistiche del *politically correct* e le stucchevolezze dei radicalismi di maniera. La neolingua impera laddove lo sviluppo di un discorso che presuppone esercizio e competenza lascia spazio alla codifica dell'incapacità di elaborare e fornire significato, oppure all'esibire recriminazioni alle quali si delega ogni possibile ragione. Osserviamo, in tutti i media vecchi e nuovi ma anche in ogni circostanza concreta, coloro che non smettono mai di parlare e dicono di tutto senza affermare alcunché, impedendo così che alcunché di significativo possa essere detto: anche laddove la loro capacità di ragionamento arriva fino a tre, non somigliano forse a tante galline?
 
@@ -46,6 +38,6 @@ In qualche modo, queste cose le galline le sanno, dimostrando inoltre di non sub
 
 •
 
-*Prima pubblicazione: «Controluce» a. XII n. 4 aprile 2006. Riveduto ampliato.*
+*Prima pubblicazione: «Controluce» a. XII n. 4 aprile 2006. Riveduto e ampliato.*
 
 *Fotografia: Claudio Comandini, "La maschera e il gallo" - Ca' Benassi di Veggio 2013.*

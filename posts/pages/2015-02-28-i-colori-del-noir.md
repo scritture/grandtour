@@ -4,54 +4,21 @@ author: Claudio Comandini
 date: 2015-02-28 11:00:17+00:00 
 image: /images/2016/08/citta_noir-678x381.jpg
 categories: 
-  - Claudio Comandini 
   - letteratura 
-  - narrazioni 
-  - società tags: 
-  - Aleks Kuntz 
-  - Carlo Lucarelli 
+  - narrazioni
+  - società
+  - Daschiel Hammett 
+  - Carlo Lucarelli
   - Cesare Battisti 
-  - Chiara Bertazzoni 
-  - Claudio Comandini 
-  - Dashiell Hammet 
-  - Davide Cammarone 
-  - Elena Vesnaver 
-  - Emilio De Marchi 
-  - Fabio Mazzoli 
-  - Fernando Fazzari 
-  - Giancarlo De Cataldo 
-  - Gianni Tetti 
-  - Igor De Amicis 
-  - Ivan Cotroneo 
-  - J. P. Rossano 
-  - Lorella Natalizi 
-  - M.Merisi 
-  - Marcello Fois 
-  - Marinella Lombardi 
-  - Matteo Fraccaro 
-  - Matteo Scandolin 
-  - Mirco Cantoro 
-  - noir 
-  - Oscar Montani 
-  - Paolo Agaraff 
-  - Piero Chiara 
-  - pulp 
-  - Raffaele Donnarumma 
-  - Renzo Saffi 
-  - Riccardo Strada 
-  - Sciascia 
+  - Massimo Pamio
   - Serena Grizi 
-  - Sergio Saviane 
-  - Silvia Pantaleo 
-  - Simone Togneri 
-  - Stefano Santarsiere 
-  - Valerio Lucarelli 
-  - Valerio Varesi 
+  - Oscar Montani
+  - Claudio Comandini 
 ---
 
 *Noir e letteratura. Daschiel Hammett e "The Maltese Falcon". I racconti di "Tutto il nero dell'Italia" e la provincia italiana. Paranoia e trastullo. Mistero ed eccellenze.*
 
-**1. Il giallo e il nero**
+## 1. Il giallo e il nero
 
 Crimine e corruzione per le buie strade della città, avvolte da tristezza e cinismo. Tra le diverse epoche che favoriscono tali ambientazioni, forse il riferimento più pieno può trovarsi negli anni trenta che, tra crisi economica e populismi politici, sembrano molto somigliare ai tempi nostri, dove tale dimensione si estende dalle metropoli ad ogni provincia. Tuttavia, ormai tutte le lotte sembrano già sbagliate prima ancora di essere intraprese e manca un pessimismo capace di sistematicità: il nostro caos ama i paradossi, esige procedure rigorose ma trascura ampiamente ogni logica, soffre di una necessità implacabile che però sembra non chiedere più soluzioni.
 
@@ -59,13 +26,13 @@ Prende così forma un'assenza estrema, dalla presenza a volte ingombrante. Possi
 
 La pessima letteratura prende molti colori, più spesso nessuno; quella che vale qualcosa, può anche assumere toni gialli o neri, ma non basta mica un crimine o la sua condanna. Deve saper parlare oltre generi e stili e anche indipendentemente dalla storia, nella quale sussiste sempre una relazione tra schema narrativo e senso del mondo: proprio il romanzo consiste nella propria forma più pura nell'applicazione letteraria di un modello scientifico. Il punto è però che nell'intreccio di complessità di questo nostro strano reale saltano cause ed effetti, casi e soluzioni, e pur se domina l'assurdo c'è sempre una ragione ostinata ad investigare.
 
-*The Maltese Falcon* (1930) di Dashiell Hammet, dal quale sono stati tratti tre diversi film, tra cui quello celebre con Humphrey Bogart diretto da John Huston nel 1941, formula alcune caratteristiche dell'\_hardboiled \_americano: scrittura asciutta, personaggi cinici, intrecci complessi, colpi di scena e dialoghi serrati; il detective Sam Spade, bevitore e fumatore convinto, duro, scaltro e moralmente ambiguo, protagonista del romanzo e di tre racconti, ne rappresenta l'emblema. Il ritmo della narrazione è scandito tra eleganza e volgarità, le descrizioni si soffermano su dettagli caratteristici e bizzarri. Lettura materialista della società, suggestioni gotiche e competenze investigative si fondono in un'urbanistica del crimine agitata da esistenze insensate che trovano scampo nell'esercizio di una grottesca ironia e nel portare a termine il proprio lavoro.
+*The Maltese Falcon* (1930) di Dashiell Hammet, dal quale sono stati tratti tre diversi film, tra cui quello celebre con Humphrey Bogart diretto da John Huston nel 1941, formula alcune caratteristiche dell'*hardboiled* americano: scrittura asciutta, personaggi cinici, intrecci complessi, colpi di scena e dialoghi serrati; il detective Sam Spade, bevitore e fumatore convinto, duro, scaltro e moralmente ambiguo, protagonista del romanzo e di tre racconti, ne rappresenta l'emblema. Il ritmo della narrazione è scandito tra eleganza e volgarità, le descrizioni si soffermano su dettagli caratteristici e bizzarri. Lettura materialista della società, suggestioni gotiche e competenze investigative si fondono in un'urbanistica del crimine agitata da esistenze insensate che trovano scampo nell'esercizio di una grottesca ironia e nel portare a termine il proprio lavoro.
 
 Quasi un secolo dopo le nebbie californiane di Hammett, la metropoli ha ormai espansione globale e il malaffare fiorisce con tutta evidenza anche nei luoghi più poveri della provincia italiana che, nera, fluida e puzzolente com'è, si offre a più di una metafora, trovando spesso esiti in storie lineari e frammentarie. Ad ogni modo, complicata o semplice che sia, una storia bisogna sempre saperla raccontare. Possono però ispirare diffidenza giallisti indaffarati a far credere di essere in grado di risolvere i \_misteri d'Italia \_e le sorti dello scrivere che però rispetto alle questioni più specifiche non sembrano mai molto svegli: forse, le capacità deduttive gliene hanno fregate tutte i loro personaggi, ed è inutile che i critici cerchino di restituirgliele. Le scoreggianti facilonerie da salotto di cui fanno a gara professorini e scrittorelli in cerca di visibilità e legittimazioni possono essere asfissianti, ma passano in fretta. La pluralità di codici nella quale si muove lo scrivere contemporaneo può venir tematizzata senza forzare patenti di letterarietà sulla base di modesti postmodernismi fuori tempo massimo.
 
 In ogni forma in cui può essere proposta, la scrittura esige un interrogarsi e non può compiacersi di finzioni fini a se stesse. Se Hammett aveva una vocazione sperimentale e perseguiva il preciso intento di elevare la *detective fiction* a forma d'arte, da un po' di tempo va di moda abbassare gli standard culturali per farci entrare tutto e compiacere un pubblico che forse neanche esiste; alla base di tali aberrazioni, uno scrivere concepito quale puro rispecchiamento personale. Un po' come farsi una pippa e chiamarla sesso. Codificare il noir per costituire un'accademia, pur se trucida, e formulare una morale, per quanto contorta, è una preoccupazione propria a queste masturbazioni. Gli esempi possono anche incappare in qualche successo, ma questo non vuol dir nulla. Pretendere meriti per una commercialità spinta che vuol piacere esibendo l'assenza d'ambizioni stilistiche è un po' come tagliarsi il cazzo per evitare di offendere chi non lo ha, credendo che questo possa soddisfare qualcuno. Cosa diversa può però formularsi cercando particolari cifre stilistiche in una letteratura chiamata all'appello da un presente che come ombra ci accompagna e sfugge di continuo.
 
-**2. Cartografia dell'Italia in nero**
+## 2. Cartografia dell'Italia in nero
 
 Gialle e nere sono anche le *Pagine Gialle*. Nell'ormai sterminata produzione di noir italiani, consultiamo assumendo come loro parzialissima forma l'antologia *Tutto il nero dell'Italia* (Edizioni Noubs, 2007). Venti racconti di autori diversi, uno per regione, ambientati in venti differenti città, per un ritratto della penisola in nero che può evidenziare portate e limiti della narrativa di genere. La prefazione di Valerio Varesi evidenzia che le narrazioni capaci di rappresentare con efficacia il mondo odierno si avvalgono perlopiù degli schemi dell'investigazione poliziesca; si può aggiungere che tali narrazioni prediligono spesso, e non a caso, argomenti di cronaca nera o comunque legati al mondo del crimine, mentre spesso a livello stilistico sfuggono alle canonizzazioni narrative per aderire in maniera più diretta a vissuti e situazioni reali.
 
@@ -83,7 +50,7 @@ Inesorabilmente grigia è la città, tanto Palermo, *«inferno grigio e irrespir
 
 I corpi, finché sono vivi, anche se chi li vede è invisibile, sono circonfusi di colori, ad Ancona come altrove: *«aloni grigiastri si tingono di giallo»* nel tossico che ruba uno stereo, c'è il *«rosso vivo»* della\* «crudeltà spontanea dei ragazzi»\* e il *«rosso marcio cattivo»* di quella *«rancorosa»* degli adulti (Paolo Agaraff). I corpi, come in ogni storia di morti ammazzati, a Torino in Abruzzo e sulla Linea Gotica, si producono in sangue: una rossa chiazza *«si allarga sul pavimento»* (J. P. Rossano), è poi *«sulle mattonelle bianche»* (Igor De Amicis), e infine sporca *«divise lacere»* di nemici assimilati dal morire (Simone Togneri). I corpi morendo si riempiono di «*chiazze rossastre»* per aver troppo disinvoltamente accettato di lavorare con scorie tossiche (M.Merisi). In questi chiaroscuri pronti a colorarsi di tinte e sfumature, nulla è definito *«torbido»*: il nero può conoscere persino una propria spietata chiarezza, assumendo in sé alcune delle caratteristiche del bianco a cui solitamente è contrapposto, eppure resta sempre e comunque quel che è.
 
-**3. Il male e le città**
+## 3. Il male e le città
 
 Riccardo Strada nella postfazione al libro *La sosta dell'uomo in fuga* individua quale tema dominante dei racconti un'esasperata volontà di individuazione che infine si arrende alla fuga, perlopiù dettata da un qualche *«oscuro passato»*; in tale movimento, la *«terra»* offrirebbe riparo e consistenza, grazie all'appartenenza ad un territorio e ad una storia, cioè ad una ben definita identità. L'analisi sembra piuttosto di comodo e soffre di un ottimismo insostenibile nelle condizioni effettivamente descritte, indulgendo in un'idea di "bel finale" vecchio stile del tutto inadeguato per storie che possono anche rappresentare il punto di vista di chi sta subendo morte violenta. Piuttosto, una città e una terra non hanno poi nulla di pacifico e sono non soltanto scenario, ma addirittura matrici del male, del disagio e delle innumerevoli identità parziali e mancate con cui abbiamo a che fare. Le cosiddette "radici" rappresentano i presupposti perché un malessere si costituisca e manifesti. Inevitabilmente, e non è neppure una novità, i paesaggi considerati "paradisiaci" nascondono serpenti, che non sempre sono velenosi come usualmente li si dipinge: a volte lo sono di meno, a volte di più.
 
@@ -93,10 +60,12 @@ In tutta la penisola, dalle Alpi allo Jonio, dal mare etrusco ad oltre le dorsal
 
 Il quadro generale non appare confortante, e del resto non sono nemmeno questi gli intenti. All'ombra dello stivale non c'è una statua d'oro che raffigura un falco, donata all'imperatore Carlo V dai Cavalieri di Malta, sottratta dai pirata Barbarossa e poi finita chissà dove: la provincia italiana è nera dentro, tutto qui. Se dal vero è spesso angosciante, come intrattenimento è a volte uggiosa, e non si sa in quale formato riesce ad essere peggiore. Tra le constatazioni possibili, non sembrano però così rilevanti quelle per cui il noir dilaghi *«rinnovando nostre inquietudini»* e anche se stesso, e che con *«sventagliate di mitra»* possa svelare la metà oscura dell'Italia, come però scrivono nella quarta di copertina di questo libro rispettivamente Giancarlo De Cataldo e Carlo Lucarelli. Per dire, dilagano molto di più squallore e corruzione, mentre immagini scontate possono rivelare al massimo la metà del niente nel quale siamo immersi.
 
-Uno studioso particolarmente impegnato nello sforzo critico di individuare le modalità narrative del presente quale Raffaele Donnarumma (*Ipermodernità*, 2014) docente di letteratura a Pisa, evidenzia che le formule noir si esauriscono spesso in paranoia e trastullo, fornendo ricompense piuttosto scarse al degrado esibito.  Infatti, Giancarlo De Cataldo vorrebbe svelare i meccanismi occulti dei crimine organizzato, ma li risolve in semplici formule commerciali; Carlo Lucarelli, pur cercando di variare le atmosfere di riferimento, propaga schemi rigidi sin troppo collaudati e convenzionali; Marcello Fois tenta di estendere codici e stili, eppure si perde in pretese identitarie affollate di soluzioni stereotipate; Cesare Battisti arriva al punto di svuotare in complottismo irrisolto anche i drammi della proprio vissuto. Autori di questo tipo arrivano a neutralizzare le pretese d'impegno in intrattenimento, laddove invece soltanto una scrittura capace di sostenersi su se stessa può rispondere alla dignità della letteratura e così testimoniare il presente .
+Uno studioso particolarmente impegnato nello sforzo critico di individuare le modalità narrative del presente quale Raffaele Donnarumma (*Ipermodernità*, 2014) docente di letteratura a Pisa, evidenzia che le formule noir si esauriscono spesso in paranoia e trastullo, fornendo ricompense piuttosto scarse al degrado esibito. Infatti, Giancarlo De Cataldo vorrebbe svelare i meccanismi occulti dei crimine organizzato, ma li risolve in semplici formule commerciali; Carlo Lucarelli, pur cercando di variare le atmosfere di riferimento, propaga schemi rigidi sin troppo collaudati e convenzionali; Marcello Fois tenta di estendere codici e stili, eppure si perde in pretese identitarie affollate di soluzioni stereotipate; Cesare Battisti arriva al punto di svuotare in complottismo irrisolto anche i drammi della proprio vissuto. Autori di questo tipo arrivano a neutralizzare le pretese d'impegno in intrattenimento, laddove invece soltanto una scrittura capace di sostenersi su se stessa può rispondere alla dignità della letteratura e così testimoniare il presente .
 
 La ricerca di un noir quale *stile* rende così opportuno superare schemi, ideologie e ristrette preoccupazioni di genere, che lasciano nei ghetti paraletterari oppure li estendono indefinitamente. Al riguardo Serena Grizi, giornalista e scrittrice, segnala che laddove presenta zone oscure anche il mistero irrisolvibile dell'individuo, costituiscono esempi noir letterariamente compiuti racconti di Piero Chiara quali *I giovedì della signora Giulia* (1970) e il romanzo *Il re del mondo* (2007) di Ivan Cotroneo. Lo scrittore di "genere" Oscar Montani, cercando quanto caratterizza il noir rispetto al giallo, nomina tra le opere letterarie più indicative *Il cappello del prete* (1888) di Emilio De Marchi, *I misteri di Alleghe* (1953) di Sergio Saviane, *A ciascuno il suo* (1966) di Leonardo Sciascia. Il discorso richiede approfondimenti che procedono oltre queste righe.
 
 *«La mia maniera di scoprire le cose è incasinarle in maniera violenta e incomprensibile»*: il metodo di Sam Spade non si basava sulla soluzione di indovinelli e si faceva strada in un mondo dove gli uomini muoiono per caso e vivono per fortuna, segnato dall'indistinzione tra menzogna e verità. Nel nostro tempo, ogni angolo di mondo arranca verso un globale che sembra impoverirlo e, nel tentare la fuga da noi stessi, scopriamo di non avere scampo di fronte alle nostre nere parole, nelle quali può però offrirsi una testimonianza più vera del reale. Possiamo così fornire alla scrittura una bellezza capace di splendere anche dove tutto è buio e, come già sapeva Hammett, narrare, per non morire.
+
+•
 
 *Fotografia: Claudio Comandini, "Città noir" - Bologna, maggio 2007.*

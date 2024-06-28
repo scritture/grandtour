@@ -4,19 +4,15 @@ date: 2014-08-30 10:00:08+00:00
 image: /images/2014/08/descende-et-imperium-coepit-678x381.jpg
 title: Padre Padrino
 categories:
-  - Claudio Comandini
-  - letteratura
   - narrazioni
-  - religioni
   - umorismo
-tags:
   - Basso impero
-  - Claudio Comandini
   - Frascati
   - Roma
+  - Claudio Comandini
 ---
 
-*Strani strumenti della Provvidenza. Una scabrosa vicenda dal Basso Impero, una sorprendente vittoria del bene.*
+*Strani strumenti della Provvidenza. Una scabrosa vicenda dal Basso Impero, una sorprendente vittoria del bene.*
 
 In un tempo non molto lontano, don Abbondio sembrava lo stronzo perfetto. Il suo pavido moralismo era l'espressione più tipica di una società terrorizzata da tutto quanto davvero desiderasse: inerte e molesto, incapace di assolvere ai propri compiti, alla fine riusciva in qualche modo a riassorbire gli scompensi che creava e, se da una parte ostacolava, dall'altra facilitava, con moto alterno. Lo ricordo ancora, ai tempi della scuola, quando intento nei suoi capolavori didattici, insegnando le Lettere, così le chiamava, calcando forte sulla L maiuscola, ti ammorbava con la peggior propaganda neoguelfa; oppure, alle prese con l'economia, manteneva presidio al baretto dell'oratorio affaccendandosi a raddoppiare il prezzo di *boeri* e *chupa-chupa* con la scusa delle missioni. Alcuni suoi tratti sapevano essere simpatici: sapeva le poesie a memoria, per quanto soltanto quelle orrende, e regalava caramelle, purtroppo non drogate. Fare la sua imitazione era una gara alla quale nessun ragazzaccio poteva sottrarsi.
 

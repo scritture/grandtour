@@ -1,70 +1,49 @@
 ---
 excerpt: ''
 layout: PostLayout
-
 author: Claudio Comandini
-
 date: '2014-10-27 11:00:01+00:00'
 image: /images/2016/07/lumen-de-lumine-678x381.jpg
 link: 'http://redazione.scritture.net/mag/halloween-dietro-le-quinte/'
 slug: halloween-dietro-le-quinte
 title: Halloween dietro le quinte
 categories:
-  - antropologia
-  - Claudio Comandini
   - filosofia
-  - fumetti
-  - letteratura
   - religioni
-  - società
   - storia
-tags:
-  - Angelo Brelich
+  - letteratura
+  - fumetti
+  - società
+  - Cristianesimo
+  - Ebraismo
+  - Grecia
+  - Celti
+  - Etruschi
+  - Roma
   - Apocalisse
-  - Augé
-  - cattolicesimo
   - Celti
   - chassidismo
   - Chateaubriand
-  - Claudio Comandini
-  - Ebrei
   - Etruschi
   - Gallia
-  - Gide
-  - Giove
-  - Grecia
-  - Irlanda
-  - James Frazer
   - Kant
-  - Kenneth Grant
-  - Luciano di Samosata
-  - Machpelah
-  - Misteri Eleusini
+  - James Frazer
   - Montale
-  - new age
-  - paganesimo
-  - Peanuts
-  - Penati
+  - Augé
   - Perniola
-  - Persefone
-  - Qabbalah
-  - Qiliphoth
-  - Roma
-  - Swedenborg
+  - Claudio Comandini
 ---
+
 *La morte, il marketing e la rimozione. Culto dei defunti presso Greci, Romani, Ebrei e Celti. Paganesimi e cattolicesimo. Morte e fertilità nei culti antichi. Modernità e spiritualizzazione della morte. Swedenborg e Kant. Montale e i Peanuts. Economia di morte ed esorcismi low cost. Il tempo non ha un solo corso. Più di qua o più di là?*
 
-****
 
-**1.  Il tempo dei morti**
+## 1.  Il tempo dei morti
 
 Alcune festività riportano a chi resta il pensiero di chi è andato: tale considerazione è presente nel tempo circolare delle società arcaiche e si trasmette anche all'epoca moderna. Tuttavia, non è mai esistito un solo oltretomba, le sue configurazioni sono innumerevoli e irriducibili ad una sola e medesima concezione, così come anche la morte è una costante mai uguale e lo stesso rinnovamento comporta sempre variazioni.
 
-La festa dei morti oggi più conosciuta, che qualcuno definisce anche come “la notte più magica dell'anno”, è Halloween (forma contratta di *All-Hallows-Eve* *-* vigilia di Ognissanti), che rappresenta il campione esemplare di quelle credenze costrette a perdere i propri elementi più tipici sotto l'insegna della spiritualità mercantile new-age. Se l'arcaismo di maniera è funzionale al sensazionalismo, si configura un'effettiva terra dei morti nel livellamento che irretisce in maniera apparentemente inarrestabile i concilianti consumatori globali: pertanto, la festa rappresenta, anche se qualcuno non se ne accorge, il momento in cui negli (pseudo)senzienti (para)mediatici prende corpo la breve illusione d'esser vivi.
+La festa dei morti oggi più conosciuta, che qualcuno definisce anche come “la notte più magica dell'anno”, è Halloween (forma contratta di *All-Hallows-Eve* - vigilia di Ognissanti), che rappresenta il campione esemplare di quelle credenze costrette a perdere i propri elementi più tipici sotto l'insegna della spiritualità mercantile new-age. Se l'arcaismo di maniera è funzionale al sensazionalismo, si configura un'effettiva terra dei morti nel livellamento che irretisce in maniera apparentemente inarrestabile i concilianti consumatori globali: pertanto, la festa rappresenta, anche se qualcuno non se ne accorge, il momento in cui negli (pseudo)senzienti (para)mediatici prende corpo la breve illusione d'esser vivi.
 
-
-
-**2.  Tutti pregano i propri morti, vivi nella pace dei cuori**
+## 2. Tutti pregano i propri morti, vivi nella pace dei cuori
 
 Culti dedicati ai defunti esistono e sono esistiti ovunque. Gli elementi di una cultura possono trasmettersi e riformularsi diversamente, la diffusione degli archetipi prescinde da contatti storici effettivi, in ogni ambito i simboli possono assumere significati diversi. Osserviamo alcune delle caratteristiche delle credenze religiose legate alla morte diffuse presso Greci, Romani, Ebrei e Celti.
 
@@ -88,19 +67,17 @@ Presso i Celti, i morti con onore restano vivi nella memoria della tribù e veng
 
 La cultura celtica ha enorme diffusione ma rimane legata a ambiti particolaristici in reciproco conflitto. L'Irlanda, che ne è coinvolta soprattutto nelle ondate che si susseguono dal V al I sec. a.C, non è raggiunta dalle conquiste romane, mantenendo così tratti peculiari rispetto a quelli dei paesi europei continentali e mediterranei. Il *Lebor Gabála Érenn* (Libro delle Conquiste) è un testo mitico e genealogico che legge il paganesimo irlandese in chiave giudaica-cristiana, ricordando la stirpe di Túatha Dé Danann, antiche divinità evemerizzate in figure leggendarie. Figura chiave è la “grande regina” Mórrígan, che compare accompagnata da un corvo e legata alla guerra e alla sessualità. Figlia di Ernmass e Fiacha mac Delbáeth, è identificata con la nutrice Anu ed è associata in una triade non simmetrica con le sorelle Badb Chatha e Macha, che rappresentano diversi aspetti della battaglia.
 
-Legato alla morte è Balor, signore delle Isole Ebridi e capo dei Fomor, alleati e poi nemici dei Túatha Dé Danann, figura di spicco nel respingere gli invasori dell'Irlanda; è nominato nel testo *Cath Maige Tuired *(La battaglia di Mag Tuired). Cernunnos, figura teriomorfa dalle corna di cervo, presiede alla fertilità e al mondo infero; sue raffigurazioni sono presenti nelle incisioni rupestri della Val Camonica (Italia, IV sec. d.C.) e del Calderone di Gundestrup (Danimarca, I sec. a.C.). Ogma invece guida i defunti e sovrintende al linguaggio, legando il nome alla cosa; il termine irlandese che lo nomina non è di origine celtica e ricorre in Gallia per indicare la figura di Ercole (Luciano di Samosata, *Dialoghi* – Ercole 1-7). A partire dal Dis Pater di cui parla Cesare (*De bello Gallico*, VI,18), “grande padre” che presiede alla morte, ai raccolti e alla rigenerazione in modi simili a quelli di Giove, fino al dio Helman a cui si riferisce la femminista Barbara Walker elaborando l'idea di un inferno precristiano quale santuario uterino, la casistica di un supposto pantheon pan-celtico è colma di equivoci e mistificazioni.
+Legato alla morte è Balor, signore delle Isole Ebridi e capo dei Fomor, alleati e poi nemici dei Túatha Dé Danann, figura di spicco nel respingere gli invasori dell'Irlanda; è nominato nel testo *Cath Maige Tuired* (La battaglia di Mag Tuired). Cernunnos, figura teriomorfa dalle corna di cervo, presiede alla fertilità e al mondo infero; sue raffigurazioni sono presenti nelle incisioni rupestri della Val Camonica (Italia, IV sec. d.C.) e del Calderone di Gundestrup (Danimarca, I sec. a.C.). Ogma invece guida i defunti e sovrintende al linguaggio, legando il nome alla cosa; il termine irlandese che lo nomina non è di origine celtica e ricorre in Gallia per indicare la figura di Ercole (Luciano di Samosata, *Dialoghi* – Ercole 1-7). A partire dal Dis Pater di cui parla Cesare (*De bello Gallico*, VI,18), “grande padre” che presiede alla morte, ai raccolti e alla rigenerazione in modi simili a quelli di Giove, fino al dio Helman a cui si riferisce la femminista Barbara Walker elaborando l'idea di un inferno precristiano quale santuario uterino, la casistica di un supposto pantheon pan-celtico è colma di equivoci e mistificazioni.
 
-Come accade presso Greci e Romani, le divinità celtiche possono rappresentare tanto un luogo quanto una figura e la loro intercambiabilità corrisponde alle manifestazioni di una divinità diffusa dai diversi nomi. Questa pluralità, se non permette l'assimilazione reciproca di tutte le diverse figure, non esclude l'esistenza di un fondo religioso comune, favorito dall'azione di collegamento tra i differenti gruppi celtici operata dai druidi; costoro, come i *pontifices* romani, non erano al servizio di nessuna particolare divinità pur avendo competenza di ogni faccenda religiosa, compresa quindi la festa dello *Sahmain*. Per teorie che attingono alle leggende e alla pseudostoria irlandese, la festa risale al neolitico e allude all'apertura del *Daho Sihde,* “colline fatate” abitate da un piccolo popolo molto vario di folletti, gnomi e fate, luogo invisibile ma parallelo a quello visibile dal quale si può entrare e uscire e dove i defunti dimorano provvisti di tutti gli attributi della propria esistenza fisica, rendendo così inadeguati i concetti di “aldilà” e “trapasso”. Finestre e porte, sorvegliate da candele accese, restano aperte per permetterne il passaggio nelle case.
+Come accade presso Greci e Romani, le divinità celtiche possono rappresentare tanto un luogo quanto una figura e la loro intercambiabilità corrisponde alle manifestazioni di una divinità diffusa dai diversi nomi. Questa pluralità, se non permette l'assimilazione reciproca di tutte le diverse figure, non esclude l'esistenza di un fondo religioso comune, favorito dall'azione di collegamento tra i differenti gruppi celtici operata dai druidi; costoro, come i *pontifices* romani, non erano al servizio di nessuna particolare divinità pur avendo competenza di ogni faccenda religiosa, compresa quindi la festa dello *Sahmain*. Per teorie che attingono alle leggende e alla pseudostoria irlandese, la festa risale al neolitico e allude all'apertura del *Daho Sihde,* “colline fatate” abitate da un piccolo popolo molto vario di folletti, gnomi e fate, luogo invisibile ma parallelo a quello visibile dal quale si può entrare e uscire e dove i defunti dimorano provvisti di tutti gli attributi della propria esistenza fisica, rendendo così inadeguati i concetti di “aldilà” e “trapasso”. Finestre e porte, sorvegliate da candele accese, restano aperte per permetterne il passaggio nelle case.
 
 Nel V sec. San Patrizio favorisce la cristianizzazione dell'isola promuovendo il sincretismo con gli elementi pagani. La tradizione religiosa gaelica, caratterizzata da una diffusa presenza femminile, resiste almeno fino all'800. L'assenza di martiri permette di ipotizzare un'assimilazione pacifica. Fino al 1172 la chiesa irlandese mantiene spiccata originalità nei confronti di quella romana. Nel frattempo, il tempo liturgico cristiano incorpora il giorno dei morti e lo abbina al culto dei santi attraverso l'azione dei pontefici Gregorio III (731-741) e Gregorio IV (827-844), che destituiscono la tradizione romana dei Lemuria del 13 maggio e fissano la festività nei giorni d'inizio novembre, intermedi tra equinozio d'autunno e solstizio d'inverno, coltivando così il rapporto con figure esemplari per la fede e la pluralità delle manifestazioni divine. E del resto, Cristo stesso è morto e sceso agli Inferi, *«riacquistando a Dio uomini di ogni lingua, popolo e nazione»*. (*Apocalisse*, 5, 9)
 
 Greci, Romani, Ebrei e Celti possono essere visti come le quattro braccia della croce cristiana. Nonostante i perduranti disconoscimenti reciproci, la nuova fede s'impone sulle culture precedenti con modi che suggeriscono tanto distinzioni quanto contiguità. A distanza di secoli, si richiamano nella spiccata tensione religiosa ed etica dello stoicismo dell'epoca imperiale e nello splendore delle immagini sensuali e pagane della chiesa del rinascimento.
 
+## 3. Il genio pagano del cattolicesimo
 
-
-**3. Il genio pagano del cattolicesimo**
-
-Una giustificazione del cristianesimo successiva ai furori della rivoluzione francese è affrontata da Chateaubriand ricollegando i suoi principi con quelli del razionalismo: infatti, piuttosto di affermarne un valore reazionario, indica proprio nella religione cristiana il motore di ogni progresso, criticando così il vanitoso culto di sé degli illuministi, che si rivestiva di paganesimo per pura affettazione. Pertanto, se da una parte tracce della presenza del vero Dio sono intraviste in tutte le culture, dall'altra le “devozioni popolari” di cui abbonda il cattolicesimo, pur se non hanno carattere strettamente ortodosso e anzi risalgono al retroterra pagano, fanno parte della sua bellezza e concorrono a formulare la moralità.
+Una giustificazione del cristianesimo successiva ai furori della rivoluzione francese è affrontata da Chateaubriand ricollegando i suoi principi con quelli del razionalismo: infatti, piuttosto di affermarne un valore reazionario, indica proprio nella religione cristiana il motore di ogni progresso, criticando così il vanitoso culto di sé degli illuministi, che si rivestiva di paganesimo per pura affettazione. Pertanto, se da una parte tracce della presenza del vero Dio sono intraviste in tutte le culture, dall'altra le *"devozioni popolari"* di cui abbonda il cattolicesimo, pur se non hanno carattere strettamente ortodosso e anzi risalgono al retroterra pagano, fanno parte della sua bellezza e concorrono a formulare la moralità.
 
 Per Chateaubriand i cimiteri di campagna posti attorno alla parrocchia rappresentano la migliore sepoltura mai offerta ai defunti, le tombe all'interno delle chiese riportano alle solenni meditazioni dei prelati e ai tempi ormai andati dei cavalieri, paragonati agli eroi della Grecia. Il sepolcro sotterraneo dei re a San Dionigi offre nelle sua attuale desolazione lo scenario dove giocano bambini ignari.
 
@@ -112,9 +89,7 @@ Cercando di emancipare il cattolicesimo da un aspetto confessionale che dopo il 
 
 La virtù teologale della carità, che consiste nel fare del bene ad altri e liberarli dal dolore senza aspettarsi nulla in cambio, trova per Perniola l'applicazione più radicale nel culto dei morti e dei santi, che laddove non è superstizioso è in grado di valorizzare l'uomo oltre il termine dei suoi giorni.
 
-
-
-**4. La morte tra fertilità e smaterializzazione**
+## 4. La morte tra fertilità e smaterializzazione
 
 I nessi tra fertilità e morte dei culti antichi possono essere ripercorsi grazie a James Frazer che, per quanto non considerasse la rilevanza degli aspetti sociali e l'importanza della ricerca sul campo, ha fornito studi ancora maestosi per comparare diverse credenze e riscoprire alcune costanti antropologiche. La storia del grano, che riguarda somiglianze e differenze sulla celebrazione dei raccolti, ne esemplifica i momenti. Tuttavia, se la magia spesso prelude alla scienza, non necessariamente conduce alla religione. Credenze dissociate da una dottrina sopravvivono oggi in semplici rituali quali le libagioni offerte ai defunti in Russia, i doni di dolciumi nel Veneto, i tagli di zucche nel Lazio, convivendo in forme diffuse o personali senza urtarsi troppo con le forme religiose ufficiali e senza dar luogo a nessuna forma di psicosi.
 
@@ -132,9 +107,7 @@ Kant, intenzionato a limitare le pretese metafisiche di conoscere quanto oltrepa
 
 In definitiva, tanto il visionario quanto il filosofo possono ancora metterci in guardia contro una diffusa regressione.
 
-
-
-**4.  Annotazioni con o senza zucca**
+## 4. Annotazioni con o senza zucca
 
 La Halloween new-age integra suggestioni dalle letterature e dai film horror ed elementi popolari quali il taglio delle zucche, introdotto in America a metà '800. Le vetrine sono addobbate già dal mese precedente e come per il Natale l'aspetto commerciale prevale: sotto questo punto di vista, le feste sono perfettamente equivalenti. Le accuse di satanismo con cui esponenti delle diverse chiese cristiane marchiano la vigilia di Ognissanti sembrano fare perlopiù il gioco del marketing, e limitandosi all'anatema non favoriscono l'inquadramento né della ricorrenza, né dei fenomeni cui allude, propagando l'ebete estraneità del clero alle proprie stesse responsabilità. La domanda è semplice e implacabile: chi sono i morti che oggi festeggiamo?
 
@@ -146,9 +119,7 @@ Tuttavia, tale suggestiva interpretazione decade dove si riesce a comprendere ch
 
 Facendo due conti con i millenni, si può anche concludere che il cristianesimo, nonostante possa sembrare demodè, è più raffinato del pur simpatico fermento paganeggiante, che si affanna ingenuo a cercare nelle condizioni di vita metropolitana una natura tutta sognata e a volte puramente ideologica. Da parte loro, la solennità di tutti i santi e la commemorazione di tutti i fedeli defunti, festività austere, prive di un manifesto carattere ludico e anche di una spiccata caratterizzazione gastronomica (se non nel dolce *le fave dei morti* che riconferma l'antica  valenza ctonia del legume) sottolineano un concetto piuttosto complesso, ma decisivo: *il tempo non ha un solo corso*, e interagiscono reciprocamente quello *circolare* della liturgia che recupera al sacro la ruota delle stagioni, quello *lineare* dello sviluppo storico, quello *escatologico* e metastorico che conduce al momento della fine dei tempi. Infine, la resurrezione restituirà ai morti pieno aspetto corporeo. Nel frattempo, siamo di qua: fino a che punto però non siamo anche di là?
 
-
-
-**Lapidografia**
+## Lapidografia
 
 Omero (IX sec. a.C.), *Inno a Cerere* (data incerta, ritrovato circa nel 1785).
 
@@ -162,9 +133,9 @@ Giovanni di Patmos (10-98/99 d.C.), *Apocalisse* (95 d.C).
 
 Ovidio (43 a.C.-17 d.C), *Fasti* (II sec. d.C.).
 
-Luciano di Samosata (120/180-192 d.C), \_Dialoghi \_(II sec.).
+Luciano di Samosata (120/180-192 d.C), *Dialoghi* (II sec.).
 
-Anonimo, *Cath Maige Tuired - La battaglia di Mag Tuired*\_ (IX sec.)
+Anonimo, *Cath Maige Tuired - La battaglia di Mag Tuired* (IX sec.)
 
 Anonimo, *Lebor Gabála Érenn – Libro delle invasioni d'Irlanda* (XI sec.).
 
