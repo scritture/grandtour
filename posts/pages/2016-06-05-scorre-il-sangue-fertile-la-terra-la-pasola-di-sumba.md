@@ -73,7 +73,7 @@ Ad un certo punto, inizia. Tutti si dirigono al centro del campo, discutono tra 
 
 Ad un certo punto iniziano a tirarsi sassi, rissa in campo, qualcuno dice che una lancia é stata tirata alle spalle, cosa proibita. Le lance devono essere sempre tirate quando l'avversario é di fronte. La polizia entra in campo ed inizia a sparare, prima in aria e poi a terra. Gli spari sono a pochi metri da noi, ci andiamo a rifugiare dietro un camioncino.
 
-La polizia continua a sparare, la folla, pubblico e cavalli si disperdono. È ora di andare anche per noi. Tornati in città ci dicono che la Pasola finisce sempre con la polizia che spara, in quella che abbiamo visto noi non é morto nessuno quindi si può considerare pacifica. Non però sappiamo che fine abbia fatto il tizio che ha tirato la lancia alle spalle: crediamo non sia finita bene.
+La polizia continua a sparare, la folla, pubblico e cavalli si disperdono. È ora di andare anche per noi. Tornati in città ci dicono che la Pasola finisce sempre con la polizia che spara, in quella che abbiamo visto noi non é morto nessuno quindi si può considerare pacifica. Non però sappiamo che fine abbia fatto il tizio che ha tirato la lancia alle spalle: crediamo non sia finita bene.
 
 ![Tombe, chi muore nella Pasola ha diritto ad una speciale sepoltura](images/Tombe, chi muore nella Pasola ha diritto ad una speciale sepoltura.jpg){fig-align="center"}
 
