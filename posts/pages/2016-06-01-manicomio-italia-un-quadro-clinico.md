@@ -1,5 +1,5 @@
 ---
-author: Andrea Purga
+author: Andrea Purgatori - Vittorino Andreoli
 date: 2016-06-01 10:00:51+00:00
 image: /images/2016/06/madness-blackwhite-640x381.jpg
 link: http://redazione.scritture.net/mag/manicomio-italia-un-quadro-clinico/
@@ -7,18 +7,15 @@ slug: manicomio-italia-un-quadro-clinico
 title: 'Manicomio Italia: un quadro clinico'
 categories:
   - società
-tags:
-  - Andrea Purgatori
-  - Italia
   - psicologia
-  - Scritture
   - Ungaretti
   - Vittorino Andreoli
+  - Andrea Purgatori
 ---
 
 *Il paziente Italia non è difficile da riconoscere. Quattro i sintomi individuati dallo psichiatra e scrittore Vittorino Andreoli (Verona, 1940) in questa intervista di Andrea Purgatori: vengono qui riassunti per comune utilità, perché, se non è una propriamente una malattia, superficialità e faciloneria sono comunque diffuse, e fa fatica leggere e pensare per davvero. Masochismo nascosto dietro la maschera di un esibizionismo atto a compensare l'impotenza. Individualismo spietato e crudele esteso al massimo ad un piccolissimo clan, forse ad un amante, ma non alla moglie. Patologia della recita, esistere per quello che di dice e parlare sempre, convincendosi delle proprie menzogne. Fede in miracoli assurdi che portano a convincersi che non vale la pena di fare assolutamente niente. Ci può forse salvare la depressione anaclitica, tipica degli uomini di cultura, che leggono Ungaretti quel verso stupendo che dice più o meno: «l'uomo... attaccato nel vuoto al suo filo di ragno». Tuttavia, può bastare?*
 
-*«L'Italia è un paziente malato di mente. Malato grave. Dal punto di vista psichiatrico, direi che è da ricovero. Però non ci sono più i manicomi»*. Il professor [Vittorino Andreoli, uno dei massimi esponenti della psichiatria contemporanea](http://www.andreoli.rcslibri.it/%22), ex direttore del Dipartimento di psichiatria di Verona, membro della [New York Academy of Sciences](http://www.nyas.org/) e presidente del [Section Committee on Psychopathology of Expression della World Psychiatric Association](http://it.wikipedia.org/wiki/Vittorino_Andreoli) ha messo idealmente sul lettino questo Paese che si dibatte tra crisi economica e caos politico e si è fatto un'idea precisa del malessere del suo popolo. Un'idea drammatica. Con una premessa: *«Che io vedo gli italiani da italiano, in questo momento particolare. Quindi, sia chiaro che questa è una visione degli altri e nello stesso tempo di me. Come in uno specchio»*.
+*«L'Italia è un paziente malato di mente. Malato grave. Dal punto di vista psichiatrico, direi che è da ricovero. Però non ci sono più i manicomi»*. Il professor [Vittorino Andreoli, uno dei massimi esponenti della psichiatria contemporanea](http://www.andreoli.rcslibri.it/%22), ex direttore del Dipartimento di psichiatria di Verona, membro della [New York Academy of Sciences](http://www.nyas.org/) e presidente del [Section Committee on Psychopathology of Expression della World Psychiatric Association](http://it.wikipedia.org/wiki/Vittorino_Andreoli) ha messo idealmente sul lettino questo Paese che si dibatte tra crisi economica e caos politico e si è fatto un'idea precisa del malessere del suo popolo. Un'idea drammatica. Con una premessa: *«Che io vedo gli italiani da italiano, in questo momento particolare. Quindi, sia chiaro che questa è una visione degli altri e nello stesso tempo di me. Come in uno specchio»*.
 
 **Quali sono i sintomi della malattia mentale dell'Italia, professor Andreoli?**
 

@@ -11,7 +11,7 @@ categories:
   - Zenone
   - Cartesio
   - Galilei
-  - Bruno
+  - Giordano Bruno
   - Leibniz
   - Spinoza
   - Hume
@@ -30,7 +30,7 @@ image:  /images/2017/02/Beatrix-Potter-Peter-Rabbit-1902.jpg
 author: Claudio Comandini
 ---
 
-*Teorie varie, vita vera e immagini ideali degli animali dai cinici ai punkabbestia, dal riduzionismo all'animalismo, dai pellerossa al pensiero contemporaneo.*
+*Teorie varie, vita vera e immagini ideali degli animali, dai cinici ai punkabbestia, dal riduzionismo all'animalismo, dai pellerossa al pensiero contemporaneo.*
 
 ### 1. Filosofia degli animali
 

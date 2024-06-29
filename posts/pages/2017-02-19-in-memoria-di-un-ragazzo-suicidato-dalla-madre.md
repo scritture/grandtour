@@ -5,7 +5,6 @@ image: /images/2017/02/Joint_and_smoke.jpg
 title: In memoria di un ragazzo suicidato dalla madre
 categories:
   - società
-  - droga
   - psicologia
   - Francesco Cozzi
   - Diego Cerretti

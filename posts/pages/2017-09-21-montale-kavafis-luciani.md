@@ -77,7 +77,7 @@ Usciamo dal libro per intrecciare tra loro altri percorsi. Montale e Sefèris so
 
 Invece, la clausura «*inavvertita*» e ripetutamente dichiarata di Kavàfis, può essere messa in rapporto con la «*mineralizzazione*» dell'esistenza testimoniata da Camillo Sbarbaro, poeta ligure immediato predecessore di Montale, quindi anagraficamente a più prossimo a Kavàfis. Su questo e Sbarbaro pesano in particolare modo i simbolisti francesi, che da Baudelaire a Mallarmè sono impegnati ad esplorare come sia il suono delle parole a determinare il senso di un mondo. Su tutti, sembra dominare l'immensa figura di Eliot, che più di ogni altro ha posto il sentire poetico nella capacità di correlare un mondo di oggetti destinato alla consunzione eppure presente alla nostra smarrita coscienza. Poi, non resterà che il linguaggio. E qui ci fermiamo, perché per il momento queste sono [pagine ancora a venire](https://grandtour.shop/posts/pages/2014-12-24-il-premio-frascati-poesia-provincia.html).
 
-![Cristiano Luciani, *Montale, Kavàfis e la Grecia moderna*, Universitalia, Roma 2016, pp. 94. ISNB 978-88-6507-951-5](/images/2017/12/Locandina-1.jpg){alt="Locandina-1" fig-align="center" width="349"}
+![Locandina-1](/images/2017/12/Locandina-1.jpg){fig-align="center" width="349"}
 
 •
 

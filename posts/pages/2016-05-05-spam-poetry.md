@@ -4,19 +4,16 @@ date: 2016-05-05 10:00:29+00:00
 image: /images/2016/05/Disturbo-444x381.jpg 
 title: Spam poetry! 
 categories: 
+  - poesia
   - comunicazione 
   - Claudio Comandini 
-  - poesia 
-tags: 
-  - Claudio Comandini 
-  - poesia
 ---
 
 *Lo spam dentro e fuori di noi.*
 
 Sono la signorina Bianca Adalard, signora single (mai sposato) me stesso, vivo uno senza genitori. Mi piace il silenzio. Temporaneamente non funziona. Vorrei che mi prestavate un'attenzione particolare poiché il grande ha Raoul umanistico Follereau li ha insegnati che nullo non ha il diritto di essere felice molto solo.
 
-Ti interessano le previsioni astrali? Non Ti chiedi mai come le leggi cosmiche riescano ad influenzare la nostra vita? Sei mai stato al centro di un mirino? Vuoi conoscere e soprattutto conoscerTi divertendoTi? Sei insoddisfatto della Tua linea telefonica? Noi facciamo solo formazione che porta visibilità: sai perché?
+Ti interessano le previsioni astrali? Non Ti chiedi mai come le leggi cosmiche riescano ad influenzare la nostra vita? Sei mai stato al centro di un mirino? Vuoi conoscere e soprattutto conoscerTi divertendoTi? Sei insoddisfatto della Tua linea telefonica? Noi facciamo solo formazione che porta visibilità: sai perché?
 
 Infanzia, tempo di poesia! Ottieni il Tuo titolo di studio in un solo anno! Ecco i preventivi di 57 banche per il Tuo mutuo! Scopri quanto Sei veloce a guadagnare! RegistraTi e porta Las Vegas a casa tua! Vieni a scoprire come guadagnarTi una splendida vacanza! LiberaTi senza fatica dai chili di troppo! Casual, quanto Ci piaci!
 
