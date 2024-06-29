@@ -3,19 +3,16 @@ author: Katharine Viner
 comments: false
 date: 2017-01-25 11:00:17+00:00
 image: /images/2017/01/Unknown.jpg
-title: La verità disturbata della tecnologia
+title: Il digitale ha distrutto la verità
 categories:
   - comunicazione
   - editoria
   - politica
   - società
-  - Brexit
-  - Europa
-  - giornalismo
-  - Habermas
-  - informazione
-  - Inghilterra
   - Internet
+  - Europa
+  - Inghilterra
+  - Habermas
   - Katharine Viner
 ---
 

@@ -11,7 +11,6 @@ categories:
   - Cristianesimo 
   - Islam 
   - Ebraismo
-  - Turchia 
   - USA
   - Gerusalemme 
   - Derrida 

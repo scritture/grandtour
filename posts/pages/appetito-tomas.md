@@ -4,7 +4,6 @@ date: '2017-12-20'
 author: Andrea Appetito
 image: /images/2017/12/Tomas_particolare.jpg
 categories:
-  - letteratura
   - narrazioni
   - società
   - Andrea Appetito
@@ -12,7 +11,7 @@ categories:
 
 *«Speravo che si aprisse sotto di me un baratro, un inferno in cui nascondermi e da cui rinascere dopo molte generazioni.» In una città sul mare il sogno di un potere totalirio ambizioso e senza scrupoli sta per realizzarsi. L'apparizione di una nave misteriosa segna l'inizio di un'ondata di violenza che scuote la città fino alla sua distruzione. Sette personaggi ne raccontano gli ultimi eventi con punti di vista diversi. Ciò che li accomuna è il loro rapporto con Tomàs, un ragazzo scomparso all'improvviso proprio dopo l'apparizione della nave. Tomàs è il tassello mancante di una trama che vede coinvolti il passato dell'autocrate e l'organizzazione dei suoi oppositori. Sullo sfondo, una storia d'amore perduto dai risvolti inquietanti.*
 
-*Il romanzo "Tomàs"" è l'ultimo libro di Andrea Appetito (Roma, 1971), che ha pubblicato le poesie di "Cluster Bomb"" (2002) ed è presente sulle antologie "Allupa allupa"" (2006) e Sorridi: siamo a Roma (2016); con Gianluca Solla ha scritto Senza nome, saggio breve tradotto in spagnolo e pubblicato nel libro collettivo El impasse de lo político (2011). Ha poi realizzato testi teatrali, sceneggiature, cortometraggi e docufilm. Di Tomàs hanno già apprezzato la «capacità di tenere insieme, di raffrontare armonicamente, il piccolo e il grande, l'universale e il particolare» ([Laura Renzi, «il manifesto», 30.082017](https://ilmanifesto.it/tomas-luomo-dalle-mille-voci/)), aspetto che si rafforza laddove la storia narrata è «carica di un'urgenza morale che la accosta e la fa dialogare con la Storia», realizzata attraverso minimi scarti e una scrittura «semplice e scarna» (Edoardo Zambelli [«Nazione Indiana»](https://www.nazioneindiana.com/2017/04/18/tomas/), [18.04.2017](https://www.nazioneindiana.com/2017/04/18/tomas/)) eppure «incalzante e coinvolgente, molto cadenzata» (Antonio Veneziani, «Le monde diplomatique», marzo 2017). Ne presentiamo qui alcuni frammenti.*
+*Il romanzo "Tomàs" è scritto da Andrea Appetito (Roma, 1971), che ha già pubblicato le poesie di "Cluster Bomb"" (2002) ed è presente sulle antologie "Allupa allupa" (2006) e "Sorridi: siamo a Roma" (2016); inoltre, con Gianluca Solla ha scritto "Senza nome", saggio breve tradotto in spagnolo e pubblicato nel libro collettivo "El impasse de lo político" (2011). Ha poi realizzato testi teatrali, sceneggiature, cortometraggi e docufilm. Di Tomàs hanno già apprezzato la «capacità di tenere insieme, di raffrontare armonicamente, il piccolo e il grande, l'universale e il particolare» ([Laura Renzi, «il manifesto», 30.082017](https://ilmanifesto.it/tomas-luomo-dalle-mille-voci/)), aspetto che si rafforza laddove la storia narrata è «carica di un'urgenza morale che la accosta e la fa dialogare con la Storia», realizzata attraverso minimi scarti e una scrittura «semplice e scarna» (Edoardo Zambelli [«Nazione Indiana»](https://www.nazioneindiana.com/2017/04/18/tomas/), [18.04.2017](https://www.nazioneindiana.com/2017/04/18/tomas/)) eppure «incalzante e coinvolgente, molto cadenzata» (Antonio Veneziani, «Le monde diplomatique», marzo 2017). Ne presentiamo qui alcuni frammenti.*
 
 ### 1. Nikolas
 

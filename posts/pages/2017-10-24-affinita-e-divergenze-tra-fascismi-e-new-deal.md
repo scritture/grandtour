@@ -10,8 +10,8 @@ categories:
    - arte
    - società
    - Berlino
-   - New York
    - Roma
+   - USA
    - Hitler
    - Mussolini
    - Roosevelt

@@ -3,8 +3,7 @@ categories:
     - filosofia
     - comunicazione
     - società
-    - infodemia
-    - coronavirus
+    - pandemia
     - Claudio Comandini
 date: '2024-01-26'
 images: /images/aggredior_virus.jpg

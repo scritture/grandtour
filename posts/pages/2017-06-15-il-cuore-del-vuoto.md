@@ -7,8 +7,7 @@ title: Il cuore del vuoto
 categories:
   - poesia
   - religioni
-  - Taoismo
-  - Zen
+  - wu-wei
   - Alessandro Maini
 ---
 

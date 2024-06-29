@@ -7,7 +7,6 @@ title: Poesie per un giorno di primavera
 categories:
   - poesia
   - guerra
-  - Europa
   - Claudio Comandini
 ---
 

@@ -2,16 +2,15 @@
 date: '2017-05-05'
 title: 'Gerardo Marotta in tre atti'
 categories:
-  - Claudio Comandini
   - filosofia
   - politica
-  - Filippo Tarantino
   - Frascati
-  - Gerardo Marotta
+  - Napoli
   - Istituto italiano per gli studi filosofici
-  - Luigi Miraglia
-  - Maurizio Torrini
   - Vivarium Novum
+  - Luigi Miraglia
+  - Gerardo Marotta
+  - Claudio Comandini
 image: /images/2017/05/Raffael_063.jpg
 author: Claudio Comandini
 ---

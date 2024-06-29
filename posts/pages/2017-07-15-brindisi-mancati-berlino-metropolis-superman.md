@@ -5,7 +5,6 @@ author: Claudio Comandini
 image:  /images/2017/10/brindisi_mancati.jpg
 categories:
   - narrazioni
-  - letteratura
   - filosofia
   - politica
   - storia
@@ -14,16 +13,15 @@ categories:
   - fumetti
   - musica
   - Berlino
-  - New York
   - USA
-  - Benjamin
-  - Marlen Dietrich
   - Emerson
-  - George Grosz
-  - Hitler
-  - Fritz Lang
   - Nietzsche
+  - George Grosz
+  - Fritz Lang
+  - Benjamin
+  - Hitler
   - Roosevelt
+  - Marlen Dietrich
   - Claudio Comandini
 ---
 

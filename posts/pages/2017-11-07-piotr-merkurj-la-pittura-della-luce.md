@@ -4,13 +4,11 @@ date: '2017-11-07'
 author: Claudio Comandini - Piotr Merkurj
 image:  /images/2017/11/Vetrata-Palma-di-Montechiaro-AG.jpg
 categories:
-  - filosofia
-  - politica
-  - religioni
   - arte
+  - filosofia
+  - religioni
   - Frascati
   - Russia
-  - Bisanzio
   - Leonardo Da Vinci
   - Florenskj
   - Claudio Comandini
@@ -31,7 +29,7 @@ Così come ogni autentica espressione artistica porta testimonianze che diventan
 
 ![*Piotr Merkurj, Portatore della Luce (80×100, olio su tela -- 1990)*](https://lh3.googleusercontent.com/wPGy39cP805rgQUT_armYiA8RtDK1FMSDRvVWNwJDkNR3sH_UQarcmdlzWDN6FOg5SNKSr-tOdBCUs2H4ZaJlsgvljstbMZeLNZhLvJrRrH6h7-UFOWJfU0fu1dhWkjngpAMzXa8GQ=w416-h550-no){fig-align="center"}
 
-CC: *Parlando del tuo lavoro sulla luce hai tratteggiato due fasi distinte: una che* «nasce all'interno dello studio della natura»*, basata sulla comprensione della luce naturale, e un'altra nella quale la luce è trattata quale* «materia in sé, che da sola deve realizzare i suoi messaggi»*; questa seconda fase si puntualizza nell'esigenza di *«intuire la forma della luce»* *e vi assume importanza centrale il disegno. Possiamo seguire tale percorso in qualcuno dei tuoi quadri?*
+CC: *Parlando del tuo lavoro sulla luce hai tratteggiato due fasi distinte: una che* «nasce all'interno dello studio della natura»*, basata sulla comprensione della luce naturale, e un'altra nella quale la luce è trattata quale* «materia in sé, che da sola deve realizzare i suoi messaggi»*; questa seconda fase si puntualizza nell'esigenza di* «intuire la forma della luce»\* *e vi assume importanza centrale il disegno. Possiamo seguire tale percorso in qualcuno dei tuoi quadri?*
 
 PM: Possiamo provare a seguirlo nel quadro che verrà: non puoi prendere un uccello che vola, puoi però parlare delle sue piume. Se nella natura ci sono luci e ombre, la divisione compiuta da Kandinskj tra forma e colore mi ha suggerito che la luce è in ambedue, e quindi ho pensato di trattarla a parte. Una delle intuizioni per me fondamentali fu quella di vedere che la luce riflessa in una pozzanghera era dotata di una propria consistenza: nei miei dipinti, questo può essere osservato in *Flautista* (1997) e in *Ispirazione (1996),* *dove la luce non visibile diventa tangibile.*
 
@@ -39,7 +37,7 @@ PM: Possiamo provare a seguirlo nel quadro che verrà: non puoi prendere un ucce
 
 ![*Piotr Merkurj, Ispirazione (190x150, olio su tela - 1996)*](https://lh3.googleusercontent.com/4Ft6mpJxObQaV61-P8qxm4jvvFguiQLqEXMUg9wd4rT1tL86GuRqxeAuwWAsLt9UdQ-95YlVaXxydWrGRFIrFVl2JGhWw3PmD__PdGCqXU632HrBpno8_hD1SIoPlhFu5d8d-88OFg=w710-h550-no){fig-align="center"}
 
-CC: *Restiamo quindi tra luce e ombra, invisibilità e consistenza. Se con Leonardo Da Vinci tu sai che l'ombra nasce dalla luce ed è di questa più potente, a differenza di quanto sostenevano gli Impressionisti ritieni che la luce includa anche il nero. Se nei tuoi quadri le componenti di forma, colore e luce hanno la stessa importanza e nessuna risulta secondaria alle altre, riguardo al sorgere del tuo interesse per la luce hai affermato *«ogni persona trova quello che ha già dentro»*. Prendiamo spunto da questa frase, e chiudiamo gli occhi. Quanti colori riesci a vedere? C'è un solo punto di propagazione oppure la luce si propaga da più punti?*
+CC: *Restiamo quindi tra luce e ombra, invisibilità e consistenza. Se con Leonardo Da Vinci tu sai che l'ombra nasce dalla luce ed è di questa più potente, a differenza di quanto sostenevano gli Impressionisti ritieni che la luce includa anche il nero. Se nei tuoi quadri le componenti di forma, colore e luce hanno la stessa importanza e nessuna risulta secondaria alle altre, riguardo al sorgere del tuo interesse per la luce hai affermato* «ogni persona trova quello che ha già dentro»*. Prendiamo spunto da questa frase, e chiudiamo gli occhi. Quanti colori riesci a vedere? C'è un solo punto di propagazione oppure la luce si propaga da più punti?*
 
 PM: Non vedo nessun colore: solo pensiero. Resta come un piccolo granello di sabbia non visibile, attorno al quale, come una perla, si costruisce una forma, che diventa progressivamente visibile, mentre la matita traccia un segno dei pensieri, lentamente. Devo vedere il quadro nella mia mente, per dipingere.
 

@@ -7,8 +7,7 @@ title: Francesco Permunian in quattro libri. Incantarsi è un dono
 categories:
   - letteratura
   - narrazioni
-  - letteratura
-  - Permunian
+  - Francesco Permunian
   - Serena Grizi
 ---
 

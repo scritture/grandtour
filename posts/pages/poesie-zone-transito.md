@@ -1,6 +1,5 @@
 ---
 categories:
-  - letteratura
   - poesia
   - musica
   - Emerico Giachery
@@ -172,6 +171,8 @@ un altro mondo inizia, lo stesso,\
 \
 *(tharros equinozio d'autunno 88)*\
 
-•\
+•
+
+\
 *Prima pubblicazione: «La Scrittura» n. 7, autunno-inverno 97/98.*\
 *Fotografia: Claudio Comandini, "Some candies publications" – Paros, agosto 1993.*
