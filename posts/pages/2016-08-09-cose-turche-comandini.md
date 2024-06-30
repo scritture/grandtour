@@ -9,7 +9,6 @@ categories:
   - narrazioni 
   - religioni
   - guerra 
-  - Bisanzio 
   - Ebraismo
   - Islam 
   - Istanbul 

@@ -4,25 +4,25 @@ date: 2014-12-31 11:00:24+00:00
 image: /images/2014/12/phallus-dei.jpg
 title: Le parole del sesso taciuto 
 categories: 
-  - Claudio Comandini 
-  - filosofia 
+  - filosofia
+  - sessualità
   - politica 
   - religioni 
   - scienza 
   - società
+  - diritti
   - Adorno 
   - Agamben 
   - Aleister Crowley 
   - Baudrillard 
-  - Bologna 
   - Bradbury 
-  - cattolicesimo 
   - Deleuze 
   - Derrida 
   - Eliade 
   - Evola 
   - Foucault 
-  - Freud 
+  - Freud
+  - Claudio Comandini 
 ---
 
 *La sessualità e le sue legittimazioni. Viaggio nel godimento da De Sade a Lacan. False emancipazioni e mondi che spariscono. Utopie negative e liberazioni presunte. Rivendicazioni e corto circuiti. Generi tra natura e cultura: Judith Butler. Antropologia transessuale. Il bisturi e gli ormoni. La sindrome di Klinefelter e quella di Morris. Pandroginie culturali e androginie psichiche. Castità e integrazione. Feticismi e riciclaggi. Il corpo nel biocapitalismo. Normativizzazione giuridica del piacere. Antagonismo sociale e public relations. Il parricidio da Adorno a Deleuze. Sovversioni linguistiche e normativizzazioni giuridiche. Liberazioni e consumo. Problematiche dell'adozione. Liberismo permissivista e neo-tribalismo. Pinkwasching e omonazismo. I gay e l'ecumene. La sacralità del sesso domestico. Esperienze indicibili e identità plurali. Forme dell'omogeneizzazione. Preistoria della coscienza e archetipi sessuali: da von Baader a Jung. La disperazione del piacere. Negli interstizi.*
@@ -82,7 +82,6 @@ Una nuova politica è necessaria: lo vediamo tutti, ogni giorno. Tuttavia, la fo
 La Butler compie una critica interna del femminismo lesbico e ne problematizza la strategia discorsiva, [\[35\]](http://www.claudiocomandini.net/wp-admin/post.php?post=1872&action=edit&message=1#_ftn35) che sembra arrivare a una forma di fondamentalismo gay, proponendo il capovolgimento dei pregiudizi dominanti; tuttavia, affermare che l'eterosessualità sia un'omosessualità delusa [\[36\]](http://www.claudiocomandini.net/wp-admin/post.php?post=1872&action=edit&message=1#_ftn36) e teorizzare il tabù dell'omosessualità come precedente quello edipico [\[37\]](http://www.claudiocomandini.net/wp-admin/post.php?post=1872&action=edit&message=1#_ftn37) sembra implicare una strana originarietà degli accoppiamenti tra congeneri, e che anche questi comportino possibilità di gravidanza, complicando peraltro la descrizione delle nevrosi oltre la loro soglia di trattabilità. Inoltre, sostenere l'idea di *«guarire dall'illusione di un corpo vero al di là della legge»* per comprenderne i condizionamenti e aprirlo a un futuro di possibilità culturali [\[38\]](http://www.claudiocomandini.net/wp-admin/post.php?post=1872&action=edit&message=1#_ftn38) ha il merito di dischiudere una riflessione storica ampia e articolata, ma espone questo stesso corpo al rischio di infinite altre marcature politiche, [\[39\]](http://www.claudiocomandini.net/wp-admin/post.php?post=1872&action=edit&message=1#_ftn39) capaci di sottoporne il *«confine variabile»* a regolazione imprevedibili, altrettanto stringenti di quelle a cui si vuole sfuggire. [\[40\]](http://www.claudiocomandini.net/wp-admin/post.php?post=1872&action=edit&message=1#_ftn40)
 
 Il pensiero della Butler si forma approfondendo le problematiche inaugurate da pensatrici femministe come Luce Irigaray e da militanti lesbiche come Monique Witting, nel confronto con pensatori come Lévi-Strauss, Foucault e Lacan, in un fitto rimando di testi e di problematizazzioni di categorie culturali, stabilendo parametri importanti per i *gender studies* e offrendo una sponda al movimento *queer*. Nel suo tentativo di infrangere la dualità sessuale per ottenere molteplicità di pratiche discorsive e una pluralità di generi, giustifica un compromesso sin troppo parziale tra differenze irrimediabilmente irrelate e la loro pretesa origine discorsiva. [\[41\]](http://www.claudiocomandini.net/wp-admin/post.php?post=1872&action=edit&message=1#_ftn41) Dal momento che, indipendentemente dalle preferenze sessuali personali, la società tutta è esposta all'impatto di queste emergenze, occorre comprenderne la portata: proviamo a farlo concentrandoci su tre elementi, enucleabili nel transessualismo, nelle unioni omoaffettive, nel fascismo omosessuale.
-
 
 ## 4. Trans senza frontiere
 
@@ -218,7 +217,7 @@ Laddove «*la civiltà industriale è possibile solo quando non c'è rinuncia»*
 
 Nel modello sociale di estrema omogeneizzazione articolato da Huxley, che qualcuno potrebbe anche considerare desiderabile e ottimale, in osservanza al principio che *«ognuno appartiene a tutti gli altri»*; ogni forma di relazione affettiva esclusiva e capace di smuovere emozioni profonde è considerata eretica e pericolosa. Le suggestioni su cui si basano gli ordinamenti sociali del Mondo nuovo sono indotte principalmente attraverso lo strumento dell'*ipnopedia*, molto simile alla programmazione neurolinguistica; nella nostra realtà i condizionamenti si impongono soprattutto attraverso le mode e si sommano alla diffusa tendenza all'autismo personale, portando a una superficiale e annoiata trasgressione basata sulla sottomissione al consumo e non su una ricerca di libertà. Il godimento piatto e obbligato si accompagna a un'atonia sensitiva irrimediabile, che di emancipato non ha più nemmeno l'apparenza.
 
-Huxley termina il romanzo sulla figura del Selvaggio, un figlio del Mondo nuovo nato in cattività, quindi non in provetta ma da donna, e avvezzo a citare a memoria le opere di Shakespeare, generalmente proibite, così come ogni altra lettura. Questo strano selvaggio di marca vittoriana sceglie quindi di vivere in un ritiro destinato però a essere infastidito dai media, per essere infine funestato dal suicidio della donna con cui non aveva consumato una passione resa a lui impossibile dall'attitudine sfacciatamente libertina di lei. Il rifiuto del Nuovo Mondo da parte del Selvaggio è totale: *«Non ne voglio di comodità. Io voglio Dio, voglio la poesia, voglio il pericolo reale, voglio la libertà, voglio la bontà. Voglio il peccato. [...] Reclamo il diritto di essere infelice.»* [\[141\]](http://www.claudiocomandini.net/wp-admin/post.php?post=1872&action=edit&message=1#_ftn141) In scritti critici di qualche anno successivi, l'autore chiosa: *«La filosofia ci insegna a non essere mai sicuri delle cose che sono di per sé evidenti. La propaganda, all'opposto, ci insegna ad accettare come assiomatiche certe cose su cui la ragione vorrebbe che si sospendesse il giudizio, e intervenisse il dubbio.»* [\[142\]](http://www.claudiocomandini.net/wp-admin/post.php?post=1872&action=edit&message=1#_ftn142)
+Huxley termina il romanzo sulla figura del Selvaggio, un figlio del Mondo nuovo nato in cattività, quindi non in provetta ma da donna, e avvezzo a citare a memoria le opere di Shakespeare, generalmente proibite, così come ogni altra lettura. Questo strano selvaggio di marca vittoriana sceglie quindi di vivere in un ritiro destinato però a essere infastidito dai media, per essere infine funestato dal suicidio della donna con cui non aveva consumato una passione resa a lui impossibile dall'attitudine sfacciatamente libertina di lei. Il rifiuto del Nuovo Mondo da parte del Selvaggio è totale: *«Non ne voglio di comodità. Io voglio Dio, voglio la poesia, voglio il pericolo reale, voglio la libertà, voglio la bontà. Voglio il peccato. \[...\] Reclamo il diritto di essere infelice.»* [\[141\]](http://www.claudiocomandini.net/wp-admin/post.php?post=1872&action=edit&message=1#_ftn141) In scritti critici di qualche anno successivi, l'autore chiosa: *«La filosofia ci insegna a non essere mai sicuri delle cose che sono di per sé evidenti. La propaganda, all'opposto, ci insegna ad accettare come assiomatiche certe cose su cui la ragione vorrebbe che si sospendesse il giudizio, e intervenisse il dubbio.»* [\[142\]](http://www.claudiocomandini.net/wp-admin/post.php?post=1872&action=edit&message=1#_ftn142)
 
 Orwell conclude *1984* nel pessimismo totale: il protagonista Winston scopre che la sua ribellione era completamente manipolata e che l'amante con cui si era coinvolto nel *reasesso* (crimine sessuale) era una spia. Tuttavia, così *«ogni cosa era a posto, ora, tutto era definitivamente sistemato, la lotta era finita. Egli era riuscito vincitore di se medesimo. Amava il Grande Fratello.»* [\[143\]](http://www.claudiocomandini.net/wp-admin/post.php?post=1872&action=edit&message=1#_ftn143) Se l'idiozia è alla base del controllo sociale, da sola non basta: c'è da parte della popolazione un'enorme componente di compiaciuta disponibilità ad essere manipolati, che corrisponde ad un'inibizione controllata delle proprie capacità mentali induttive e deduttive, che porta -- e qui parafrasiamo appena l'autore - a non cogliere le analogie, a non percepire gli errori logici, a equivocare gli argomenti più semplici, a provare avversione verso qualsiasi tentativo di elaborare una dialettica di pensiero capace di portare oltre la supina accettazione dell'esistente. [\[144\]](http://www.claudiocomandini.net/wp-admin/post.php?post=1872&action=edit&message=1#_ftn144) Consideriamo che il conoscere a molti non interessa affatto, e inoltre sembra tornato essere un peccato mortale: tuttavia, è condizione del nostro esistere, laddove questo sia qualcosa di più del rispondere ad altri imperativi.
 

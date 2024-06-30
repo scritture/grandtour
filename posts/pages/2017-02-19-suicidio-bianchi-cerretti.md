@@ -6,7 +6,6 @@ title: In memoria di un ragazzo suicidato dalla madre
 categories:
   - società
   - psicologia
-  - Francesco Cozzi
   - Diego Cerretti
 ---
 

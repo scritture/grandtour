@@ -1,21 +1,14 @@
 ---
-excerpt: 'Puoi incontrarla ovunque e in ogni momento, sospesa tra assenza e presente, terribile e inevitabile così come possono esserlo amore e morte. Si rivela e si nasconde, accennandosi al di là del vero e del falso. Non ha occhi, né naso, né bocca; fatta di luce, lascia tracce oscure. Uno spettro di donna attraversa i secoli come fossero stanze: nei paesi tedeschi ogni epoca ne porta il riflesso. Ora che non ci sei più, mi sembra come se i suoi evanescenti contorni fossero gli stessi tuoi'
-socialImage: /images/shop/caludio_libreria.jpg
-addTitleSuffix: true
-
-colors: colors-a
 author: Claudio Comandini
-
 date: 2016-10-11
 image: /images/2016/10/parlamento-fantasma.jpg
 title: Il continuo ritorno della Dama Bianca
 categories:
+  - narrazioni
   - filosofia
   - letteratura
-  - narrazioni
   - poesia
   - Berlino
-  - Dama Bianca
   - Erasmo
   - Leibniz
   - Simmel
