@@ -13,7 +13,7 @@ footnotes-hover: true
 
 **Karaoke paradise (sabato)**
 
-**Risiko e altre battaglie (domenica).**
+**Risiko e altre battaglie (domenica)git**
 
 ![](images/immagini_bookwinebar/calendario.jpg)
 
