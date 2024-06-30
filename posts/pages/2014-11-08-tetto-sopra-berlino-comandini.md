@@ -22,6 +22,7 @@ categories:
   - Spengler
   - Debord
   - Deleuze
+  - Darnton
   - Fukuyama
   - Claudio Comandini
 ---

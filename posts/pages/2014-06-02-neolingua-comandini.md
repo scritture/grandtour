@@ -26,6 +26,7 @@ categories:
   - Manzoni
   - Scruton
   - Perniola
+  - Hugh Hopper
   - Claudio Comandini
 ---
 

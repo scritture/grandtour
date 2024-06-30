@@ -16,6 +16,7 @@ categories:
   - Kant 
   - Jung 
   - Žižek
+  - Grant Morrison
   - Claudio Comandini 
 ---
 
