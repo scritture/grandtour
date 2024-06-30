@@ -5,7 +5,7 @@ citation-location: margin
 footnotes-hover: true
 ---
 
-## **Incontri settimanali**
+## **Appuntamenti settimanali**
 
 **Laboratorio filosofia (giovedì)**
 
@@ -13,7 +13,7 @@ footnotes-hover: true
 
 **Karaoke paradise (sabato)**
 
-**Risiko e altre battaglie (domenica)git**
+**Risiko e altre battaglie (domenica)**
 
 ![](images/immagini_bookwinebar/calendario.jpg)
 
