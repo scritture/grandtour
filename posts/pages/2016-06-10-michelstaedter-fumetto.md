@@ -25,7 +25,7 @@ categories:
 
 (*Voglio e non posso e spero senza fede - III*, Febbraio 1907, Carlo Michelstaedter, da *"Volo per altri cieli è la mia vita"*, Fara Editore, Santarcangelo di Romagna 1996).
 
-![](images/Varone_Michelstaedter_1.jpg){fig-align="center" width="695"}
+![](images/Varone_Michelstaedter_1.jpg){fig-align="center" width="904"}
 
 ![](images/Varone_Michelstaedter_2.jpg){fig-align="center"}
 
