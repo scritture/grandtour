@@ -1,5 +1,6 @@
 ---
 author: Claudio Comandini
+title: Rovine d'Europa
 date: 2016-03-05 11:00:52+00:00 
 image: /images/2016/03/save-our_planet-678x381.jpg 
 categories: 
@@ -67,7 +68,7 @@ Nonostante il nostro mondo ne sia ormai costituito, il vuoto non sempre è un'op
 
 Tuttavia il DiEM, oltre a mostrare il deprimente spettacolo *«dell'altra faccia della spoliticizzazione»*, come riconosciuto da Montesanto, ha evidenziato pure l'altra faccia della disgregazione europea, e non sembra affatto in grado di rappresentare tale processo. La sua pretesa di esprimere un *«potere deliberativo»* e un'«*altra Europa»* sembra così ridursi alle folli comparsate di una fredda serata di primavera. Non è da oggi che chi pretende di fare politica e di parlare a nome dell'umanità risulta drammaticamente in ritardo sui propri stessi presupposti e inconsapevole di dove può andare a parare, andando a arrangiare stucchevoli tentativi di potere dal basso che non arrivano spesso nemmeno al proprio buco del culo. Ragazzi del DiEM, un consiglio: fate attenzione quando attraversate la strada. Sopratutto se volete portare a spasso l'interesse collettivo!
 
-Rimaniamo così costretti a cercare una prospettiva in quanto separa Junker e Schäuble da Draghi, e in come quest'ultimo, pur fornendo soldi alle banche, lo fa non in ossequio al monetarismo ma con l'intento di restituire ossigeno all'economia reale. Dobbiamo cercare tra le crepe di queste società quella dalla quale può scaturire una nuova visione, *«l'anello che non tiene»* che per  Montale permetteva l'irrompere di una diversa realtà. Da qualche parte, potrà pur esserci. L'Europa cambierà, come è sempre cambiata: se non l'hanno fermata i muri, non lo faranno nemmeno queste macerie.
+Rimaniamo così costretti a cercare una prospettiva in quanto separa Junker e Schäuble da Draghi, e in come quest'ultimo, pur fornendo soldi alle banche, lo fa non in ossequio al monetarismo ma con l'intento di restituire ossigeno all'economia reale. Dobbiamo cercare tra le crepe di queste società quella dalla quale può scaturire una nuova visione, *«l'anello che non tiene»* che per Montale permetteva l'irrompere di una diversa realtà. Da qualche parte, potrà pur esserci. L'Europa cambierà, come è sempre cambiata: se non l'hanno fermata i muri, non lo faranno nemmeno queste macerie.
 
 •
 
