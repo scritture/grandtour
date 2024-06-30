@@ -4,23 +4,23 @@ date: 2013-05-27 10:00:59+00:00
 image: /images/2013/05/riflessi.jpg
 title: La clonazione dalle pecore a Dio (passando per Berlusconi)
 categories:
-  - comunicazione
-  - Claudio Comandini
   - filosofia
   - fumetti
+  - comunicazione
   - letteratura
   - narrazioni
   - religioni
   - scienza
   - società
   - umorismo
-  - Agamben
-  - Berlusconi
+  - Ebraismo
   - Cristianesimo
-  - Derrida
-  - Ebrei
-  - Husserl
   - USA
+  - Berlusconi
+  - Husserl
+  - Derrida
+  - Agamben
+  - Claudio Comandini
 ---
 
 *La notte in cui fu clonato il presidente. Un controverso concorso letterario. Berlusconi, la biopolitica e il corpo immortale del sovrano. La clonazione come meccanismo istituzionale. Breve descrizione dei quindici racconti pubblicati. Semantica e pratica della clonazione. La riproduzione per talea, la pecora Dolly, le cellule staminali. La medicalizzazione della vita ed il corpo oggettivato delle scienze. Fumetti esemplari: L'Incal e Spider-man. L'impossibile identità con se stessi. Antinori, Ben Abraham e la clonazione di Abramo e Gesù. Viaggio per reliquie da Macphelah a Calcata. La parusia televisiva di Pat Robertson e Gerard Straub. Michael Cordy: La stirpe del miracolo. Breve storia dei Concili più decisivi. Monoteismi e pluralismi. Apocalisse e apocatastasi. Il corpo sociale da S. Paolo a Debord. Baudrillard, i simulacri e la duplicazione della realtà. Berlusconi clone di se stesso. Comprate il libro.*
@@ -87,7 +87,7 @@ Ad ogni modo, non è dato sapere dove tutti questi singolari reperti possano ora
 
 Per l'evento da tempo si stanno muovendo troupe televisive, predicatori e fedeli. Infatti, già nel 1979 il telepredicatore Pat Robertson discuteva con il suo direttore di produzione Gerard Straub riguardo al *God's Secret Project*, progetto delle riprese della Seconda Venuta di Cristo da realizzare a Gerusalemme, di cui da tempo sono stati discussi tutti i dettagli tecnici e finanziari. Consideriamo inoltre che per Robertson, anche ex-candidato alla presidenza, la televisione sarebbe niente di meno che il compimento della profezia contenuta nelle parole *"andate e ammaestrate tutte le genti"* (*Matteo* 28:19).
 
-Il ritorno di Cristo nella variante di un suo clone è il tema su cui si costruisce il romanzo *La stirpe del miracolo* (1997), scritto dall'ex esperto di marketing Michael Cordy. Il ricercatore genetico premio Nobel Tom Carter deve impiegare le sue conoscenze per salvare la figlia malata di cancro; attraverso il recupero di alcune reliquie e l'oscura setta fondamentalista *Fratellanza della Seconda Venuta* cerca di decodificare il DNA di Gesù Cristo, significativamente definito in quarta di copertina *«il più grande guaritore di tutti i tempi»*. Nel romanzo, dopo aver assicurato la sostanziale aderenza del progetto ai dogmi sul Cristo storico, si chiarisce anche qual è la base su cui può muoversi il rapporto tra marketing e teologia: *«non c'è nulla nella tua religione, che ti dice come Dio abbia trasmesso la propria divinità a suo figlio. [...] Cristo può essere stato veramente Dio incarnato. Dio fattosi carne.»* Effettivamente, la questione dell'incarnazione non è mai stata definitivamente *"risolta"*, se una risoluzione può essere necessaria, nemmeno dai Concili che hanno definito il Cristianesimo, dei quali è opportuno citare quelli più decisivi.
+Il ritorno di Cristo nella variante di un suo clone è il tema su cui si costruisce il romanzo *La stirpe del miracolo* (1997), scritto dall'ex esperto di marketing Michael Cordy. Il ricercatore genetico premio Nobel Tom Carter deve impiegare le sue conoscenze per salvare la figlia malata di cancro; attraverso il recupero di alcune reliquie e l'oscura setta fondamentalista *Fratellanza della Seconda Venuta* cerca di decodificare il DNA di Gesù Cristo, significativamente definito in quarta di copertina *«il più grande guaritore di tutti i tempi»*. Nel romanzo, dopo aver assicurato la sostanziale aderenza del progetto ai dogmi sul Cristo storico, si chiarisce anche qual è la base su cui può muoversi il rapporto tra marketing e teologia: *«non c'è nulla nella tua religione, che ti dice come Dio abbia trasmesso la propria divinità a suo figlio. \[...\] Cristo può essere stato veramente Dio incarnato. Dio fattosi carne.»* Effettivamente, la questione dell'incarnazione non è mai stata definitivamente *"risolta"*, se una risoluzione può essere necessaria, nemmeno dai Concili che hanno definito il Cristianesimo, dei quali è opportuno citare quelli più decisivi.
 
 Nicea anno 325: si afferma l'incarnazione di Dio *"consustanziale"* a Cristo, contro gli ariani per cui Gesù ha solo natura umana. Calcedonia anno 451: si delibera che la Madonna sia la madre di Dio *Theotòkos* e quindi che ci sia "mescolanza" delle nature umana e divina in Cristo, contro i nestoriani per cui sono distinte, e i monofisiti per cui esiste esclusivamente quella divina. Costantinopoli anno 681: si stabilisce la dottrina delle *"due volontà"* di Cristo, contro i monoteliti che ne ammettono soltanto una. Tuttavia, le ragioni avverse possono ancora mantenere una validità, rimanendo implicite nella grande varietà dei culti della fede cristiana, provvista di una sorta di sospensione concettuale che permette un articolato rapporto tra contingenza e necessità, conferendo la capacità di adattarsi continuamente a circostanze sempre mutevoli, come il Cattolicesimo dimostra in maniera esemplare.
 
@@ -118,6 +118,5 @@ Allora, di cosa stiamo parlando?
 *Tratto da: "Antefatto ad una vicenda impossibile", su "La notte in cui fu clonato il presidente", Edizioni Noubs, Chieti, 2013. Riveduto e corretto*
 
 *Fotografia: "Riflessi" - Berlino gennaio 2006*
-
 
 In tutte le librerie: AAVV, a cura di Claudio Comandini, [*La notte in cui fu clonato il presidente*](http://www.claudiocomandini.net/wp-content/uploads/2013/05/clonazione.pdf), Edizioni Noubs, Chieti 2012. Il libro può essere richiesto direttamente alle [Edizioni Noubs](http://noubs.wordpress.com/).

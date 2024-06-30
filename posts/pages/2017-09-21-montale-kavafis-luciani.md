@@ -9,6 +9,7 @@ categories:
   - storia
   - contingenza
   - Grecia
+  - Liguria
   - Kavàfis
   - Montale
   - Cristiano Luciani

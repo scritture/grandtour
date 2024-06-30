@@ -1,59 +1,53 @@
 ---
 excerpt: ''
-
 socialImage: /images/shop/caludio_libreria.jpg
 addTitleSuffix: true
-
 colors: colors-a
 author: Claudio Comandini
-
 date: 2015-09-25 10:00:13+00:00
 image: /images/2016/07/carogelati-439x381.jpg
-
 link: http://redazione.scritture.net/mag/istanbul-diario-di-bordo/
 slug: istanbul-diario-di-bordo
 title: 'Istanbul: diario di bordo'
 categories:
-  - arte
-  - Claudio Comandini
   - filosofia
+  - narrazioni
+  - arte
+  - società
   - geopolitica
   - musica
-  - narrazioni
   - religioni
-  - società
+  - Islam
+  - Ebraismo
   - Hegel
-  - Ebrei
-  - Turchia
-  - viaggi
-  - Zen
+  - Claudio Comandini
 ---
 
 *Alla scoperta della Nova Roma: mare, tramonti, palazzi, gatti, arte, archeologia, imperatori e matti. E musica.*
 
-**1. Il mare e la città**
+## 1. Il mare e la città
 
 Istanbul è costruita sul mare, ma lo ha dimenticato, incurante dei vari Dardanelli, Bosforo, Marmara, e tutti gli altri nomi insegnati dalla geografia. Una via di comunicazione metropolitana che sembra esistere solo per essere oltraggiata dai ponti, acqua inerte che non si fa toccare e dove nessuno fa il bagno, almeno qui e ora, nella città. Eppure, penetra ovunque, e lo senti respirare, dove già approdarono gli ebrei sefarditi fuggiti dalla Spagna, tra le moschee barocche e i ristoranti eleganti di Ortakoy. E a Scutari, dall'altra parte del ponte, dove i turchi si insediarono già in epoca bizantina, abbracciato a quell'altro continente tra l'odore del pesce fritto e il megafono che chiama dalle barche.
 
 Questo mare celebra l'incontro fra le terre: tra gli specchi distanti d'Oriente e d'Occidente. Un tempo ricordavano i pescatori che partivano la notte: il mare può darti vita, e può darti morte. Questo senti oggi, passeggiando sulle banchine poco sotto Topkapı: ciò che dal mare riceve vita, spesso al mare la toglie. Sulla punta del Serraglio, i pescatori si dispongono in fila, pochi prendono qualcosa, un grosso relitto è a breve distanza dalle lenze. Il mare, vasto e ostile, amato e temuto. Anticamente destinato ad accogliere le anime dei morti e a purificare la terra, oggi beffardamente inquinato e ucciso dall'uomo moderno. Traditore tradito, costretto a vendicarsi con indifferenza della sua vecchia amica e dei di lei figli, abbandonati a queste sponde.
 
-**2. Tramonto a Occidente**
+## 2. Tramonto a Occidente
 
 Guardo all'Europa come ad una vecchia cartolina che sfuma nel tramonto: di fatto, sono in Asia, nella parte asiatica di Istanbul, non lontano da Kadıköy, l'antica Calcedonia, città che fu denominata dall'oracolo di Delphi «*terra dei ciechi*». L'appellativo deriva dall'aver ignorato i potenziali del porto naturale del Bosforo che aveva proprio davanti a sé, sviluppati soltanto dai Romani. Successivamente, in epoca cristiana, a Calcedonia si svolse un concilio per stabilire l'unità delle nature umane e divina di Cristo, in opposizione a quanto invece sostenevano monofisiti e altri originaloni. Prende il suo nome di Calcedonio anche il quarzo quando si presenta in croste.
 
 Ora sono qui e vedo sui sette colli della Nuova Roma, oltre a grattacieli e insegne, anche moschee e minareti. In molti rifiuterebbero di considerare Europa anche se io glieli indicassi con un dito e dicessi: *"guarda"*. Dove l'Europa ha dimenticato la Costantinopoli romana e la Bisanzio greca e ortodossa, Istanbul, metropoli antica e modernità dell'Islam, sa restituire a chi vuole vedere il volto nascosto del vecchio continente. Da questa città, gli imperi bizantino e ottomano hanno conquistato il mondo mediterraneo ed eurasiatico, dai Balcani alla Mesopotamia, nel rispetto delle peculiarità culturali; su queste stesse rotte, oggi mantiene guerra un impero che dell'Occidente comprende soltanto un lungo tramontare e non riconosce neppure se stesso, annullandosi da solo. Nel frattempo, dell'Europa resta una cartolina estenuata, pensiamo che l'Oriente chissà dove sia, e nessuno ancora riesce a vedere il porto che abbiamo proprio di fronte a noi.
 
-**3. Cambiamenti**
+## 3. Cambiamenti
 
 Secondo un detto ricordato da Le Courbusier, Istanbul cambia ogni quaranta anni: se chiedi in giro, ci pensano un attimo, e tutti dicono che è vero. Lui aveva da poco assistito alla caduta dell'impero ottomano, mentre Atatürk inaugurava il tentativo di riportare la Turchia nelle lingue, nelle leggi e nella storia d'Occidente. Oggi, in questa Turchia ansiosa d'Europa ma già un po' delusa, ho riscontrato un tipo di cambiamento che ti sorprende, letteralmente, ad ogni passo, a cui forse Le Courbusier non aveva pensato.
 
 Decisa una direzione, percorri una strada, prosegui seguendo le indicazioni, giri quando devi girare: eppure, la città gira sotto di te, ti prende letteralmente in giro, e così ti ritrovi esattamente nella direzione inversa, all'incrocio con la strada donde sei partito. Il reticolo di Istanbul sembrerebbe così perfettamente irregolare, non uno spazio euclideo e più somigliante a qualche geometria concava o convessa, ma ancora non è chiaro cosa sia. Il fenomeno è stato riscontrato in diverse zone e da diverse persone.
 
-**4. Segreti indecifrabili**
+## 4. Segreti indecifrabili
 
 I gatti sono gli unici ad Istanbul che si fanno per davvero gli affari loro e non vogliono concludere traffici di nessun genere. I loro segreti sono indecifrabili come la nudità impossibile delle donne coperte di abiti ultraortodossi. Tutti gli altri, invece, vogliono venderti qualcosa.
 
-**5. Sulle rotte degli imperi**
+## 5. Sulle rotte degli imperi
 
 Nella città di oggi ovunque ti sorride Atatürk, ma il desiderio d'Europa è già prossimo al disincanto; in modo asimmetrico, la brama di ricchezza occidentale percorre le rotte ottomane pur non avendo un talento all'altezza. Intanto, un po' come nella vecchia Roma, ma senza indolenza, i conti sono in rosso e la vera economia è sommersa: le persone sembrano industriose e se non c'è lavoro lo si inventa: pesi le persone, fai lo scrivano, lo sciuscià o al limite vendi le tue deformità per strada.
 
@@ -61,7 +55,7 @@ In questa città, un imperatore risiede proprio di fronte al mare che guarda la 
 
 È venerdì, molte persone hanno un tappeto sulle spalle, per pregare davanti alle moschee. Senza nessuno a pregarlo, un angelo ad Aghia Sofia riprende le proprie fattezze liberandosi di uno strato di calce di cinque secoli. Le linee ricompongono fratture che le eccedono, le confluenze non cancellano i contrasti. Dopo questa calda estate di crisi di governo, ci saranno le elezioni per il parlamento di Ankara. Molte persone sono convinte vincerà un partito di uomini onesti: addirittura, di puri. O forse, arriverà il momento di qualche nuovo imperatore.
 
-**6. Istanbul Tanz**
+## 6. Istanbul Tanz
 
 Qui più stai perso e più ti perdi, letteralmente, e davvero rischi che non ti ritrovano più, come cantava Ferretti dei CCCP in *Punk Islam*, canzone che amo oggi più che mai…
 
@@ -75,7 +69,7 @@ Prendo un appuntamento per conoscere meglio questa musica turca che ti ritrovi a
 
 Incontro uno dei nove compari di stanza, il sudafricano bianco che dice di fare il giro del mondo e sta sempre buttato sul letto, gli chiede dove cazzo siamo, con un dito mi indica la colonna di Costantino, Çimberlitas. La strada dell'ostello è tutta dissestata, stanno rifacendo il manto stradale, c'è un'escavatrice che ti trapana letteralmente i timpani, l'altra notte era proprio sotto il mio orecchio, mica scherzo. Mentre mi ricavo un sentiero in quella trincea, trovo un frammento romano.
 
-**7. Arte Popolo Potere**
+## 7. Arte Popolo Potere
 
 Il Museo delle Belle Arti si trova vicino ai palazzi del potere di Dolmabahçe, "giardino colmato". Nel luogo si concentrò l'attacco finale a Bisanzio di Maometto II, ci fu l'ultima residenza dei sultani dopo l'abbandono di Topkapı, venne a morirci Atatürk. Costruito dall'architetto armeno Balyane con uno stile tra sensualità barocca e influenze indiane, è definito da Lamertine «*palazzo anfibio*». Mi ci è voluta una scarpinata niente male per trovarlo, perché è a notevole dislivello dalla zona di Taqsim, sulla mappa però le strade sembrano soltanto separate. Inutile chiedere, la gente non sa mai niente, qui come altrove. Infatti, il tipo del bar qui davanti mi stava rimandando indietro, perché non sa che qui c'è ‘sta roba.
 
@@ -83,7 +77,7 @@ Capisco la sua estraneità guardando *Nella corte di una moschea* di Husein Rifa
 
 C'è una contemporaneità di quanto sembra più antico, laddove i caratteri delle culture etniche anatoliche e le tendenze aniconiche dell'Islam sono recuperate con l'astrattismo. In *Composition* (1961) di Sabri Berkel (1907-1993) i colori strutturano le forme. La scultura in metallo *Bes Eleman* (*Cinque elementi*, 1972) di Adnan Çoker (1927) sembra citare un Corano muto. Forse l'opera più significativa la mette a segno Deurim Erbil (1937) con *Bir Anadulu kasabasinda yasanti Ustune cetitlemeler I kirmizi* (*Variazioni di vita in Anatolia città I. Rossa*, 1937) in un moltiplicarsi di rossi e angoli spezzati. La scultura plastica *Efeis love* di Huseyin Gezer (1920) illustra la geometria della relazione: l'uomo adora la donna che si inchina a lui. Un riconoscimento reciproco di poteri. Anche l'arte esiste nei propri contesti e codici di riconoscimento.
 
-**8. Potere della musica**
+## 8. Potere della musica
 
 La musica sembra qui una condizione vissuta, si suona e si ascolta di continuo e in ogni luogo: appartiene alla vita quotidiana in maniera diretta e la solennizza nell'immediato. Nella hall dell'ostello c'è un lettore disponibile e sto facendo girare due CD piuttosto indicativi del fare musica oggi in Turchia. [Mercan Dede, *Nar*](https://www.youtube.com/watch?v=fTeZt4U6bj0) (2002): un melograno si apre, un flauto *ney* viaggia su una base techno, è un sufi danza in una discoteca nel deserto. [Zen, *Tanbul*](https://www.youtube.com/watch?v=kJbPwEmBlgE) (1997): l'immagine mobile della città, *saz* distorti e voci effettate, è un viaggio nella notte dove cantano ubriachi e muezzin.
 
@@ -91,7 +85,7 @@ In ambedue i casi, le scale usate appartengono alla musica mediorientale, con in
 
 Tuttavia, qualcuno mi dice di levare queste lagne incomprensibili: gli Zen effettivamente sono particolari, e colpiscono assai, mentre Mercan Dede, per quanto piacione, passa più inosservato. Mi sembra quindi il caso di alzare il volume e invitare all'ascolto i presenti, turchi e turisti, visibilmente interdetti. Le cose stanno grossomodo così: se la musica esprime la struttura spaziale del tempo e coglie il momento nel continuo, il proporre musiche improbabili costituisce un sistema infallibile per selezionare gli amici.
 
-**9. Piccolo trattato di archeologia seria**
+## 9. Piccolo trattato di archeologia seria
 
 Indiana Jones ormai mi fa una pippa. Sono io l'avventura. Prima mi sono intrufolato in un padiglione interdetto alle visite pieno di cose incredibili e ho fotografo tutto quello che mi andava: ora, proseguendo nella mia furia creativa, ad un certo punto ti sorprendo uno dei custodi semisdraiato in una nicchietta, con contorno di statuine, che fa le parole crociate turche. E io, alle sue spalle, lo stendo con un flash.
 
@@ -105,7 +99,7 @@ Da Pergamo, 20 d. C, arriva il Genio Alato: appena lo vedo, mi eccito. Il framme
 
 Un personaggio davvero singolare è rappresentato in affresco del XIII-XIV sec.: un viso barbuto che guarda obliquo, la mano sulla spada piantata in terra. Sarebbe un tale San Mercurio, probabilmente la divinità “riadattata” (anche se qui però si parlava greco, e non latino), rinvenuto in una chiesa-moschea (!). Ma tu pensa tu! E allora, San Mercurio, proteggici tu, che a chi affidarci non lo sappiamo più!
 
-[**10. Eurasia - Amerika No good**](https://soundcloud.com/claudio_comandini/eurasia-ii-amerika-no-good)
+[## 10. Eurasia - Amerika No good](https://soundcloud.com/claudio_comandini/eurasia-ii-amerika-no-good)
 
 (In questo caldo agosto di guerra incipiente, tutti quelli che incontro sulle rotte dell'Eurasia mi dicono, con la faccia un po' incazzata: "Iraq good. America no good". Ma le persone non fanno i popoli, e i popoli non fanno i governi.)
 

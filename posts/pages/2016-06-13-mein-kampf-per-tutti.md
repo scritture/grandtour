@@ -8,14 +8,14 @@ slug: mein-kampf-per-tutti
 title: Mein Kampf per tutti
 categories:
   - comunicazione
-  - Claudio Comandini
   - politica
   - società
   - storia
-  - Ebrei
-  - Germania
-  - Hitler
   - guerra
+  - Ebraismo
+  - Berlino
+  - Hitler
+  - Claudio Comandini
 ---
 
 *Leggere tra le righe nei libri e nelle società: anche dove sono impresentabili. Prendere le distanze dagli indignati da tastiera e dalle paternali moralistiche. Comprendere, per non morire.*

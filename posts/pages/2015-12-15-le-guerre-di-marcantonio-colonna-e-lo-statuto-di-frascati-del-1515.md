@@ -4,21 +4,18 @@ date: 2015-12-15 11:00:32+00:00
 image: /images/2015/12/il_maschietto_di_frascati-445x381.png
 title: Le guerre di Marcantonio Colonna e lo Statuto di Frascati del 1515
 categories:
-  - Claudio Comandini
   - società
   - storia
-  - Colonna
-  - Frascati
   - Guicciardini
   - Ignazio da Loyola
-  - Lutero
-  - Machiavelli
-  - rinascimento
   - Roma
   - Tuscolo
+  - Frascati
+  - Colonna
+  - Claudio Comandini
 ---
 
-*Profilo di un condottiero del Rinascimento. Dalla Disfida di Barletta al Sacco di Roma, passando per Pisa, Bologna, Genova, Modena, Ravenna, Verona, Milano e altre battaglie. Lo Statuto del Castello di Frascati e la giurisprudenza dell'epoca. Morte di Marcantonio a Milano e permanenza a Frascati della moglie Lucrezia. Note sul Sacco di Roma e sul Miracolo di Capocroce del 1527, sul Concistoro del 1538 e l'istituzione di Frascati quale Civitas. Cinquecento anni dopo.*
+*Profilo di un condottiero del Rinascimento. Dalla Disfida di Barletta al Sacco di Roma, passando per Pisa, Bologna, Genova, Modena, Ravenna, Verona, Milano e altre battaglie. Lo Statuto del Castello di Frascati e la giurisprudenza dell'epoca. Morte di Marcantonio e permanenza di Lucrezia. Note su Sacco di Roma e Miracolo di Capocroce del 1527, Concistoro del 1538 e Frascati quale Civitas. Cinquecento anni dopo.*
 
 ## 1. Il castello e il condottiero
 
@@ -78,7 +75,7 @@ Ieri più di oggi, l'economia della località era legata alla produzione vinicol
 
 Sono contemplati casi particolari, quali quelli *«Se il bove impetuosamente con le corna facesse moto contra l'altro bove»* (C. LXXX). *«Di quelli che vogliono edificare case in Frascati»* (C. III) sanziona con aperture ma senza clientele diritti e doveri per l'edilizia urbana, prevedendo forniture di *«casalingo et legna»* e versamenti di imposte di *«denari quattro provisorum»*. Non mancano obblighi per i poteri istituzionali: *«Che il sindaco debba giurare in pubblico quando sarà costituito nel offizio»* (C. XIX), e anche la trasparenza sembrava allora un criterio essenziale: *«Che siano dati libri de Statuti, in detto castello»* (C. CXI). Lo Statuto non accenna a pene corporali, il vassallaggio è piuttosto leggero e ammonta a 100 salme di legna.
 
-## 3. Passaggi di proprietà
+## 3. Passaggi e proprietà
 
 Nel 1517 Marcantonio Colonna cambia campo e, mettendosi al soldo dei Francesi che aveva precedentemente combattuto, diventa generale per Francesco I, da cui è nominato cavaliere dell'Ordine di San Michele e ambasciatore presso Roma. Riceve una provvigione di 8.000 franchi, e come primo incarico si reca dal papa Leone X a chiedere la riscossione dei debiti che aveva con la Francia. Lo stesso anno, la fabbrica di San Pietro, inaugurata da Giulio II e finanziata attraverso la vendita delle indulgenze, è contestata dal monaco agostiniano tedesco Martin Lutero, che da Wittenberg inaugura la riforma protestante; condannato a Worms nel 1521, Lutero si rifugia presso il duca Federico di Sassonia: sotto l'idea che è la fede e non le opere a giustificare l'uomo dinanzi a Dio, inizia a disgregarsi l'unità religiosa d'Europa.
 

@@ -49,7 +49,7 @@ Gli isolani credono, infatti, che sette coppie di uomini e donne siano scese dal
 
 Questa è una Pasola, e non è un gioco. Un rito sacro dove il sangue deve sgorgare, fertilizzando metafisicamente la terra per una stagione senza carestia.
 
-![Un partecipante alla Pasola](images/Un partecipante alla Pasola.jpg){fig-align="center"}
+![Un partecipante alla Pasola](images/Un%20partecipante%20alla%20Pasola.jpg){fig-align="center"}
 
 Insieme ai funerali, la Pasola è certamente il rito più importante. Si tratta, per semplificare, di una battagia rituale per celebrare la stagione della semina del riso, o meglio di un rito della fertilità. Due diversi gruppi di uomini provenienti da diversi clan o tribù, a cavallo, si tirano addosso lance di legno acumuninate. Lo scopo è quello di spargere il sangue in modo da fertilizzare il terreno.
 
@@ -61,13 +61,13 @@ Poi, entrano nell'acqua, alla ricerca di vermi colorati sotto la sabbia. Se li t
 
 Il colore dominante in questa parte di Sumba è il bianco. Pedalando la costa est, tra sterrati  di roccia bianca invasi da piccole cavallette bianche e bianche spiagge immacolate, incontriamo i primi villaggi tradizionali. Le case, chiamate *una mbatangu*, sono di bambù con imponenti tetti di paglia. Non ci sono finestre ma piccole aperture nel muro di foglie di palma intrecciate, il ché rende tutto molto più fresco rispetto alle moderne case in mattoni. Teschi di bufalo vengono spesso posizionati all'esterno in ricordo dei sacrifici che la famiglia ha fatto. Incrociamo sguardi di uomini e donne dai denti rovinati dalle noci di betel. Il paesagio è stranamente arido per un'isola Indonesiana, eppure la stagione delle piogge è appena terminata. La vegetazione è bassa e non ci sono corsi d'acqua in questa zona.
 
-![Tetti delle case tradizionali del villaggio di Ratenggaro](images/Tetti delle case tradizionali del villaggio di Ratenggaro.jpg){fig-align="center"}
+![Tetti delle case tradizionali del villaggio di Ratenggaro](images/Tetti%20delle%20case%20tradizionali%20del%20villaggio%20di%20Ratenggaro.jpg){fig-align="center"}
 
 Subito prima del villaggio c'è il campo della Pasola, uno spiazzo di terra dove c'é già qualche uomo a cavallo, i cavalli di Sumba sono molto piccoli ma pare molto resistenti. C'é anche la Pasola Police, uomini che dovrebbero mantenere l'ordine se le cose sfuggissero di mano. In attesa dell'inizio andiamo a visitare il villaggio, duecento metri più lontano, sul mare. Vediamo per la prima volta sull'isola altri bulé (bianchi), ma non troppi. Fuori dalle case stanno preparando da mangiare, una signora sta affettando un cane pronto per essere arrostito ed altri cucinano maiale.
 
 Si vede che questo villaggio è più abituato a vedere turisti ma niente sembra distrarre la gente dalla cerimonia che sta per iniziare. Solo i bambini circondano le nostre biciclette. Ci dirigiamo verso il campo di battaglia, arrivano sempre più uomini a cavallo. Il pubblico è numerosissimo, tutti con il machete nella cintura.
 
-![La Pasola ha inizio](images/La Pasola ha inizio.jpg){fig-align="center"}
+![La Pasola ha inizio](images/La%20Pasola%20ha%20inizio.jpg){fig-align="center"}
 
 Ad un certo punto, inizia. Tutti si dirigono al centro del campo, discutono tra loro, non sappiamo esattamente cosa succeda, poi tornano ai loro posti ed iniziano. Si tirano le lance, all'inizio sembra un po' noioso. Il governo ha proibito l'uso di lance acuminate ma pare che i locali, in molti casi, le continuino ad usare. Insomma, non si può nemmeno decidere come morire. Il pubblico esulta ma non capiamo bene perché, seguire non é poi così facile.
 
@@ -75,7 +75,7 @@ Ad un certo punto iniziano a tirarsi sassi, rissa in campo, qualcuno dice che un
 
 La polizia continua a sparare, la folla, pubblico e cavalli si disperdono. È ora di andare anche per noi. Tornati in città ci dicono che la Pasola finisce sempre con la polizia che spara, in quella che abbiamo visto noi non é morto nessuno quindi si può considerare pacifica. Non però sappiamo che fine abbia fatto il tizio che ha tirato la lancia alle spalle: crediamo non sia finita bene.
 
-![Tombe, chi muore nella Pasola ha diritto ad una speciale sepoltura](images/Tombe, chi muore nella Pasola ha diritto ad una speciale sepoltura.jpg){fig-align="center"}
+![Tombe, chi muore nella Pasola ha diritto ad una speciale sepoltura](images/Tombe,%20chi%20muore%20nella%20Pasola%20ha%20diritto%20ad%20una%20speciale%20sepoltura.jpg){fig-align="center"}
 
 In un modo o nell'altro, il sangue deve essere versato.
 

@@ -10,10 +10,12 @@ title: Halloween dietro le quinte
 categories:
   - filosofia
   - religioni
+  - antropologia
   - storia
   - letteratura
   - fumetti
   - società
+  - paganesimo
   - Cristianesimo
   - Ebraismo
   - Grecia
@@ -22,13 +24,12 @@ categories:
   - Roma
   - Apocalisse
   - Celti
-  - chassidismo
-  - Chateaubriand
   - Etruschi
   - Gallia
   - Kant
+  - Swedenwborg
+  - Chateaubriand
   - James Frazer
-  - Montale
   - Augé
   - Perniola
   - Claudio Comandini
@@ -36,8 +37,7 @@ categories:
 
 *La morte, il marketing e la rimozione. Culto dei defunti presso Greci, Romani, Ebrei e Celti. Paganesimi e cattolicesimo. Morte e fertilità nei culti antichi. Modernità e spiritualizzazione della morte. Swedenborg e Kant. Montale e i Peanuts. Economia di morte ed esorcismi low cost. Il tempo non ha un solo corso. Più di qua o più di là?*
 
-
-## 1.  Il tempo dei morti
+## 1. Il tempo dei morti
 
 Alcune festività riportano a chi resta il pensiero di chi è andato: tale considerazione è presente nel tempo circolare delle società arcaiche e si trasmette anche all'epoca moderna. Tuttavia, non è mai esistito un solo oltretomba, le sue configurazioni sono innumerevoli e irriducibili ad una sola e medesima concezione, così come anche la morte è una costante mai uguale e lo stesso rinnovamento comporta sempre variazioni.
 
