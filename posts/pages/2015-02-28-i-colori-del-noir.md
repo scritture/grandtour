@@ -7,6 +7,7 @@ categories:
   - letteratura 
   - narrazioni
   - società
+  - noir
   - Daschiel Hammett 
   - Carlo Lucarelli
   - Cesare Battisti 

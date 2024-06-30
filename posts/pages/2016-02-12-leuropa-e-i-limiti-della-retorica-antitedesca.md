@@ -8,7 +8,7 @@ categories:
   - geopolitica
   - società
   - Europa
-  - Germania
+  - Berlino
   - Matteo Cavallino
 ---
 

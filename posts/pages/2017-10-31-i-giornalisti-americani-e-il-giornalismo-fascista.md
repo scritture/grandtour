@@ -8,7 +8,6 @@ categories:
   - politica
   - società
   - storia
-  - fascismo
   - giornalismo
   - Roma
   - USA

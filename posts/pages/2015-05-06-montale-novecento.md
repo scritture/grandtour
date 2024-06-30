@@ -8,26 +8,25 @@ link: http://redazione.scritture.net/mag/montale-novecento/
 slug: montale-novecento
 title: Montale prima e dopo il novecento
 categories:
-  - arte
-  - comunicazione
-  - Claudio Comandini
   - letteratura
   - poesia
+  - arte
+  - comunicazione
   - società
   - contingenza
+  - Liguria
   - Alfieri
   - Baudelaire
+  - Rimbaud
   - Boutroux
   - Calvino
   - Caproni
   - D'Annunzio
-  - Montale
   - Nietzsche
   - Pasolini
   - Pound
-  - Premio Montale
-  - Rimbaud
   - Zanzotto
+  - Montale
   - Claudio Comandini
 ---
 

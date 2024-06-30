@@ -13,7 +13,7 @@ categories:
   - Medio oriente
   - migranti
   - Paolo Martino
-  - Claudio Comanndini
+  - Claudio Comandini
 ---
 
 *Mentre qualcuno prescinde completamente dai dati per ridurre la grave emergenza dei migranti ad una sfida tra opposte tifoserie, l’Italia è sempre più lontana tanto dall'Europa quanto dal Mediterraneo, riducendosi così, più che ad una terra di frontiera come prevede il trattato di Dublino, ad un pontile sospeso sul nulla dove nemmeno i disperati vogliono fermarsi. Ci mette di fronte a questa realtà il documentario "Terra di transito"* *di Paolo Martino. Eppure, nonostante la situazione sia drammatica, le risposte ci sarebbero. Infatti, pur ammettendo che le capacità di accoglienza dignitosa degli altri paesi sono superiori, l’Italia potrebbe ritrovare slancio proprio con misure capaci di incrementare la produttività, quali il ripopolamento di zone ormai profondamente immiserite. Il problema vero però è che, se l'Europa comincia proprio a Lampedusa, la quale quindi non rappresenta soltanto un problema italiano, nelle nostre contrade sono ridotti allo stadio di immigrati anche coloro che ci abitiamo, e forse, ormai assuefatti al ruolo di estranei a se stessi, nemmeno si cerca di integrarsi più di tanto. Stefano Pasta, laureato in Storia contemporanea e pubblicista, recensisce il film di Paolo Martino con l’idea di accogliere la sfida del convivere per permettere così un futuro alle nostre città e dare forma ad un mondomisto interconnesso e interdipendente.*

@@ -8,7 +8,6 @@ categories:
   - filosofia
   - politica
   - società
-  - populismo
   - USA
   - Habermas
   - Alfonso Liguori

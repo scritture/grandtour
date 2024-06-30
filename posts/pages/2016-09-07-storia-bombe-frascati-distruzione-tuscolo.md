@@ -9,6 +9,7 @@ categories:
   - politica 
   - società 
   - guerra
+  - 8 settembre
   - Frascati
   - Roma 
   - Tuscolo 

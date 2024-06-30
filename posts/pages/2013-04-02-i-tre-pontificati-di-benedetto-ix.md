@@ -5,27 +5,18 @@ date: 2013-04-02 10:00:09+00:00
 image: /images/2016/07/il_cavallo_di_marco-aurelio-678x381.jpg
 title: I tre pontificati di Benedetto IX
 categories:
-  - Claudio Comandini
+  - storia
   - filosofia
   - narrazioni
-  - religioni
-  - storia
+  - Cristianesimo
   - Apocalisse
-  - Frascati
-  - Gioacchino Volpe
-  - Gregorio VII
-  - Gregorovius
-  - Hegel
-  - Istanbul
-  - Le Goff
-  - Normanni
-  - Orsini
-  - Reginald Poole
-  - Roma
-  - Silvia Ronchey
-  - Steven Runciman
-  - Turchia
   - Tuscolo
+  - Roma
+  - Istanbul
+  - Hegel
+  - Gregorovius
+  - Le Goff
+  - Claudio Comandini
 ---
 
 *Storia di un'eclisse. Benedetto IX, la stirpe tuscolana e la Roma medievale. Le fonti dell'epoca e la controversie sul pontefice. Imperium et Ecclesia. La coscienza infelice di Hegel e il kathecon di San Paolo. Scrivere la storia: Ovidio Capitani e Valeria Beolchini. Benedetto IX nei suoi atti ufficiali. Il romanzo storico di Raffaello Giovagnoli. Tutte le donne del papa. Il monogramma di Enrico III. Roma e Bisanzio. Lotte tra trono e altare. Vescovati all'asta e nozze incestuose. La questione di Aquileia. Roma in rivolta. Famiglie della nobiltà romana. Silvestro III e i Crescenzi. Gregorio VI e la charta refutationis. Il ruolo degli ebrei. Il Mirabile Concilio. Il decreto di elezione imperiale e i pontefici tedeschi. Benedetto IX alla riscossa. Il predominio dell'aristocrazia burocratica bizantina. L'imperatrice Zoe e i sui tre mariti. Leone IX, sinodi e bolle. Le questioni dell'ostia e lo scisma d'Oriente. Il ruolo di Cerulario. L'insegnamento di Psello. L'avanzata dei Normanni nel Meridione. Diplomazia e litigi a Costantinopoli. Le divisioni tra Chiese oggi. Bisanzio e Roma verso il cambiamento. Tuscolo ci riprova. La riforma di Gregorio VII. La fine del laicismo religioso. Il cuore di Roma spezzato. Le nuove sfide dell'universalismo. Una lapide, un fantasma e i tempi penultimi. Ragionata bibliografia e verticalità della rete.*
