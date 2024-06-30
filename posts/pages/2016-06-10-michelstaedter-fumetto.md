@@ -11,7 +11,6 @@ categories:
   - Sergio Campailla
   - Michelstaedter
   - Gianluca Varone
-template: marquee
 ---
 
 *La via della «persuasione», laddove questa si compendia nel dono di sé capace di rivelare la trascendenza nascosta nell'umano e superare così le convenzioni della «rettorica» e delle istituzioni con cui si propaga l'egoismo degli uomini, trovano forse traguardo nella negazione suprema - quella della vita.*
