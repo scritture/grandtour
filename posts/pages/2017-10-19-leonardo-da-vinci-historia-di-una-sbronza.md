@@ -8,7 +8,7 @@ categories:
   - economia
   - letteratura
   - narrazioni
-  - enogastronomia
+  - alimentazione
   - Leonardo Da Vinci
 ---
 
