@@ -10,8 +10,7 @@ categories:
   - società
   - guerra
   - Europa
-  - Medio oriente
-  - migranti
+  - Mediterraneo
   - Paolo Martino
   - Claudio Comandini
 ---

@@ -10,7 +10,7 @@ categories:
   - religioni
   - società
   - guerra
-  - Medio oriente
+  - Mediterraneo
   - Michele Iacono
 ---
 

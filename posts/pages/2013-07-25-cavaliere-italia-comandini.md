@@ -8,17 +8,13 @@ categories:
   - economia
   - filosofia
   - fumetti
-  - letteratura
   - politica
   - religioni
   - società
-  - storia
-  - Bologna
+  - Parusia
   - Europa
   - USA
   - Freud
-  - Medio Oriente
-  - Parusia
   - Lacan
   - Pasolini
   - Perniola

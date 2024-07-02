@@ -7,9 +7,10 @@ categories:
   - religioni
   - società
   - geopolitica
+  - guerra
   - Islam
   - Balcani
-  - Medio Oriente
+  - Mediterraneo
   - Enzensberger
   - Francesca Borri
 ---
