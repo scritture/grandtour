@@ -1,8 +1,8 @@
 ---
-title: "Gener( ə e grafem*: intervento dell'Accademia della Crusca"
+title: "Gener(ə) e grafem*: intervento dell'Accademia della Crusca"
 author: "Paolo D'Achille"
 images:
-date: 2021-09-24
+date: 2021-09-24 10:00:02+00:0
 categories:
   - linguistica
   - comunicazione
