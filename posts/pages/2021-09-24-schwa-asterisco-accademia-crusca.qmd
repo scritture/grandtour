@@ -2,7 +2,7 @@
 title: "Generi e grafemi: intervento dell'Accademia della Crusca"
 author: "Paolo D'Achille"
 images:
-date: '2021-09-24'
+date: 2021-09-24
 categories:
   - linguistica
   - comunicazione
@@ -118,4 +118,4 @@ Quanto al parlato, non esistendo lo schwa nel repertorio dell’italiano standar
 
 [Paolo D'Achille, *Un'asterisco sul genere*, «Accademia della Crusca» 24.09.2021.](https://accademiadellacrusca.it/it/consulenza/un-asterisco-sul-genere/4018)
 
-Illustrazione: Sgrafemi- 2024
+*Illustrazione: Sgrafemi- 2024*
