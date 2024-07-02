@@ -1,6 +1,5 @@
 ---
 author: Alessandro Maini
-
 date: 2017-06-15 10:00:18+00:00
 image: /images/2017/10/Etherneal_Meditation.jpg
 title: Il cuore del vuoto
