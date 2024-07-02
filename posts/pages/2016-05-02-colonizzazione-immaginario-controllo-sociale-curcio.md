@@ -9,14 +9,13 @@ categories:
   - economia
   - filosofia
   - politica
-  - Rivista
   - società
-  - Foucault
   - Internet
+  - Foucault
   - Renato Curcio
 ---
 
-*Gli strumenti finanziari e digitali che ormai strutturano la nostra vita lavorativa e relazionale sono troppo spesso accettati in modo passivo. Cercando un pensiero critico e privilegiando la ricerca socioanalitica [Renato Curcio](https://it.wikipedia.org/wiki/Renato_Curcio) cerca, senza demonizzare le condizioni reali ma problematizzandole a fondo, di comprendere come sia possibile che il diffuso lavoro intellettuale sia sfruttato da un'oligarchia mondiale di aziende che mappano desideri e necessità delle persone del pianeta, riuscendo addirittura ad ottenere che la merce si autoproduca alle nostre stesse spalle. In questo modo, lo sfruttamento capitalista impone un ordine immaginario, invade la vita di relazione, egemonizza il mondo del lavoro, e infine si riproduce indefinitamente tra le nostre stesse mani. La sfida da raccogliere è quindi quella di rilanciare la nostra comun  capacità di immaginare in modo autonomo. Curcio ne parla nel libro "L'Impero virtuale. Colonizzazione dell'immaginario e controllo social"e*, pubblicato nel 2015 per [Sensibili alle foglie](http://www.sensibiliallefoglie.it), la casa editrice da lui diretta.\_
+*Gli strumenti finanziari e digitali che ormai strutturano la nostra vita lavorativa e relazionale sono troppo spesso accettati in modo passivo. Cercando un pensiero critico e privilegiando la ricerca socioanalitica [Renato Curcio](https://it.wikipedia.org/wiki/Renato_Curcio) cerca, senza demonizzare le condizioni reali ma problematizzandole a fondo, di comprendere come sia possibile che il diffuso lavoro intellettuale sia sfruttato da un'oligarchia mondiale di aziende che mappano desideri e necessità delle persone del pianeta, riuscendo addirittura ad ottenere che la merce si autoproduca alle nostre stesse spalle. In questo modo, lo sfruttamento capitalista impone un ordine immaginario, invade la vita di relazione, egemonizza il mondo del lavoro, e infine si riproduce indefinitamente tra le nostre stesse mani. La sfida da raccogliere è quindi quella di rilanciare la nostra comun capacità di immaginare in modo autonomo. Curcio ne parla nel libro "L'Impero virtuale. Colonizzazione dell'immaginario e controllo sociale", pubblicato nel 2015 per [Sensibili alle foglie](http://www.sensibiliallefoglie.it), la casa editrice da lui diretta.*
 
 *L'Impero virtuale*, nonostante il titolo, non è un lavoro su Internet; Internet è solo lo sfondo, è un territorio che oggi fa parte dello spazio in cui viviamo e quindi in qualche modo, parlando di questo libro, lo attraverseremo. Non è neanche un sermone contro le tecnologie, che esistono fin da quando un uomo ha preso in mano una clava, ossia uno strumento, e che quindi accompagnano l'intera storia dell'umanità. Non si tratta dunque di essere né pro né contro, ma di mantenere vivo un pensiero critico – che in quest'epoca fa un po' difetto – anche sugli strumenti, soprattutto quelli che non sono né secondari né trascurabili per il fatto che investono la nostra vita, sia lavorativa che relazionale. Intendo la nostra vita di specie, cioè una vita che è trasversale e ci mette sullo stesso piano di un cittadino cinese, spagnolo, del Sudafrica ecc.
 
@@ -94,10 +93,10 @@ La rete parte dall'idea che tu non sei sorvegliato. Nei protocolli di Facebook t
 
 E allora ecco che questa operazione diventa insidiosa, perché se le persone si convincono di non essere controllate non solo diventano i primi fornitori di quei documenti che producono tutta la ricchezza che abbiamo visto, ma anche coloro che producono tutte le informazioni che porteranno al loro controllo biopolitico, vale a dire il controllo della loro salute, delle relazioni, dei gusti ecc. È il sogno del capitalismo, trasformare il mondo in un sistema di merci, in cui non c'è solamente la merce che si compra e si vende ma anche quella che si autoproduce. È il punto estremo di un percorso che possiamo considerare piuttosto rischioso.
 
-![Curcio](/images/2016/05/Curcio.jpeg)
+![Renato Curcio, *L'impero virtuale*, Sensibili alle Foglie 2015, 112 p.](/images/2016/05/Curcio.jpg){fig-align="center" width="254"}
 
 •
 
 *Renato Curcio, "Colonizzazione dell'immaginario e controllo sociale", «Paginauno» a. X - n. 47 - aprile/maggio 2016.*
 
-*Fotografia: Claudio Comandini, "Immaginare" - Roma, gennaio 2016.*
+*Fotografia: Immaginare" - Roma, gennaio 2016.*

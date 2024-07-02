@@ -1,10 +1,11 @@
 ---
-author: Marc Auge
+author: Marc Augé
 date: 2016-02-02 11:00:42+00:00
 image: /images/2016/07/unreal_city-678x381.jpg
 title: L'ideologia del presente
 categories:
   - filosofia
+  - antropologia
   - scienza
   - società
   - 11 settembre

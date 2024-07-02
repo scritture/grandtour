@@ -6,12 +6,13 @@ title: 'Scorre il sangue, fertile la terra: la Pasola di Sumba'
 categories:
   - antropologia
   - religioni
+  - paganesimo
   - Indonesia
   - Elena Stefanin
   - Daniele Giannotta
 ---
 
-*Viaggiare in biciclettaattraverso il mondo: scoprendo così che quanto sfugge a calamità quali il turismo organizzato e le guerre globali è molto di più di quanto ci si possa aspettare. Daniele Giannotta (1982, sound designer, operatore culturale) ed Elena Stefanin (1984, laureata in Scienze Politiche, Relazioni internazionali e Diritti Umani), partendo da Bologna, hanno attraversato i Balcani e per arrivare nelle zone caspiche ai confini dell'Eurasia. Quindi, si sono spinti nell'Estremo Oriente esplorando Cina, sud Corea, Giappone, Filippine, Malesia, Indonesia. Documentano il loro viaggio su [Cycloscope](http://itcycloscope.weebly.com)e, per il momento, non hanno nessuna intenzione di fermarsi. In questo reportage li incontriamo alle prese con il rito della Pasola, presso l'isola di Sumba, Indonesia.*
+*Viaggiare in bicicletta attraverso il mondo: scoprendo così che quanto sfugge a calamità quali il turismo organizzato e le guerre globali è molto di più di quanto ci si possa aspettare. Daniele Giannotta (1982, sound designer, operatore culturale) ed Elena Stefanin (1984, laureata in Scienze Politiche, Relazioni internazionali e Diritti Umani), partendo da Bologna, hanno attraversato i Balcani e per arrivare nelle zone caspiche ai confini dell'Eurasia. Quindi, si sono spinti nell'Estremo Oriente esplorando Cina, sud Corea, Giappone, Filippine, Malesia, Indonesia. Documentano il loro viaggio su [Cycloscope](http://itcycloscope.weebly.com)* *e, per il momento, non hanno nessuna intenzione di fermarsi. In questo reportage li incontriamo alle prese con il rito della Pasola, presso l'isola di Sumba, Indonesia.*
 
 ## 1. L'isola di Sumba: un caso di semi-colonialismo
 

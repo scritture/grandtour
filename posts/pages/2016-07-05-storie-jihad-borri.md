@@ -8,7 +8,6 @@ categories:
   - società
   - geopolitica
   - Islam
-  - Jihad
   - Balcani
   - Medio Oriente
   - Enzensberger
