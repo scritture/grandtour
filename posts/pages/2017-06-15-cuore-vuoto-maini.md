@@ -6,6 +6,7 @@ image: /images/2017/10/Etherneal_Meditation.jpg
 title: Il cuore del vuoto
 categories:
   - poesia
+  - aforismi
   - religioni
   - wu-wei
   - Alessandro Maini
