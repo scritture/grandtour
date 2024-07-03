@@ -9,7 +9,7 @@ website:
   title: "Grand Tour"
   navbar:
     left:
-      - href: index.qmd
+      - href: bookwinebar.qmd
         text: BookWineBar
       - href: catalogo.qmd
         text: Catalogo
