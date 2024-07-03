@@ -12,8 +12,7 @@ categories:
   - politica 
   - società
   - 11 settembre
-  - cristianesimo
-  - gnosi
+  - Cristianesimo
   - Marvel
   - USA
   - Agamben 
@@ -149,7 +148,7 @@ Approfondiscono le implicazioni testi di Hag Hammadi quali *Zostraino* e *Discor
 
 ## 3. Eroismo e conoscenza. Il ritorno
 
-Nelle molte guerre della cristianità non tutti i soldati, come tutti i loro simili perlopiù impegnati in omicidi, rapine e stupri, possono essere chiamati eroi. Ad ogni modo, l'aspetto religioso, così come i rapporti di protezione, comandamento, giudizio e repressione, sono propri anche alle guerre dell'antichità pagana e politeista, per quanto la spiccata immanenza del paganesimo permette la non-belligeranza con le divinità dei nemici con cui si è impegnati in battaglia, come'è particolarmente evidente nel rituale romano dell'*evocatio*, che arriva al punto di invitare gli dèi degli altri presso di sé, secondo una modalità pienamente contrapposta alla volontà di distruzione che discende dalla trascendenza assoluta a cui tende  il monoteismo ebraico. [\[73\]](http://www.claudiocomandini.net/wp-admin/post.php?post=1396&action=edit#_ftn68)
+Nelle molte guerre della cristianità non tutti i soldati, come tutti i loro simili perlopiù impegnati in omicidi, rapine e stupri, possono essere chiamati eroi. Ad ogni modo, l'aspetto religioso, così come i rapporti di protezione, comandamento, giudizio e repressione, sono propri anche alle guerre dell'antichità pagana e politeista, per quanto la spiccata immanenza del paganesimo permette la non-belligeranza con le divinità dei nemici con cui si è impegnati in battaglia, come'è particolarmente evidente nel rituale romano dell'*evocatio*, che arriva al punto di invitare gli dèi degli altri presso di sé, secondo una modalità pienamente contrapposta alla volontà di distruzione che discende dalla trascendenza assoluta a cui tende il monoteismo ebraico. [\[73\]](http://www.claudiocomandini.net/wp-admin/post.php?post=1396&action=edit#_ftn68)
 
 Se il conflitto è parte integrante dell'esistenza, una teoria dei rapporti tra eroismo e conoscenza sembra essere molto più labile. Nella cristianità, che in definitiva nasce dall'urto tra Roma e Israele, tale aspetto affiora con nettezza soltanto dopo i primi decisivi confronti del cattolicesimo con l'Islam, il quale ne è invece profondamente caratterizzato, e può essere riscontrato nella *Regola* dei Templari scritta da Bernardo di Chiaravalle, per la quale gli ideali cavallereschi devono subordinarsi alla fede, e quindi negli *Esercizi Spirituali* di Ignazio di Loyola, che legge gli impegni religiosi secondo metafore militari. Mentre il mondo antico volge definitivamente al suo termine, Giovan Battista Vico attribuisce agli eroi una specifica epoca, il dominio signorile e della poesia, e una forma tipica di conoscenza, la metafora, che fa corrispondere l'ordine delle idee e quello della natura secondo una *«metafisica mitica»*. [\[74\]](http://www.claudiocomandini.net/wp-admin/post.php?post=1396&action=edit#_ftn69) Vico però, laddove i tre cicli storici separano in epoche diverse la poesia e la religione, e i corsi e ricorsi allontano dalla considerazione delle peculiarità di ogni specifico periodo, non può aiutarci a comprendere cosa leghi tra loro il sapere e il lottare.
 
