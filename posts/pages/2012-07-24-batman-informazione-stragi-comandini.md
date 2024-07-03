@@ -8,6 +8,7 @@ categories:
   - fumetti
   - comunicazione
   - società
+  - DC Comics
   - Neil Gaiman
   - Claudio Comandini
 ---
