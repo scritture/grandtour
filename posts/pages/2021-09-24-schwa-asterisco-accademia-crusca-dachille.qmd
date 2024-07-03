@@ -8,7 +8,7 @@ categories:
   - Accademia della Crusca
   - "Paolo D&#39;Achille"
   - Derrida
-title: "&#601; e &lowast;: generi e grafemi. Un intervento dell'Accademia della Crusca"
+title: "&#601; e &lowast;: generi e grafemi. Un intervento dell&#39;Accademia della Crusca"
 author: "Paolo D&#39;Achille"
 ---
 
