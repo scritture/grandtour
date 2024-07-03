@@ -7,23 +7,25 @@ execute:
 
 website:
   title: "Grand Tour"
+  
   navbar:
+#    logo: "/images/logo_grandtour_trasparente.png"
     left:
-      - href: index.qmd
-        text: BookWineBar
-      - href: catalogo.qmd
-        text: Catalogo
-      - href: incontri.qmd
-        text: Incontri
+      - text: BookWineBar
+        href: /bookwinebar.html
+      - text: Catalogo
+        href: /catalogo.html
+      - text: Incontri
+        href: /incontri.html
       - text: Turismo
-        href: turismo.qmd
+        href: /turismo.html
       - text: Musiche
-        href: musiche.qmd
+        href: /musiche.html
       - text: Scritture
-        href: scritture.qmd
+        href: /scritture.html
+        
     right:
-      - text: contatti
-        href: contatti.qmd
+      - contatti.qmd
       - icon: linkedin
         href: https://www.linkedin.com/groups/4880518/
       - icon: twitter
@@ -33,7 +35,6 @@ website:
       - icon: envelope
         href: mailto:grandtour.frascati@gmail.com
         aria-label: Email
-
 format:
   html:
     theme: united
