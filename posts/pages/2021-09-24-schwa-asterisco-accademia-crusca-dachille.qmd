@@ -2,7 +2,7 @@
 title: "Ə e *: generi e grafemi. Un intervento dell'Accademia della Crusca"
 author: Paolo D'Achille
 images:
-date: 2021-09-24
+date: '2021-09-24'
 categories:
   - linguistica
   - comunicazione
