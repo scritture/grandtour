@@ -2,7 +2,7 @@
 author: Leonardo Da Vinci
 date: 2017-10-19 
 image: /images/2017/10/Jean.jpg
-title: 'Leonardo Da Vinci: historia di una sbronza'
+title: "Historia di una sbronza"
 categories:
   - arte
   - economia
