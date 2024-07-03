@@ -1,7 +1,7 @@
 ---
 title: "Ə e *: generi e grafemi. Un intervento dell'Accademia della Crusca"
 author: "Paolo D'Achille"
-date: '2021-09-24'
+date: 2021-09-24
 categories:
   - linguistica
   - comunicazione
@@ -9,7 +9,6 @@ categories:
   - diritti
   - Accademia della Crusca
   - Derrida
-  - "Paolo D'Achille"
 ---
 
 ![](/images/immagini_scritture/studio1.jpeg){fig-align="center" width="579"}
