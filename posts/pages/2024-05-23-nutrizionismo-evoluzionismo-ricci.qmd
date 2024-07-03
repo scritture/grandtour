@@ -1,8 +1,8 @@
 ---
-title: "Nutrizione, evoluzionismo e disadattamento alimentare"
-author: "Riccardo Ricci"
+title: Nutrizione, evoluzionismo e disadattamento alimentare
+author: Riccardo Ricci
 images:
-date: '2024-05-23'
+date: 2024-05-23
 categories:
   - scienza
   - alimentazione
