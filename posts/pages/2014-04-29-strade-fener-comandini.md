@@ -12,6 +12,8 @@ categories:
   - Cristianesimo
   - Islam
   - Istanbul
+  - Grecia
+  - Balcani
   - Claudio Comandini
 ---
 

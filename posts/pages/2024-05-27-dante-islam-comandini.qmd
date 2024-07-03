@@ -10,6 +10,7 @@ categories:
   - Averroè
   - Heidegger
   - Spengler
+  - Derrida
   - Miguel Asìn Palacios
   - Claudio Comandini
 date: '2024-05-27'
