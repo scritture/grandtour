@@ -13,6 +13,8 @@ categories:
   - Claudio Comandini
 ---
 
+![](/images/2017/04/making_music.jpg){fig-align="center"}
+
 *Percorsi e sfide nella musica di Miles Davis e quella di Ferruccio Busoni. Pratica, pensiero, stili, innovazioni, eredità, ascolti e sogni.*
 
 Nella musica i cammini sono tanti e diversi: alcuni arrivano subito dove vogliono, altri cambiano sempre e non si voltano mai e c'è pure chi fa quel che fa senza chiedersi niente. E nel fare la musica, rispetto alle questioni espressive i sistemi del sapere sono semplicemente come mezzi senza fine e senza scopo, in quanto di per sé non garantiscono nessuna riuscita. Insomma, se fare musica è farla, da qualche parte sussistono sempre codici sepolti che l'esercizio e lo studio sono capaci di attivare: non si prescinde quindi da un apprendistato, le cui forme possono essere molte ma che ha sempre una dimensione manuale così caratterizzante che Aristotele arrivò a considerare l'attività del musicista addirittura affine alla schiavitù. Infatti, nonostante una certa evanescenza e la tendenza a dissolversi nell'aria, la musica è essenzialmente una *pratica* che esige piena partecipazione fisica. All'interno di tale pratica, pur se le singole poetiche possono essere reciprocamente irriducibili, si celebra sempre un *incontro* che ogni volta si compie al presente. Per questi e altri motivi, la musica è *«cambiamento e sfida, avventura e rivoluzione»*.
