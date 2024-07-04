@@ -29,6 +29,11 @@ categories:
   - Fukuyama
   - Derrida
   - Libeskind
+  - Brecht
+  - Pink Floyd
+  - Oktober Klub
+  - Throbbing Gristle
+  - Einstürzende Neubauden
   - Naomi Klein
   - Claudio Comandini
 ---
@@ -101,7 +106,7 @@ Il primo giorno del 2006 i Throbbing Gristle, ricostituitisi dopo anni, con Gene
 
 Niente è mai uguale a se stesso, né i posti, né le persone, né le lotte. Postdamer Platz in *Der Himmel über Berlin* (1987) di Wim Wenders, rappresenta l'ex desolata linea di confine che l'anziano Omero, accompagnato da un angelo con il codino, non riesce a trovare, pur addormentandosi su un divano posto in mezzo alla sterpaglia al suo esatto centro. Nella città riunita, la stessa piazza diventa nel 1990 lo scenario dove Roger Waters suona *The Wall*; il muro rappresenta l'isolamento dell'uomo nella società contemporanea, a cui contribuiscono tanto le esperienze personali quanto le istituzioni, e dove ogni tentativo di fuga aggiunge soltanto altri mattoni. L'opera è del 1979: nel vuoto urbanistico della performance assume più il senso di un monito che quello di una celebrazione.
 
-I veri anni ottanta, quelli antagonisti e raramente ricordati, puoi incontrarli a Berlino, e sono ancora “contro”: tuttavia, anche le lotte più belle esauriscono il loro corso, soprattutto laddove il capitalismo s'impossessa dei sogni libertari per farci i soldi. Anche se qualcuno preferisce non accorgersene e tenta di proteggersi da se stesso per continuare sconfiggersi da solo. Le politiche identitarie sono ormai diventate specchio della brandizzazione delle multinazionali: Noemi Klein ha chiarito come il *politically correct* si è prestato a campagne pubblicitarie e proteste mediatiche del tutto conformi alla logica del marchio e della visibilità.
+I veri anni ottanta, quelli antagonisti e raramente ricordati, puoi incontrarli a Berlino, e sono ancora *“contro”*: tuttavia, anche le lotte più belle esauriscono il loro corso, soprattutto laddove il capitalismo s'impossessa dei sogni libertari per farci i soldi. Anche se qualcuno preferisce non accorgersene e tenta di proteggersi da se stesso per continuare sconfiggersi da solo. Le politiche identitarie sono ormai diventate specchio della brandizzazione delle multinazionali: Noemi Klein ha chiarito come il *politically correct* si è prestato a campagne pubblicitarie e proteste mediatiche del tutto conformi alla logica del marchio e della visibilità.
 
 Ad ogni modo, nessuna diversità può prescindere da generi e tipi, accolti nel loro reciproco differire. Ogni identità favorisce differenze, colori e sfumature inafferrabili e decisive. Hegel può ancora ricordare come l'esperienza della scissione e della decisione a cui ogni esistenza storica è sottoposta non permette rifugi, e piuttosto richiede movimento, creando e dissolvendo così di continuo forme, lasciando quanto è scisso alla propria autoreferenza. Nella considerazione politica, giuridica e sociale, nessuna persona è mai riducibile al genere, né per natura né per cultura. E laddove certamente l'omosessualità rappresenta un fatto da accettare e da non discriminare, non comporta automaticamente qualche magica liberazione, e come ormai è evidente le politiche di pura rivendicazione rinchiudono in cortili di sterilità e portano a sottomettersi alla logica del profitto, laddove farne una questione di diritto e pretendere di legiferare sulle pulsioni aumenta oppressioni e confusioni. Con buona pace dei già datati aneliti sovversivi di Judith Butler, legittimare teoricamente l'immediatezza sensibile costituisce il contrario dell'esperienza, cercare di normativizzare la denaturalizzazione del genere rappresenta soltanto l'ennesima violenza linguistica.
 
@@ -115,9 +120,7 @@ In tale sospensione dal passato non prevale comunque il grattacielo d'impostazio
 
 Dopo l'unità, questo è quel che resta, lasciando spazio ad altre discontinuità.
 
-•
-
-**Riferimenti (in ordine di apparizione):**
+## Riferimenti (in ordine di apparizione)
 
 Walter Benjamin, *Berliner Kindheit um Neunzehnhundert*, 1933.
 

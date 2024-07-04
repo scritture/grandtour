@@ -10,7 +10,7 @@ categories:
   - Frascati
   - Russia
   - Leonardo Da Vinci
-  - Florenskj
+  - Florenskij
   - Claudio Comandini
   - Piotr Merkurj
 ---
