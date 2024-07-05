@@ -9,9 +9,9 @@ categories:
   - Riccardo Ricci
 ---
 
-![](/images/immagini_scritture/nutrizione.jpeg){fig-align="center"}
+![](images/nutrizione.jpeg){fig-align="center"}
 
-*"Mens sana in corpore sano": come può oggi trovare spazio il famoso detto romano? Cosa mangiamo normalmente, e cosa davvero ci nutre? Cosa significa nutrirsi in un mondo che pure nella trasformazione degli alimenti è profondamente segnato dai processi industriali? E cosa significa mantenere nei cibi una "componente di umanità"? Come affrontare la presenza di inquinanti di vario tipo, all’origine di patologie quali obesità, diabete, tumori, malattie cardiovascolari, squilibri ormonali, e come curarsi proprio attraverso una corretta nutrizione? Come disinnescare i disturbi psichici del comportamento alimentare tipo bulimia e anoressia? E, alla luce dell’evoluzionismo, quali meccanismi permettono il mantenimento del nostro sistema biologico, e quali quelli che agiscono attraverso cambiamenti adattativi?*
+![]()*"Mens sana in corpore sano": come può oggi trovare spazio il famoso detto romano? Cosa mangiamo normalmente, e cosa davvero ci nutre? Cosa significa nutrirsi in un mondo che pure nella trasformazione degli alimenti è profondamente segnato dai processi industriali? E cosa significa mantenere nei cibi una "componente di umanità"? Come affrontare la presenza di inquinanti di vario tipo, all’origine di patologie quali obesità, diabete, tumori, malattie cardiovascolari, squilibri ormonali, e come curarsi proprio attraverso una corretta nutrizione? Come disinnescare i disturbi psichici del comportamento alimentare tipo bulimia e anoressia? E, alla luce dell’evoluzionismo, quali meccanismi permettono il mantenimento del nostro sistema biologico, e quali quelli che agiscono attraverso cambiamenti adattativi?*
 
 ## 1. I principi dell’adattamento fisiologico
 
@@ -516,3 +516,5 @@ Auguro che i *"malesseri speciali"* del nostro tempo possano essere affrontati e
 •
 
 *Testo della conferenza presentata il 23 maggio 2024 presso il Grand Tour BookWineBar.*
+
+![](images/conferenza nutrizionismo.jpg){fig-align="center"}
