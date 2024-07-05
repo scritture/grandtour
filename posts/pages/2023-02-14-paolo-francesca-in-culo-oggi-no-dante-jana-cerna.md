@@ -1,7 +1,6 @@
 ---
 author: "Dante Alighieri - Jana Černá"
 date: 2023-02-14
-image:
 title: "Paolo e Francesca: in culo oggi no"
 categories:
   - poesia
@@ -11,9 +10,9 @@ categories:
   - "Jana Černá"
 ---
 
-![](images/MosèBianchi_Paolo_e_Francesca,_1877c.jpg){fig-align="center"}
+![](images/francescaefrancesca.jpeg){fig-align="center"}
 
-*Dante Alighieri viene considerato appartenente ai Fedeli d'Amore, la cui visione trova echi nella Cabala e nei Sufi tanto nelle allegorie letterarie così come nel desiderio di assoluto, del quale è forma anche quella tensione erotica che in Inferno V mette in sottile relazione i corpi e il libro: è infatti la lettura ad eccitare i due amanti Paolo e Francesca. La tensione erotica e filosofica che verso il suo amante Egon Bondy anima Jana Černá, figlia della Milena amata da Kafka, è sfacciata e prorompente, così come intenso è il rapporto espresso dalla sua vita travagliata verso l'assoluto della scrittura, del quale porta testimonianza il bollente epistolario pubblicato in italia con il titolo "In culo oggi no". L'incontro di queste due figure può permettere di comprendere le rispettive ragioni ed eccitare la nostra comprensione ad ogni livello a cui sappia ascendere.*
+*Dante Alighieri viene considerato appartenente ai Fedeli d'Amore, la cui visione trova echi nella Cabala e nei Sufi tanto nelle allegorie letterarie quanto nel desiderio di assoluto, del quale è forma pure la tensione erotica che in Inferno V mette in sottile relazione i corpi e il libro: è infatti la lettura ad eccitare i due amanti Paolo e Francesca. La tensione erotica e filosofica che anima Jana Černá, figlia della Milena amata da Kafka, verso il suo amante Egon Bondy, è sfacciata e prorompente, così come intenso è il rapporto espresso dalla sua vita travagliata verso l'assoluto della scrittura, testimoniato da quanto pubblicato nel volume "In culo oggi no". Un incontro tra queste due figure può permettere di comprendere le pulsioni dello scrivere e della sessualità ed eccitare la nostra comprensione ad ogni livello a cui sappia ascendere.*
 
 *Nessun maggior dolore*\
 *che ricordarci del tempo felice*\
@@ -65,6 +64,7 @@ Voglio passare con Te ore e ore a chiacchierare per poter venire a letto con Te 
 
 •
 
-Dante Alighieri, *Inferno* V - vv. 121-132, 100-105, 133-138, 106-142. Jana Černá, *Lettere all’amante* \[1930 ca\] - estratti (da *In culo oggi no*, e/o 1992), passim.
+Dante Alighieri, *Inferno* V - vv. 121-132, 100-105, 133-138, 106-142.\
+Jana Černá, *Lettere all’amante* \[1930 ca\], da *In culo oggi no*, e/o 1992, *passim*.
 
-Illustrazione: Mosè Bianchi, Paolo e Francesca, 1877 ca.
+*Illustrazione: Mosè Bianchi, Paolo e Francesca, 1877 ca.*
