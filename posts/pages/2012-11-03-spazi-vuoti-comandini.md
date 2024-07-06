@@ -56,10 +56,10 @@ Cosa tutto questo possa significare, lo scopriamo quando la pura esteriorità de
 
 Questo messaggio si annuncia in un vuoto che è perdita e potenzialità, equilibrio dinamico di materia le cui particelle costitutive, a detta di Pagels (*Codice cosmico*, 1983), si creano e si annullano di continuo, e sono misurabili, come prescrive il principio di indeterminazione di Heisenberg, soltanto in uno spazio limitato, della cui struttura nel nostro andare rinveniamo il codice.
 
-Pensosa la luna raccoglie i propri riflessi in ogni specchio d'acqua. Gli orizzonti della metropoli scintillano affilati come lame. La potenza generatrice della terra non smetterà di sostenere il mondo degli uomini, nonostante le offese che continuamente riceve; a dispetto di una barbarie e di un idiotismo incombenti, ogni luogo sta diventando centro di una cultura cosmopolita in formazione, che sollecita partecipazione diffusa e pronto intelletto. Come un'antica divinità, la realtà non ha un aspetto solo, non ne ha nemmeno soltanto due. Al limite e al centro di ogni esistenza, spazi vuoti ancora generano stelle, perfezione e sapienza.
+Pensosa la luna raccoglie i propri riflessi in ogni specchio d'acqua. Gli orizzonti della metropoli scintillano affilati come lame. La potenza generatrice della terra non smetterà di sostenere il mondo degli uomini, nonostante le offese che continuamente è costretta a ricevere; a dispetto di un idiotismo incombente e di un provincialismo ineluttabile, ogni luogo può diventare centro di una cultura cosmopolita in formazione, sollecitando partecipazione diffusa e pronto intelletto. Come un'antica divinità, la realtà non ha un aspetto solo, non ne ha nemmeno soltanto due. Al limite e al centro di ogni esistenza, spazi vuoti ancora generano stelle, perfezione e sapienza.
 
 •
 
-*Prima stesura 2002, rivisto nel 2024*
+*Prima stesura 2002, completato nel 2012, rivisto nel 2024*
 
 *Fotografia: Claudio Comandini, "Santa Sofia riflessa nelle acque" - Istanbul, agosto 2002.*
