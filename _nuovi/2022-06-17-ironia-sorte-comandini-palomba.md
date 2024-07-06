@@ -10,7 +10,7 @@ categories:
   - Claudio Comandini
 ---
 
-![](images/azrael-02.jpeg){fig-align="center" width="469"}
+![](images/azrael-07.jpeg){fig-align="center"}
 
 *«Non abbiamo deciso su chi sparare: è venuto da sé, insensato e inevitabile così come lo è la folla.»*
 
