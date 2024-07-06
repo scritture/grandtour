@@ -13,7 +13,7 @@ title-block-banner: false
 
 ::: grid
 ::: g-col-12
-![](images/immagini_scritture/scritture_logo.png){fig-align="center"}
+![](images/immagini_scritture/_logo/scritture_logo.jpg){fig-align="center"}
 :::
 
 ::: {.g-col-12 .g-col-md-3}
