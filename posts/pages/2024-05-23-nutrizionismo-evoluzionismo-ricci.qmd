@@ -15,9 +15,9 @@ categories:
 
 ## 1. I principi dell’adattamento fisiologico
 
-Il corpo possiede una propria *"saggezza intrinseca"* necessaria per il suo mantenimento che deriva dal lungo percorso evolutivo di adattamento alle condizioni ambientali. Tale "logica evolutiva" si realizza attraverso una serie di processi fisiologici che possono essere riassunti in alcuni principi di base: **omeostasi, allostasi e ormesi.**
+Il corpo possiede una propria *"saggezza intrinseca"* necessaria per il suo mantenimento che deriva dal lungo percorso evolutivo di adattamento alle condizioni ambientali. Tale *"logica evolutiva"* si realizza attraverso una serie di processi fisiologici che possono essere riassunti in alcuni principi di base: **omeostasi, allostasi e ormesi.**
 
-Vediamoo in dettaglio tali concetti i quali, oltre a rappresentare il fondamento dell’adattamento fisiologico, ci consentono di porre basi per la scelta della corretta nutrizione secondo un modello funzionale/evolutivo indispensabile per il raggiungimento del benessere psico-fisico.
+Vediamo in dettaglio tali concetti i quali, oltre a rappresentare il fondamento dell’adattamento fisiologico, ci consentono di porre basi per la scelta della corretta nutrizione secondo un modello funzionale/evolutivo indispensabile per il raggiungimento del benessere psico-fisico.
 
 L’**omeostasi** è un processo di autoregolazione fisiologica attraverso la quale l’organismo mantiene la sua integrità nonostante la mutevolezza delle condizioni ambientali. Infatti, i processi omeostatici realizzano la stabilità dei sistemi biologici che dipendono, a loro volta, da un insieme di parametri vitali, mantenuti entro un certo intervallo di valori ottimali; questi parametri sono: pH, temperatura corporea, glicemia a riposo, tensione di ossigeno, concentrazioni ematiche dei minerali, di molte proteine funzionali e di altri metaboliti, ecc.
 
@@ -37,15 +37,15 @@ Lo stato allostatico può essere mantenuto per brevi periodi con risultati adat
 
 Il sovraccarico allostatico implica una situazione di disadattamento e si manifesta tipicamente quando il rilascio allostatico di glucocorticoidi e catecolamine si protrae per un intervallo di tempo eccessivo; questo metastato fisico potrà avvenire secondo due diverse modalità:
 
-Sovraccarico allostatico di tipo 1 – si verifica quando l’energia messa a disposizione dall’ambiente risulta minore rispetto a quella richiesta dal corpo: questa situazione può verificarsi quando scarseggiano le risorse alimentari e si determina, di conseguenza, un eccessivo dimagrimento;
+**Sovraccarico allostatico di tipo 1** – si verifica quando l’energia messa a disposizione dall’ambiente risulta minore rispetto a quella richiesta dal corpo: questa situazione può verificarsi quando scarseggiano le risorse alimentari e si determina, di conseguenza, un eccessivo dimagrimento;
 
-Sovraccarico allostatico di tipo 2 – si verifica quando l’energia fornita dall’ambiente supera notevolmente quella di cui necessita l’organismo: questa situazione può verificarsi quando la risorsa alimentare è in eccesso e si può arrivare ad una condizione di sovrappeso ed obesità.
+**Sovraccarico allostatico di tipo 2** – si verifica quando l’energia fornita dall’ambiente supera notevolmente quella di cui necessita l’organismo: questa situazione può verificarsi quando la risorsa alimentare è in eccesso e si può arrivare ad una condizione di sovrappeso ed obesità.
 
 Nonostante le differenze, in entrambi i casi il rischio è quello di sviluppare patologie cardiovascolari e metaboliche che possono diventare severe.
 
 Riassumendo, affinché si realizzi l’adattamento, sia l’omeostasi che l’allostasi mirano alla stabilità dell’organismo, ma con strategie diverse: la prima attraverso il mantenimento dei sistemi biologici, la seconda attraverso il cambiamento adattativo temporaneo che implica il raggiungimento della fitness.
 
-Il termine **fitness** deriva dall'inglese to fit («essere adatto») e viene tradotto in lingua italiana con il termine *"idoneità"*, nel senso di preparazione fisica e stato di forma fisica. Il fitness è correlato con il benessere psico-fisico (essere in forma) ottenuto mediante programmi integrati di ginnastica, fisioterapia, cosmesi, nutrizione, psicoterapia, ecc. Infondo, il concetto di fitness non è altro che quello espresso dal famoso detto romano: *Mens sana in corpore sano*.
+Il termine **fitness** deriva dall'inglese to fit (*«essere adatto»*) e viene tradotto in lingua italiana con il termine *"idoneità"*, nel senso di preparazione fisica e stato di forma fisica. Il fitness è correlato con il benessere psico-fisico (essere in forma) ottenuto mediante programmi integrati di ginnastica, fisioterapia, cosmesi, nutrizione, psicoterapia, ecc. Infondo, il concetto di fitness non è altro che quello espresso dal famoso detto romano: *Mens sana in corpore sano*.
 
 La moderna definizione di fitness descrive la capacità di una persona o di una macchina di svolgere una funzione specifica; secondo una definizione olistica, corrisponde all'adattabilità umana in grado di far fronte alla variabilità delle situazioni sia interne che esterne all’organismo.
 
@@ -53,7 +53,7 @@ In nome del *"benessere"*, è nata un'interrelazione tra idoneità umana e att
 
 Il fitness, per avere un effetto benefico sulla salute, si dovrebbe realizzare essenzialmente attraverso la corretta gestione del carico allostatico, anche se non avviene sempre così.
 
-Ricordo a riguardo che c’è una sostanziale differenza tra fitness e sport agonistico: il fitness ha come obbiettivo la salute dell’individuo, anche se oggi si pone troppo spesso l’accento sull’estetica piuttosto che sulla funzionalità; mentre lo sport ha come obiettivo il raggiungimento della performance e ciò può non essere sempre salutare per l’organismo, perché il carico allostatico dell’allenamento potrebbe superare la soglia del benessere in funzione di un obiettivo sportivo con conseguente sovraccarico allostatico (overreaching) e/o superallenamento (overtraining).
+Ricordo a riguardo che c’è una sostanziale differenza tra fitness e sport agonistico: il fitness ha come obbiettivo la salute dell’individuo, anche se oggi si pone troppo spesso l’accento sull’estetica piuttosto che sulla funzionalità; mentre lo sport ha come obiettivo il raggiungimento della performance e ciò può non essere sempre salutare per l’organismo, perché il carico allostatico dell’allenamento potrebbe superare la soglia del benessere in funzione di un obiettivo sportivo con conseguente sovraccarico allostatico (*overreaching*) e/o superallenamento (*overtraining*).
 
 Il sovraccarico allostatico dovuto a sforzi fisici eccessivi dipende principalmente da una non corretta gestione della fase di recupero, ma spesso nasconde anche degli squilibri nutrizionali; pertanto, può essere correlato alla eventuale presenza di sovraccarico allostatico di tipo 1 o 2, precedentemente trattati.
 
@@ -79,15 +79,15 @@ Tutti gli effetti adattativi e migliorativi per la performance dovuti allo stres
 
 Nella scienza dello sport, la **teoria della supercompensazione** afferma che un atleta che accoppia il proprio carico di allenamento ad un tempo di recupero adeguato, non solo tornerà alle sue prestazioni di livello base, ma svilupperà le capacità per un livello di prestazioni più elevato. Comunque, bisogna tener conto che l’andamento della supercompensazione non è lineare, ma segue una funzione sinusoidale che tende ad aumentare nel tempo fino a raggiungere un optimum di performance.
 
-Quando, però, si supera la soglia di allenamento tollerata individualmente, lo stress ossidativo può comportare uno squilibrio nell’organismo e può divenire uno dei fattori che contribuiscono ad aumentare il rischio di infortuni e danni tissutali di variabile entità.
+Tuttavia, quando si supera la soglia di allenamento tollerata individualmente, lo stress ossidativo può comportare uno squilibrio nell’organismo e può divenire uno dei fattori che contribuiscono ad aumentare il rischio di infortuni e danni tissutali di variabile entità.
 
 Perciò, si può ritenere che uno stress che non incida troppo duramente possa aiutare a migliorare la salute e la performance: la supercompensazione si ottiene con l’allenamento se lo stimolo allenante comporta un carico allostatico non esagerato, in modo che si possano avere dei tempi di recupero ottimali, necessari all’organismo per adattarsi e sovracompensare.
 
-E qual è il ruolo della nutrizione in questo contesto?
+E, in tale contesto, qual è il ruolo della nutrizione?
 
 ## 2. Significato e ruolo della nutrizione
 
-È ormai chiaro che gli adattamenti, avviati dall'esercizio fisico, possano essere amplificati o ridotti (modulati) dalla nutrizione che svolge un ruolo cruciale nel mantenimento della fitness/performance e nella prevenzione di infortuni e patologie. Inoltre, la nutrizione, essendo parte integrante dello stesso processo evolutivo, contribuisce alla selezione naturale ed i cibi assumono un ruolo funzionale fondamentale.
+È ormai chiaro che gli adattamenti, avviati dall'esercizio fisico, possano essere amplificati o ridotti (modulati) dalla nutrizione che svolge un ruolo cruciale nel mantenimento della fitness/performance e nella prevenzione di infortuni e patologie. Inoltre, la nutrizione, essendo parte integrante dello stesso processo evolutivo, contribuisce alla selezione naturale e i cibi assumono un ruolo funzionale fondamentale.
 
 Per comprendere il reale ruolo funzionale del cibo dobbiamo sapere che esiste una differenza sostanziale tra alimentarsi e nutrirsi.
 
@@ -99,13 +99,13 @@ Gli **alimenti** sono sostanze trasformate, semi-trasformate o non-trasformate d
 
 Secondo il sistema di classificazione alimentare NOVA vi sono 4 categorie di alimenti:
 
-Gruppo 1 – Alimenti non lavorati o poco lavorati: alimenti freschi che provengono da piante o animali e i loro derivati poco lavorati o raffinati (semi, frutti, foglie, steli, radici, carne, pesce, latte e uova);
+**Gruppo 1** – Alimenti non lavorati o poco lavorati: alimenti freschi che provengono da piante o animali e i loro derivati poco lavorati o raffinati (semi, frutti, foglie, steli, radici, carne, pesce, latte e uova);
 
-Gruppo 2 – Ingredienti culinari lavorati: ingredienti che utilizziamo in cucina (oli, burro, farina, zucchero, miele, sale);
+**Gruppo 2** – Ingredienti culinari lavorati: ingredienti che utilizziamo in cucina (oli, burro, farina, zucchero, miele, sale);
 
-Gruppo 3 – Alimenti lavorati o processati: alimenti prodotti da una combinazione di cibi freschi e prodotti culinari (pane, pasta, formaggio, vino e birra artigianali, alimenti conservati fermentati, inscatolati fatti in casa, sott’olio, sott’aceto, torte e dolci fatti in casa);
+**Gruppo 3** – Alimenti lavorati o processati: alimenti prodotti da una combinazione di cibi freschi e prodotti culinari (pane, pasta, formaggio, vino e birra artigianali, alimenti conservati fermentati, inscatolati fatti in casa, sott’olio, sott’aceto, torte e dolci fatti in casa);
 
-Gruppo 4 – Alimenti ultralavorati o ultraprocessati: prodotti realizzati con poco o nessun contenuto di alimenti freschi e con una grande quantità di additivi raffinati e lavorati (cibi industriali o semi-industriali come bevande in lattina, snack, patatine, merendine, dolci, pasti surgelati pronti, pasti sostitutivi, insaccati, fast- food, molti tipi di alcolici e superalcolici).
+**Gruppo 4** – Alimenti ultralavorati o ultraprocessati: prodotti realizzati con poco o nessun contenuto di alimenti freschi e con una grande quantità di additivi raffinati e lavorati (cibi industriali o semi-industriali come bevande in lattina, snack, patatine, merendine, dolci, pasti surgelati pronti, pasti sostitutivi, insaccati, fast- food, molti tipi di alcolici e superalcolici).
 
 I **nutrienti** sono i costituenti degli alimenti ed, una volta assorbiti dal tratto gastrointestinale, posseggono un ruolo specifico nei processi biochimici e fisiologici che sostengono il metabolismo. Si suddividono in:
 
@@ -115,7 +115,11 @@ b: **micronutrienti**: sono elementi necessari per dare luogo ad una serie di fu
 
 Riguardo ai *sali minerali* ricordiamo che rappresentano circa il 4% del nostro peso corporeo, regolano gli equilibri idro/salini, hanno funzioni strutturali, possono essere usati come coenzimi e vengono eliminati attraverso feci, urina e sudore; pertanto spesso è utile reintegrarli. Vengono classificati sulla base del loro fabbisogno giornaliero in:
 
-\- macroelementi: \> 100 mg/die; - oligoelementi: tra 1 e 100 mg/die; - microelementi: \< 1 mg/die.
+\- macroelementi: \> 100 mg/die;
+
+\- oligoelementi: tra 1 e 100 mg/die;
+
+\- microelementi: \< 1 mg/die.
 
 Le **vitamine** sono molecole funzionali che il nostro organismo non è in grado di sintetizzare autonomamente; agiscono da coenzimi, antiossidanti e protettivi; schematicamente vengono suddivise in:
 
@@ -129,7 +133,7 @@ Agendo da solvente, l’acqua crea l’ambiente ottimale per la maggior parte de
 
 Le caratteristiche biochimiche dell’acqua potabile dipendono dalla composizione dei soluti e dalla possibilità, non ancora comprovata dalla comunità scientifica, di avere una *memoria* (ipotesi delle nanostrutture).
 
-Per **memoria dell'acqua** si intende la capacità di avere la possibilità, in forma liquida, di mantenere una “impronta” delle sostanze con cui è venuta in contatto e, quindi, di modulare anche le sue proprietà nutrizionali.
+Per **memoria dell'acqua** si intende la capacità di avere la possibilità, in forma liquida, di mantenere una *“impronta”* delle sostanze con cui è venuta in contatto e, quindi, di modulare anche le sue proprietà nutrizionali.
 
 La teoria che l’acqua fosse capace di mantenere per un tempo transitorio una memoria/informazione delle sostanze in essa disciolte o diluite e dell’ambiente con cui interagisce, fu già proposta in passato nel modello della conoscenza yogica; oggi, sembra trovare le prime conferme al livello di sperimentazione scientifica, sebbene la tematica rimanga aperta.
 
@@ -195,7 +199,7 @@ Si ritiene che le nostre strutture biologiche si siano formate in un’epoca in 
 
 Perciò, il nostro corpo è stato progettato per resistere all’abbassamento delle riserve lipidiche e non è in grado di *"riconoscere"* un processo di dimagrimento dovuto a reali calamità naturali da una dieta a scopo dimagrante, la quale viene *"interpretata"* dall’organismo come se fosse una situazione di pericolo/siccità.
 
-Conseguentemente, l’effetto di una dieta ipocalorica può determinare una riduzione del metabolismo basale e la tendenza a non bruciare eccessivamente grasso; l’organismo si mette in riserva per economizzare l’energia in un periodo considerato “erroneamente” di carestia.
+Conseguentemente, l’effetto di una dieta ipocalorica può determinare una riduzione del metabolismo basale e la tendenza a non bruciare eccessivamente grasso; l’organismo si mette in riserva per economizzare l’energia in un periodo considerato “*erroneamente*” di carestia.
 
 Quando questa riduzione del metabolismo è eccessiva si può arrivare al così detto blocco metabolico che deve essere rimosso o, meglio, evitato con opportune strategie nutrizionali e l’attività fisica, perché può rappresentare il preludio di disfunzioni patologiche.
 
@@ -205,7 +209,7 @@ Questa carenza di micronutrienti è riconducibile ad alcune pratiche di produzi
 
 alimentare, come gli allevamenti intensivi, le monocolture, gli organismi geneticamente manipolati (OGM) ed i cibi industriali.
 
-A tutto questo si aggiunge il fatto che ai giorni nostri ingeriamo molecole "innaturali" evolutivamente nuove, sottoforma di inquinanti (pesticidi, microplastiche, sottoprodotti della lavorazione industriale, ecc.) ai quali il nostro organismo non può essere adattato in relazione alla sua storia evolutiva e che inevitabilmente causano squilibri metabolici e patologie, come i tumori.
+A tutto questo si aggiunge il fatto che ai giorni nostri ingeriamo molecole *"innaturali"* evolutivamente nuove, sottoforma di inquinanti (pesticidi, microplastiche, sottoprodotti della lavorazione industriale, ecc.) ai quali il nostro organismo non può essere adattato in relazione alla sua storia evolutiva e che inevitabilmente causano squilibri metabolici e patologie, come i tumori.
 
 Il *disadattamento alimentare* costituisce pertanto una delle cause principali dei mali del nostro tempo.
 
@@ -255,7 +259,7 @@ Le cause delle neoplasie devono essere ricercate sia negli agenti ambientali di 
 
 Perciò, quando gli stimoli ambientali superano la soglia ormetica, la probabilità di sviluppare tumori aumenta e ciò si verifica quando l’ingestione di sostanze tossiche raggiunge un livello critico; questa situazione, associata agli squilibri alimentari, fa si che il livello di radicali liberi diventi troppo alto per essere compensato dai sistemi antiossidanti, ed il metabolismo sviluppa una condizione di mal funzionamento associata ai processi infiammatori, come in molti casi di obesità e diabete (sindrome metabolica). Opportune strategie alimentari possono, però, essere usate per prevenire l’insorgenza di tumori: ad es. attraverso delle diete detossificanti (per aiutare la funzione epatica ad espellere le sostanze cancerogene) o mediante il digiuno intermittente, che ha la capacità di attivare l’autocitosi, una forma di autodigestione con la quale si realizzano i processi di rimozione e riciclaggio delle cellule danneggiate e potenzialmente tumorali.
 
-Essendo connessi al quadro di patologie precedentemente trattato, ritengo opportuno accennare anche ai **Disturbi del Comportamento Alimentare (DCA)**, che sono tutti dovuti al disadattamento comportamentale/psichico oltre che nutrizionale. Comprendono, nell’ambito dell’obesità, i casi di **bulimia nervosa** e il disturbo da **alimentazione incontrollata** (Binge Eating Disorder – BED), ed anche l'**anoressia** con il conseguente eccessivo dimagrimento.
+Essendo connessi al quadro di patologie precedentemente trattato, ritengo opportuno accennare anche ai **Disturbi del Comportamento Alimentare (DCA)**, che sono tutti dovuti al disadattamento comportamentale/psichico oltre che nutrizionale. Comprendono, nell’ambito dell’obesità, i casi di **bulimia nervosa** e il disturbo da **alimentazione incontrollata** (Binge Eating Disorder – BED), e anche l'**anoressia** con il conseguente eccessivo dimagrimento.
 
 Riassumendo, la chiave per prevenire o curare le principali malattie che caratterizzano il nostro tempo consiste in un piano funzionale personalizzato che implichi il riadattamento alimentare/comportamentale, attraverso il controllo del peso, della qualità nutrizionale, dell’attività fisica e della salute mentale.
 
@@ -267,7 +271,7 @@ L’avvento dei *cibi ultratrasformati* avvenuto con la Rivoluzione industriale 
 
 Il processo di ultratrasformazione o ultraraffinazione consiste nella lavorazione industriale applicata ad alimenti grezzi e naturali sia vegetali che animali. Gli alimenti ultratrasformati contengono pochi o nessun alimento intero, sono pronti da consumare o da riscaldare, sono grassi, salati o zuccherati e sono spesso poveri di fibre alimentari, proteine, micronutrienti e altri composti bioattivi. Inoltre, sono stati progettati per essere iperappetitosi, comodi, di lunga conservazione, apparentemente a buon mercato, ma in realtà, molto redditizi per i loro produttori.
 
-La trasformazione in profondità degli alimenti li rende prodotti invasivi e concentrati di calorie vuote, perché sono state eliminate le loro “componenti povere”, cioè i micronutrienti funzionali (come fibre, vitamine e sali minerali).
+La trasformazione in profondità degli alimenti li rende prodotti invasivi e concentrati di calorie vuote, perché sono state eliminate le loro “*componenti povere*”, cioè i micronutrienti funzionali (come fibre, vitamine e sali minerali).
 
 Nel caso di amidacei e cereali, questi procedimenti industriali comportano l’eliminazione della struttura fibrosa interna (architettura fibrosa) per rendere il prodotto velocemente assimilabile; ciò fa’ si che i carboidrati, privati delle loro
 
@@ -295,7 +299,7 @@ Il processo che controlla l’appetito è comunque molto complesso e non riguar
 
 Per ciò che è stato esposto, diventa evidente quanto sia fondamentale mantenere la giusta connessione con il centro di controllo dell’appetito, innanzi tutto attraverso il miglioramento della qualità del cibo.
 
-### 3.5. Ruolo dell’insulina nell’obesità e nel diabet\*
+### 3.5. Ruolo dell’insulina nell’obesità e nel diabete
 
 Consideriamo ora gli aspetti dell’obesità e del diabete dal punto di vista della produzione di **insulina**.
 
@@ -321,7 +325,7 @@ La resistenza insulinica è spesso la conseguenza degli squilibri metabolici in
 
 Ricordo che lo stress nella persona diabetica abbia delle caratteristiche di elevata pericolosità per l’organismo perché non riguarda solamente la produzione di ROS e NOS con conseguente formazione di ALEs (Advanced Lipoxidation End-products), ma anche quella di AGEs (Advanced Glycation End-products) che si formano per glicosilazione delle proteine da parte del glucosio ematico.
 
-L’eziogenesi del diabete di tipo 2 segue di solito un iter a tappe dove l’insulino- resistenza gioca un ruolo importante.
+L’eziogenesi del diabete di tipo 2 segue di solito un iter a tappe dove l’insulino-resistenza gioca un ruolo importante.
 
 Nelle fasi iniziali reversibili della patologia, la compensazione secretiva di insulina è in grado di mantenere la glicemia a livelli normali (euglicemia), ma in uno stadio avanzato le cellule pancreatiche deputate alla produzione di insulina non riescono ad adeguarne la sintesi; il risultato è un aumento della glicemia post-prandiale al di sopra della norma.
 
@@ -337,7 +341,7 @@ L’insulino-resistenza è riconducibile alla più ampia problematica dell’i
 
 Alla luce di quanto esposto, gli obiettivi della nutrizione per chi soffre di sovrappeso, obesità e diabete dovrebbero essere la correzione dell’appetito, per il ripristino della normale funzione ipotalamica, ed il recupero della flessibilità metabolica, cercando di evitare i blocchi metabolici.
 
-Il **blocco metabolico** è uno stato fisiologico in cui l’organismo, “credendosi” in una situazione di carestia, abbassa drasticamente il proprio TDEE (Spesa Calorica Giornaliera Totale), rallentando il processo di dimagrimento nel caso stia facendo ad es. una dieta ipocalorica.
+Il **blocco metabolico** è uno stato fisiologico in cui l’organismo, “*credendosi*” in una situazione di carestia, abbassa drasticamente il proprio TDEE (Spesa Calorica Giornaliera Totale), rallentando il processo di dimagrimento nel caso stia facendo ad es. una dieta ipocalorica.
 
 Un blocco metabolico può essere causato da vari fattori che possono essere correlati o meno con l’insulino-resistenza: dimagrimento troppo repentino, cronicizzazione di una dieta low-carb, abbassamento dei livelli di produzione della leptina, problemi mentali, ecc.
 
@@ -367,7 +371,7 @@ Per quanto riguarda il sale da cucina, ricordiamo che mangiando insaccati, la qu
 
 L’aumento di sale nel comparto extracellulare provoca anche disidratazione delle cellule e formazione di un ambiente intracellulare che ostacola i processi anabolici (ricordo che l’anabolismo è facilitato da una buona idratazione intracellulare).
 
-Inoltre, la presenza di zuccheri aggiunti negli insaccati promuove i processi fermentativi da parte dei microrganismi che alterano il gusto dell’alimento; questi microrganismi sono tendenzialmente nocivi perché contrastano gli altri “microrganismi buoni” del microbiota intestinale.
+Inoltre, la presenza di zuccheri aggiunti negli insaccati promuove i processi fermentativi da parte dei microrganismi che alterano il gusto dell’alimento; questi microrganismi sono tendenzialmente nocivi perché contrastano gli altri “*microrganismi buoni*” del microbiota intestinale.
 
 Talvolta si aggiunge anche latte in polvere all’insaccato per favorirne la compattezza; in tal modo, si introduce il lattosio nell’alimento che, oltre ad essere substrato per molti microrganismi, deve essere evitato dagli intolleranti a questo zucchero.
 
@@ -423,9 +427,7 @@ In particolare, gli acidi grassi ω-3 sono benefici per la salute perché sono 
 
 Buona parte della letteratura scientifica suggerisce che gli esseri umani si siano evoluti seguendo una dieta che aveva un rapporto tra acidi grassi essenziali ω-6 e ω-3 di circa 1/1; mentre oggi le diete occidentali hanno un rapporto compreso tra 10/1 e 20-25/1, indicando che queste ultime sono carenti di acidi grassi ω-3 rispetto alle diete per le quali si sono evoluti gli esseri umani e sono stati stabiliti i relativi modelli genetici.
 
-Per milioni di anni, durante la lunga storia evolutiva del genere Homo, è esistito un equilibrio tra ω-6 e ω-3 nel cibo ed i cambiamenti genetici si sono verificati in buona parte in risposta a queste influenze alimentari. Ciò si ricollega al fatto che
-
-durante l'evoluzione, gli acidi grassi ω-3 negli alimenti erano presenti in concentrazioni molto più alte rispetto agli stessi alimenti che consumiamo oggi ed erano reperibili soprattutto da carne, piante selvatiche, uova, pesce, noci e bacche.
+Per milioni di anni, durante la lunga storia evolutiva del genere Homo, è esistito un equilibrio tra ω-6 e ω-3 nel cibo ed i cambiamenti genetici si sono verificati in buona parte in risposta a queste influenze alimentari. Ciò si ricollega al fatto che durante l'evoluzione, gli acidi grassi ω-3 negli alimenti erano presenti in concentrazioni molto più alte rispetto agli stessi alimenti che consumiamo oggi ed erano reperibili soprattutto da carne, piante selvatiche, uova, pesce, noci e bacche.
 
 Tuttavia, i cambiamenti economici verificatesi soprattutto negli ultimi 100-150 anni nelle società occidentali hanno accelerato il processo di variazione dell’apporto nutrizionale di acidi grassi ω-6 e ω-3 e del loro rapporto relativo ω- 6/ω-3.
 
@@ -441,15 +443,15 @@ Ricordo che un contenuto elevato di acidi grassi saturi nei lipidi delle membran
 
 Per quanto riguarda il **colesterolo**, si tenga presente che la formazione di placche aterosclerotiche è favorita, piuttosto che dal colesterolo come tale, dalla presenza nel sangue delle forme derivate del colesterolo, come gli esteri del colesterolo e/o l’ossicolesterolo, che si origina ad es. dalla frittura di prodotti carnei o dalle patatine fritte.
 
-Infatti, il colesterolo esterificato ed ossidato lo troviamo principalmente nelle forme circolanti di LDL (lipoproteine a bassa densità – colesterolo cattivo) che sono responsabili della formazione di placche aterosclerotiche.
+Infatti, il colesterolo esterificato ed ossidato lo troviamo principalmente nelle forme circolanti di LDL (lipoproteine a bassa densità –colesterolo cattivo) che sono responsabili della formazione di placche aterosclerotiche.
 
 Si noti però che cibi ricchi di colesterolo, come le uova, non risultano avere la capacità di aumentare la colesterolemia nell’uomo, come ci si sarebbe aspettato, a differenza di altri animali, come conigli e polli; pertanto esse potrebbero essere consumate più volte a settimana a patto che siano di origine/qualità controllata e non vi siano documentati problemi di ipercolesterolemia nel consumatore. Questo comportamento sembra dovuto al fatto che il colesterolo delle uova non sia in grado di stimolare i processi della sua biosintesi endogena.
 
 Per quanto riguarda, invece, gli **acidi grassi saturi** la situazione è differente perché sono in grado di aumentare di due volte i livelli ematici di colesterolo, agendo sui meccanismi di produzione endogena nell’uomo; questo innalzamento della colesterolemia non avviene, però, per i polinsaturi; perciò nella dieta, riducendo la percentuale di saturi e sostituendoli con i polinsaturi (soprattutto quelli essenziali ω-3 e ω-6), si potrebbe avere un effetto di abbassamento relativo del colesterolo ematico.
 
-Ma non tutti gli acidi grassi saturi sono ipercolesterolizzanti; infatti l’acido stearico, presente ad es. nel cacao, ed altri **acidi grassi saturi a catena corta** (SCFA - short chain fatty acids) mantengono invariati i livelli di colesterolo e sono regolatori della funzione intestinale.
+Ma non tutti gli acidi grassi saturi sono ipercolesterolizzanti; infatti l’acido stearico, presente ad es. nel cacao, ed altri **acidi grassi saturi a catena corta** (SCFA-short chain fatty acids) mantengono invariati i livelli di colesterolo e sono regolatori della funzione intestinale.
 
-Anche l’acido butirrico o butanoico, sebbene sia implicato nei processi di rancidificazione del burro e dei formaggi stagionati ed, anche, del relativo sviluppo di cattivo odore, viene prodotto normalmente dalla flora batterica intestinale con effetti positivi sul colon-retto al livello energetico, anti- infiammatorio e anti-tumorale. Tant’è che oggi questo acido grasso a catena corta è adoperato come agente terapeutico per i tumori al colon, i tumori cerebrali e in patologie intestinali, come la sindrome dell’intestino irritabile ed il morbo di Crohn (patologie che necessitano della dieta FODMAP).
+Anche l’acido butirrico o butanoico, sebbene sia implicato nei processi di rancidificazione del burro e dei formaggi stagionati ed, anche, del relativo sviluppo di cattivo odore, viene prodotto normalmente dalla flora batterica intestinale con effetti positivi sul colon-retto al livello energetico, anti- infiammatorio e anti-tumorale. Tant’è che oggi questo acido grasso a catena corta è adoperato come agente terapeutico per i tumori al colon, i tumori cerebrali e in patologie intestinali, come la sindrome dell’intestino irritabile e il morbo di Crohn (patologie che necessitano della dieta FODMAP).
 
 Le fonti alimentari di acidi grassi a corta catena sono limitate, ma essendo prodotti prevalentemente dalla fermentazione della fibre solubili ad opera dei batteri del colon, ne possiamo beneficiare grazie ad un microbiota bilanciato.
 
@@ -465,7 +467,7 @@ L’idrogenazione artificiale degli acidi grassi mono-, di- e polinsaturi permet
 
 Gli acidi grassi trans sono ampiamente diffusi negli alimenti attuali perché si trovano, oltre che nella margarina, anche nei gelati, nei prodotti industriali da forno (biscotti, cracker, grissini, taralli, merendine, patatine, ecc.) e in molti alimenti dei fast-food.
 
-Non essendo molecole funzionali per le nostre cellule, l’organismo non è in grado di metabolizzarli normalmente e le cellule “impazziscono” perché assomigliano agli acidi grassi insaturi naturali, anche se hanno proprietà biochimiche differenti. Quando sono inglobati nelle membrane cellulari, gli acidi grassi trans alterano i meccanismi di permeabilità cellulare, al punto che tossine, virus, cancerogeni e allergeni possano entrare più facilmente nelle cellule rese difettose.
+Non essendo molecole funzionali per le nostre cellule, l’organismo non è in grado di metabolizzarli normalmente e le cellule “i*mpazziscono*” perché assomigliano agli acidi grassi insaturi naturali, anche se hanno proprietà biochimiche differenti. Quando sono inglobati nelle membrane cellulari, gli acidi grassi trans alterano i meccanismi di permeabilità cellulare, al punto che tossine, virus, cancerogeni e allergeni possano entrare più facilmente nelle cellule rese difettose.
 
 Le evidenze scientifiche mostrano che gli acidi grassi trans sono carcinogeni più potenti del fumo di sigaretta ed è stata trovata una correlazione con l’insorgenza di malattie cardiovascolari; anche il sistema immunitario potrebbe non riconoscere le cellule dotate di membrane difettose e scatenare risposte autoimmuni.
 
@@ -475,7 +477,7 @@ Pertanto, nella carne bovina e di altri ruminanti, e soprattutto nel latte, vi e
 
 Anche la cottura della carne alla piastra o alla griglia può favorire la formazione di acidi grassi trans, oltre ad altri prodotti tossici come gli idrocarburi policiclici aromatici (IPA).
 
-Per i motivi sopraesposti è bene limitare il consumo di carni rosse ed anche di latte vaccino, dato che contengono una certa quantità di insaturi trans.
+Per i motivi sopraesposti è bene limitare il consumo di carni rosse e anche di latte vaccino, dato che contengono una certa quantità di insaturi trans.
 
 D’altro canto però, nel latte ed anche nella carne dei ruminanti, per l’azione di specifici batteri simbionti del rumine e delle Δ-9-desaturasi delle ghiandole mammarie, troviamo gli acidi linoleici coniugati (CLA): un gruppo di acidi grassi essenziali derivanti dall’acido linoleico (ω-6) che hanno molte azioni benefiche per la salute, come effetti anti-obesità, anti-neoplastici, anti-aterogeni, anti- diabetogeni, immunomodulatori, apoptotici e osteosintetici.
 
@@ -491,7 +493,7 @@ Questa tipologia di alimenti ha il vantaggio di essere costituita da componenti 
 
 Nonostante ciò, presentano tutta una serie di svantaggi che ne giustificano il loro uso soltanto in situazioni mirate e/o occasionali.
 
-In condizioni di vita normali, l’essere umano non è biologicamente “programmato” per nutrirsi di polveri; gli alimenti devono possedere un aspetto, un gusto, un profumo e una consistenza per essere in grado di appagare i nostri centri cerebrali ed essere in grado di sviluppare un processo virtuoso che regola il nostro comportamento alimentare per via ipotalamica.
+In condizioni di vita normali, l’essere umano non è biologicamente *“programmato*” per nutrirsi di polveri; gli alimenti devono possedere un aspetto, un gusto, un profumo e una consistenza per essere in grado di appagare i nostri centri cerebrali ed essere in grado di sviluppare un processo virtuoso che regola il nostro comportamento alimentare per via ipotalamica.
 
 Una polvere bianca, oltre ad essere molto costosa, non suscita stimoli in grado di emozionarci e toglie al cibo l’effetto di piacevolezza che ci permette di compensare lo stress della vita moderna.
 
@@ -503,7 +505,7 @@ Inoltre, l’assunzione prolungata di polveri alimentari può indurre episodi d
 
 Pertanto, le polveri alimentari sono particolarmente controindicate per i bambini che devono imparare ad educare il loro organismo ad una corretta alimentazione.
 
-La dieta dovrebbe essere quanto più naturale possibile per essere “istruttiva”, cioè insegnare uno stile di vita sano, adattativo ed evolutivo, dato che influenza notevolmente, non soltanto la salute del corpo, ma anche la psiche ed il comportamento umani.
+La dieta dovrebbe essere quanto più naturale possibile per essere “*istruttiva*”, cioè insegnare uno stile di vita sano, adattativo ed evolutivo, dato che influenza notevolmente, non soltanto la salute del corpo, ma anche la psiche e il comportamento umani.
 
 ## 4. Conclusioni
 
@@ -511,10 +513,10 @@ Spero che la lettura di questo articolo abbia permesso di dare degli spunti di r
 
 Prendere coscienza del disadattamento alimentare, che è oggi in atto, costituisce il prerequisito necessario per accedere a mezzi e conoscenze capaci di controbatterlo.
 
-Auguro che i *"malesseri speciali"* del nostro tempo possano essere affrontati efficacemente iniziando da una adeguata nutrizione basata sui principi evolutivi che regolano il nostro bioequilibrio.
+Auguro che i *"malesseri speciali"* del nostro tempo possano essere affrontati efficacemente iniziando da un'adeguata nutrizione basata sui principi evolutivi che regolano il nostro bioequilibrio.
 
 •
 
 *Testo della conferenza presentata il 23 maggio 2024 presso il Grand Tour BookWineBar.*
 
-![](images/conferenza nutrizionismo.jpg){fig-align="center"}
+![](images/conferenza%20nutrizionismo.jpg){fig-align="center"}
