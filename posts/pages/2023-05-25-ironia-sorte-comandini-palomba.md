@@ -1,6 +1,6 @@
 ---
 author: Claudio Comandini - Ilaria Palomba
-date: 2023-05-12 
+date: 2023-05-25 
 title: L'ironia della sorte
 categories:
   - narrazioni
