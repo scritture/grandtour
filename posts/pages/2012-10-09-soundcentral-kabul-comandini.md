@@ -12,6 +12,7 @@ categories:
   - Islam
   - Al Jabri
   - Adorno
+  - Huntington
   - Edward Said
   - Derrida
   - Franco Fabbri
