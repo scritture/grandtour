@@ -12,6 +12,7 @@ categories:
   - Islam
   - Al Jabri
   - Adorno
+  - Huntington
   - Edward Said
   - Derrida
   - Franco Fabbri
@@ -26,7 +27,7 @@ L'emittente del Qatar [Al Jazeera](http://www.youtube.com/watch?v=Dr2piObWxm0&fe
 
 Qualche indispensabile precisazione. In Afghanistan, paese prevalentemente montuoso, arido e povero da sempre, il divieto verso i concerti rock, che certo non erano numerosi, è stato sancito nel 1981 dalla dominazione sovietica, per essere confermato dopo il 1989 dalla Repubblica del Nord, che con le sue sanguinose repressioni preparava la strada al regime altrettanto feroce dei Talebani, i quali dal 1996 hanno criminalizzato ogni manifestazione musicale non religiosa. In tali forme, il fondamentalismo sembra troppo accanitamente coinvolto, seppure in negativo, dai valori o disvalori occidentali, e quanto comunque accade è che i Talebani, dopo undici anni di guerra, sono ancora piuttosto influenti nonostante le elezioni del 2005 e del 2010, al punto che il presidente Karzai suggerisce al loro leader Mullah Omar di candidarsi a sua volta.
 
-L'islamismo, che rappresenta la visione più politica ed estrema dell'Islam, è generalmente poco interessato a musiche e ad altre manifestazioni culturali di matrice occidentale e secolarizzata, ma questo non significa che la cultura musulmana non le conosca: anzi, la modernità e le sue forme non sono necessariamente osteggiate, e anzi nel suo complesso il mondo islamico è attualmente animato dalla ricerca di una *propria modernità*, del tutto indipendente dalla razionalità del cogito cartesiano, che da parte sua in Occidente ha radicalizzato il dualismo corpo e spirito in senso meccanicista portando a considerare l'uomo quale macchina.
+L'islamismo, che rappresenta la visione più politica ed estrema dell'Islam, è generalmente poco interessato a musiche e ad altre manifestazioni culturali di matrice occidentale e secolarizzata, ma questo non significa che la cultura musulmana non le conosca: anzi, la modernità e le sue forme non sono necessariamente osteggiate, e anzi nel suo complesso il mondo islamico è attualmente animato dalla ricerca di una *propria modernità*, del tutto indipendente dalla razionalità del cogito cartesiano, che da parte sua in Occidente ha radicalizzato il dualismo corpo e spirito in senso meccanicista portando a considerare l'uomo quale macchina e a ridurre la trascendenza ad un teatrino di fantasmi.
 
 Della tensione modernista dell'Islam è stato un esponente significativo il filosofo marocchino Al Jabri, il cui *nuovo averroismo* si propone, individuando tre diversi ordini cognitivi (*bayān,* analogia e indicazione; ‘*irfān*, gnosi e illuminazione; *burhān* (ragionamento dimostrativo, proprio dell’indagine filosofica di derivazione aristotelica) di oltrepassando il «*misticismo oscurantista*» che a suo dire ha corrotto l'autenticità dell'Islam. Il suo intento di garantire rispettiva legittimità, reciproca autonomia e opportune relazioni tra ragione e trascendenza potrebbe sorprendere il mondo intero laddove si comprendesse che tale nodo riguarda anche il diffuso dogmatismo ideologico che, portando politica e cultura a costanti veti incrociati, conduce a ignoranza e sopraffazione pure il presuntuoso Occidente.
 
