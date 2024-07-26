@@ -13,7 +13,7 @@ categories:
   - Claudio Ciani
 ---
 
-![](images/ucrairus-01.jpeg){fig-align="center"}
+![](images/ucrairus.jpeg){fig-align="center"}
 
 *"Se l’Ucraina vuole sopravvivere e prosperare, non deve essere l’avamposto di una delle due parti contro l’altra, ma deve funzionare come ponte tra loro." (Henry Kissinger) Questa frase dell'ex Segretario di Stato USA, non certo una colomba, descrive bene quella mancata occasione di integrazione tra continenti che il conflitto in Ucraina rappresenta. Due fazioni che non possono perdere si sfidano su una frontiera priva di confini storici e geografici che nega il proprio carattere composito per affermare un'identità surrettizia. Una Russia dalle pulsioni imperiali reclama la propria apertura sul Mar Nero, peraltro su territori russofoni la cui popolazione è stata costantemente perseguitata dal governo centrale ucraino; un Occidente a guida americana intende affermare la propria preminenza su un'Eurasia da cui è distante e che piuttosto, laddove essa è una civiltà, necessita di uno spazio integrato e pacificato. La questione è enorme e influirà largamente su tutti gli equilibri a venire, e servirebbe vederci chiaro: eppure, nell'agenda dell'infowar, la corruzione, gli scandali, le stragi avvenute in Ucraina non sembrano valere nulla di fronte agli interessi USA e NATO, prima del conflitto ampiamente considerati obsoleti. Ad ogni modo, laddove la guerra ha immediatamente determinato ampi spostamenti di interessi e già ha ampiamente favorito la Cina, principale avversario degli USA, l'Europa sconterà ancora di più la propria decadenza. All'interno di tale contesto, all'Ucraina resta il bizzarro ruolo di nazione transgender, che nasce russa e addirittura luogo di nascita della Russia e che altresì pretende di diventare euroatlantica proprio nel momento della massima estraneità dei due termini della transizione, resa particolarmente incerta laddove deve avvenire trasgredendo gli stessi protocolli di assegnazione di identità di Paese NATO e UE sui quali si è compiuto il suo sacrificio. E comunque, chi sfilerà per lei quando sarà inevitabilmente in rovina?*
 
@@ -123,9 +123,7 @@ Suscita particolare interesse, da questo punto di vista, un articolo di Jeffrey 
 
 [^31]: Lo scrittore Michael Lind ha affermato che i neoconservatori americani sono influenzati dalla visione trotskyista di pensatori come James Burnham e Max Shachtman e che il concetto di *“rivoluzione globale democratica”* (esportato in tutto il mondo) non è altro che una deriva del pensiero trotskyista espresso nella “*Quarta Internazionale*” quando Trotsky parlò della necessità della rivoluzione permanente (cfr. Lind M., *A Tragedy of Errors*, «The Nation», 23.02.2004, pp. 23-32). L’origine trotskysta dei neocons è stata sostenuta anche dal filosofo marxista Costanzo Preve (*Un trotzkismo capitalistico? Ipotesi sociologico-religiosa dei Neocons americani e dei loro seguaci europei*”, AAVV, *Neocons. L’ideologia neoconservatrice e le sfide della storia*, Il Cerchio, 2007).
 
-•
-
-![](images/spaziovitaleograndespazio-01.jpg){fig-align="center"}
+![](images/spaziovitaleograndespazio.jpg){fig-align="center"}
 
 *Tratto da: Claudio Ciani, "Spazio vitale o grande spazio? L'idea di Eurasia: perno geografico della storia", Solfanelli 2024, pp. 89-102.*
 
