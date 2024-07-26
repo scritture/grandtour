@@ -1,7 +1,7 @@
 ---
 author: Simone Consorti
 date: 2024-07-19
-title: Voce del verbo mare
+title: "Aspettando l'infinito mare"
 categories:
   - poesia
   - Simone Consorti
