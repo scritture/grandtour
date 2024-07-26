@@ -123,8 +123,6 @@ Suscita particolare interesse, da questo punto di vista, un articolo di Jeffrey 
 
 [^31]: Lo scrittore Michael Lind ha affermato che i neoconservatori americani sono influenzati dalla visione trotskyista di pensatori come James Burnham e Max Shachtman e che il concetto di *“rivoluzione globale democratica”* (esportato in tutto il mondo) non è altro che una deriva del pensiero trotskyista espresso nella “*Quarta Internazionale*” quando Trotsky parlò della necessità della rivoluzione permanente (cfr. Lind M., *A Tragedy of Errors*, «The Nation», 23.02.2004, pp. 23-32). L’origine trotskysta dei neocons è stata sostenuta anche dal filosofo marxista Costanzo Preve (*Un trotzkismo capitalistico? Ipotesi sociologico-religiosa dei Neocons americani e dei loro seguaci europei*”, AAVV, *Neocons. L’ideologia neoconservatrice e le sfide della storia*, Il Cerchio, 2007).
 
-•
-
 ![](images/spaziovitaleograndespazio.jpg){fig-align="center"}
 
 *Tratto da: Claudio Ciani, "Spazio vitale o grande spazio? L'idea di Eurasia: perno geografico della storia", Solfanelli 2024, pp. 89-102.*
