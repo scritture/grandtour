@@ -5,7 +5,7 @@ title: "Ucraina: il confine stracciato dell'Eurasia"
 categories:
   - geopolitica
   - politica
-  - guerra
+  - guerra.
   - Europa
   - USA
   - Russia
