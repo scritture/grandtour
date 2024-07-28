@@ -10,6 +10,8 @@ categories:
   - Claudio Comandini
 ---
 
+![](images/ellittiche.jpeg){fig-align="center" width="514"}
+
 *Del perché cose lontane possono somigliarsi e come anche la matematica può aiutare a capire attentati, concerti e andazzo generale.*
 
 L’attentato a Trump è come un concerto di Taylor Swift. E sebbene il primo non sia sicuramente un estimatore della seconda e questa sia esplicitamente avversa al primo, i due hanno più cose in comune di quanto possa ad un primo sguardo sembrare. Se ambedue incarnanano nel modo più brutale la logica del successo a tutti i costi, gli eventi che li riguardano somigliano alla grigia eppure fracassona versione Netflix di filmoni antichi e sono in qualche modo vuoti e riempibili a piacere. Possono essere letti come pare ad ognuno e tutti possono portarli dove gli fa comodo: infatti, le teorie e le paranoie da complotto più meno interessate, nonché le interpretazioni comunque sempre forzate, già si sprecano e certamente non si fermeranno, favoriti dalla natura comunicativa dei coinvolti, spiccatamente aggressiva e particolarmente versata nell’uso dei social. E come è nella natura anarco-capitalista di tali strumenti, quanto prevale negli eventi che li riguardano è perlopiù caos. Questo non significa non avere management e obiettivi, oppure non subire pianificazioni avverse, quanto piuttosto che dobbiamo fare i conti con informazioni vaghe e ambigue e che l’ordito degli eventi si colloca fuori dalla razionalità con cui eravamo soliti pensare.
