@@ -47,6 +47,8 @@ Riassumendo, affinché si realizzi l’adattamento, sia l’omeostasi che l’a
 
 Il termine **fitness** deriva dall'inglese to fit (*«essere adatto»*) e viene tradotto in lingua italiana con il termine *"idoneità"*, nel senso di preparazione fisica e stato di forma fisica. Il fitness è correlato con il benessere psico-fisico (essere in forma) ottenuto mediante programmi integrati di ginnastica, fisioterapia, cosmesi, nutrizione, psicoterapia, ecc. Infondo, il concetto di fitness non è altro che quello espresso dal famoso detto romano: *Mens sana in corpore sano*.
 
+![](images/ricci_1.jpeg){fig-align="center"}
+
 La moderna definizione di fitness descrive la capacità di una persona o di una macchina di svolgere una funzione specifica; secondo una definizione olistica, corrisponde all'adattabilità umana in grado di far fronte alla variabilità delle situazioni sia interne che esterne all’organismo.
 
 In nome del *"benessere"*, è nata un'interrelazione tra idoneità umana e attrattiva fisica, tanto che si sono sviluppate una serie di industrie globali del fitness con l’obiettivo di produrre attrezzature da palestra specifiche per la forma fisica, oltre che i così detti *"percorsi di benessere"*; in altre parole, ne è nato un business.
@@ -107,6 +109,8 @@ Secondo il sistema di classificazione alimentare NOVA vi sono 4 categorie di ali
 
 **Gruppo 4** – Alimenti ultralavorati o ultraprocessati: prodotti realizzati con poco o nessun contenuto di alimenti freschi e con una grande quantità di additivi raffinati e lavorati (cibi industriali o semi-industriali come bevande in lattina, snack, patatine, merendine, dolci, pasti surgelati pronti, pasti sostitutivi, insaccati, fast- food, molti tipi di alcolici e superalcolici).
 
+![](images/ricci7.jpeg){fig-align="center"}
+
 I **nutrienti** sono i costituenti degli alimenti ed, una volta assorbiti dal tratto gastrointestinale, posseggono un ruolo specifico nei processi biochimici e fisiologici che sostengono il metabolismo. Si suddividono in:
 
 a: **macronutrienti**: sono i mattoni costitutivi principali della materia vivente e la fonte di energia biochimica principale; sono costituiti da proteine, carboidrati (zuccheri o glicidi) e grassi (lipidi). Anche l’alcol etilico e l’acqua possono essere considerati macronutrienti.
@@ -163,6 +167,8 @@ Per una corretta nutrizione che abbia come obbiettivo la salute dell’individuo
 
 \- condizioni di salute: patologie, allergie e intolleranze.
 
+![](images/ricci3.jpeg){fig-align="center"}
+
 La necessità di elaborare l’insieme delle informazioni derivate dai fattori sopraelencati ci fa comprendere come l’ottenimento di una efficace strategia nutrizionale richieda una visione olistica e specialistica insieme, e che non si possa prescindere dalla personalizzazione del piano alimentare per ottenere un valido risultato, sebbene si possano comunque dare delle utili indicazioni nutrizionali di carattere generale.
 
 ## 3. Evoluzione e nutrizione
@@ -205,9 +211,7 @@ Quando questa riduzione del metabolismo è eccessiva si può arrivare al cosi�
 
 D’altro canto, costatiamo spesso che oggi l’alimentazione sia basata sull’assunzione prevalente di calorie vuote, cioè carenti di micronutrienti, e che il nostro corpo abbia difficoltà ad adattarsi metabolicamente perché nel corso dell’evoluzione i cibi che assumeva erano qualitativamente migliori e ricchi di micronutrienti.
 
-Questa carenza di micronutrienti è riconducibile ad alcune pratiche di produzione alimentare introdotte dall’uomo moderno e che hanno rivoluzionato il mercato
-
-alimentare, come gli allevamenti intensivi, le monocolture, gli organismi geneticamente manipolati (OGM) ed i cibi industriali.
+Questa carenza di micronutrienti è riconducibile ad alcune pratiche di produzione alimentare introdotte dall’uomo moderno e che hanno rivoluzionato il mercato alimentare, come gli allevamenti intensivi, le monocolture, gli organismi geneticamente manipolati (OGM) e i cibi industriali.
 
 A tutto questo si aggiunge il fatto che ai giorni nostri ingeriamo molecole *"innaturali"* evolutivamente nuove, sottoforma di inquinanti (pesticidi, microplastiche, sottoprodotti della lavorazione industriale, ecc.) ai quali il nostro organismo non può essere adattato in relazione alla sua storia evolutiva e che inevitabilmente causano squilibri metabolici e patologie, come i tumori.
 
@@ -261,6 +265,8 @@ Perciò, quando gli stimoli ambientali superano la soglia ormetica, la probabil
 
 Essendo connessi al quadro di patologie precedentemente trattato, ritengo opportuno accennare anche ai **Disturbi del Comportamento Alimentare (DCA)**, che sono tutti dovuti al disadattamento comportamentale/psichico oltre che nutrizionale. Comprendono, nell’ambito dell’obesità, i casi di **bulimia nervosa** e il disturbo da **alimentazione incontrollata** (Binge Eating Disorder – BED), e anche l'**anoressia** con il conseguente eccessivo dimagrimento.
 
+![](images/ricci8.jpg){fig-align="center"}
+
 Riassumendo, la chiave per prevenire o curare le principali malattie che caratterizzano il nostro tempo consiste in un piano funzionale personalizzato che implichi il riadattamento alimentare/comportamentale, attraverso il controllo del peso, della qualità nutrizionale, dell’attività fisica e della salute mentale.
 
 Va ora introdotto un insieme di evidenze che possono aiutare a comprendere quanto sia importante conoscere le implicazioni esistenti tra molte patologie e l’aspetto nutrizionale. Mi concentrerò soprattutto sulla qualità dei macronutrienti nei cibi con le relative implicazioni per i micronutrienti e sul loro impatto sulla salute.
@@ -273,15 +279,11 @@ Il processo di ultratrasformazione o ultraraffinazione consiste nella lavorazion
 
 La trasformazione in profondità degli alimenti li rende prodotti invasivi e concentrati di calorie vuote, perché sono state eliminate le loro “*componenti povere*”, cioè i micronutrienti funzionali (come fibre, vitamine e sali minerali).
 
-Nel caso di amidacei e cereali, questi procedimenti industriali comportano l’eliminazione della struttura fibrosa interna (architettura fibrosa) per rendere il prodotto velocemente assimilabile; ciò fa’ si che i carboidrati, privati delle loro
-
-fibre, entrino velocemente in circolo, non lasciando il tempo all’organismo di usarli come combustibile e favorendo il loro accumulo sottoforma di grassi. La formazione dei relativi picchi glicemici crea di conseguenza dei picchi insulinemici elevati ed una risposta sensoriale al livello encefalico in grado di fidelizzare il consumatore.
+Nel caso di amidacei e cereali, questi procedimenti industriali comportano l’eliminazione della struttura fibrosa interna (architettura fibrosa) per rendere il prodotto velocemente assimilabile; ciò fa’ si che i carboidrati, privati delle loro fibre, entrino velocemente in circolo, non lasciando il tempo all’organismo di usarli come combustibile e favorendo il loro accumulo sottoforma di grassi. La formazione dei relativi picchi glicemici crea di conseguenza dei picchi insulinemici elevati ed una risposta sensoriale al livello encefalico in grado di fidelizzare il consumatore.
 
 I cibi ultratrasformati spingono a mangiare sempre di più perché il nostro corpo non si sente appagato (sazio), percependo non tanto l’introito calorico totale quanto soprattutto la qualità dei nutrienti che sono in difetto di importanti molecole funzionali rispetto al reale fabbisogno. Come risultato si ha la tendenza alla bulimia, pur rimanendo denutriti per la mancanza o insufficienza dei micronutrienti necessari alla normale funzione metabolica.
 
-Mediamente una dieta ricca di cibi ultratrasformati ci spinge a mangiare circa 500 Kcal/die in più rispetto ad una dieta a base di alimenti non lavorati.
-
-Quindi, l’ultratrasformazione è uno dei maggiori problemi dell’era moderna, rendendo i cibi *ingrassanti* e *diabetogeni*.
+Mediamente una dieta ricca di cibi ultratrasformati ci spinge a mangiare circa 500 Kcal/die in più rispetto ad una dieta a base di alimenti non lavorati. Quindi, l’ultratrasformazione è uno dei maggiori problemi dell’era moderna, rendendo i cibi *ingrassanti* e *diabetogeni*.
 
 Anche i segnali di fame/sazietà naturali vengono inibiti e/o alterati dai cibi ultratrasformati, causando dipendenza mediante meccanismi di gratificazione simili a quelli che si verificano con l’abuso di droghe. In altre parole, l’ultratrasformazione conferisce ai nuovi alimenti proprietà neurosensoriali che creano dipendenza, fidelizzando il consumatore.
 
@@ -292,6 +294,8 @@ Al livello ormonale, i comportamenti alimentari innescati dai cibi artificiali p
 La correzione dell’appetito consiste nel far ritornare la produzione di ormoni e neurotrasmettitori specifici in sintonia con il centro di controllo ipotalamico dell’appetito, chiamato appestat (sede ipotalamica sia della fame che della sazietà), attraverso la reintroduzione di una strategia alimentare coerente al modello evolutivo naturale.
 
 Ricordo che tutte le sensazioni provenienti dalle papille gustative, dalla mucosa olfattiva, dal movimento della masticazione e della deglutizione vengono percepite ed analizzate dall’ipotalamo che, elaborando i dati, mette a punto una sorta di calibrazione ipotalamica che regola il senso di sazietà e i gusti alimentari.
+
+![](images/ricci2.jpeg){fig-align="center"}
 
 Quando l’appestat funziona correttamente non è più importante contare le calorie ingerite; l’organismo diventa autoregolante in modo naturale perché gli ormoni della fame e della sazietà sono prodotti in maniera bilanciata secondo le reali necessità dell’organismo.
 
@@ -363,6 +367,8 @@ Tra le maggiori cause imputabili troviamo l’uso eccessivo di **carne** (soprat
 
 Una particolare attenzione va posta agli **insaccati** che sono alimenti cancerogeni di gruppo 1, specialmente se lavorati al livello industriale.
 
+![](images/ricci6.jpeg){fig-align="center"}
+
 L’elevato contenuto di grassi e il procedimento della concia, adoperata per evitare che l’alimento vada a male e per migliorare l’appetibilità, conferiscono agli insaccati le loro proprietà nocive per la salute.
 
 Tradizionalmente per la concia si prevedeva il solo l’utilizzo di sale e spezie, ma poi, con la lavorazione industriale sono stati aggiunti altri additivi chimici con uno spettro ampio di effetti nocivi per la salute.
@@ -395,9 +401,11 @@ I due esempi soprariportati indicano che alcune molecole funzionali importanti p
 
 Per limitare la maggior parte degli effetti negativi trattati, è consigliabile variare i prodotti carnei e i latticini, mangiare più pesce ed evitare di usare esclusivamente la carne rossa come fonte proteica principale.
 
-Purtroppo, oggi, anche il petto di pollo, la fesa di tacchino ed il prosciutto non sono così sani come spesso si crede.
+Purtroppo, oggi, anche il petto di pollo, la fesa di tacchino e il prosciutto non sono così sani come spesso si crede.
 
-Per fare un esempio eclatante prendo in considerazione i *polli broiler*: polli ibridi esclusivamente deputati al consumo di carne non in grado di riprodursi ed allevati in intensivo per 40-60 giorni prima di essere macellati; sono il risultato di una manipolazione genetica che li porta ad essere caratterizzati da petto e cosce enormi ed una velocità di accrescimento 4 volte più veloce di un normale pollo, cosa che giustifica il loro basso costo sul mercato. Possono essere definiti più propriamente dei pulcini giganti completamente innaturali il cui tipo di allevamento intensivo e la loro genetica li porta a subire delle sofferenze immani. I polli broiler vivono senza mai vedere la luce del sole, immersi nei loro escrementi perché allevati a terra in intensivo, spesso non riescono neanche a deambulare correttamente schiacciati dal loro stesso peso. Furono creati da allevatori americani a partire dagli anni ‘30 ed oggi in Italia circa il 98% dei polli allevati sono broiler.
+Per fare un esempio eclatante prendo in considerazione i *polli broiler*: polli ibridi esclusivamente deputati al consumo di carne non in grado di riprodursi ed allevati in intensivo per 40-60 giorni prima di essere macellati; sono il risultato di una manipolazione genetica che li porta ad essere caratterizzati da petto e cosce enormi e una velocità di accrescimento 4 volte più veloce di un normale pollo, cosa che giustifica il loro basso costo sul mercato. Possono essere definiti più propriamente dei pulcini giganti completamente innaturali il cui tipo di allevamento intensivo e la loro genetica li porta a subire delle sofferenze immani. I polli broiler vivono senza mai vedere la luce del sole, immersi nei loro escrementi perché allevati a terra in intensivo, spesso non riescono neanche a deambulare correttamente schiacciati dal loro stesso peso. Furono creati da allevatori americani a partire dagli anni ‘30 ed oggi in Italia circa il 98% dei polli allevati sono broiler.
+
+![](images/ricci4.jpeg){fig-align="center"}
 
 Sappiamo che il petto di pollo normalmente sia considerato una carne bianca di ottimo potere nutrizionale perché estremamente povero di tessuto adiposo e ricco di proteine nobili; ma la carne dei polli broiler può essere anche grassa tanto che si possono formare delle vere e proprie striature di grasso nel petto; inoltre, con la cottura la massa muscolare si può ridurre anche della metà perché sono pieni di liquidi dovuti all’ipertensione da stress. A ciò si aggiunge il fatto che questi animali devono essere trattati periodicamente con antibiotici, tipo le tetracicline, un vasto gruppo di farmaci antibatterici inibitori della sintesi proteica.
 
@@ -449,7 +457,7 @@ Si noti però che cibi ricchi di colesterolo, come le uova, non risultano avere
 
 Per quanto riguarda, invece, gli **acidi grassi saturi** la situazione è differente perché sono in grado di aumentare di due volte i livelli ematici di colesterolo, agendo sui meccanismi di produzione endogena nell’uomo; questo innalzamento della colesterolemia non avviene, però, per i polinsaturi; perciò nella dieta, riducendo la percentuale di saturi e sostituendoli con i polinsaturi (soprattutto quelli essenziali ω-3 e ω-6), si potrebbe avere un effetto di abbassamento relativo del colesterolo ematico.
 
-Ma non tutti gli acidi grassi saturi sono ipercolesterolizzanti; infatti l’acido stearico, presente ad es. nel cacao, ed altri **acidi grassi saturi a catena corta** (SCFA-short chain fatty acids) mantengono invariati i livelli di colesterolo e sono regolatori della funzione intestinale.
+Ma non tutti gli acidi grassi saturi sono ipercolesterolizzanti; infatti l’acido stearico, presente ad es. nel cacao, e altri **acidi grassi saturi a catena corta** (SCFA-short chain fatty acids) mantengono invariati i livelli di colesterolo e sono regolatori della funzione intestinale.
 
 Anche l’acido butirrico o butanoico, sebbene sia implicato nei processi di rancidificazione del burro e dei formaggi stagionati ed, anche, del relativo sviluppo di cattivo odore, viene prodotto normalmente dalla flora batterica intestinale con effetti positivi sul colon-retto al livello energetico, anti- infiammatorio e anti-tumorale. Tant’è che oggi questo acido grasso a catena corta è adoperato come agente terapeutico per i tumori al colon, i tumori cerebrali e in patologie intestinali, come la sindrome dell’intestino irritabile e il morbo di Crohn (patologie che necessitano della dieta FODMAP).
 
@@ -488,6 +496,8 @@ Questo bilanciamento di effetti positivi e negativi dei principi nutrizionali de
 ### 3.9. Le polveri alimentari
 
 Infine, vorrei spendere un po' di tempo nel trattare il tema estremamente attuale dei **cibi artificiali in polvere** (anch’essi ultratrasformati), come i pasti sostitutivi dimagranti e/o detossificanti e le polveri proteiche.
+
+![](images/ricci5.jpeg){fig-align="center" width="575"}
 
 Questa tipologia di alimenti ha il vantaggio di essere costituita da componenti puri opportunamente dosati, facili da trasportare e da consumare in qualsiasi situazione; la loro formulazione adeguata consente di minimizzare il contenuto calorico dei macronutrienti e di massimizzare artificialmente il contenuto di micronutrienti.
 
