@@ -15,27 +15,29 @@ about:
     - icon: envelope
       href: mailto:grandtour.frascati@gmail.com
       aria-label: Email
+    - text: ISSN 2499-6610
 ---
 
 ## GRAND TOUR BookWineBar
 
 Largo Duca di York 8 00044 Frascati
 
-06.44248940 (negli orari indicati) - 346.7284282 (messaggio whatsapp)
+-   06.44248940 (negli orari indicati)
 
-Lunedi: chiuso
+```{=html}
+<!-- -->
+```
+-   346.7284282 (messaggio whatsapp)
 
-Martedì: 17:00 - 24:00
-
-Mercoledì: 17:00 - 24:00
-
-Giovedì: 12:00 - 24.00
-
-Venerdì: 12:00 - 2:00
-
-Sabato: 12:00 - 2:00
-
-Domenica: 12:00 - 24:00
+|             |                |
+|-------------|----------------|
+| Lunedi:     | chiuso         |
+| Martedì:    |  17:00 - 24:00 |
+| Mercoledì:  | 17:00 - 24:00  |
+| Giovedì:    |  12:00 - 24.00 |
+| Venerdì:    | 12:00 - 2:00   |
+| Sabato:     | 12:00 - 2:00   |
+| Domenica:   | 12:00 - 24:00  |
 
 ![](images/immagini_bookwinebar/Fuorinew.jpeg){fig-align="center"}
 

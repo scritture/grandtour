@@ -33,7 +33,13 @@ website:
       - icon: envelope
         href: mailto:grandtour.frascati@gmail.com
         aria-label: Email
-
+  page-footer: 
+    left: 
+      - text: "Questa raccolta di opere è distribuita con Licenza Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 "   
+        href: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.it
+    right: 
+      - text: ISSN 2499-6610
+      
 format:
   html:
     theme: united
