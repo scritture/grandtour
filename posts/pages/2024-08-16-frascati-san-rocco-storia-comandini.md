@@ -4,10 +4,12 @@ date: 2024-08-16
 title: Intorno al campanile di San Rocco
 categories:
   - storia
+  - arte
   - urbanistica
-  - Colonna
   - Frascati
   - Tuscolo
+  - Colonna
+  - Claudio Comandini
 ---
 
 ![*Campanile di S. Rocco e Porta Caperchiano, 1850 ca.*](images/1. Campanile S. Rocco Porta Capestrano .jpg){fig-align="center"}

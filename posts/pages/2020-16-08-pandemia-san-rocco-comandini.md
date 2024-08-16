@@ -8,6 +8,7 @@ categories:
   - religione
   - pandemia
   - Frascati
+  - Claudio Comandini
 ---
 
 ![](images/Polittico%20di%20San%20Antonio%20Gandino%201590%20.jpg){fig-align="center"}
