@@ -55,6 +55,8 @@ Romano Mergé, *Frascati nella realtà documentata* - Vol. II, Amici di Frasca
 
 •
 
+![](images/aggredior_virus.jpg){fig-align="center"}
+
 Tratto da: Claudio Comandini, *Aggredior Virus*, Edizioni Mondo Nuovo 2020, p. 97-103.
 
-*Illustrazione: San Antonio Gandino, Polittico di San Rocco, 1590*
+*Illustrazione: San Antonio Gandino, Polittico di San Rocco, 1590.*
