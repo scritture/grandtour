@@ -37,4 +37,3 @@ categories:
     •
 
     [*Giusy Capone: "Aggredior virus. I migliori giorni della nostra vita", «Giusy Capone Blog» 15.09.2012.*](https://giusycapone.home.blog/2021/09/15/aggredior-virus-i-migliori-giorni-della-nostra-vita/?fbclid=IwAR27486dXh93A5QCoSs0DdlCgg272iog4eTdgg2tmELIXHa0OMA3qfnvZb0)
-
