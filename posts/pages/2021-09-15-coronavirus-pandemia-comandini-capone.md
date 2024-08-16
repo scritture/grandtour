@@ -12,6 +12,8 @@ categories:
   - Giusy Capone
 ---
 
+![](images/coronavirus-1.jpg){fig-align="center"}
+
 *Pandemia e infodemia come forme di malattia. Scienza e religione come sistemi simbolici e rieame dei loro rapporti. Incapacità della politica e inadeguatezze della cultura. Abusi vaccinali e virus come condizione di vita. Oltre il disastro e* *il colpo di coda dei poteri che lo hanno determinato. Scrivere il futuro.*
 
 *GC: Lei affianca la pandemia efficacemente all’infodemia, ovverosia ai mali della comunicazione. Per quale ragione?*
@@ -34,4 +36,6 @@ CC: Per comprendere quanto sia diffusa tale follia, che in Francia è stata denu
 
 CC: Il mondo intero si è fermato. L’inedita situazione poteva rappresentare un’opportunità per ripensare il nostro abitare il pianeta, e questo è il senso per cui tale periodo ha assunto caratteri di eccezionalità. Certamente, occorre comprendere come cambiare direzione, e così uscire da un paradigma neoliberista di sfruttamento indiscriminato per approdare ad una soluzione di tipo socialista capace di effettiva ridistribuzione delle risorse nonché di promozione delle eccellenze. Ed è questa la lotta da riconoscere, in grado di trascendere in modi decisivi le attuali schermaglie nel suo richiamarsi ad un modello di produzione capace di riequilibrare i suoi rapporti con l’ambiente. Invece, e perlopiù con l’avallo di quella che arbitrariamente ancora pretende di appellarsi quale sinistra, ognuno di noi sembra costretto a vivere in un lager potenzialmente esteso al mondo intero: tuttavia, come ha segnalato Žižek, altre sono le esigenze del nostro vivere collettivo, e tale colpo di coda degli stessi poteri che ci hanno portato al disastro non può affatto essere definitivo. Del resto, è assurdo pretendere di risolvere problemi di tale portata accontentandosi di una verniciatina di verde all’economia e una di rosa ai diritti, nonché affrontando la questione del lavoro distribuendo paghette irrisorie e quella dell’innovazione tecnologica con trovate ridicole, e ciò proprio mentre particolarismi di ogni tipo avanzano logorando la dignità della vita collettiva e spesso anche di quella personale. Così si muore, e basta: forse, come diceva Montale, qua la speranza rimasta è che siamo tutti già morti senza saperlo. Ma ad ogni modo, ad ogni declino segue una risalita, e rimane ad attenderci un futuro ancora da scrivere.
 
-[*Giusy Capone: "Aggredior virus. I migliori giorni della nostra vita", «Giusy Capone Blog» 15.09.2012.*](https://giusycapone.home.blog/2021/09/15/aggredior-virus-i-migliori-giorni-della-nostra-vita/?fbclid=IwAR27486dXh93A5QCoSs0DdlCgg272iog4eTdgg2tmELIXHa0OMA3qfnvZb0)
+![Claudio Comandini, *Aggredior Virus. I migliori giorni della nostra vita*, Edizioni Mondo Nuovo 2020.](images/aggredior_virus.jpg){fig-align="center" width="361"}
+
+*Giusy Capone: "Aggredior virus. I migliori giorni della nostra vita", «Giusy Capone Blog» 15.09.2012.*
