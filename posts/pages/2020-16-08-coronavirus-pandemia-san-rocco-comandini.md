@@ -13,7 +13,7 @@ categories:
 
 ![](images/Polittico%20di%20San%20Antonio%20Gandino%201590%20.jpg){fig-align="center"}
 
-*Thacker e l'impensabilità del pianeta. Oltre l'umanesimo e il transumanesimo. Le vite estreme dei santi. San Rocco amico degli appestati nutrito dai cani. Superamento dell'animalismo. Il culto di S. Rocco a Frascati e nel mondo.*
+*Thacker e l'impensabilità del pianeta. Oltre l'umanesimo e il transumanesimo. Le vite estreme dei santi. San Rocco amico degli appestati nutrito dal cane. La problematica dello spillover e i nuovi patti di convivenza tra uomo e natura. Il superamento dell'animalismo quale soluzione parziale. Il culto di S. Rocco a Frascati e nel mondo.*
 
 L’orrore, come segnala Thacker, ha maggiormente a che fare con l’angoscia della vita piuttosto che con la paura della morte, laddove concerne i limiti del nostro esserci: in tale dimensione, a riguardarci non è più il mondo soggettivo né l’oggettività della terra, ma il *pianeta in quanto impensabile*. In tale dimensione, va considerato che l’attività dell’impatto biologico comportato dalle epidemie passa attraverso i *corpi individuali* e le reti di scambio che costituiscono il *corpo sociale*; ne consegue che un duplice apparato concettuale, costituito da una parte da malattie infettive dovute a cause naturali, e dall’altra da biodifese legate a cause artificiali, renda la vita biologica addirittura un’*arma contro se stessa*. Il compito diventa così quello di trovare ad una pestilenza inumana un contenimento umano. 
 

@@ -1,5 +1,5 @@
 ---
-author: Claudio Comandini
+author: Giusy Capone - Claudio Comandini
 date: '2021-09-15'
 title: "Aggredior virus. Intervista con l'autore"
 categories:
