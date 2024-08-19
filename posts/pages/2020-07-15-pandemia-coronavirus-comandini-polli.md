@@ -1,7 +1,7 @@
 ---
 author: Fabio Polli - Claudio Comandini
 date: 2020-07-15
-title: Inafferrabile e sospeso. Il tempo al tempo della pandemia
+title: "Sospeso e inafferrabile: il tempo al tempo della pandemia"
 categories:
   - filosofia
   - scienza
