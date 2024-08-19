@@ -1,7 +1,7 @@
 ---
 author: Claudio Comandini
 date: '2020-08-16'
-title: Il cane di San Rocco. L'inumano in noi
+title: "Il cane di San Rocco. L'inumano in noi"
 categories:
   - filosofia
   - storia

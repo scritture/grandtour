@@ -1,7 +1,7 @@
 ---
 author: Fabio Polli
 date: 2022-05-11
-title: Grand Tour BookWineBar: finalmente si apre
+title: "Grand Tour BookWineBar: finalmente si apre"
 categories:
   - società
   - alimentazione
