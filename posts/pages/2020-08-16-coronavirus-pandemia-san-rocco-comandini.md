@@ -1,13 +1,15 @@
 ---
 author: Claudio Comandini
-date: '2020-16-08'
-title: Il cane di San Rocco. L'inumano in noi
+date: '2020-08-16'
+title: "Il cane di San Rocco. L'inumano in noi"
 categories:
   - filosofia
   - storia
   - religione
   - pandemia
   - Frascati
+  - Heidegger
+  - Thacker
   - Claudio Comandini
 ---
 
