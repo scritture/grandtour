@@ -1,7 +1,7 @@
 ---
-author: Fabio Polli
-date: 2020-08-02
-title: Inafferrabile tempo sospeso
+author: Fabio Polli - Claudio Comandini
+date: 2020-07-15
+title: Inafferrabile e sospeso. Il tempo al tempo della pandemia
 categories:
   - filosofia
   - scienza
@@ -12,9 +12,11 @@ categories:
   - Fabio Polli
 ---
 
+![](images/coronavirus-2.jpg){fig-align="center"}
+
 *Estraneità tra corpi e salti di specie. Esperimenti sociali e fallimenti della società. Virus, infodemia, scrittura. Comunità umana e pensiero non umano. La politica del corpo e la grande salute.*
 
-FP: "*Aggredior Virus*" è il titolo del saggio che lo scrittore e filosofo Claudio Comandini ha dedicato durante il lockdown al tema del coronavirus. Un *istant book* basato su quanto stava accadendo, in Italia e nel mondo, per gli effetti del *«tempo sospeso»* eppure distante e inafferrabile che sembrava di vivere stando chiusi in casa senza contatti diretti con altre persone, fossero anche gli effetti più cari. Un isolamento di protezione imposto dai tanti governi nazionali che hanno seguito le indicazioni del mondo scientifico e sanitario, spesso controverse e contraddittorie, ancor oggi prive di un'affidabile sintesi risolutiva. Il libro di Comandini, presentato anche attraverso le dirette Facebook della redazione de *"Il Tuscolo"* durante il lockdown, ha incuriosito coloro che hanno interesse verso gli aspetti sociologici che seguono e procedono momenti di particolare importanza della contemporaneità e che vogliono comprendere gli effetti che un determinato accadimento è capace di provocare sui comportamenti dei singoli e delle masse globalizzate. In quattro paragrafi, l'aiutore esplica alcuni degli argomenti con cui si articola il piano del libro muovendo riflessioni che permettono di capire cosa sembra accaderci.
+FP: "*Aggredior Virus*" è il titolo del saggio che lo scrittore e filosofo Claudio Comandini ha dedicato durante il lockdown al tema del coronavirus. Un *istant book* basato su quanto stava accadendo, in Italia e nel mondo, per gli effetti del *«tempo sospeso»* eppure distante e inafferrabile che sembrava di vivere stando chiusi in casa senza contatti diretti con altre persone, fossero anche gli effetti più cari. Un isolamento di protezione imposto dai tanti governi nazionali che hanno seguito le indicazioni del mondo scientifico e sanitario, spesso controverse e contraddittorie, ancor oggi prive di un'affidabile sintesi risolutiva. Il libro di Comandini, presentato anche attraverso le dirette Facebook della redazione de *"Il Tuscolo"* durante il lockdown, ha incuriosito coloro che hanno interesse verso gli aspetti sociologici che seguono e procedono momenti di particolare importanza della contemporaneità e che vogliono comprendere gli effetti che un determinato accadimento è capace di provocare sui comportamenti dei singoli e delle masse globalizzate. In quattro paragrafi, l'autore esplica alcuni degli argomenti con cui si articola il piano del libro muovendo riflessioni che permettono di capire cosa sembra accaderci.
 
 *CC: «Se in Italia come nel mondo intero la pandemia ha manifestato l’estraneità tra corpi individuali e corpo sociale, le cause della SARS-CoV-2 e di altri virus zoonotici sono da cercare, come aiuta a comprendere David Quammen, nella profonda alterazione subita dagli equilibri naturali a seguito dei processi di antropizazzione e industrializzazione. Come reazione alla diffusione del virus, tutto il mondo si è arrestato: le reazioni sono state perlopiù inadeguate ladddove hanno confuso i modelli astratti con la complessità del reale. E se in Italia, come riconosciuto da analisti quali Federico Petroni, era in gioco una sorta di esperimento sociale che doveva garantire la tenuta del Paese, oggi il Paese stesso e i suoi equilibri sono a rischio, determinando una situazione che, come il virus, sembra tanto diffusa quanto inafferrabile.*
 
