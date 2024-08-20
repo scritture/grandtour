@@ -303,11 +303,11 @@ Henri BERGSON, 1983: *Materia e memoria* (1896), a cura di A. Passina, Città ar
 
 Ettore BONORA, 1982: *La poesia di Montale. Ossi di seppia*, Liviana, Padova.
 
-Pietro BONFIGLIOLI, 1963: *Dante Pascoli Montale*, in «Nuovi studi Pascoliani», p. 35-62, Centro di Cultura dell'Alto Adige -- Società di studi Romagnoli, Bolzano -- Cesena.
+Pietro BONFIGLIOLI, 1963: *Dante Pascoli Montale*, in «Nuovi studi Pascoliani», p. 35-62, Centro di Cultura dell'Alto Adige - Società di studi Romagnoli, Bolzano - Cesena.
 
 Emilè BOUTROUX, 1913: *De la contingence des lois de la nature* (1875), Alcan, Paris.
 
-Emilè BOUTROUX, 1877: *Avant-propost du traducteur*, in \_La philosophie des Grecs, \_par E. ZELLER, Hachette, Paris.
+Emilè BOUTROUX, 1877: *Avant-propost du traducteur*, in *La philosophie des Grecs*, par E. ZELLER, Hachette, Paris.
 
 Emilè BOUTROUX, 1925: *De l'idée de loi naturelle dans la science et la  philosophie contemporaine* (1895), Vrin, Paris.
 
@@ -333,7 +333,7 @@ Johann W. GOETHE, 1962: *Scritti scientifici* (1887- 1919), in *Opere*, vol. V, 
 
 George W. F. HEGEL, 1984: *Scienza della logica* (1812- 16), Laterza, Bari.
 
-George W. HEGEL, 1987: *Enciclopedia delle scienze filosofiche in compendio* (1817-  30), antologia a cura di A. Negri, Laterza, Bari.
+George W. HEGEL, 1987: *Enciclopedia delle scienze filosofiche in compendio* (1817- 30), antologia a cura di A. Negri, Laterza, Bari.
 
 Werner HEISEMBERG, 1994: *Fisica e filosofia,* (1958), Il Saggiatore, Milano.
 
@@ -343,7 +343,7 @@ Edmond HUSSERL, 1987: *La crisi delle scienze europee e la fenomenologia trascen
 
 Immanuel KANT, 1987: *Critica del Giudizio* (1790-99), a cura di A. Gargiulo, Bari, Laterza.
 
-Heinrich von KLEIST, 1986: *Sul teatro delle marionette- Aneddoti -- Saggi* (1797-1810), trad. E. Pocar, Guanda, Parma.
+Heinrich von KLEIST, 1986: *Sul teatro delle marionette- Aneddoti - Saggi* (1797-1810), trad. E. Pocar, Guanda, Parma.
 
 Karl LÖWITH, 1988: *Da Hegel a Nietzsche* (1941), trad. it. G. Colli, Einaudi, Torino.
 
