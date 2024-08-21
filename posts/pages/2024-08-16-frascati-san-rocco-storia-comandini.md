@@ -8,7 +8,7 @@ categories:
   - urbanistica
   - Frascati
   - Tuscolo
-  - Colonna
+  - Famiglia Colonna
   - Claudio Comandini
 ---
 
@@ -34,7 +34,7 @@ Il nome *vivarium* della chiesa deriva dalla vasca per la coltura dei pesci dell
 
 Invece, presso l’allora *Ospedale di S. Sebastiano*, venne ritrovato un altro tratto di conduttura recante l'iscrizione del nome di Nerone (conservato al Museo dell’Abbazia di Grottaferrata). È plausibile che il controverso imperatore, in un panorama immenso che ancora oggi incanta lo sguardo, abbia ammirato da qui l’incendio su Roma. Dopo la sua sfortuna, il territorio diventa proprietà demaniale. Parte delle rovine romane sottostanti sono tuttora accessibili dall’abside centrale della chiesa, proprio dietro l’altare ricavato da un sepolcro paleocristiano, mentre dalla sagrestia si accede alla cripta nei cui pressi insiste il perimetro della chiesa primitiva del V sec., precedente quindi ogni fonte scritta conosciuta.
 
-La chiesa viene ricostruita nel X sec., al tempo in cui la [dinastia](https://grandtour.shop/posts/pages/2012-05-10-possedimenti-memorie-tuscolo-comandini.html) in seguito detta Tuscolana comincia ad espandersi, prima con Teoflilatto e Teodora, poi con Marozia, quindi con il figlio di lei Alberico, e infine con il figlio di questi, il pontefice Giovanni XII che, incoronando imperatore il re sassone Ottone, rinnova l’istituto imperiale. Seghetti e altri storici menzionano un rifacimento ricevuto dalla chiesa nel 1296, e a detta del cardinal Ludovico Micara in quell’anno Bonifacio VIII Caetani benedice la prima campana su quella che deriva da una torre saracena e però esiste nella sua forma di campanile in maniera accertata soltanto dal 1305. Per comprendere storia e significato di questo primo monumento cittadino, sola testimonianza medievale superstite, continuiamo a passeggiare nella storia e quindi nelle sue vicinanze, lontani dal presente quanto basta per metterlo in prospettiva e cercare di comprenderlo meglio.
+La chiesa viene ricostruita nel X sec., al tempo in cui la [dinastia](https://grandtour.shop/posts/pages/2012-05-10-possedimenti-memorie-tuscolo-comandini.html) in seguito detta Tuscolana comincia ad espandersi, prima con Teoflilatto e Teodora, poi con Marozia, quindi con il figlio di lei Alberico, e infine con il figlio di questi, il pontefice Giovanni XII che, incoronando imperatore il re sassone Ottone, rinnova l’istituto imperiale. Domenico Seghetti e altri storici menzionano un rifacimento ricevuto dalla chiesa nel 1296, e a detta del cardinal Ludovico Micara in quell’anno Bonifacio VIII Caetani benedice la prima campana su quella che deriva da una torre saracena e però esiste nella sua forma di campanile in maniera accertata soltanto dal 1305. Per comprendere storia e significato di questo primo monumento cittadino, sola testimonianza medievale superstite, continuiamo a passeggiare nella storia e quindi nelle sue vicinanze, lontani dal presente quanto basta per metterlo in prospettiva e cercare di comprenderlo meglio.
 
 ## 2. La Roma dei Colonna e la cattività avignonese
 

@@ -6,12 +6,11 @@ title: Le guerre di Marcantonio Colonna e lo Statuto di Frascati del 1515
 categories:
   - società
   - storia
-  - Guicciardini
-  - Ignazio da Loyola
   - Roma
   - Tuscolo
   - Frascati
-  - Colonna
+  - Ignazio da Loyola
+  - Famiglia Colonna
   - Claudio Comandini
 ---
 
