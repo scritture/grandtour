@@ -133,11 +133,11 @@ La capacità di Monopoli e Risiko! di fungere da modelli scenari e scenari è or
 
 ## Riferimenti
 
-[\[1\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref1) Karl Groos, *Die Spiele der Thiere, \_Jena 1896**;** \_Die Spiele der Menschen*, Jena 1899.
+[\[1\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref1) Karl Groos, *Die Spiele der Thiere,* Jena 1896**;** *Die Spiele der Menschen*, Jena 1899.
 
-[\[2\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref2) [Fascinating facts about the invention of Monopoly by Charles Darrow in 1935, 1997-2007, «The Great Idea Finder»](http://www.ideafinder.com/history/inventions/monopoly.htm).
+[\[2\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref2) [*Fascinating facts about the invention of Monopoly by Charles Darrow in 1935*, 1997-2007, «The Great Idea Finder»](http://www.ideafinder.com/history/inventions/monopoly.htm).
 
-[\[3\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref3) Risiko!, 2006-2016, http://www.risiko.it/index.php
+[\[3\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref3) [Risiko!, 2006-2016](http://www.risiko.it/index.php).
 
 [\[4\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref4) I Samuele, 17, 45.
 
@@ -169,7 +169,7 @@ La capacità di Monopoli e Risiko! di fungere da modelli scenari e scenari è or
 
 [\[17\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref17) [Michael Ruppert, *A Timeline Surrounding September 11*, «From the Wilderness» 2.11.2001.](http://www.fromthewilderness.com/free/ww3/10_09_01_krongard.html)
 
-[\[18\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref18) Michael Ruppert, *Promis Software -- Bin Laden's Magic Carpet* 22.11.2002.
+[\[18\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref18) Michael Ruppert, *Promis Software - Bin Laden's Magic Carpet* 22.11.2002.
 
 [\[19\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref19) [Jeffrey R. Nyquist, *China Supports bin Laden **And The Taliba**n***, «**Financial Sense» 10-10-2001.](http://www.rense.com/general15/chinasupports.htm)
 
@@ -185,7 +185,7 @@ La capacità di Monopoli e Risiko! di fungere da modelli scenari e scenari è or
 
 [\[25\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref25) MIchale Ruppert, *Suppresed Details*, cit.; Nafeez Mosaddeq Ahmed, *Guerra alla libertà*, cit., p 112.
 
-[\[26\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref26) Tom Flocco, *Profits of death*, «From the Wilderness» 6.12.2001, http://www.fromthewilderness.com/free/ww3/12_06_01_death_profits_pt1.html.
+[\[26\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref26) [Tom Flocco, *Profits of death*, «From the Wilderness» 6.12.2001.](http://www.fromthewilderness.com/free/ww3/12_06_01_death_profits_pt1.html)
 
 [\[27\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref27) »Welt am Sonntag» 5.09.1999; «Financial Times of Asia» 10.08.2001
 
@@ -197,7 +197,7 @@ La capacità di Monopoli e Risiko! di fungere da modelli scenari e scenari è or
 
 [\[31\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref31) «San Francisco Chronicles» 29.11.2002.
 
-[\[32\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref32) [Michael Ruppert, *The Case for Bush Administration Advance Knowledge of 9-11 Attacks*, «From  the Wilderness» 18.05.2002.](http://www.fromthewilderness.com/free/ww3/042202_bushknows.html)
+[\[32\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref32) [Michael Ruppert, *The Case for Bush Administration Advance Knowledge of 9-11 Attacks*, «From the Wilderness» 18.05.2002.](http://www.fromthewilderness.com/free/ww3/042202_bushknows.html)
 
 [\[33\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref33) Jane Mayer, *The House of Bin Laden*, «The New Yorker» 12.11.2001.
 
@@ -211,9 +211,9 @@ La capacità di Monopoli e Risiko! di fungere da modelli scenari e scenari è or
 
 [\[38\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref38) Robert G. Kaiser, *Enormous Wealth Spilled Into American Coffers*, «The Washington Post» 11.02.2002.
 
-[\[39\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref39) [*Has Someone Been Sitting on the FBI*, «BBC Newsnigh» 6.11.2001](http://www.prisonplanet.com/bush_thwarted_fbi_probe.html);\*\* \*\*[Rick Wiles, *Bush's Former Oil Company \_\_Linked To bin Laden Family*\*\*, \*\*«American Freedom News» 3.10.2001](http://www.rense.com/general14/bushsformer.htm).
+[\[39\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref39) [*Has Someone Been Sitting on the FBI*, «BBC Newsnigh» 6.11.2001](http://www.prisonplanet.com/bush_thwarted_fbi_probe.html); [Rick Wiles, *Bush's Former Oil Company Linked To bin Laden Family*, «American Freedom News» 3.10.2001](http://www.rense.com/general14/bushsformer.htm).
 
-[\[40\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref40) [Wayne Madsen, *Questionable Ties*, «These Times -- Institute for Public Affaires» n. 25](http://www.inthesetimes.com/issue/25/25/feature3.shtml); «Intelligence Newsletter» 2.03.2002.
+[\[40\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref40) [Wayne Madsen, *Questionable Ties*, «These Times - Institute for Public Affaires» n. 25](http://www.inthesetimes.com/issue/25/25/feature3.shtml); «Intelligence Newsletter» 2.03.2002.
 
 [\[41\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref41) Jonhatan Wells & co., *Saudi Elite Linked to Bin Laden Financial Empire*, «The Boston Herald» 14.10.2001.
 
@@ -233,7 +233,7 @@ La capacità di Monopoli e Risiko! di fungere da modelli scenari e scenari è or
 
 [\[49\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref49) Ahmed Rashid, *Bin Laden Has Network of Sleepers Across North America*, «The Telegraph», 16.09.2001.
 
-[\[50\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref50) Bob Woodward -- Walter Pincus, *Investigator Identify 4 to 5 Groups Linked ti Bin Laden --Operating in U.S. No Connection Found Between "Cell" Membres and 19 Hijackers, Official Say*, «The Washington Post» 23.09.2001.
+[\[50\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref50) Bob Woodward - Walter Pincus, *Investigator Identify 4 to 5 Groups Linked ti Bin Laden - Operating in U.S. No Connection Found Between "Cell" Membres and 19 Hijackers, Official Say*, «The Washington Post» 23.09.2001.
 
 [\[51\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref51) Nafeez Mosaddeq Ahmed, *Guerra alla libertà*, cit., pp. 191-193.
 
@@ -255,11 +255,11 @@ La capacità di Monopoli e Risiko! di fungere da modelli scenari e scenari è or
 
 [\[60\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref60) Nafeez Mosaddeq Ahmed, *Guerra alla libertà*, cit., p. 193.
 
-[\[61\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref61) [Ahmed Rashid,\*\* \*\**Osama Bin Laden: How the U.S. Helped Midwife a Terrorist*, 13.09.2011.](http://iml.jou.ufl.edu/projects/fall01/Easton/webstuff%5Cwhoisosama.html)
+[\[61\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref61) [Ahmed Rashid, *Osama Bin Laden: How the U.S. Helped Midwife a Terroris*t, 13.09.2011.](http://iml.jou.ufl.edu/projects/fall01/Easton/webstuff%5Cwhoisosama.html)
 
-[\[62\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref62) Dan Rather -- Barry Peterson, *Bin Laden Whereabouts Before 9-11* «CBS Evening News» 28.01.2002.
+[\[62\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref62) Dan Rather - Barry Peterson, *Bin Laden Whereabouts Before 9-11* «CBS Evening News» 28.01.2002.
 
-[\[63\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref63) [Paul Sperry, *Did Ally Pakistan Paly Role in 9-11?* «WorldNetDayli» 30.01.2002](http://www.wnd.com/2002/01/12572/);\*\* \*\*Seymour M. Hersh, *The Gateway: Questions Surround a Secret Pakistan Airlift*, «The New Yorker» 21.01.2002.
+[\[63\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref63) [Paul Sperry, *Did Ally Pakistan Paly Role in 9-11?* «WorldNetDayli» 30.01.2002](http://www.wnd.com/2002/01/12572/); Seymour M. Hersh, *The Gateway: Questions Surround a Secret Pakistan Airlift*, «The New Yorker» 21.01.2002.
 
 [\[64\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref64) [Judical Watch, *Lettera all'onorevole Charles O. Rossotti, Presidente dell'International Revenue Services*, 20.09.2001](http://www.judicialwatch.org/cases/78/hamascomplaint.htm).
 
@@ -267,7 +267,7 @@ La capacità di Monopoli e Risiko! di fungere da modelli scenari e scenari è or
 
 [\[66\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref66) [*Terrorism 2000/2001,* «FBI», 2004.](https://www.fbi.gov/stats-services/publications/terror)
 
-[\[67\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref67) Jonathan Weiner -- Linfa Wertheimer, *Intervista*, «National Public Radio (NPR)» 21.11.2001.
+[\[67\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref67) Jonathan Weiner - Linfa Wertheimer, *Intervista*, «National Public Radio (NPR)» 21.11.2001.
 
 [\[68\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref68) [Tom Flocco -- Michael Ruppert, *The Profits of Deaths, Part III*, «FTW Publications» 9.01.2002.](http://www.fromthewilderness.com/free/ww3/01_09_02_death_profits_pt3.html)
 
@@ -285,7 +285,7 @@ La capacità di Monopoli e Risiko! di fungere da modelli scenari e scenari è or
 
 [\[75\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref75) Loretta Napoleoni, *La morsa*, Chiarelettere, Milano 2009, pp. 64-66,77.
 
-[\[76\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref76) Bijan Zarmandili, *L'Iran vuole la sconfitta dei Talebani*, da  *La guerra del terrore*, «Quaderni Speciali di Limes», supplemento a «Limes» n. 4/2001, pp. 123 -127.
+[\[76\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref76) Bijan Zarmandili, *L'Iran vuole la sconfitta dei Talebani*, da *La guerra del terrore*, «Quaderni Speciali di Limes», supplemento a «Limes» n. 4/2001, pp. 123 -127.
 
 [\[77\]](http://www.claudiocomandini.net/monopoli-e-risiko-guerre-globali-e-crisi-finanziarie/#_ftnref77) Seymour Hersh, *Plan B*, «New Yorker» 28.06-2004; John K. Cooley, *L'alleanza contro Babilonia*, Eleuthera, Milano 2005, pp. 307-308.
 
@@ -293,4 +293,4 @@ La capacità di Monopoli e Risiko! di fungere da modelli scenari e scenari è or
 
 *Prima pubblicazione parziale: 1. come "Monopoli e Risiko!: giochi di realtà", «Argo» n. 14, 06.2008; 2. come "11 settembre, la pista finanziaria", «Controluce» a.14, n.9, 09.2005. Riveduti e ampliati.*
 
-*Fotografia: Claudio Comandini, "Palle di guerra" - Ferrara, ottobre 2008.*
+*Fotografia: Claudio Comandini, "Palle di guerra" - Ferrara, ottobre 2008.*

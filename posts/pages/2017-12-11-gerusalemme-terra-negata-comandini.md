@@ -181,7 +181,7 @@ Dal fronte opposto, risponde S. Yzhar con *Yemè Ziqlag*:
 \
 Il presidente americano Obama nel 2011 aveva richiesto il ritorno ai confini del 1967; annullando decenni di sforzi diplomatici con un breve proclama televisivo, un tweet e una firma, il suo successore Trump nel 2017 pretende che Gerusalemme venga definitivamente riconosciuta quale capitale dello stato ebraico. Il conflitto in Palestina sembra così realmente porsi quale elemento propulsore di guerra totale per la quale tutto è deciso tranne che una soluzione, a meno che non intervenga davvero un ordine superiore: ma se così fosse, non esisterebbe autorità sulla terra che possa scampare alla sua ira. In una lunga attesa incapace di attendere, nei confronti dell'*altro* di cui parla Derrida ogni porta viene chiusa, e il conflitto si estende ovunque interminabile.
 
-•
+## Riferimenti
 
 W. Dahmash - T. Di Francesco - P. Blasone (a cura di), *La terra più amata. Voci della letteratura palestinese*, manifesto libri, Roma 2002.
 
@@ -189,7 +189,7 @@ Jacques Derrida, *Spettri di Marx* (1993) Raffaello Cortina Editore, Milano 1994
 
 Jacques Derrida, *Stati Canaglia*, Raffaello Cortina Editore, Milano 2003.
 
-Paolo Di Motoli, Francesco Pallante, *Morire per Gerusalemme. Storia delle guerre per la Città Santa dagli inizi del Novecento ad oggi*, Datanews, Roma 2003.
+Paolo Di Motoli, Francesco Pallante, *Morire per Gerusalemme. Storia delle guerre per la Città Santa dagli inizi del Novecento ad oggi*, Datanews, Roma 2003.
 
 Antonio Donno, *Gli Stati Uniti, il sionismo e Israele (1938-1956)*, Bonacci Roma 1992.
 
@@ -199,11 +199,11 @@ Klaus Kienzler, *Fondamentalismi religiosi* (1996), Carocci, Roma 2003.
 
 Peter Partner, *Il Dio degli eserciti* (1997), Einaudi, Torino 2002.
 
-Judith Riemer -- Gustav Dreifuss, *Abramo: l'uomo e il simbolo* (1993), Giuntina, Firenze 1994.
+Judith Riemer - Gustav Dreifuss, *Abramo: l'uomo e il simbolo* (1993), Giuntina, Firenze 1994.
 
 Israel Shamir, *Carri armati e ulivi della Palestina*, Editrice C.R.T., Pistoia 2002.
 
-Gore Vidal, *Democrazia tradita*, (197-2004), Fasi Editore, Roma 2004.
+Gore Vidal, *Democrazia tradita*, (197-2004), Fazi Editore, Roma 2004.
 
 AAVV, *Israele e il libro*, «Limes» 10/2015.
 
@@ -242,7 +242,5 @@ Seumas Milne - Ian Black, *Le verità dei palestinesi*, «The Guardian», su «I
 [Emanuele Rossi, *Che cosa nascondono le reazioni alla mossa di Trump su Gerusalemme*, «Formiche» 09.12.2017](http://formiche.net/2017/12/09/gerusalemme-trump-israele-palestina/).
 
 [Mairav Zonszein - Aziz Abu Sarah, *Israel already controls Jerusalem. Trump's speech only confirmed that*, 7.12.2017.](https://www.washingtonpost.com/news/posteverything/wp/2017/12/07/israel-already-acts-like-it-controls-jerusalem-trumps-speech-wont-change-that/?utm_term=.402e19ff0619)
-
-•
 
 *Illustrazione: Old City of Jerusalem, Encyclopedia Britannica (1997)*
