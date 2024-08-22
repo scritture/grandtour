@@ -12,6 +12,7 @@ categories:
   - Cristianesimo
   - Islam
   - Istanbul
+  - Tuscolo
   - Byron
   - Flaubert
   - James Frazer
