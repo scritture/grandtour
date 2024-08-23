@@ -4,6 +4,7 @@ date: 2024-07-19
 title: "Aspettando l'infinito mare"
 categories:
   - poesia
+  - letteratura
   - Simone Consorti
 ---
 
