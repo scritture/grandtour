@@ -1,7 +1,7 @@
 ---
 author: Claudio Comandini
 date: '2020-08-16'
-title: "Il cane di San Rocco. L'inumano in noi"
+title: "San Rocco prima e dopo il Covid"
 categories:
   - filosofia
   - storia
@@ -17,7 +17,7 @@ categories:
 
 *Thacker e l'impensabilità del pianeta. Oltre l'umanesimo e il transumanesimo. Le vite estreme dei santi. San Rocco amico degli appestati nutrito dal cane. La problematica dello spillover e i nuovi patti di convivenza tra uomo e natura. Il superamento dell'animalismo quale soluzione parziale. Il culto di S. Rocco a Frascati e nel mondo.*
 
-L’orrore, come segnala Thacker, ha maggiormente a che fare con l’angoscia della vita piuttosto che con la paura della morte, laddove concerne i limiti del nostro esserci: in tale dimensione, a riguardarci non è più il mondo soggettivo né l’oggettività della terra, ma il *pianeta in quanto impensabile*. In tale dimensione, va considerato che l’attività dell’impatto biologico comportato dalle epidemie passa attraverso i *corpi individuali* e le reti di scambio che costituiscono il *corpo sociale*; ne consegue che un duplice apparato concettuale, costituito da una parte da malattie infettive dovute a cause naturali, e dall’altra da biodifese legate a cause artificiali, renda la vita biologica addirittura un’*arma contro se stessa*. Il compito diventa così quello di trovare ad una pestilenza inumana un contenimento umano. 
+L’orrore, come segnala il filosofo americano Eugene Thacker, ha maggiormente a che fare con l’angoscia della vita piuttosto che con la paura della morte, laddove concerne i limiti del nostro esserci: in tale dimensione, a riguardarci non è più il mondo soggettivo né l’oggettività della terra, ma il *pianeta in quanto impensabile*. In tale dimensione, va considerato che l’attività dell’impatto biologico comportato dalle epidemie passa attraverso i *corpi individuali* e le reti di scambio che costituiscono il *corpo sociale*; ne consegue che un duplice apparato concettuale, costituito da una parte da malattie infettive dovute a cause naturali, e dall’altra da biodifese legate a cause artificiali, renda la vita biologica addirittura un’*arma contro se stessa*. Il compito diventa così quello di trovare ad una pestilenza inumana un contenimento umano. 
 
 Tuttavia, la militarizzazione della salute pubblica che pravale nelle risposte dei governi e l’ansietà che si diffonde nelle popolazioni non sanno fornire risposte risolutive, e rimane insoluto l’intreccio di biologia e teologia tipica della loro concettualizzazione premoderna. Questa, basata sulle nozioni di contagio, corruzione e contaminazione, destituiva l’opposizione tra *interno* ed *esterno* a favore di quella tra *vita* e *oltrevita*, collocando la crucialità del *Pharmakos* in una pervasività del contagio configurata come *emanazione* del divino e quale sua *arma*, mentre parallelamente il sovrano terreno incaricato a contenere il contagio controllava la pervasività della popolazione in modi affini al divino: in qualche modo, tale modello è tuttora operativo tanto nelle credenze personali quanto nelle pratiche collettive, indipendentemente dalle fedi e dalla tecnologia di riferimento. Thacker sembra così suggerire che l’instabilità delle categorie biologiche e teologiche proprie al mondo antico e medievale torni a riproporsi in un contesto che, tra secolarizzazione compiuta, scientismi falliti, ritorno del religioso e insorgenze magiche, ne favorisce il loro reciproco sconfinamento, e tale intreccio concettuale è *utile all’umana comprensione proprio in quanto inumano*. 
 
