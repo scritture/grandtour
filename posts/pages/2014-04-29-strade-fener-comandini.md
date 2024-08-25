@@ -14,6 +14,7 @@ categories:
   - Istanbul
   - Grecia
   - Balcani
+  - Bessarione
   - Claudio Comandini
 ---
 
