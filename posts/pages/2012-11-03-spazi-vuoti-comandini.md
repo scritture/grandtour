@@ -9,10 +9,12 @@ categories:
   - letteratura
   - scienza
   - storia
+  - urbanistica
   - Cristianesimo
   - Islam
   - Istanbul
   - Tuscolo
+  - Famiglia Colonna
   - Byron
   - Flaubert
   - James Frazer
