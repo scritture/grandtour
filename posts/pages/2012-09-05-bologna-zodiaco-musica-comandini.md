@@ -9,6 +9,7 @@ categories:
   - scienza
   - storia
   - guerra
+  - 8 settembre
   - Bologna
   - Cicerone
   - Dante

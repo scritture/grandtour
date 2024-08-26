@@ -12,20 +12,15 @@ categories:
   - politica
   - società
   - guerra
+  - 8 settembre
   - Trieste
-  - Basovizza
-  - Fiume
   - Istria
-  - Dalmazia
   - Balcani
   - De Gasperi
   - Sergio Endrigo
-  - Claudio Magris
   - Pasolini
-  - Fulvio Tomizza
   - Giacomo Scotti
-  - Scipio Slataper
-  - Italo Svevo
+  - Claudio Magris
   - Claudio Comandini
 ---
 
