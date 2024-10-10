@@ -71,7 +71,7 @@ Già pochi giorni dopo l'11 settembre le autorità americane stavano indagando �
 
 Diverse testimonianze hanno rilevato l'enorme incremento di vendita di strumenti finanziari derivati, nella specifico di quei *contratti* *future* chiamati *put options*.[^11] La Financial Services Authority londinese riscontra che regolatori di mercato in Germania, Giappone e USA avevano ricevuto informazioni relative alla vendita di numerosi contratti di questo tipo, relativi a titoli di compagnie assicurative, aeree e produttrici di armi, crollati in seguito agli attacchi dell'11 settembre contro il WTC. Richard Crossley, analista e mediatore della City di Londra, ha notato una vendita di azioni in quantità insolitamente elevate a partire da tre settimane prima.[^12]
 
-[^11]:  [D](http://911research.wtc7.net/cache/sept11/cjonline_oddjump.html)[ave Carpenter, *Exchange examines odd jump*, «Topeka Capital-Journal» 18.09.2001; *Who Bet the 9/11 Markets? «*The Blacklisted Journalist» 1.09.2004.](http://911research.wtc7.net/cache/sept11/cjonline_oddjump.html)
+[^11]: [Dave Carpenter, *Exchange examines odd jump*, «Topeka Capital-Journal» 18.09.2001; *Who Bet the 9/11 Markets? «*The Blacklisted Journalist» 1.09.2004.](http://911research.wtc7.net/cache/sept11/cjonline_oddjump.html)
 
 [^12]: [Mark H. Gaffney, *Black 9/11: A Walk on the Dark Side***, «**Foreign Policy Journal» 2.03.2011.](http://www.foreignpolicyjournal.com/2011/03/02/black-911-a-walk-on-the-dark-side-2/)
 
@@ -259,7 +259,7 @@ La Faysal Islamic Bank del Baharein e la Kuwait Finale Haouse del Kuwait, second
 
 [^69]: «The Washington Post» 29.09.2001; «The Financial Times» 29.11.2001.
 
-[^70]:  «U.S. News» 8.10.2001.1
+[^70]: «U.S. News» 8.10.2001.1
 
 Questo reticolo di relazioni che faceva perno su Bin Laden continua a sussistere a svilupparsi, relativizzando così il suo coinvolgimento negli attentati. Le lunghe e tortuose ramificazioni dell'11 settembre, oltrepassano anche il ruolo dei Talebani nell'Afghanistan del 1979, e non finiscono con l'esecuzione compiuta dalla CIA di Bin Laden in Pakistan del 2011, rendendo plausibile, come ha affermato Jared Israel, che la *«guerra infinita»* sia una *«infinita impostura»*,[^71] un gioco perverso di potere, denaro e morte, nel quale l'amministrazione Bush ha una quantomeno un responsabilità indiretta per aver impedito indagini di approfondimento sull'ISI,[^72] probabilmente per l'enorme importanza tattica dell'alleato pachistano.[^73] Ma la tattica è anche più sottile, laddove, come suggerisce Steve Butler, veterano dell'aeronautica statunitense, Bush sapeva sia degli attacchi contro l'America, sia di quando sarebbero avvenuti, e li lasciò accadere proprio per procedere con la *«guerra contro il terrorismo»* già ampiamente pianificata.[^74]
 

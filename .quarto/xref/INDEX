@@ -1549,7 +1549,9 @@
     "2023-05-25-ironia-sorte-comandini-palomba.html": "09ed020a"
   },
   "posts/pages/2024-08-16-frascati-san-rocco-storia-comandini.md": {
-    "2024-08-16-frascati-san-rocco-storia-comandini.html": "947351d1"
+    "2024-08-16-frascati-san-rocco-storia-comandini.html": "947351d1",
+    "2024-08-16-frascati-san-rocco-storia-comandini.tex": "ee9ecc78",
+    "2024-08-16-frascati-san-rocco-storia-comandini.epub": "75c9ff77"
   },
   "posts/pages/2020-08-16-coronavirus-pandemia-san-rocco-comandini.md": {
     "2020-08-16-coronavirus-pandemia-san-rocco-comandini.html": "65eb2918"
@@ -1559,5 +1561,8 @@
   },
   "posts/pages/2020-07-15-pandemia-coronavirus-comandini-polli.md": {
     "2020-07-15-pandemia-coronavirus-comandini-polli.html": "a158b581"
+  },
+  "posts/pages/2021-09-15-coronavirus-pandemia-comandini-capone.md": {
+    "2021-09-15-coronavirus-pandemia-comandini-capone.html": "52a91936"
   }
 }

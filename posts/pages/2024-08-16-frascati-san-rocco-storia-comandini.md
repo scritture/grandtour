@@ -1,17 +1,32 @@
 ---
-author: Claudio Comandini
-date: 2024-08-16
-title: Intorno al campanile di San Rocco
-categories:
-  - storia
-  - arte
-  - urbanistica
-  - Frascati
-  - Tuscolo
-  - Cicerone
-  - Bessarione
-  - Famiglia Colonna
-  - Claudio Comandini
+project:
+  type: book
+book:
+  title: Intorno al campanile di San Rocco"
+  author: "Claudio Comandini"
+  date: 2024-08-16
+format:
+  html:
+    title: Intorno al campanile di San Rocco"
+    author: "Claudio Comandini"
+    date: 2024-08-16
+    categories:
+      - storia
+      - arte
+      - urbanistica
+      - Frascati
+      - Tuscolo
+      - Cicerone
+      - Bessarione
+      - Famiglia Colonna
+      - Claudio Comandini
+  pdf:
+    title: Intorno al campanile di San Rocco"
+    author: "Claudio Comandini"
+    date: 2024-08-16
+    abstract: "Questo è un articolo di prova"
+  epub:
+    cover-image: "images/1. Campanile S. Rocco Porta Capestrano .jpg"
 ---
 
 ![*Campanile di S. Rocco e Porta Caperchiano, 1850 ca.*](images/1. Campanile S. Rocco Porta Capestrano .jpg){fig-align="center"}
@@ -22,13 +37,13 @@ categories:
 
 La chiesa di S. Maria in *«locus qui vocatur Frascata»* è ancora oggi sulla piazza che porta il nome di S. Rocco, un po’ spostata sulla destra di chi guarda rispetto alla fontana e alla Rocca. La sua prima menzione documentale compare sul Liber Pontificalis nell’876, insieme alle chiese di S. Sebastiano, in seguito anche ospedale e quindi cimitero, non più esistente dagli anni cinquanta del novecento, che costeggiando il tratto urbano della Via Tuscolana era sul sito dell’attuale scuola media (ora presso Via Domenico Seghetti), e di S. Vincenzo, la cui collocazione è ipotizzabile dove venne eretta la chiesa delle Scuole Pie, nella parte alta del tracciato urbano superiore della via Tuscolana (lungo l'attuale Corso Italia). Nonostante alcune inevitabili incertezze, per cui S. Maria e S. Sebastiano potrebbero scambiarsi di posto e S. Vincenzo non ha effettivamente lasciato traccia alcuna, questa è la ripartizione più plausibile. L’ultimo quarto dell’800 è caratterizzato dalla dissoluzione dell’impero carolingio, diviso in tre tronconi dei quali l’Italia settentrionale e centrale occupano la parte più bassa di quello mediano, detto Lotaringia, il quale a livello territoriale risulta particolarmente instabile. La penisola è soggetta a numerose incursioni saracene, il ruolo universale di Roma è minato dai conflitti con Bisanzio su questioni teologiche e da quelli con la Germania sul ruolo imperiale nell’elezione del pontefice. La parcellizzazione dei feudi porta nel 901 all’affermazione a Roma di Teofilatto, “*iudex dativus*”, intendente di finanza con poteri militari, capostipite della [potente casata tuscolana](https://grandtour.shop/posts/pages/2012-05-10-possedimenti-memorie-tuscolo-comandini.html). A ciò si accompagna il fenomeno dell*'incastellamento*, che concentra gli abitati nei fortilizi più elevati.
 
-Durante il lungo periodo segnato dall’influenza tuscolana, Frascati non riceve nessuna menzione sui documenti, e torna successivamente alla distruzione della città di Tuscolo con la denominazione di *castrum* nelle bolle di Innocenzo III dei Conti di Segni (1200), Gregorio IX dei Conti di Segni (1228) e Innocenzo IV dei Conti di Lavagna (1244) come S. Maria «*in Frascata*», località indicata quale fondo destinato ad uliveto; il nome deriva dalla presenza di "*frasche*" e legna da ardere e, vista la data della prima menzione, non hanno alcun senso le popolari attribuzioni relative alla copertura delle rovine con tali frasche da parte degli scampati da Tuscolo. Piuttosto, quanto va rimarcato è come i tre poteri il cui compromesso si è basato sulla [distruzione dell’antica città](https://grandtour.shop/posts/pages/2016-09-07-8-settembre-frascati-tuscolo-comandini.html) si spartiscono il bottino: a Roma si consolida il Comune, l’impero domina anche nel meridione, il papato rilancia ogni sua prerogativa. Nel territorio della Campagna Romana si accrescono i centri che derivano dalla dispersione dell’immenso feudo tuscolano, del quale i Castelli romani sono soltanto una parte e dei quali Frascati è il più noto e centrale, tanto per la prossimità a Roma quanto per il ruolo nei traffici locali e verso il meridione. La storia fa comprendere quanto la località sia sempre stata terreno di battaglia tra poteri diversi; il presente ricorda quanto oggi essa necessiti di un rilancio complessivo.
+Durante il lungo periodo segnato dall’influenza tuscolana, Frascati non riceve nessuna menzione sui documenti, e torna successivamente alla distruzione della città di Tuscolo con la denominazione di *castrum* nelle bolle di Innocenzo III dei Conti di Segni (1200), Gregorio IX dei Conti di Segni (1228) e Innocenzo IV dei Conti di Lavagna (1244) come S. Maria «*in Frascata*», località indicata quale fondo destinato ad uliveto; il nome deriva dalla presenza di "*frasche*" e legna da ardere e, vista la data della prima menzione, non hanno alcun senso le popolari attribuzioni relative alla copertura delle rovine con tali frasche da parte degli scampati da Tuscolo. Piuttosto, quanto va rimarcato è come i tre poteri il cui compromesso si è basato sulla [distruzione dell’antica città](https://grandtour.shop/posts/pages/2016-09-07-8-settembre-frascati-tuscolo-comandini.html) si spartiscono il bottino: a Roma si consolida il Comune, l’impero domina anche nel meridione, il papato rilancia ogni sua prerogativa. Nel territorio della Campagna Romana si accrescono i centri che derivano dalla dispersione dell’immenso feudo tuscolano, del quale i Castelli romani sono soltanto una parte e dei quali Frascati è il più noto e centrale, tanto per la prossimità a Roma quanto per il ruolo nei traffici locali e verso il meridione. La storia fa comprendere quanto la località sia sempre stata terreno di battaglia tra poteri diversi; il presente ricorda quanto necessiti di ricordarsi di sé.
 
 ![*Osteria del Dindolo al Matone, ca. 1980*](images/2. matone.jpg){fig-align="center"}
 
 In un periodo in cui Tuscolo era ancora esistente, viene citata nei documenti la piazza più antica di Frascati, piuttosto piccola e nascosta, non distante dalla chiesa di Santa Maria in Vivario: la piazza del Matone, sulla quale si affaccia un lavatoio pubblico chiuso all’utenza dal 1983. Infatti, una Bolla del 1116 emanata dal pontefice Pasquale II Raineri di Bleda menziona l’area del Matone. Il nome deriva dal colle su cui la piazzetta poggia, e appartiene all’[Abbazia Greca di Grottaferrata](https://grandtour.shop/posts/pages/2016-12-31-momenti-fine-comandini.html#parus%C3%ACa-unica-via); laddove il documento è reputato di dubbia autenticità, risale al 1465, probabile anno di realizzazione del lavatoio, il Regesto stilato dal cardinal [Bessarione](https://grandtour.shop/posts/pages/2014-04-29-strade-fener-comandini.html#partire), che ne conferma nome e attribuzione, questa comunque da tempo decaduta.
 
-Bessarione, esule di una Bisanzio ormai conquistata dai Turchi, è il primo egumeno dell’Abbazia ed è inoltre vescovo della diocesi suburbicaria, che in pratica significa extraurbana, denominata Labico Quintanense, che ha ricevuto già diverse sedi, tra le quali Tuscolo e, dopo la distruzione dell'antica città, Santa Maria in Monasterio sull'Esquilino presso la Domus Aurea. Il coltissimo cardinale, esponente del neoplatonismo, esercita le sue cariche mentre è pontefice l'altrettanto erudito Pio II Piccolomini, ad un tempo il primo a interessarsi alle rovine di Tuscolo e il primo a dotare Frascati di un impianto urbano, stilato sul modello della città ideale già realizzato a Pienza. Il nucleo del Matone, dove occupa l'area in cui le antiche mura si risolvono nella cortina delle case, risulta limitrofo al tratto della via Tuscolana che lo lambisce dall’attuale Via Ludovico Micara, oltrepassando le Scalette di Porta Granara, nell’epoca che ci interessa soltanto una salita in terra piuttosto ripida; dalla parte opposta rispetto al Matone, si sviluppano i rioni che compongono quello che chiamiamo quartiere di S. Rocco e che nel dettaglio risulta piuttosto differenziato nelle parti.
+Bessarione, esule di una Bisanzio ormai conquistata dai Turchi, è il primo egumeno dell’Abbazia ed è inoltre vescovo della diocesi suburbicaria, che in pratica significa extraurbana, denominata Labico Quintanense, che ha ricevuto già diverse sedi, tra le quali Tuscolo e, dopo la distruzione dell'antica città, Santa Maria in Monasterio sull'Esquilino presso la Domus Aurea. Il coltissimo cardinale, esponente del neoplatonismo, esercita le sue cariche mentre è pontefice l'altrettanto erudito Pio II Piccolomini, ad un tempo il primo a interessarsi alle rovine di Tuscolo e il primo a dotare Frascati di un impianto urbano, stilato sul modello della città ideale già realizzato a Pienza. Il nucleo del Matone, dove occupa l'area in cui le antiche mura si risolvono nella cortina delle case, risulta limitrofo al tratto della via Tuscolana che lo lambisce dall’attuale Via Ludovico Micara, oltrepassando le Scalette di Porta Granara, nell’epoca che ci interessa soltanto una salita in terra piuttosto ripida, che confluisce su uno degli estremi del castrum (attuale via XX Settembre); dalla parte opposta rispetto al Matone, si sviluppano i rioni che compongono quello che chiamiamo quartiere di S. Rocco e che nel dettaglio risulta piuttosto differenziato nelle parti.
 
 Il nome *vivarium* della chiesa deriva dalla vasca per la coltura dei pesci della villa appartenuta al senatore Passieno Crispo e a sua moglie Agrippina e infine a suo figlio Nerone, alimentata a suo tempo da una sorgente probabilmente locata fuori porta presso l’attuale Chiesa del Gesù, allora non esistente. Nei tempi antichi lo sviluppo della villa e quindi della località segue per terrazzamenti successivi la caduta delle acque, che trovano il loro punto di raccolta presso l’attuale villa Campitelli nella cisterna di Galba, peraltro successore di Nerone dopo il periodo dell’anarchia militare. Presso la zona di *Bagnara* (in via Luciano Manara, anticamente via di Sanguineto), non lontano da un ninfeo romano scoperto nel 1854 ed erroneamente attribuito a Lucullo dalla tipica fantasia popolare dei luoghi, venne ritrovata una fistola, cioè una conduttura in piombo per l’acqua, con il nome di Agrippina (custodita presso l’Orto Botanico di Roma).
 
