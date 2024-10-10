@@ -1,7 +1,7 @@
 ---
 author: Maria Pia Santangeli
 date: 2024-09-15 
-title: "I folletti dei Castelli Romani: il lénghelo e gli altri"
+title: 'I folletti dei Castelli Romani: il lénghelo e gli altri'
 categories:
   - storia
   - folklore
