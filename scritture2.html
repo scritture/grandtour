@@ -1,0 +1,121 @@
+<html><head>
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light"></head><body>```{=html}
+<div class="container">
+  <div class="row">
+    &lt;% if (documents.length &gt; 0) { %&gt;
+      <!-- Primo articolo al centro su 6 colonne -->
+      <div class="col-12 col-md-6 offset-md-3 mb-4">
+        <div class="card">
+          <img src="<%- documents[0].image %>" class="card-img-top" alt="<%= documents[0].title %>">
+          <div class="card-body">
+            <h5 class="card-title">&lt;%= documents[0].title %&gt;</h5>
+            <p class="card-text">&lt;%= documents[0].description %&gt;</p>
+            <a href="<%- documents[0].path %>" class="btn btn-primary">Leggi di più</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Articoli successivi ai lati su 3 colonne ciascuno -->
+      &lt;% for (var i = 1; i &lt; Math.min(documents.length, 5); i++) { %&gt;
+        <div class="col-12 col-md-3 mb-4">
+          <div class="card">
+            <img src="<%- documents[i].image %>" class="card-img-top" alt="<%= documents[i].title %>">
+            <div class="card-body">
+              <h5 class="card-title">&lt;%= documents[i].title %&gt;</h5>
+              <p class="card-text">&lt;%= documents[i].description %&gt;</p>
+              <a href="<%- documents[i].path %>" class="btn btn-primary">Leggi di più</a>
+            </div>
+          </div>
+        </div>
+      &lt;% } %&gt;
+    &lt;% } %&gt;
+  </div>
+
+  <!-- Articoli di Claudio Comandini -->
+  <div class="row">
+    &lt;% const claudioDocs = documents.filter(doc =&gt; doc.author === "Claudio Comandini").slice(0, 3); %&gt;
+    &lt;% claudioDocs.forEach(function(doc) { %&gt;
+      <div class="col-12 col-md-4 mb-4">
+        <div class="card">
+          <img src="<%- doc.image %>" class="card-img-top" alt="<%= doc.title %>">
+          <div class="card-body">
+            <h5 class="card-title">&lt;%= doc.title %&gt;</h5>
+            <p class="card-text">&lt;%= doc.description %&gt;</p>
+            <a href="<%- doc.path %>" class="btn btn-primary">Leggi di più</a>
+          </div>
+        </div>
+      </div>
+    &lt;% }); %&gt;
+  </div>
+
+  <!-- Altri articoli -->
+  <div class="row">
+    &lt;% const remainingDocs = documents.slice(5, 25); %&gt;
+    &lt;% remainingDocs.forEach(function(doc) { %&gt;
+      <div class="col-12 mb-4">
+        <div class="card">
+          <img src="<%- doc.image %>" class="card-img-top" alt="<%= doc.title %>">
+          <div class="card-body">
+            <h5 class="card-title">&lt;%= doc.title %&gt;</h5>
+            <p class="card-text">&lt;%= doc.description %&gt;</p>
+            <a href="<%- doc.path %>" class="btn btn-primary">Leggi di più</a>
+          </div>
+        </div>
+      </div>
+    &lt;% }); %&gt;
+  </div>
+
+  <!-- Paginazione -->
+  <div class="row">
+    <div class="col-12">
+      <nav aria-label="Page navigation">
+        <ul class="pagination justify-content-center">
+          &lt;% if (pagination.previous) { %&gt;
+            <li class="page-item">
+              <a class="page-link" href="<%- pagination.previous.path %>" aria-label="Previous">
+                <span aria-hidden="true">«</span>
+              </a>
+            </li>
+          &lt;% } %&gt;
+          &lt;% pagination.pages.forEach(function(page) { %&gt;
+            <li class="page-item <%= page.current ? 'active' : '' %>">
+              <a class="page-link" href="<%- page.path %>">&lt;%= page.number %&gt;</a>
+            </li>
+          &lt;% }); %&gt;
+          &lt;% if (pagination.next) { %&gt;
+            <li class="page-item">
+              <a class="page-link" href="<%- pagination.next.path %>" aria-label="Next">
+                <span aria-hidden="true">»</span>
+              </a>
+            </li>
+          &lt;% } %&gt;
+        </ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+<style>
+  .container {
+    margin-top: 20px;
+  }
+</style>
+```
+<div class="quarto-listing quarto-listing-container-grid" id="listing-primo"></div><div class="quarto-listing quarto-listing-container-grid" id="listing-politica"></div><div class="quarto-listing quarto-listing-container-grid" id="listing-claudio"></div><div class="quarto-listing quarto-listing-container-default" id="listing-tutti"></div></body></html>
