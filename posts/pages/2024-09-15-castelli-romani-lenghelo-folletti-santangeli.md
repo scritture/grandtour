@@ -78,7 +78,7 @@ Per evitare l’*ìndico*, e probabilmente anche *u limbu* e *u léngheru* di Ge
 
 Eppure, in una breve storia velletrana, l’*ìndico*, abitualmente greve, opprimente, diventa agilissimo e leggero, capace di cavalcare i soffi del vento: “Una famiglia di Velletri da tempo subiva gli scherzi, le piccole cattiverie di un *ìndico*, che si era stabilito in casa. Era diventato tanto insopportabile che il capofamiglia, d’accordo con la moglie, decise di cambiare abitazione. Ma era indispensabile farlo di nascosto, altrimenti l’*ìndico* li avrebbe seguiti. Così una mattina, in fretta, caricarono le poche masserizie su un carretto e si prepararono ad andarsene senza salutare nessuno. Però, nel momento in cui, chiusa la porta, stavano salendo sul carretto, una vicina curiosa chiese il motivo di questa improvvisa partenza. La moglie glielo disse più volte sottovoce, ma la vicina era sorda e, non riuscendo a comprendere, insisteva nelle domande. Allora la donna, che voleva andarsene al più presto, alzò la voce. A questo punto dal campanile della chiesa di fronte si udirono due tocchi di campana: era l'*ìndico* che attaccato al batacchio disse forte: «*Traslochemo, commà, cambiemo casa!*».”
 
-![](images/Copertina Lister-01.jpg){fig-align="center"}
+![](images/Copertina%20Lister-01.jpg){fig-align="center"}
 
 Tratto da: Roma Lister, *Leggende classiche e superstizioni dei Castelli Romani,* a cura di Stefano Paolucci, con contributi di Maria Pia Santangeli e Ugo Onorati, pp. 56-67, Passamonti 2024 (già su Maria Pia Santangeli, *Streghe, spiriti e folletti. L'immaginario popolare nei Castelli Romani e non solo*, Edilazio 2013).
 

@@ -2,12 +2,12 @@
 project:
   type: book
 book:
-  title: Intorno al campanile di San Rocco"
+  title: "Intorno al campanile di San Rocco"
   author: "Claudio Comandini"
   date: 2024-08-16
 format:
   html:
-    title: Intorno al campanile di San Rocco"
+    title: "Intorno al campanile di San Rocco"
     author: "Claudio Comandini"
     date: 2024-08-16
     categories:
@@ -20,13 +20,13 @@ format:
       - Bessarione
       - Famiglia Colonna
       - Claudio Comandini
-  pdf:
-    title: Intorno al campanile di San Rocco"
-    author: "Claudio Comandini"
-    date: 2024-08-16
-    abstract: "Questo è un articolo di prova"
-  epub:
-    cover-image: "images/1. Campanile S. Rocco Porta Capestrano .jpg"
+#  pdf:
+#    title: Intorno al campanile di San Rocco"
+#    author: "Claudio Comandini"
+#    date: 2024-08-16
+#    abstract: "Questo è un articolo di prova"
+#  epub:
+#    cover-image: "images/1. Campanile S. Rocco Porta Capestrano .jpg"
 ---
 
 ![*Campanile di S. Rocco e Porta Caperchiano, 1850 ca.*](images/1. Campanile S. Rocco Porta Capestrano .jpg){fig-align="center"}
