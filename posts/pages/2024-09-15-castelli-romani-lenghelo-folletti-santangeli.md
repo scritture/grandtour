@@ -4,7 +4,7 @@ date: 2024-09-15
 title: 'I folletti dei Castelli Romani: il lenghélo e gli altri'
 categories:
   - storia
-  - folklore
+  - folclore
   - società
   - Tuscolo
   - Maria Pia Santangeli
@@ -12,7 +12,7 @@ categories:
 
 ![](images/Nightmare_Fussli-01.jpeg){fig-align="center"}
 
-*Piccolo inventario degli spiritelli più adusi ai Castelli Romani.*
+*Piccolo inventario degli spiritelli più adusi alla frequentazione delle località dei Castelli Romani.*
 
 I folletti sono di casa in tutta Italia: capricciosi, bizzarri e inafferrabili zampillano qua e là sulla carta geografica con caratteri simili e diversi al tempo stesso, che si mescolano e si intrecciano da un paese all’altro, da una regione all’altra, che a volte scompaiono e a volte riaffiorano, come seguendo un ritmo musicale: a Trieste troviamo il *cinciùt* che pesa sul petto dei dormienti, proprio come il *laùro* di Taranto, lo *scicuddi* di Galatina e il *bafardèllo* della Garfagnana che però diventa anche aereo e, abitando i vortici del vento, crea mulinelli di foglie; c’è il *mazzimarièglie* di Canzano, in provincia di Teramo, che, mazza in mano, sta a guardia di un tesoro, come i *monachicchi* lucani descritti da Carlo Levi, che conoscono i luoghi dei tesori ma non li rivelano. E tanti, tanti altri, a volerli solo nominare, in una lunga fila vivace, movimentata, di saltelli, burle, fughe, di improvvise apparizioni e sparizioni. Il mondo dei folletti è un mondo musicale, danzante.
 
@@ -44,9 +44,9 @@ Nel passato si è favoleggiato anche di una pentola di monete d’oro che *u lé
 
 Un parente del *lénghelo* albanense è di casa ad Ariccia: qui si chiama *’o lengheretto*, con una erre in mezzo, a cui gli ariccini tengono molto. Mario Leoni nel suo libro sul dialetto di Ariccia, nella parte dedicata al vocabolario, lo definisce così: «*Spiritello benigno con sembianze di bambino che, in altri tempi, si aggirava per la casa facendo dispetti*».
 
-*’O lengheretto* viene infatti ricordato simile a un bambino che appare e scompare, con in testa un cappelletto rosso a punta. Nel passato qualche donna lo vedeva nella sua cucina trafficare con le pentole, ma non ne aveva paura, anzi diceva che le faceva compagnia. La notte però *’o lengheretto* diventava fastidioso a causa di questa sua pas- sione per le pentole e per i rumori metallici in genere: si divertiva a fare chiasso sbattendo tegami e coperchi nelle camere da letto, e così, di colpo, spezzava il sonno a tutti gli abitanti della casa che, maledicendolo, tentavano invano di riaddormentarsi. Oppure *’o lengheretto* saltava sulla pancia dei dormienti o sul letto che *tretticheva*, *tretticheva* (ballonzolava), non facendo ugualmente dormire.
+*’O lengheretto* viene infatti ricordato simile a un bambino che appare e scompare, con in testa un cappelletto rosso a punta. Nel passato qualche donna lo vedeva nella sua cucina trafficare con le pentole, ma non ne aveva paura, anzi diceva che le faceva compagnia. La notte però *’o lengheretto* diventava fastidioso a causa di questa sua passione per le pentole e per i rumori metallici in genere: si divertiva a fare chiasso sbattendo tegami e coperchi nelle camere da letto, e così, di colpo, spezzava il sonno a tutti gli abitanti della casa che, maledicendolo, tentavano invano di riaddormentarsi. Oppure *’o lengheretto* saltava sulla pancia dei dormienti o sul letto che *tretticheva*, *tretticheva* (ballonzolava), non facendo ugualmente dormire.
 
-Tuttavia, per non smentire il carattere tipico dei follet- ti che a volte sono benevoli e generosi con chi gli è simpatico – non volendo però che questa loro generosità venga rivelata – si racconta che un *lengheretto* abbia beneficato a lungo un calzolaio, facendogli trovare ogni giorno qualche lira in più nel cassetto dove riponeva il suo misero guadagno quotidiano.
+Tuttavia, per non smentire il carattere tipico dei folletti che a volte sono benevoli e generosi con chi gli è simpatico – non volendo però che questa loro generosità venga rivelata – si racconta che un *lengheretto* abbia beneficato a lungo un calzolaio, facendogli trovare ogni giorno qualche lira in più nel cassetto dove riponeva il suo misero guadagno quotidiano.
 
 Il calzolaio, grato al folletto, sapendo bene che non doveva confidare a nessuno quello che succedeva in casa, tenne la bocca chiusa per parecchio tempo, ma poi, non resistendo più a lungo, lo disse con un fil di voce nell’orecchio della moglie, la moglie nell’orecchio di una vicina, la vicina nell’orecchio di un’altra. Tutti sottovoce e in gran segreto, ma non abbastanza da non farsi ascoltare dal folletto. Così *’o lengheretto* si indispettì e non moltiplicò più le lire. E ancora oggi viene indicata la casa dove avvenne il fatto.
 
