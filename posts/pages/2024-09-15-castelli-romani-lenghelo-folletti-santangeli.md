@@ -84,6 +84,6 @@ Eppure, in una breve storia velletrana, l’*ìndico*, abitualmente greve, oppri
 
 ![](images/Copertina%20Lister-01.jpg){fig-align="center"}
 
-Tratto da: Roma Lister, *Leggende classiche e superstizioni dei Castelli Romani,* a cura di Stefano Paolucci, con contributi di Maria Pia Santangeli e Ugo Onorati, pp. 56-67, Passamonti 2024 (già su Maria Pia Santangeli, *Streghe, spiriti e folletti. L'immaginario popolare nei Castelli Romani e non solo*, Edilazio 2013).
+Tratto da: Roma Lister, *Leggende classiche e superstizioni dei Castelli Romani,* a cura di Stefano Paolucci, con contributi di Maria Pia Santangeli e Ugo Onorati, pp. 56-67, Passamonti 2024 (già su Maria Pia Santangeli, *Streghe, spiriti e folletti. L'immaginario popolare nei Castelli Romani e non solo*, Edilazio 2013 - esaurito).
 
 Illustrazioni: Johann Heinrich Füssli, *The Nightmare* (olio su tela, m 1,02 x 1,27), 1781; Thomas Rowlandson, *The Covent Garden Nightmare* (stampa), 1784; Thomas, Burke (incisione), *The Nightmare*, 1783.
