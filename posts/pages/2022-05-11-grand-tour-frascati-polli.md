@@ -12,9 +12,9 @@ categories:
 
 ![](images/fuori1-01.JPG){fig-align="center"}
 
-*Grand Tour, Frascati: Una nuova libreria per un sogno antico.*
+*Grand Tour, Frascati. Una nuova libreria per un sogno antico.*
 
-Per iniziativa dello scrittore Claudio Comandini, a Frascati sta finalmente per aprire i battenti un nuovo spazio multiculturale, il Grand Tour BookWineBar dove, attraverso l’offerta enogastronomica che creerà la convivialità e lo scambio di idee e informazioni, si punterà a fare aggregazione culturale e a parlare di filosofia, provando magari a dimensionare, senza perdersi, il senso della vita. Il Grand Tour, che si trova in pieno centro storico, in Largo Duca di York 8, a due passi dal palazzo vescovile, è un piccolo spazio che si propone già quale tappa immancabile dei visitatori di Frascati.
+Per iniziativa dello scrittore Claudio Comandini, a Frascati sta finalmente per aprire i battenti un nuovo spazio multiculturale, il Grand Tour BookWineBar dove, attraverso l’offerta enogastronomica che creerà la convivialità e lo scambio di idee e informazioni sollecitato da libri e iniziative, si punterà a fare aggregazione culturale e a parlare di filosofia, provando magari a dimensionare, senza perdersi troppo, il senso della vita. Il Grand Tour, che si trova in pieno centro storico, in Largo Duca di York 8, a due passi dal palazzo vescovile, è un piccolo spazio che si propone già quale tappa immancabile dei visitatori di Frascati.
 
 È una libreria dove scovare, tra mille volumi, rarità editoriali e modernariato librario, è un circolo culturale, una vecchia osteria, un punto di riferimento per chi vuole acquistare oggetti d’arte, *mirabilia*, vecchie cartoline, pubblicazioni storiche, collezioni di fumetti, oggetti vintage e vestiti di seconda mano. Per chi vuole organizzare *reading* letterari nella suggestione della grotta sottostante, incontri culturali, dirette social o semplicemente stare in compagnia ritrovando il gusto della discussione politica o dissacrante.
 
