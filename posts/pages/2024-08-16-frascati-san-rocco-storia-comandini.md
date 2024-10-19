@@ -131,6 +131,8 @@ Domenico Barnaba Mattei, *Memorie istoriche dell'antico Tuscolo, oggi Frascati* 
 
 Antonio Nibby, *Analisi storico topografica antiquaria della carta de' dintorni di Roma* - 3 voll. \[1837\], Tipografia delle Belle Arti 1849 \[seconda edizione\].
 
+Ferdinand Gregorovius, *Storia della città di Roma nel medioevo* \[1873\], Einaudi 1973.
+
 Domenico Seghetti, *Frascati nella natura, nella storia, nell'arte* \[1906\], Atesa 1986 \[ristampa anastatica\].
 
 Giuseppe Tomassetti, *La Campagna romana* - 3 voll.*,* Loescher 1910.
