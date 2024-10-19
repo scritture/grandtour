@@ -125,4 +125,32 @@ La zona, la cui rinascita è dovuta al lavoro delle attività lì presenti, che 
 
 ![*Grand Tour BookWineBar a Largo Duca di York, 2024*](images/fuori1.JPG){fig-align="center"}
 
+## Percorsi (in ordine cronologico)
+
+Domenico Barnaba Mattei, *Memorie istoriche dell'antico Tuscolo, oggi Frascati* \[1711\], Forni 1979 \[ristampa anastatica\].
+
+Antonio Nibby, *Analisi storico topografica antiquaria della carta de' dintorni di Roma* - 3 voll., Tipografia delle Belle Arti 1849 \[seconda edizione\].
+
+Giuseppe Tomassetti, *La Campagna romana* - 3 voll.*,* Loescher 1910.
+
+Domenico Seghetti, *Frascati nella natura, nella storia, nell'arte* \[1906\], Atesa 1986 \[ristampa anastatica\].
+
+Prospero Colonna, *I Colonna dalle origini all'inizio del secolo XIX*, Stabilimenti Poligrafici Alterocca-Terni 1927.
+
+Vincenzo Celletti, *I Colonna principi di Paliano*, Ceschina 1960.
+
+Evaristo Dandini, *Frascati nelle sue strade* \[1962\], Cavour Libri 2016 \[aggiornato ai nuovi toponimi\].
+
+Leonello Razza, *S. Maria in Vivario. Vicende storiche dell'antica cattedrale di Frascati*, Ed. Vivarium 1975.
+
+Romano Mergé, *Frascati sconosciuta*, Associazione Tuscolana «Amici di Frascati» 1983.
+
+Romano Mergé, *Frascati nella realtà documentata* - vol. I, Associazione Tuscolana «Amici di Frascati» 1988.
+
+Romano Mergé, *Frascati nella realtà documentata* - vol. II, Associazione Tuscolana «Amici di Frascati» 1989.
+
+Paolo Mascherucci, *La diocesi suburbicaria di Frascati e i suoi cardinali vescovi*, Associazione Tuscolana «Amici di Frascati» 1991.
+
+R. Del Nero, M. B. Guerrieri Borsoi, I. Salvagni, C. Baldoni-L. Cemoli, L*'urbanizzazione della città di Frascati dal I sec. ad oggi*, Associazione Tuscolana «Amici di Frascati» 2011.
+
 *Pubblicato in forma breve su «il Tuscolo» #211, 15.12.2018. Riveduto e ampliato.*
