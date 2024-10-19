@@ -131,9 +131,9 @@ Domenico Barnaba Mattei, *Memorie istoriche dell'antico Tuscolo, oggi Frascati* 
 
 Antonio Nibby, *Analisi storico topografica antiquaria della carta de' dintorni di Roma* - 3 voll., Tipografia delle Belle Arti 1849 \[seconda edizione\].
 
-Giuseppe Tomassetti, *La Campagna romana* - 3 voll.*,* Loescher 1910.
-
 Domenico Seghetti, *Frascati nella natura, nella storia, nell'arte* \[1906\], Atesa 1986 \[ristampa anastatica\].
+
+Giuseppe Tomassetti, *La Campagna romana* - 3 voll.*,* Loescher 1910.
 
 Prospero Colonna, *I Colonna dalle origini all'inizio del secolo XIX*, Stabilimenti Poligrafici Alterocca-Terni 1927.
 
