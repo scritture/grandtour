@@ -129,7 +129,7 @@ La zona, la cui rinascita è dovuta al lavoro delle attività lì presenti, che 
 
 Domenico Barnaba Mattei, *Memorie istoriche dell'antico Tuscolo, oggi Frascati* \[1711\], Forni 1979 \[ristampa anastatica\].
 
-Antonio Nibby, *Analisi storico topografica antiquaria della carta de' dintorni di Roma* - 3 voll., Tipografia delle Belle Arti 1849 \[seconda edizione\].
+Antonio Nibby, *Analisi storico topografica antiquaria della carta de' dintorni di Roma* - 3 voll. \[1837\], Tipografia delle Belle Arti 1849 \[seconda edizione\].
 
 Domenico Seghetti, *Frascati nella natura, nella storia, nell'arte* \[1906\], Atesa 1986 \[ristampa anastatica\].
 
