@@ -45,7 +45,7 @@ Perché, perlamiseria, non c’è la Tua lingua nella mia fica, quando tanto for
 *mi prese del costui piacer sì forte,*\
 *che, come vedi, ancor non m’abbandona.*\
 
-Perché non posso spompinarTi e portare in bocca lo sperma alla tua bocca perché Tu inghiotta e Ti si blocchi un attimo in gola per via del suonatore penetrante, che mi rimane sempre a lungo sulla lingua, sicché qualsiasi cosa mangio ha il sapore di un prodotto del Tuo uccello, e quando mangio pane e burro il sapore sembra quello di una scopata?
+Perché non posso spompinarTi e portare in bocca lo sperma alla tua bocca perché Tu inghiotta e Ti si blocchi un attimo in gola per via del suo sapore penetrante, che mi rimane sempre a lungo sulla lingua, sicché qualsiasi cosa mangio ha il sapore di un prodotto del Tuo uccello, e quando mangio pane e burro il sapore sembra quello di una scopata?
 
 *Quando leggemmo il disiato riso*\
 *Esser baciato da cotanto amante,*\
