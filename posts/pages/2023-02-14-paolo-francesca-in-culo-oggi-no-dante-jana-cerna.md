@@ -64,5 +64,5 @@ Voglio passare con Te ore e ore a chiacchierare per poter venire a letto con Te 
 
 •
 
-Dante Alighieri, *Inferno* V - vv. 121-132, 100-105, 133-138, 106-142.\
+Dante Alighieri, *Inferno* V - vv. 121-132, 100-105, 133-138, 106, 142.\
 Jana Černá, *Lettere all’amante* \[1930 ca\], da *In culo oggi no*, e/o 1992, *passim*.
