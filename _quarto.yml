@@ -46,6 +46,8 @@ format:
     css: styles.css
     toc: true
     bootstrap: 5
+    
+date-format: "D MMMM YYYY"
 
 editor: visual
 lang: it
