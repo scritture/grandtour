@@ -15,7 +15,6 @@ format:
       - Famiglia Colonna
       - Claudio Comandini
   pdf: 
-    date: "16 agosto 2024" 
     abstract: "Nascita, sviluppo e prospettive di una città a partire dal suo monumento più antico"
   epub: 
     cover-image: "/images/2024/san_rocco/1CampanileSRoccoPortaCapestrano.jpg"
