@@ -1,15 +1,9 @@
 ---
-project:
-  type: book
-book:
-  title: "Intorno al campanile di San Rocco"
-  author: "Claudio Comandini"
-  date: "2024-08-16"
+title: "Intorno al campanile di San Rocco"
+author: "Claudio Comandini"
+date: "2024-08-16"
 format:
-  html:
-    title: "Intorno al campanile di San Rocco"
-    author: "Claudio Comandini"
-    date: "2024-08-16"
+  html: 
     categories:
       - storia
       - arte
@@ -20,15 +14,10 @@ format:
       - Bessarione
       - Famiglia Colonna
       - Claudio Comandini
-  pdf:
-    title: "Intorno al campanile di San Rocco"
-    author: "Claudio Comandini"
-    date: "16 agosto 2024"
+  pdf: 
+    date: "16 agosto 2024" 
     abstract: "Nascita, sviluppo e prospettive di una città a partire dal suo monumento più antico"
-  epub:
-    title: "Intorno al campanile di San Rocco"
-    author: "Claudio Comandini"
-    date: "2024-08-16"
+  epub: 
     cover-image: "/images/2024/san_rocco/1CampanileSRoccoPortaCapestrano.jpg"
 ---
 
@@ -120,8 +109,7 @@ Verso ovest, la Vardesca si estende dall’area che da *via Caperchiano*, scalin
 
 ![*Veduta della piazza della Rocca di Frascati, 1840 ca.*](/images/2024/san_rocco/11rocca-fontana-superiore.jpg){fig-align="center"}
 
-La Rocca rivela interventi che si sono succeduti nel tempo, da Pio II Piccolomini a cui si deve la fondazione, al D’Estouteville che la fortifica, ai vari passaggi dei Colonna, e allo stesso Paolo III che ne aggiorna l’aspetto che dà sulla sua piazza riallestendo la stessa con demolizioni e ricostruzioni mirate. Il [Duca di York](https://grandtour.shop/posts/pages/2017-05-20-frascati-goethe-comandini.html) erige la torre in stile scozzese, ornata internamente dalle tele affrescate del pittore polacco Taddeo Gunz, e dopo di lui l'edificio viene appellato quale Palazzo vescovile; laddove dal 2023 la sede vescovile è stata posta a Velletri, il piccolo castello deve ricominciare a farsi chiamare *Rocca* e va definitivamente tematizzato quale cuore del centro storico. Da parte loro, fontana e pertinenze, le cui prossimità sono molto frequentate a tutte le ore, risultano piuttosto malmesse, danneggiate dall’incuria amministrativa e dal vandalismo generico di chi ha piantato rampini e inciso sui monumenti come se niente fosse, e al massimo ci ha messo un rubinetto non pertinente al contesto.
-![*Mascherone della fontana di Piazza Paolo III, 2020*](/images/2024/san_rocco/10mascherone.jpg){fig-align="center"}
+La Rocca rivela interventi che si sono succeduti nel tempo, da Pio II Piccolomini a cui si deve la fondazione, al D’Estouteville che la fortifica, ai vari passaggi dei Colonna, e allo stesso Paolo III che ne aggiorna l’aspetto che dà sulla sua piazza riallestendo la stessa con demolizioni e ricostruzioni mirate. Il [Duca di York](https://grandtour.shop/posts/pages/2017-05-20-frascati-goethe-comandini.html) erige la torre in stile scozzese, ornata internamente dalle tele affrescate del pittore polacco Taddeo Gunz, e dopo di lui l'edificio viene appellato quale Palazzo vescovile; laddove dal 2023 la sede vescovile è stata posta a Velletri, il piccolo castello deve ricominciare a farsi chiamare *Rocca* e va definitivamente tematizzato quale cuore del centro storico. Da parte loro, fontana e pertinenze, le cui prossimità sono molto frequentate a tutte le ore, risultano piuttosto malmesse, danneggiate dall’incuria amministrativa e dal vandalismo generico di chi ha piantato rampini e inciso sui monumenti come se niente fosse, e al massimo ci ha messo un rubinetto non pertinente al contesto. ![Mascherone della fontana di Piazza Paolo III, 2020](/images/2024/san_rocco/10mascherone.jpg){fig-align="center"}
 
 Adiacente a tale piazza, quello che oggi chiamiamo largo duca di York, già *via delle Carceri*. Nella parte occidentale si elevava un palazzo fatto costruire dal cardinal Giacomo Savelli, governatore di Frascati, che nel 1553 diviene oggetto di una ribellione popolare a mano armata, determinata da vessazioni eccessive in contrasto con lo Statuto colonnese. Nel 1590 viene venduto alla Comunità che vi realizza il secondo edificio comunale, successivo a quello del palazzo senza fondamenta che attualmente a piazza Bambocci ospita il Forno Ceralli. La centralità della zona favorisce la crescita del suo prestigio, e il palazzo viene ampiamente ristrutturato nel 1771, affiancandosi così al palazzo vescovile. Nel 1868 la sede comunale viene spostata a Palazzo Botti, poi anche Casa del Fascio, quindi Tribunale, ora adibito a uffici per servizi comunali, adiacente la cattedrale di S. Pietro. Palazzo Savelli viene venduto alla Sede Apostolica, che vi stabilisce il Carcere Giudiziario, sostituendosi al primo carcere che, come segnala la sagomatura a “*mezzo litro*” della grata in Via D’Estouteville, era nei sotterranei della Rocca. Demolito dalle bombe dell’[8 settembre](#0), prende il suo posto una brutta palazzina di case popolari di proprietà comunale.
 
