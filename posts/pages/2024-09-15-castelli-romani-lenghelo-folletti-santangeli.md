@@ -1,13 +1,13 @@
 ---
-author: Maria Pia Santangeli
-date: 2024-09-15 
-title: 'I folletti dei Castelli Romani: il lénghelo e gli altri'
+author: "Maria Pia Santangeli"
+date: "2024-09-15" 
+title: "I folletti dei Castelli Romani: il lénghelo e gli altri"
 categories:
-  - storia
-  - folclore
-  - società
-  - Tuscolo
-  - Maria Pia Santangeli
+  - "storia"
+  - "folclore"
+  - "società"
+  - "Tuscolo"
+  - "Maria Pia Santangeli"
 ---
 
 ![](images/Nightmare_Fussli-01.jpeg){fig-align="center"}
