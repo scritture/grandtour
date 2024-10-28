@@ -4,7 +4,7 @@ date: 2024-08-10
 title: Le molte guerre combattute sul corpo di Imane Khelif
 format: 
   html:
-    categories:
+    categories: 
       - società
       - sport
       - sessualità
