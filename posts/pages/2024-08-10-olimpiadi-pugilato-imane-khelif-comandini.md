@@ -2,13 +2,17 @@
 author: Claudio Comandini
 date: 2024-08-10
 title: Le molte guerre combattute sul corpo di Imane Khelif
-categories:
-  - società
-  - sport
-  - sessualità
-  - filosofia
-  - Islam  
-  - Claudio Comandini
+format: 
+  html:
+    categories:
+      - società
+      - sport
+      - sessualità
+      - filosofia
+      - Islam  
+      - Claudio Comandini
+  pdf: default
+  epub: default
 ---
 
 ![](images/Imane_Khelif.jpg){fig-align="center"}
