@@ -1,6 +1,3 @@
----
----
-
 ::: grid
 ::: {.g-col-12 .g-col-md-4}
 ![](images/immagini_bookwinebar/logo_grandtour_trasparente.png){fig-align="left"}

@@ -80,6 +80,10 @@
 
 \KOMAoption{captions}{tableheading}
 \makeatletter
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
 \@ifpackageloaded{caption}{}{\usepackage{caption}}
 \AtBeginDocument{%
 \ifdefined\contentsname
@@ -115,10 +119,18 @@
 \newcommand*\listoflistings{\listof{codelisting}{Elenco degli Elenchi}}
 \makeatother
 \makeatletter
-\makeatother
-\makeatletter
 \@ifpackageloaded{caption}{}{\usepackage{caption}}
 \@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{tcolorbox}{}{\usepackage[skins,breakable]{tcolorbox}}
+\makeatother
+\makeatletter
+\@ifundefined{shadecolor}{\definecolor{shadecolor}{rgb}{.97, .97, .97}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
 \makeatother
 \ifLuaTeX
 \usepackage[bidi=basic]{babel}
@@ -132,8 +144,7 @@
 \ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
-\usepackage{bookmark}
-
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \urlstyle{same} % disable monospaced font for URLs
 \hypersetup{
@@ -157,8 +168,9 @@
 Nascita, sviluppo e prospettive di una città a partire dal suo monumento
 più antico
 \end{abstract}
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[interior hidden, boxrule=0pt, breakable, frame hidden, borderline west={3pt}{0pt}{shadecolor}, enhanced, sharp corners]}{\end{tcolorbox}}\fi
 
-\begin{figure}[H]
+\begin{figure}
 
 {\centering \includegraphics{../../images/2024/san_rocco/1CampanileSRoccoPortaCapestrano.jpg}
 
@@ -166,13 +178,14 @@ più antico
 
 \caption{\emph{Campanile di S. Rocco e Porta Caperchiano, 1850 ca.}}
 
-\end{figure}%
+\end{figure}
 
 \emph{Nascita, sviluppo e prospettive di una città a partire dal suo
 monumento più antico.}
 
+\hypertarget{in-vivarium}{%
 \subsection{\texorpdfstring{1. \emph{In
-Vivarium}}{1. In Vivarium}}\label{in-vivarium}
+Vivarium}}{1. In Vivarium}}\label{in-vivarium}}
 
 La chiesa di S. Maria in \emph{«locus qui vocatur Frascata»} è ancora
 oggi sulla piazza che porta il nome di S. Rocco, un po' spostata sulla
@@ -226,7 +239,7 @@ traffici locali e verso il meridione. La storia fa comprendere quanto la
 località sia sempre stata terreno di battaglia tra poteri diversi; il
 presente ricorda quanto necessiti di ricordarsi di sé.
 
-\begin{figure}[H]
+\begin{figure}
 
 {\centering \includegraphics{../../images/2024/san_rocco/2matone.jpg}
 
@@ -234,7 +247,7 @@ presente ricorda quanto necessiti di ricordarsi di sé.
 
 \caption{\emph{Osteria del Dindolo al Matone,ca. 1980}}
 
-\end{figure}%
+\end{figure}
 
 In un periodo in cui Tuscolo era ancora esistente, viene citata nei
 documenti la piazza più antica di Frascati, piuttosto piccola e
@@ -295,7 +308,7 @@ piuttosto esterna al centro antico e quello moderno, sulla \emph{Via de'
 Salé} (contrazione di Gerusalemme), diverticolo che conduce a S. Nilo
 dal tratto in cui la via Tuscolana viene perlopiù chiamata via Romana.
 
-\begin{figure}[H]
+\begin{figure}
 
 {\centering \includegraphics{../../images/2024/san_rocco/8largo-pentini.jpg}
 
@@ -304,7 +317,7 @@ dal tratto in cui la via Tuscolana viene perlopiù chiamata via Romana.
 \caption{\emph{Angelo Uggeri, Ospedale S. Sebastiano di Frascati, 1800
 ca.}}
 
-\end{figure}%
+\end{figure}
 
 Invece, presso l'allora \emph{Ospedale di S. Sebastiano}, venne
 ritrovato un altro tratto di conduttura recante l'iscrizione del nome di
@@ -334,8 +347,9 @@ medievale superstite, continuiamo a passeggiare nella storia e quindi
 nelle sue vicinanze, lontani dal presente quanto basta per metterlo in
 prospettiva e cercare di comprenderlo meglio.
 
+\hypertarget{la-roma-dei-colonna-e-la-cattivituxe0-avignonese}{%
 \subsection{2. La Roma dei Colonna e la cattività
-avignonese}\label{la-roma-dei-colonna-e-la-cattivituxe0-avignonese}
+avignonese}\label{la-roma-dei-colonna-e-la-cattivituxe0-avignonese}}
 
 Alla fine del 1200 territorio e istituzioni sono segnate dal conflitto
 tra papa Bonifacio VIII e l'illustre famiglia dei
@@ -358,7 +372,7 @@ decapitazione di Corradino di Svevia da parte di Carlo D'Angiò del 1268,
 l'impero si sta sfaldando e il contesto politico e sociale è ormai
 prossimo a sganciarsi dalle strutture di potere feudali.
 
-\begin{figure}[H]
+\begin{figure}
 
 {\centering \includegraphics{../../images/2024/san_rocco/3Stemma_Colonna.jpg}
 
@@ -366,7 +380,7 @@ prossimo a sganciarsi dalle strutture di potere feudali.
 
 \caption{\emph{Stemma della famiglia Colonna}}
 
-\end{figure}%
+\end{figure}
 
 Bonifacio VIII quindi deve combattere sovrani quali Ferdinando d'Aragona
 di Sicilia, internamente alla Curia è contrastato dai cardinali Giacomo
@@ -403,7 +417,7 @@ Templari. Nel 1309 il pontefice trasferisce la curia a Poitiers e nel
 1313, pur ponendo sede ad Avignone, mantiene residenza nel feudo papale
 di Carpentras.
 
-\begin{figure}[H]
+\begin{figure}
 
 {\centering \includegraphics{../../images/2024/san_rocco/4AlphonsedeNeuville-SchiaffodiAnagni1883.jpg}
 
@@ -412,7 +426,7 @@ di Carpentras.
 \caption{\emph{Alphonse de Neuville, Sciarra Colonna schiaffeggia
 Bonifacio VIII (1883)}}
 
-\end{figure}%
+\end{figure}
 
 Ai Colonna viene quindi accordato il recupero dei beni ed è concesso di
 ricostruire Palestrina. Stefano il Vecchio esercita potere a Roma, nel
@@ -447,8 +461,9 @@ trucidato sul Campidoglio. Il suo cadavere squartato è lasciato appeso
 davanti all'antico ingresso della Chiesa di S. Marcello in Via Lata, di
 fronte alle abitazioni dei Colonna.
 
+\hypertarget{breve-storia-di-una-chiesa}{%
 \subsection{3. Breve storia di una
-chiesa}\label{breve-storia-di-una-chiesa}
+chiesa}\label{breve-storia-di-una-chiesa}}
 
 Torniamo nel 1305 a Frascati dove, sotto l'autorità del Capitolo
 Lateranense, la chiesa di S. Maria in Vivario riceve un campanile
@@ -483,25 +498,25 @@ Borghese, nel quale i papi vi risiedono, Frascati si sviluppa oltre il
 nucleo antico. Nel 1650 la cerchia muraria viene allargata portandola
 dall'attuale via Cairoli a fronte della nuova cattedrale, tagliando in
 diagonale quella che oggi è piazza S. Pietro. Dopo la peste del 1656,
-alla chiesa di S. Maria viene aggiunta una dedica a \hyperref[0]{S.
-Rocco} grazie alla riscoperta degli affreschi tardo quattrocenteschi, e
-quindi del periodo D'Estouteville che, secondo un'iconografia
-consolidatasi già all'epoca di Martino V Colonna, raffigurano lui e S.
-Sebastiano. Laddove al soldato romano Sebastiano era dedicata un'altra
-chiesa già da tempi remoti, il nome più tipico della chiesa e della
-piazza diventa quello di Rocco, il santo di Montpellier di origine
-tuscolana amico degli appestati, sempre in compagnia del cane che gli
-porta cibo. Nuove immagini del culto dei santi vengono realizzate nel
-1715 nella cappella loro dedicata, che riceve nuove decorazioni di
-Pietro Gagliardi e Domenico Jannetti nel 1867. Nel 1765 il
-\hyperref[0]{Duca di York}, ultimo discendente degli Stuart e cardinale,
-vescovo della città per oltre quarant'anni, compie rifacimenti interni
-ed esterni. L'intero complesso è oggetto di restauri e aggiunte nel 1878
-e quindi nel 1958-1969. Soltanto allora le dieci colonne in pietra
-sperone furono liberate dalle coperture in calce, al tempo della peste
-usata per allontanarla.
+alla chiesa di S. Maria viene aggiunta una dedica a
+\protect\hyperlink{0}{S. Rocco} grazie alla riscoperta degli affreschi
+tardo quattrocenteschi, e quindi del periodo D'Estouteville che, secondo
+un'iconografia consolidatasi già all'epoca di Martino V Colonna,
+raffigurano lui e S. Sebastiano. Laddove al soldato romano Sebastiano
+era dedicata un'altra chiesa già da tempi remoti, il nome più tipico
+della chiesa e della piazza diventa quello di Rocco, il santo di
+Montpellier di origine tuscolana amico degli appestati, sempre in
+compagnia del cane che gli porta cibo. Nuove immagini del culto dei
+santi vengono realizzate nel 1715 nella cappella loro dedicata, che
+riceve nuove decorazioni di Pietro Gagliardi e Domenico Jannetti nel
+1867. Nel 1765 il \protect\hyperlink{0}{Duca di York}, ultimo
+discendente degli Stuart e cardinale, vescovo della città per oltre
+quarant'anni, compie rifacimenti interni ed esterni. L'intero complesso
+è oggetto di restauri e aggiunte nel 1878 e quindi nel 1958-1969.
+Soltanto allora le dieci colonne in pietra sperone furono liberate dalle
+coperture in calce, al tempo della peste usata per allontanarla.
 
-\begin{figure}[H]
+\begin{figure}
 
 {\centering \includegraphics{../../images/2024/san_rocco/6san-rocco-bombe.jpg}
 
@@ -510,7 +525,7 @@ usata per allontanarla.
 \caption{\emph{Bombardamenti presso la chiesa di S. Maria o S. Rocco a
 Frascati, 8 settembre 1943}}
 
-\end{figure}%
+\end{figure}
 
 I bombardamenti alleati
 dell'\href{2016-09-07-8-settembre-frascati-tuscolo-comandini.html}{8
@@ -551,7 +566,7 @@ protagoniste della cantata \emph{Circe} (1667) di Alessandro Stradella,
 la cui prima esecuzione si svolge al Teatro delle Acque di Villa
 Aldobrandini, nella quale vengono addirittura divinizzate.
 
-\begin{figure}[H]
+\begin{figure}
 
 {\centering \includegraphics{../../images/2024/san_rocco/7san-rocco-botti.jpg}
 
@@ -559,7 +574,7 @@ Aldobrandini, nella quale vengono addirittura divinizzate.
 
 \caption{\emph{Piazza S. Rocco al tempo della vendemmia, 1950 ca.}}
 
-\end{figure}%
+\end{figure}
 
 Sul lato nord del campanile una lapide in marmo bianco dedicata alle
 anime dei defunti ricorda con caratteri gotici fortemente abbreviati
@@ -617,7 +632,7 @@ con lui, e a Tivoli nel 1488 è pace anche tra Colonna e D'Eustoteville.
 Le casate romane quindi si alleano nel contrastare il papa spagnolo
 Alessandro VI Borgia.
 
-\begin{figure}[H]
+\begin{figure}
 
 {\centering \includegraphics{../../images/2024/san_rocco/Prospero_Colonna.jpg}
 
@@ -626,7 +641,7 @@ Alessandro VI Borgia.
 \caption{\emph{Aliprando Caprioli, Ritratto di Prospero Colonna,
 1596-1600}}
 
-\end{figure}%
+\end{figure}
 
 Nel 1494 il re di Francia Carlo VIII di Valois discende in Italia
 puntando a Napoli, dove è in ballo la successione al trono, e dà l'avvio
@@ -642,10 +657,10 @@ oltre che in piazza Pizzo di Merlo a Roma, proprio nei luoghi tuscolani
 che furono anche di Nerone. Alla nomina come Giulio II di Giuliano della
 Rovere, deciso rivale di Borgia, i Colonna vengono reintegrati dei loro
 beni. La nipote del pontefice Lucrezia della Rovere è data in sposa al
-valoroso \hyperref[0]{Marcantonio I Colonna}, distintosi nella battaglia
-che nel 1506 porta definitivamente Bologna nell'orbita romana. Gli sposi
-ricevono congiuntamente in dote il feudo di Frascati, che nel 1515 viene
-fornito di uno Statuto cittadino.
+valoroso \protect\hyperlink{0}{Marcantonio I Colonna}, distintosi nella
+battaglia che nel 1506 porta definitivamente Bologna nell'orbita romana.
+Gli sposi ricevono congiuntamente in dote il feudo di Frascati, che nel
+1515 viene fornito di uno Statuto cittadino.
 
 Il Sacco di Roma del 1527, favorito dal focoso Pompeo Colonna, egumeno a
 S. Nilo, fedelissimo dell'imperatore Carlo V d'Asburgo e da tempo
@@ -676,7 +691,7 @@ protestante, di completare il Concilio di Trento. L'importanza di
 Frascati, stabilizzatasi con un forte ancoraggio ai poteri romani, è
 destinata a crescere.
 
-\begin{figure}[H]
+\begin{figure}
 
 {\centering \includegraphics{../../images/2024/san_rocco/5porta_romana-antica.jpeg}
 
@@ -684,9 +699,10 @@ destinata a crescere.
 
 \caption{\emph{Porta Romana antica di Frascati, prima del 1888}}
 
-\end{figure}%
+\end{figure}
 
-\subsection{4. In giro per rioni}\label{in-giro-per-rioni}
+\hypertarget{in-giro-per-rioni}{%
+\subsection{4. In giro per rioni}\label{in-giro-per-rioni}}
 
 Il campanile rimane lì, dove ancora sta. Le maioliche circolari sulla
 sua sommità, sette per ogni lato, cinque sopra e due sotto, conoscono
@@ -744,7 +760,7 @@ esso che si sono svolte le più importanti battaglie del territorio: nel
 nel 1167 quella di Prataporci tra le truppe comunali e pontificie di
 Roma contro quelle imperiali e tuscolane.
 
-\begin{figure}[H]
+\begin{figure}
 
 {\centering \includegraphics{../../images/2024/san_rocco/9via-borgo-san-rocco.jpg}
 
@@ -752,7 +768,7 @@ Roma contro quelle imperiali e tuscolane.
 
 \caption{\emph{Via Borgo S. Rocco, prima del 1950}}
 
-\end{figure}%
+\end{figure}
 
 \emph{Vallocchia} è nel livello più in basso, nell'attuale largo
 Pentini, e accoglie il diverticolo che dalla Tuscolana conduceva a Porta
@@ -787,7 +803,7 @@ monumenti, e il cui nome è ricordato insieme a quello del governatore
 Carlo Colonna, nominato anche nella coeva facciata della cattedrale S.
 Pietro.
 
-\begin{figure}[H]
+\begin{figure}
 
 {\centering \includegraphics{../../images/2024/san_rocco/11rocca-fontana-superiore.jpg}
 
@@ -795,7 +811,7 @@ Pietro.
 
 \caption{\emph{Veduta della piazza della Rocca di Frascati, 1840 ca.}}
 
-\end{figure}%
+\end{figure}
 
 La Rocca rivela interventi che si sono succeduti nel tempo, da Pio II
 Piccolomini a cui si deve la fondazione, al D'Estouteville che la
@@ -813,9 +829,8 @@ pertinenze, le cui prossimità sono molto frequentate a tutte le ore,
 risultano piuttosto malmesse, danneggiate dall'incuria amministrativa e
 dal vandalismo generico di chi ha piantato rampini e inciso sui
 monumenti come se niente fosse, e al massimo ci ha messo un rubinetto
-non pertinente al contesto. \begin{center}
+non pertinente al contesto.
 \includegraphics{../../images/2024/san_rocco/10mascherone.jpg}
-\end{center}
 
 Adiacente a tale piazza, quello che oggi chiamiamo largo duca di York,
 già \emph{via delle Carceri}. Nella parte occidentale si elevava un
@@ -834,8 +849,8 @@ Savelli viene venduto alla Sede Apostolica, che vi stabilisce il Carcere
 Giudiziario, sostituendosi al primo carcere che, come segnala la
 sagomatura a ``\emph{mezzo litro}'' della grata in Via D'Estouteville,
 era nei sotterranei della Rocca. Demolito dalle bombe
-dell'\hyperref[0]{8 settembre}, prende il suo posto una brutta palazzina
-di case popolari di proprietà comunale.
+dell'\protect\hyperlink{0}{8 settembre}, prende il suo posto una brutta
+palazzina di case popolari di proprietà comunale.
 
 La zona, la cui rinascita è dovuta al lavoro delle attività lì presenti,
 che caratterizzano in modo peculiare per quanto disordinato la movida
@@ -854,10 +869,11 @@ visitatori pascolano distratti, si resta in attesa di interventi che
 restituiscano pieno decoro all'area più centrale e tipica di un paese
 che, oltre ad aver visibilmente smarrito la gloria di un tempo, sembra
 piuttosto smarrito anche nel presente più ordinario. Nella parte
-orientale del Largo, c'è poi il \hyperref[0]{Grand Tour BookWineBar}, da
-cui ora vi scrivo: se passate, posso raccontarvi questa e altre storie.
+orientale del Largo, c'è poi il \protect\hyperlink{0}{Grand Tour
+BookWineBar}, da cui ora vi scrivo: se passate, posso raccontarvi questa
+e altre storie.
 
-\begin{figure}[H]
+\begin{figure}
 
 {\centering \includegraphics{../../images/immagini_bookwinebar/fuori1.JPG}
 
@@ -865,10 +881,11 @@ cui ora vi scrivo: se passate, posso raccontarvi questa e altre storie.
 
 \caption{\emph{Grand Tour BookWineBar a Largo Duca di York, 2024}}
 
-\end{figure}%
+\end{figure}
 
+\hypertarget{percorsi-in-ordine-cronologico}{%
 \subsection{Percorsi (in ordine
-cronologico)}\label{percorsi-in-ordine-cronologico}
+cronologico)}\label{percorsi-in-ordine-cronologico}}
 
 Domenico Barnaba Mattei, \emph{Memorie istoriche dell'antico Tuscolo,
 oggi Frascati} {[}1711{]}, Forni 1979 {[}ristampa anastatica{]}.
