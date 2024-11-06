@@ -176,7 +176,7 @@ In tutti questi spostamenti del *logos*, il riverbero dell'aureola di Cristo sot
 
 Ha quindi ragione quel pazzo telepredicatore, però a rivelarsi non è il divino con i suoi consueti attributi, ma qualcosa di più *"terribile"*, oltre il *"sublime dinamico"* determinato secondo Immanuel Kant nella nostra disposizione d'animo dalla visione dei grandi sconvolgimenti[^37] e più in là del "*numinoso*" per Rudolf Otto alla base delle religioni e tipico della nostra reazione a qualcosa assolutamente non razionale e privo di connotazioni etiche, non spiegabile per concetti.[^38] Il "*terribile*" che i media possono rivelarci si configura in modi immediati come qualcosa di non desiderato e non desiderabile, una sorta di male assoluto, impossibile da gestire nei termini del presunto mondo reale; della sicurezza di questo reale i media si fanno garanti mantenendo l'amministrazione dell'immaginario e contendendo la gestione della convivenza alla politica, la quale a sua volta incrementa il controllo sull'informazione. Questo vuoto, in qualche modo è quella stessa realtà che i media hanno rimosso dalla nostra considerazione: forse, il nostro attualissimo Messia è proprio questo vuoto, che proclama definitivamente il proprio potere con il crollo delle Torri gemelle dell'11 settembre 2001 e con le Guerre globali conseguenti.
 
-[^37]:  Immanuel Kant, *Critica del giudizio*, § 28 (1799), Laterza, Roma-Bari 1987, pp. 111-116.
+[^37]: Immanuel Kant, *Critica del giudizio*, § 28 (1799), Laterza, Roma-Bari 1987, pp. 111-116.
 
 [^38]: Rudolf Otto, *Il sacro* (1917), SE, Milano 2009, p. 27, *passim*.
 
@@ -196,7 +196,7 @@ Il deputato PdL Giorgio Stracquadanio denuncia che nella circostanza ha pesato l
 
 [^41]: [*Stracquadanio: "Maroni incapace forse voleva far cadere il governo"* 19.10.2011.](http://www.repubblica.it/tecnologia/2011/10/19/news/stracquadanio_maroni_incapace-23504628/)
 
-[^42]:  [*Il governo: una strategia contro l'Italia, «Corriere della Sera» 26.11.2010.*](http://www.corriere.it/economia/10_novembre_26/finmeccanica-berlusconi-preoccupato_7f07c1c0-f953-11df-a6ac-00144f02aabc.shtml)
+[^42]: [*Il governo: una strategia contro l'Italia, «Corriere della Sera» 26.11.2010.*](http://www.corriere.it/economia/10_novembre_26/finmeccanica-berlusconi-preoccupato_7f07c1c0-f953-11df-a6ac-00144f02aabc.shtml)
 
 Un paese che ha espresso una delle culture europee più raffinate sembra costretto a rimpiangere come modelli d'eccellenza anche esempi di incultura quali Mike Bongiorno, mentre i termini con cui costui era descritto nella celebre fenomenologia dedicatagli da Umberto Eco arrivano a descrivere qualsiasi addetto alla cultura dell'ex Belpaese: tenacemente impegnato ad esaltare il *«valore della mediocrità»* e a diffondere *«la più indulgente delle religioni»*, che pone al livello di Dio gli stessi adoratori.[^43] Un paese per secoli tra gli elementi strategici dello scacchiere mondiale è ridotto ad un *«arcadia geopoliticamente irrilevante»* che pur dovendo molto all'America ha perso l'opportunità di approfondire il rapporto.[^44]
 
@@ -206,7 +206,7 @@ Un paese che ha espresso una delle culture europee più raffinate sembra costret
 
 Berlusconi, nonostante continui a fare l'amerikano, non solo mangia rigatoni che non smettono di sfidarlo: con disinvolta cafonaggine si esprime a favore di avversari degli USA, intrattenendo rapporti da "*compagni di merende*" con il primo ministro russo ed ex KGB Putin, pur senza fornire una direzione politicamente credibile al rapporto,[^45] e con il dittatore della Libia Gheddafi, con cui le relazioni decisive rimangono quelle che il Paese ha sempre avuto.[^46] Tutto questo non è comunque certo attribuibile esclusivamente alla sua responsabilità: a livello geopolitico, i problemi riguardano una questione energetica destinata a scontrarsi con un empasse fortemente condizionato dall'ingerenza americana già dai tempi del caso Mattei, notevolmente intrecciato con le vicende dell'Iran,[^47] mentre i toni generali sono inesorabilmente determinati dal clima della comunicazione che comunque il cavaliere sa coerentemente cavalcare coinvolgendo anche i suoi monomaniacali detrattori.
 
-[^45]:  Fëdor Luk'janov, *Berlusconi in russia ha fatto scuola*, ibid, pp. 141-144.
+[^45]: Fëdor Luk'janov, *Berlusconi in russia ha fatto scuola*, ibid, pp. 141-144.
 
 [^46]: Claudia Gazzini, *Berlusconi-Gheddafi. La vera storia di una strana coppia*, ibid, pp. 157-171.
 
