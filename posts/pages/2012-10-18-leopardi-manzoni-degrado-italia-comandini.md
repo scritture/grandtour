@@ -21,6 +21,8 @@ categories:
   - Claudio Comandini
 ---
 
+![](images/questo_non_e_degrado-640x381-01.jpg){fig-align="center"}
+
 *Il vero e il bello. La sociologia della letteratura e dell'arte: Schücking, Hauser. La modernità letteraria e la discussione sul classicismo. Muratori: la critica agli stereotipi mitologici. De Staël: l'utilità delle traduzioni. Di Breme: la poesia del soggetto conoscente. Leopardi: ruolo degli antichi e funzione dell'ingegno. Meccanicismo, sensismo, illuminismo. Lukács: formazione del classicismo e borghesia in ascesa. Schiller: la poesia ingenua e sentimentale. La rubricazione delle cose d'Italia: costumi, lingua, letteratura. Le "Operette morali" e le nuove favole antiche. Autofagocitazione comunicativa e consistenza del sapere. Manzoni: una letteratura d'idee. Illuminismo, cattolicesimo, romanticismo. Contro il paganesimo culturale e l'idolatria stilistica. Storia critica della letteratura italiana. Gramsci: l'Italia quale provincia culturale francese. Il marxismo e le lotte di classe in Francia. Gli scrittori ed il formarsi della modernità. La costituzione del romanzo storico. Stesura e pubblicazione de "I Promessi Sposi". Attualità del degrado, inattualità della scrittura.*
 
 ## 1. I classici e dopo
@@ -158,8 +160,6 @@ Gyorgy Luckács, *La teoria schilleriana della letteratura moderna* (1935) - *Il
 Arnold Hauser, *Storia sociale dell'arte* (1956), Einaudi, Torino 1982.
 
 Levin L. Schücking, *Sociologia del gusto letterario* (1961), Bur, Milano 1977.
-
-•
 
 *Pubblicato anche su[«Tconzero, ottobre 2012»](http://www.ticonzero.name/). Riveduto.*
 

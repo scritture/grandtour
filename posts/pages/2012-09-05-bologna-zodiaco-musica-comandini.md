@@ -1,5 +1,4 @@
 ---
-image:  /images/2016/07/impressioni-di-un-porto-perduto-640x381.jpg
 author: Claudio Comandini
 date: '2012-09-05 10:00:15+00:00'
 title: 'Bologna e le dodici chiavi dello zodiaco. Porta Lame, in Fa maggiore'
@@ -17,6 +16,8 @@ categories:
   - Žižek
   - Claudio Comandini
 ---
+
+![](images/impressioni-di-un-porto-perduto-640x381.jpg){fig-align="center"}
 
 *Le mura e le porte di Bologna. Corrispondenze: porte della città, segni zodiacali, tonalità musicali. Porta Lame, il Porto di Navile, la Manifattura Tabacchi, l'Archivio Notarile. La battaglia del 7 novembre 1944. L'asteroide Bonomia. Metafisica e impressionismo. Le forme retoriche nell'improvvisazione musicale. Anarchismo epistemologico e istant composition.*
 
@@ -72,7 +73,7 @@ Per permettere che si instaurasse un dialogo rispetto a quella che secondo me er
 
 E, nel divagare, recuperiamo la dizione latina delle figure retoriche usate in L'archivio della memoria, e una loro breve descrizione: *Anaphora* (ripetizione di elemento all'inizio di una frase), *Apocope* (troncatura della fine di una frase), *Asyndeton* (elementi o frasi elencati senza l'uso di congiunzioni), *Catachresis* (estensione di un'espressione oltre il suo uso proprio)*, Hyperbole* (esagerazione che rafforza la credibilità dell'espressione), *Emphasis* (espressione che accentua il significato dei suoi elementi)*, Metonymia* (sostituzione di un elemento con uno che ne abbia contiguità), *Omoyosis* (espressione che trasforma la parte di un espressione in un'altra), Prolepsis (anticipazione di un possibile contrasto), *Synekdoche* (sostituzione di un elemento per connessione quantitativa)*, Transgressio* (mutamento dell'associazione degli elementi con inserimenti inconsueti). A mio avviso, proprio l'oratoria nella sua articolazione più classica (*Inventio, Disposizio, Elocutio, Memoria, Actio*), formulata da Cicerone nel *De Oratore* (55 a.C.), è del tutto pertinente all'arte dell'improvvisazione sonora o della composizione istantanea.
 
-Ovviamente, non serve sapere tutto questo per farsi piacere la musica, se piace: ogni lavoro nasconde le tracce della propria fatica, e lo racconto solo perché è divertente di per sé, se diverte. Grazie ancora a tutte le persone che in quelle fredde giornate primaverili di maggio 2010 hanno reso tutto questo possibile:
+Ovviamente, non serve sapere tutto questo per farsi piacere la musica, se piace: ogni lavoro nasconde le tracce della propria fatica, e lo racconto solo perché è divertente di per sé, se diverte. Grazie ancora a tutte le persone che in quelle, strano a dirsi ma è così, fredde giornate di maggio 2010 hanno reso tutto questo possibile (me compreso):
 
 Claudio Comandini (tromba, direzione)
 
@@ -95,7 +96,5 @@ Ranieri Spina (chitarra elettrica)
 Matteo Sardo (basso)
 
 Marco Lazzaretto (batteria)
-
-•
 
 *Fotografia: Claudio Comandini, "Impressioni da un porto perduto" - Bologna, settembre 2010.*

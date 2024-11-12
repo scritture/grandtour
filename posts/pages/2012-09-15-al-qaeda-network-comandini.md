@@ -16,6 +16,8 @@ categories:
   - Claudio Comandini
 ---
 
+![](images/mit-aderen-mitteln-678x381.jpg){fig-align="center"}
+
 *Nuove sollevazioni nel mondo islamico e "The Innocence of Muslim". L'assalto all'ambasciata libica. Conseguenze in divenire. La sparizione di guerra e pace e le nuove forme di conflitto. Qiao Liang e Wang Xiang: strategie cinesi. Hard-Negri, De Benoist, Galli: simmetria e asimmetria. Mini: terrore e destabilizzazione. Henzesberger: i perdenti radicali. Breve storia del fondamentalismo islamico. La formazione di Al Qaeda nel contesto afgano, la sua diffusione per la Jihad globale, il costituirsi dell'alqaedismo orizzontale. Loretta Napoleoni e l'economia kamikaze. Filosofia dei network. Deleuze-Guattari: connessione ed eterogeità. Caracciolo: omogeneità e sincronizzazione. Al Qaeda e Facebook.*
 
 ## 1. I colori del grigio

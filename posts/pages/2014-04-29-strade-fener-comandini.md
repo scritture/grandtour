@@ -18,6 +18,8 @@ categories:
   - Claudio Comandini
 ---
 
+![](images/strada-di-fener-678x381.jpg){fig-align="center"}
+
 *Un mondo nella città. Arrivare a Fener: logistica, ambiente, incontri. Partire da Fener: percorsi, approfondimenti, espansioni. Ritornare a Fener: sviluppi, innovazioni, permanenze. Il faro nascosto.*
 
 ## 1. Arrivare

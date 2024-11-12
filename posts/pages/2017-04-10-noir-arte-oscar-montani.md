@@ -11,7 +11,9 @@ categories:
    - Oscar Montani
 ---
 
-*Le narrazioni noir, gialle e affini, conoscono [metropoli e province](../i-colori-del-noir/), eccellenze e mestieranti, hanno [tecniche per risolvere problemi](#0) nelle quali le preoccupazioni scientifiche e matematiche sono decisive. [Oscar Montani](#0), autore di romanzi (ultimo libro "La pazienza del gatto", 2016) e direttore editoriale per [**Nerocromo**](https://www.nerocromo.com), ricorda anche che per farne un'arte non basta seguire le regole di genere, ma occorre avere una storia da raccontare.*
+![](images/macchinadascrivere-01.jpg){fig-align="center" width="247"}
+
+*Le narrazioni noir, gialle e affini, conoscono* [*metropoli e province*](https://grandtour.shop/posts/pages/2015-02-28-colori-noir-comandini.html)*, eccellenze e mestieranti, conoscono tecniche per risolvere problemi nelle quali le preoccupazioni scientifiche e matematiche sono decisive.* [*Oscar Montani*](https://grandtour.shop/posts/pages/2016-03-15-giallo-matematica-oscar-montani.html)*, autore di romanzi (ultimo libro "La pazienza del gatto", 2016) e direttore editoriale per* [*Nerocromo*](https://www.nerocromo.com)*, ricorda inoltre che, per farne un'arte, non basta seguire le regole di genere, ma occorre avere una storia da raccontare.*
 
 #### 1. Un volto nell'ombra
 

@@ -9,10 +9,11 @@ categories:
   - Claudio Comandini
 date: '2012-05-09'
 title: 'Ballate e danze dal Basso Impero'
-image:  /images/2012/05/telegono-1-494x381.jpg
 author: Claudio Comandini
 layout: PostLayout
 ---
+
+![](images/telegono-1-494x381.jpg){fig-align="center" width="494"}
 
 *Una lettera dai tempi del conflitto generalizzato. Ritratto affettuoso di una ragazza futile. Cronache di ieri e di oggi. Note di diario. Sogni. Dal romanzo "Basso Impero".*
 

@@ -15,41 +15,45 @@ categories:
   - Claudio Comandini
 ---
 
+![](images/forza-italia-214x245.jpg){fig-align="center"}
+
 *Dove si vince la partita e si incontrano quattramicialbar a fare festa e sono funerali di stato. Dal romanzo "Basso Impero".*
 
-«Cosa significano queste carte?»
+«*Cosa significano queste carte?*»
 
-«Servono per vedere il futuro.»
+«*Servono per vedere il futuro.*»
 
 La partita procedeva da un quarto d'ora e già era stanca. Ingiurie erano dedicate a tutti i partecipanti al gioco, con rare incitazioni in forma d'insulto. Non era una partita di quelle che stai attizzato.
 
-«E che vuol dire ?»
+«*E che vuol dire ?*»
 
-«Il Folle, il Diavolo, il Giudizio rovesciato, la Torre pure, la Morte. Perdiamo.»
+«*Il Folle, il Diavolo, il Giudizio rovesciato, la Torre pure, la Morte. Perdiamo.*»
 
-«E ci volevano le carte per capirlo?»
+«*E ci volevano le carte per capirlo?*»
 
-«Ci vediamo qualche filmetto?»
+«*Ci vediamo qualche filmetto?*»
 
-«Faccio una canna.»
+«*Faccio una canna.*»
 
-«Un'altra? Dammi una carta da cento.»
+«*Un'altra? Dammi una carta da cento.*»
 
-«E chi ce l'ha. Da mille. Fare comunque canna.»
+«*E chi ce l'ha. Da mille. Fare comunque canna.*»
 
-«Arrotolala intanto.»
+«*Arrotolala intanto.*»
 
 [Pippano pippano e strapippano.](https://soundcloud.com/claudio_comandini/litalia-ha-vinto) Arriva il gol della Nigeria. A Porkoskin va di traverso. Soffia sullo specchio accuratamente rifinito di striscioline bianche, e la polveretta va tutta intorno nel salotto buono.
 
-«Cretinodeficentepezzodimerdaidiotaimbecillefrocio!»
+«*Cretinodeficentepezzodimerdaidiotaimbecillefrocio!*»
 
-«Ma questi cazzo di negri...»
+«*Ma questi cazzo di negri...*»
 
 Senza prodursi in ulteriori spropositi, si pippano tutto il salotto buono, lo spolverano infilando il naso in ogni angolo e in ogni fibra, regrediscono a livelli futuribili. E restano catodici svariati minuti. Poi, la frenesia s'esterna.
 
-«Senti...» «Non ho voglia, Lele. Non ora.»
+«*Senti...*»
 
-«Dai che ti va più che ha me.»
+«*Non ho voglia, Lele. Non ora.*»
+
+«*Dai che ti va più che ha me.*»
 
 Si avvicina e gli si mette sopra.
 
@@ -61,13 +65,13 @@ Mentre Porkoskin stava sbocchinando il cazzo sporco di merda di Lele che se l'er
 
 Mentre sono in piazza a pianificare, entra in scena Mario in un Maserati pieno di bandiere. Con un urlo e due trombette da stadio, annuncia l'intenzione di andare a fare giustizia in città per festeggiare il furto dell'automobile e la sconfitta degli sporchi negri.
 
-«Ma 'ndo l'hai rimediato ?»
+«*Ma 'ndo l'hai rimediato ?*»
 
-«Lo 'nculato a uno che era andato a pià il giornale e figurate  se co la partita lo cercavano! Eh eh eh!»
+«*Lo 'nculato a uno che era andato a pià il giornale e figurate se co la partita lo cercavano! Eh eh eh!*»
 
-«Il 190?»
+«*Il 190?*»
 
-«Fuso. Rimasto a Vermicino. Nu' rompete li cojoni, 'namo.»
+«*Fuso. Rimasto a Vermicino. Nu' rompete li cojoni, 'namo.*»
 
 Per arrivare alla città c'è una sola strada che conosce tante deviazioni. Qui il paesaggio si offre inconsueto, con luoghi che potrebbero essere ovunque, e quasi sembra di essere condotto in altre città. Queste deviazioni riportano poi improvvise alla vista rassicurante delle grandi piazze, da cui poi si snodano altri percorsi, dentro la stessa e in altre città.
 
@@ -83,11 +87,11 @@ Gli altri si ammazzano contro un muro mentre vanno a prendere i cornetti corrend
 
 Funerali di stato di Abdull, a reti unificate, discorso delle più alte autorità. Giggi riconosce:
 
-«Hanno fatto bene a dare spazio a quelle cose importanti e a quella brava persona, che io ho pure conosciuto».
+«*Hanno fatto bene a dare spazio a quelle cose importanti e a quella brava persona, che io ho pure conosciuto*».
 
 E già che c'è, si incazza, come tutte le brave persone, e pontifica, con consenso unanime:
 
-«Quell'infamata del decreto Biondi, che rimette in libertà tutti i ladri. Che io l'ho puro votati questi, perchè erano quello che ci voleva per risollevà l'Itaglia. Intanto la brava gggente more e l'infami prospereno, e ce rovinano puro la soddisfazione delle partite che uno vince perché se lo merita. Ma Forza Itaglia e daje e daje che io c'ho la speranza che tutte le persone oneste come noi possano un giorno sconfiggere tutta l'ipocrisia del mondo, ecc..»
+«*Quell'infamata del decreto Biondi, che rimette in libertà tutti i ladri. Che io l'ho puro votati questi, perchè erano quello che ci voleva per risollevà l'Itaglia. Intanto la brava gggente more e l'infami prospereno, e ce rovinano puro la soddisfazione delle partite che uno vince perché se lo merita. Ma Forza Itaglia e daje e daje che io c'ho la speranza che tutte le persone oneste come noi possano un giorno sconfiggere tutta l'ipocrisia del mondo, ecc.*.»
 
 Non si capisce se finge o se non ricorda o se proprio non si rende conto. Neanche quando vengono le guardie e gli annunciano il trasferimento.
 
@@ -97,10 +101,10 @@ Ritrovata la pistola, registrata dal padre di Lele, si palesa tutta la merda del
 
 Il sole implacabile secca le piante più deboli. Non vuole piovere. Non vuole proprio. Ma proprio no.
 
-•
-
-*Tratto da: Claudio Comandini, Basso Impero, Sovera Roma 2006, pp. 60-62.*
+*Fotografia: Claudio Comandini, "Forza, Italia" - Bologna-Roma 2011.*
 
 *Musica: L'Italia ha vinto (Comandini), registrata al Sound Club di Marino da Ernesto Ranieri nel maggio 2007. Claudio Comandini: voce, tromba, elettronica - Caterina Rosolino: kora - Ernesto Ranieri: chitarra elettrica - Francesco Ranieri: basso elettrico, batteria, percussioni.*
 
-*Fotografia: Claudio Comandini, "Forza, Italia" - Bologna-Roma 2011*
+*Tratto da: Claudio Comandini, Basso Impero, Sovera Roma 2006, pp. 60-62.*
+
+![](images/basso_impero_fronte.jpg){fig-align="center"}

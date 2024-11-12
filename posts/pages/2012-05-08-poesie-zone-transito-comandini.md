@@ -11,6 +11,8 @@ author: Claudio Comandini
 layout: PostLayout
 ---
 
+![](images/some_candies_publications.jpg){fig-align="center"}
+
 *«I testi esemplari qui prescelti \[...\] possono considerarsi precipitati di un più che decennale, multiforme processo alchemico, risultati di un'intensa ricerca di amore, libertà, conoscenza, esperita in presenza del gioco vitale degli elementi, del mistero del dì e della notte, della parola e del silenzio. Di questo gioco, di questo mistero, rimane traccia, ora come filigrana ora come lievito, nelle strutture poetiche di Claudio Comandini, severe, ma anche a volte aperte al balenare di un'accesa visività. L'approdo poetico rappresenta per Comandini l'autentica meta, il punto di condensazione di un'ampia spirale di appassionate avventure intellettuali attraverso non soltanto le contrade d'Europa, o i suggestivi ipogei dove regnano le Madri e gli archetipi, ma anche attraverso le filosofie d'oriente e occidente, la vecchia e la nuova scienza, la musica direttamente praticata.» (Emerico Giachery)*\
 \
 
@@ -170,8 +172,6 @@ e poi più nulla\
 un altro mondo inizia, lo stesso,\
 \
 *(tharros equinozio d'autunno 88)*\
-
-•
 
 \
 *Prima pubblicazione: «La Scrittura» n. 7, autunno-inverno 97/98.*\

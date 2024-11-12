@@ -9,6 +9,8 @@ categories:
   - Claudio Comandini
 ---
 
+![](images/il-negozio-delle-chiavi-572x381.jpg){fig-align="center"}
+
 *Quattro poesie di viaggio: Texel, Praga, Monaco, Sitges.*
 
 ## LA FABBRICA DELLE NUVOLE
@@ -53,20 +55,14 @@ Costellate di bianche torricelle\
 Nei vicoli si sporgono figure\
 Dalle mura implorano la morte\
 \
-*sitges, inverno 85*\
+*sitges, inverno 85*
 
-•
-
-Note di copertina:
-
-Il LARP (LABORATORIO APERTO DI RICERCA POETICA) è un gruppo di giovani poeti che legge, e si legge, critica e discute con l'ospite unico e graditissimo di ogni serata che è la poesia. Dal settembre del '91 si rinnova l'incontro, e lo scontro, udite udite, di poetiche eterogenee; qui dentro si possono individuare tutte le tensioni interne alla poesia del '900 e non solo, direbbe il critico intelligente. Il menù prevede inoltre: scrittura collettiva e individuale a tema e non, e - a uso esterno - letture pubbliche in locali pronti ad accogliere la poesia, in altri non pronti ad accoglierla, in metropolitana ecc. ecc. Avvertenza: l'antologia che da qui a poco inizierete a leggere chiude solamente il primo anno di attività, ergo...
-
-Autori:
-
-Riccardo Angiolani - Francesco Ardolino - Attilia Bellia - Marco Bellocchi - Nicola Biondo - Valerio Bispuri - Simone Caltabellota - Stefano Campa - Marco Cassini - Adele Ciampa - Andrea Colace - Claudio Comandini - Francesco Consiglio - Mario De Felicis - Carla De Simone - Michele Fianco - Fabrizia Gianì - Patrizia Licata - Ippolito Maccio - Gianni Maddalena - Maja Maiore - Marcello Manunza -- Alessandro Mariotti - Anna Matos - Menelvagor - Enrico Monier - Alessia Muroni - Gianni Nicolai - Vincenzo Ostuni - Gianfranco Osu - Paolo Pagnoncelli - Gianni Palocci Poveri - Lorenzo Pompeo - Luciana Preden - Laura Pugno - Dante Quaglietta - Lidia Riviello - Elena Sagretti - Alessio Saitta - Giovanna Salabè - Antonio M. Salvemini - Alimberto Torri - Igor Venturini
+*Fotografia: Claudio Comandini, "Keyworld" - Sofia, agosto 2002.*
 
 *Prima pubblicazione: AAVV, LARP - LABORATORIO APERTO DI RICERCA POETICA, Millelire-Stampa Alternativa, Roma 1993 Le poesie sono state successivamente incluse nel libro "Un giorno lungo un sogno" (Noubs, Chieti 2001), e sono qui presenti nelle loro versioni definitive.*
 
-•
+Il LARP (LABORATORIO APERTO DI RICERCA POETICA) è un gruppo di giovani poeti che legge, e si legge, critica e discute con l'ospite unico e graditissimo di ogni serata che è la poesia. Dal settembre del '91 si rinnova l'incontro, e lo scontro, udite udite, di poetiche eterogenee; qui dentro si possono individuare tutte le tensioni interne alla poesia del '900 e non solo, direbbe il critico intelligente. Il menù prevede inoltre: scrittura collettiva e individuale a tema e non, e - a uso esterno - letture pubbliche in locali pronti ad accogliere la poesia, in altri non pronti ad accoglierla, in metropolitana ecc. ecc. Avvertenza: l'antologia che da qui a poco inizierete a leggere chiude solamente il primo anno di attività, ergo...
 
-*Fotografia: Claudio Comandini, "Keyworld" - Sofia, agosto 2002.*
+Riccardo Angiolani - Francesco Ardolino - Attilia Bellia - Marco Bellocchi - Nicola Biondo - Valerio Bispuri - Simone Caltabellota - Stefano Campa - Marco Cassini - Adele Ciampa - Andrea Colace - Claudio Comandini - Francesco Consiglio - Mario De Felicis - Carla De Simone - Michele Fianco - Fabrizia Gianì - Patrizia Licata - Ippolito Maccio - Gianni Maddalena - Maja Maiore - Marcello Manunza -- Alessandro Mariotti - Anna Matos - Menelvagor - Enrico Monier - Alessia Muroni - Gianni Nicolai - Vincenzo Ostuni - Gianfranco Osu - Paolo Pagnoncelli - Gianni Palocci Poveri - Lorenzo Pompeo - Luciana Preden - Laura Pugno - Dante Quaglietta - Lidia Riviello - Elena Sagretti - Alessio Saitta - Giovanna Salabè - Antonio M. Salvemini - Alimberto Torri - Igor Venturini
+
+![](images/Laboratorio Aperto di Ricerca Poetica (poesie, 1993).jpg)

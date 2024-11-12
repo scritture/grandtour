@@ -25,6 +25,8 @@ categories:
   - Claudio Comandini
 ---
 
+![](images/brindisi_mancati.jpg){fig-align="center"}
+
 *Le origini di Superman, la storia di Metropolis, l'amore perduto di Adolf Hitler. Una separazione sullo scenario di una città separata.*
 
 In un altro mondo possibile, nel salotto di una casa di Shöneberg, una coppia d'anziani guarda *Metropolis*. Siamo alle ultime scene. In uno strano connubio di dittatura e rivolta, sindacato e messianismo, Frader, figlio del padrone della città, diventa il *mediatore* tra macchina e operai e ricompone il cuore di una società spezzata tra braccia e cervello, facendosi interprete delle esigenze di un popolo non diviso in classi.

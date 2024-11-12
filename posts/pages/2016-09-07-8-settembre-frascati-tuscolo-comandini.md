@@ -22,6 +22,8 @@ categories:
   - Claudio Comandini
 ---
 
+![](images/persistenza-delle-rovine-678x381.jpg){fig-align="center"}
+
 *Il Vulcano Laziale e le anime dei morti. II Guerra Mondiale e storia di Roma nel medioevo. Le prime bombe su Frascati e l'ultimo assedio a Tusculum. Un'icona e i monumenti di una piazza. Douhet: legittimazione teorica delle stragi civili. Storia e memoria dell'8 settembre 1943 e del17 aprile 1091. Dopoguerra e attualità. Freud e le nevrosi della Campagna Romana. L'oblio e le città.*
 
 ## 1. Distruzioni ricorsive
@@ -32,7 +34,7 @@ Alcuni elementi di carattere simbolico ben presenti nel paesaggio possono aiutar
 
 Su quella collina sorgeva l'antica e potente Tuscolo. Il mito la vuole fondata da Telegono e protetta dai Dioscuri. La sua storia attraversa la storia latina, romana e medievale. Come ricorda Cicerone, che vi risiede e gli dedica anche il suo capolavoro filosofico *De Tusculanae Disputationes*, il municipio ha fornito alla Roma Repubblicana *«moltissime famiglie consolari»*, tra le quali i Mamili, gli Juvenzi, i Fulvi, i Sulpici, i Furi, i Manli e i Catoni; nella fase di transizione tra Regno e Repubblica i rapporti di Tuscolo con Roma contribuiscono a definire il diritto romano, con l'impero la città accompagna l'Urbe nella sua magnificenza. Nel periodo dell'*incastellamento* esprime il potere dei Conti di Tuscolo, eredi delle vaste fortune della stirpe di Teofilatto, Marozia e Alberico, i quali esprimono potere sulle strutture religiose e civili dell'Urbe; il rapporto essenziale con i sovrani tedeschi viene quindi sviluppato da esponenti della casata quali l'illustre pontefice Benedetto VIII e il potente feudatario Tolomeo II. Tuscolo conosce quindi la fine per effetto delle lunghe trattative che, coinvolgendo gli interessi di Comune di Roma, Chiesa e Impero, portano i rapporti tra tali istituzioni a nuovi equilibri.
 
-Tra le località nate dallo smembramento del vasto feudo tuscolano, la principale è Frascati. La cittadina conosce una dedica *«in suffragio delle anime dei defunti»* nella lapide sul lato nord del più antico monumento, il campanile di San Rocco del 1305, della chiesa detta anche di Santa Maria in Vivario, sovrastante il *vivarium* (vasca dei pesci) della villa appartenuta al senatore Passieno Crispo e quindi al suo figlioccio Nerone. Frascati è oggetto delle attenzioni di signori quali Enea Silvio Piccolomini (il pontefice umanista Pio II, sotto il quale ha influenza il transfuga bizantino card. Bessarione, vescovo tuscolano), Guglielmo D'Estouteville (nobile normanno legato alla casa reale francese, esperto di diritto canonico e munifico mecenate), Marcantonio I Colonna (grande condottiero, estensore dello Statuto della città), poi abbellita dagli architetti pontefici e quindi da quelli del Regno d'Italia, mantenendo sempre una *«certa cura»* (in sintonia con quanto aveva detto Strabone rispetto a Tuscolo). La città accoglie come fosse un salotto immerso nel verde la rappresentanza degli interessi di Roma.
+Lo smembramento del vasto feudo tuscolano si compie attraverso una lunga divisione patrimoniale e una parallela riduzione della sua importanza, che entra nella fase più cruenta con la demolizione della cinta muraria ordinanta nel 1172 da Comune di Roma. Frascati è la principale delle località nate da tale smembramento, ed era abitata pur se non propiamente urbanizzata già in epoca imperiale, e il suo nucleo sorge pertanto sulla villa appartenuta al senatore Passieno Crispo, alla moglie Agrippina e quindi al suo figlioccio Nerone. Il rapporto con le anime dei defunti che era proprio del vulcano ritrova forma nella dedica *«in suffragio»* riportata sulla lapide sul lato nord del più antico monumento, il campanile di San Rocco del 1305, della chiesa detta anche di Santa Maria in Vivario, sovrastante il *vivarium* (vasca dei pesci) della villa romana. Successivamente, Frascati è oggetto delle attenzioni di signori quali Enea Silvio Piccolomini (il pontefice umanista Pio II, sotto il quale ha influenza il transfuga bizantino card. Bessarione, vescovo tuscolano), Guglielmo D'Estouteville (nobile normanno legato alla casa reale francese, esperto di diritto canonico e munifico mecenate, papa mancato), Marcantonio I Colonna (grande condottiero, estensore dello Statuto della città), poi abbellita dagli architetti pontefici e quindi da quelli del Regno d'Italia, mantenendo sempre una *«certa cura»* (in sintonia con quanto aveva detto Strabone rispetto a Tuscolo). La città accoglie come fosse un salotto immerso nel verde la rappresentanza degli interessi di Roma.
 
 Anche le vicende che sembrano più lontane hanno attinenza con il nostro presente e, come ha ricordato il filosofo americano George Santayana, *«Un popolo che non medita sul suo passato è condannato a riviverlo»*. Di fatto, per qualche coincidenza favorita dalla geografia, secoli dopo la distruzione di Tuscolo, al termine della partecipazione dell'Italia al secondo conflitto mondiale al fianco della Germania, morte e distruzione presentano un'altra volta il conto al territorio. Anche in questo caso come segno di una storia che non è affatto legata soltanto al luogo nella quale si esprime.
 
@@ -56,7 +58,7 @@ Numerose città italiane, tedesche ed europee offrono ancora nitido esempio dei 
 
 I due terzi delle 60.000 vittime civili provocate in tutta Italia prima e dopo dell'8 settembre dalle incursioni aeree della II Guerra Mondiale trovano basi teoriche e legittimazione proprio da parte del generale italiano Giulio Douhet, che ne *Il comando dell'aria* (1921) assegna al bombardiere la funzione di realizzare stragi contro le popolazioni civili, costringendo così i paesi avversari ad arrendersi. La premessa è che le condizioni delle moderne società dei consumi annullano la distinzione tra belligeranti e non belligeranti. Tali condizioni, che permettono di associare la rappresaglia al monito, l'inutilità alla ferocia, la menzogna all'inefficacia, valgono ancora oggi.
 
-![8.09.1943, ore 17:00. Frascati, piazza San Pietro](/images/2016/09/bomb-300x225.jpg)
+![*8.09.1943, ore 17:00. Frascati, piazza San Pietro*](/images/2016/09/bomb-300x225.jpg){fig-align="center"}
 
 ## 2. Le memorie di un giorno
 
@@ -162,7 +164,7 @@ L'ultima grande vittoria tedesca a Roma si era registrata nel 1167 a Prataporci 
 
 Le truppe romane quindi subiscono nel 29 maggio 1167, giorno di Pentecoste, una sconfitta cocente, alla quale si attribuiscono più di 1.000 morti e circa 2.000 prigionieri, poi condotti a Viterbo dai filoimperiali Prefetti di Vico. Il pontefice Alessandro III Bandinelli, che era stato contrario alla spedizione contro Tuscolo, fugge coperto con l'aiuto dei Frangipane prima a Gaeta e poi a Benevento presso i Normanni; a lui la città si consegnerà dopo la definitiva fuoriuscita di Rayno dei Conti di Tuscolo, che per timore dell'inevitabile rappresaglia scambia l'antica rocca con Montefiascone e Borgo Flaviano sulla ben esposta via Francigena (Cassia). In questo 1167, Barbarossa da Ancona giunge a Roma e pianta il vessillo imperiale presso il *Mons Albanus* (Monte Mario). A San Pietro viene incoronato a luglio per la seconda volta imperatore da parte dell'antipapa Pasquale III, che ad Aquisgrana ha già fatto santo Carlo Magno. Al momento, la supremazia degli imperiali è netta. Tuttavia, il trionfo è destinato a mutarsi in tragedia in breve tempo.
 
-![3.09.1943. Armistizio di Cassibile](/images/2016/09/armistizio_1943-300x234.jpg){fig-align="center"}
+![*3.09.1943. Armistizio di Cassibile*](/images/2016/09/armistizio_1943-300x234.jpg){fig-align="center"}
 
 ## 3. Le città dell'oblio
 
@@ -228,7 +230,7 @@ Ogni città è un racconto della storia, viva nelle sue pietre, anche laddove qu
 
 E così, anche nelle automobili che assediano centri storici posticci e male organizzati e nei parcheggi a pagamento il cui fondamentale diritto espresso è quello di fare cassa, nelle aree archeologiche feticizzate e precluse alla frequentazione i cui recinti esprimono tutele sempre troppo parziali incapaci di rendere presente la storia, possiamo vedere l'immagine della difficile, e tuttora incerta, transizione dell'Italia ad una democrazia compiuta. Transizione ancora più problematica, dal momento che ormai la democrazia non sembra una conquista civile, ma una merce da esportare e imporre. E mentre la politica e la storia lasciano troppe questioni insolute, le guerre non finiscono mai, continuando a distruggere altre città.
 
-![Mario Titi (1921-1982), Ricostruzione ideale del Tuscolo](/images/2016/09/tuscolo-mario-titi-300x228.jpg)
+![*Mario Titi (1921-1982), Ricostruzione ideale del Tuscolo*](/images/2016/09/tuscolo-mario-titi-300x228.jpg){fig-align="center"}
 
 •
 

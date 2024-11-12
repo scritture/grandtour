@@ -19,6 +19,8 @@ image:  /images/2010/07/sin-640x381.jpg
 author: Claudio Comandini
 ---
 
+![](images/sin-640x381.jpg){fig-align="center"}
+
 *Le critiche al determinismo meccanicista. Kleist: il peccato originale della razionalità. Schiller: la tensione morale all'ideale. Kant: il tutto e le parti. Goethe: la veste vivente della divinità. Hegel: reciprocità di mezzo e fine. Boutroux: il contingentismo. Einstein: caso e probabilità. Heisenberg: osservare la potenzialità. Husserl: la recettività. Montale e l'improbabilità del mondo: "Fine dell'infanzia". Simmel: il paesaggio. Obliquità fra linguaggio e cose. Bergson: la memoria ascensionale. Mallarmé: il percorso orfico. Disgregazione del cosmo. Baader e la caduta di Lucifero. "Male di vivere" e responsabilità. L'universo e la toilette. "Marezzo", "Incontro" e le basse sfere. La negazione come impulso etico. Critica a Gentile. "Non chiederci la parola".*
 
 ## 1. Le nature della modernità

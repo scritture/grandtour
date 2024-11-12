@@ -16,6 +16,8 @@ categories:
   - Claudio Comandini
 ---
 
+![](images/panni_stesi_sull_egeo.jpg){fig-align="center"}
+
 *Disincanto, ironia, lingua fluida, miti rovesciati e tempo non lineare in Montale e Kavàfis nella lettura di Cristiano Luciani.*
 
 I percorsi della poesia attraversano distanze di tempo e luogo e si intrecciano creando legami non immediatamente percepibili. Nato ad Alessandria d'Egitto, Kostantinos Kavàfis, tra i principali esponenti della letteratura neogreca, muore a settant'anni nel 1933. Lo stesso anno il trentaseienne Eugenio Montale è alle prese con le riedizioni degli *Ossi di Seppia* (prima edizione Gobetti 1925) e la stesura delle poesie de *Le Occasioni* (1939). Il rapporto letterario, precedente l'interesse concreto di Montale verso Kavàfis soltanto analizzato da Cristiano Luciani (docente di Letteratura neogreca all'Università di Tor Vergata) nel saggio *Montale, Kavàfis e la Grecia Moderna* (2006-2016) che, soffermandosi anche sulle traduzioni in greco di Montale, contribuisce tanto a comprendere la poetica di questi, quanto ad approcciare la poesia dell'altro. Attraversiamo il libro cercando di rintracciare i fili da cui il discorso si dipana.
