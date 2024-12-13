@@ -6,9 +6,13 @@ image: /images/2016/08/intensita-640x381.jpg
 title: Poesie per un giorno di primavera
 categories:
   - poesia
+  - musica
   - guerra
+  - premi letterari
   - Claudio Comandini
 ---
+
+![](images/intensita.jpg){fig-align="center"}
 
 *Alcuni momenti di una lunga stagione poetica.*\
 \
@@ -75,7 +79,7 @@ senza mai sciogliere il nodo fra disgrazia e\
 \
 benedizione.\
 \
-*Autunno 1998 - Premio Internazionale Domenico Stromei, Tocco di Casauria, 2000*\
+*Autunno 1998 - Premio Internazionale Domenico Stromei, Tocco di Casauria 2000*\
 
 ## RELATIVITÁ
 
@@ -150,9 +154,6 @@ Dal fossato al firmamento precipita.\
 \
 *Inverno 1989, inverno 1993 - Slam Poetry, Colonna 2001*
 
-\
-•
-
 *"Porto mediterraneo" e "Grande premio a premi la poesia oggi" sono pubblicate su "Un giorno lungo un sogno", 2001; "Zona Limite" e "La sera prima d'incontrarci" su "Antologia del premio D'Annunzio e Michetti", 2000; "Pavane - Canzone d'amore e morte" sull'antologia "Premio internazionale Città di Tocco di Causaria", 2000; "Guerra virtuale e reale" è presente in una versione musicata sul CD audio "Parachuting Nonsense!", 2009 e in un'altra versione sul mio [Soundcloud](https://soundcloud.com/claudio_comandini). Tutti i libri sono stati pubblicati dalle edizioni Noubs di Chieti, il CD è uscito per la label Setola di Maiale di Pordenone; la disponibilità delle opere è al momento esaurita.*
 
-*Fotografia: Claudio Comandini, "Intensità" - Bologna marzo 2008.*
+*Fotografia: Claudio Comandini, Intensità (Bologna marzo 2008).*

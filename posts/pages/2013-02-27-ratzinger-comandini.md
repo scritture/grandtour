@@ -26,7 +26,9 @@ categories:
   - Claudio Comandini
 ---
 
-*Abdicare in latino. La storia al tempo dei media. Erodoto: vedere e presente. Kant e S. Giovanni della Croce: fede e ragione. Simone Weil: ripensare la fede nella libertà dell'intelligenza. I candidati del Conclave. La rinuncia del cardinale O'Brien, accusato di pedofilia. La commisione su Vatileaks. La distruzione del sigillo. Ratzinger tra canoni e originalità. Origene e Unamuno: apocatastasi, anacefalosi e ricapitolazioni varie. «Fare pulizia»: delitti della Chiesa e lateralità della decisioni. Le attività di Marcinkus e dello IOR, la morte di Giovanni Paolo I, il ruolo dell'Opus Dei, l'attentato di Alì Agca a Giovanni Paolo II, il rapimento di Emanuela Orlandi, il caso Calvi. La dichiarazione dell'avvocato Jonathan Levy. L'ambigua eredità di Wojtyla. La Chiesa e la necessità a base contingente. Schmitt: cattolicesimo e politica. Perniola: il cattolicesimo culturale. Nanni Moretti profeta. L'eccellenza di S. Giovanni della Croce e S. Ignazio da Loyola. Il brick-a-brack spiritualeggiante e l'odio di sé. Ratzinger e la filosofia. Il corpo come segno e il caso Pistorius. Le persone oneste e lo schifo per la Chiesa. Jung: i doveri della Chiesa. Secolarizzazione e diffusione dei concetti religiosi. Derrida e Agamben: transustanziazione e liturgia. Ferraris: gli equivoci religiosi. Voltaire: le superstizioni omosessuali. Žižek: le dimissioni di Dio. Andiamo in pace.*
+![](images/sulle_spalle_il_mondo.jpg){fig-align="center"}
+
+*Abdicare in latino. La storia al tempo dei media. Erodoto: vedere e presente. Kant e San Giovanni della Croce: fede e ragione. Simone Weil: ripensare la fede nella libertà dell'intelligenza. I candidati del Conclave. La rinuncia del cardinale O'Brien, accusato di pedofilia. La commisione su Vatileaks. La distruzione del sigillo. Ratzinger tra canoni e originalità. Origene e Unamuno: apocatastasi, anacefalosi e ricapitolazioni varie. «Fare pulizia»: delitti della Chiesa e lateralità della decisioni. Le attività di Marcinkus e dello IOR, la morte di Giovanni Paolo I, il ruolo dell'Opus Dei, l'attentato di Alì Agca a Giovanni Paolo II, il rapimento di Emanuela Orlandi, il caso Calvi. La dichiarazione dell'avvocato Jonathan Levy. L'ambigua eredità di Wojtyla. La Chiesa e la necessità a base contingente. Schmitt: cattolicesimo e politica. Perniola: il cattolicesimo culturale. Nanni Moretti profeta. L'eccellenza di San Giovanni della Croce e S. Ignazio da Loyola. Il brick-a-brack spiritualeggiante e l'odio di sé. Ratzinger e la filosofia. Il corpo come segno e il caso Pistorius. Le persone oneste e lo schifo per la Chiesa. Jung: i doveri della Chiesa. Secolarizzazione e diffusione dei concetti religiosi. Derrida e Agamben: transustanziazione e liturgia. Ferraris: gli equivoci religiosi. Voltaire: le superstizioni omosessuali. Žižek: le dimissioni di Dio. Andiamo in pace.*
 
 ## 1. Gesti e *historia*
 
@@ -114,6 +116,4 @@ Il gesto del papa può così fornire al mondo cattolico, molto più ampio di un'
 
 Se il gregge si sente solo, smarrito e in contraddizione, forse sta soltanto crescendo: sarebbe poi pure ora che non sia più composto da pecorelle. Piuttosto, visto che effettivamente il nostro momento storico comporta scelte enormemente difficili per gli uomini, occorre preoccuparsi di guarire le ferite di un futuro incerto, così come ognuno può essere in grado di fare. Tocca a noi. Andiamo in pace.
 
-•
-
-*Fotografia: Claudio Comandini, "Sulle spalle il mondo" - Villa Aldobrandini di Frascati - aprile 2008.*
+*Fotografia: Claudio Comandini, Sulle spalle il mondo (Villa Aldobrandini di Frascati - aprile 2008)*

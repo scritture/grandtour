@@ -11,7 +11,7 @@ image: /images/2016/07/studium-678x381.jpg
 author: Claudio Comandini
 ---
 
-![](images/studium-326x245.jpg){fig-align="center"}
+![](images/studium.jpg){fig-align="center"}
 
 *Andy Warhol e 96 famosi al giorno. Caccole e pane. Smarrire la dignità.*
 
@@ -21,6 +21,6 @@ Abbiamo quindi un mondo affollato di famosi, un vero e proprio pianeta dei famos
 
 Infatti, forse nessuno di noi ormai può o vuole sottrarsi alla spietata macchina di questa infima fama, quasi nessuno ne mette più in dubbio dettami e rituali: è questa ormai la nostra "*cultura*" e senza scampo assistiamo trepidanti all'indegno spettacolo della nostra impotente mediocrità. Come se fossimo sempre sotto le telecamere, ansimiamo per toccare un pur minimo famoso, o per strappargli qualche autografo distratto, o per inglobarlo nella nostra galassia di autoritratti auto-referenziali ed essere così nell'orbita della "*famosità*". Tuttavia, in tutto questo daffare, sembra come che le telecamere ci sorprendano, ogni volta, a giocare con le caccole: levandole, tirandole, collezionandole, mangiandole.
 
-È sotto il naso di tutti. Nel gloriarci di queste caccoline, perdiamo il pane di una cultura che mai potrà appartenere a pulsioni talmente basse, a debolezze di pensiero così volgari. Ma non importa più conoscere: è sufficiente compiacersi, e ci sono del resto anche molte persone importanti che si compiacciono della propria inutilità per prendere sul serio soltanto il caccolame. Dire qualcosa, mai: non sta bene. Tutto ciò, più che infimo, è infame, e stare sul punto di smarrire anche la stessa possibilità di pensare la dignità, il rigore e l'impegno rappresenta un danno di proporzioni, più che globali, cosmiche. Tuttavia, a nessuno gliene frega niente, sul pianeta dei famosi.
+È sotto il naso di tutti. Nel gloriarci di queste caccoline, perdiamo il pane di una cultura che mai potrà appartenere a pulsioni talmente basse, a debolezze di pensiero così volgari. Ma non importa più conoscere: è sufficiente compiacersi, e ci sono del resto anche molte persone importanti che si compiacciono della propria inutilità per prendere sul serio soltanto il caccolame. Dire qualcosa, mai: *non sta bene*. Tutto ciò, più che infimo, è infame, e stare sul punto di smarrire anche la stessa possibilità di pensare la dignità, il rigore e l'impegno rappresenta un danno di proporzioni, più che globali, cosmiche. Tuttavia, a nessuno gliene frega niente, sul pianeta dei famosi.
 
-*Fotografia: "Studium" - Bologna, aprile 2008.*
+*Fotografia: Claudio Comandini, Studium (Bologna 2007).*

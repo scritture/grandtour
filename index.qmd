@@ -2,47 +2,47 @@
 title: "Cosa è Grand Tour"
 ---
 
-![*Bartolomeo Nazari, Gustavus Hamilton, 2nd Viscount Boyne, and Friends in a Ship's Cabin (1731-1732)*](/images/immagini_varie/Gustavus_Hamilton,_1710-46,_2nd_Viscount_Boyne,_and_Friends_in_a_Ship's_Cabin.jpg)
+![Bartolomeo Nazari, *Gustavus Hamilton, 2nd Viscount Boyne, and Friends in a Ship's Cabin* (1731-1732)](images/immagini_scritture/index/Gustavus_Hamilton,_1710-46,_2nd_Viscount_Boyne,_and_Friends_in_a_Ship's_Cabin.jpg){fig-align="center"}
 
 Il Grand Tour era il viaggio di formazione della nobiltà europea nell'epoca di una modernità assetata di classicismo. **Grand Tour** oggi è un progetto multiforme e articolato, suscettibile di continui cambiamenti eppure coerente, aperto a collaborazioni purché conformi alla propria impostazione. Al momento, comprende il [Grand Tour BookWineBar](https://grandtour.shop/bookwinebar.html) di Frascati, il blog di approfondimenti culturali [Scritture - Decostruire l'attualità](https://grandtour.shop/scritture.html), le escursioni guidate nel territorio del [Mistery Tour: la Città Tuscolana](https://grandtour.shop/turismo.html), nonché gli [Incontri](https://grandtour.shop/incontri.html) realizzati nel locale.
 
-![*Emil Brack, Planning the Grand Tour young lovers in room (undated)*](/images/immagini_varie/Emil%20Brack%20-%20Planning%20the%20Grand%20Tour%20young%20lovers%20in%20room.jpg){fig-align="center"}
+![Emil Brack, *Planning the Grand Tour young lovers in room* (undated)](images/immagini_scritture/index/Emil%20Brack%20-%20Planning%20the%20Grand%20Tour%20young%20lovers%20in%20room.jpg){fig-align="center"}
 
 ## Grand Tour BookWineBar
 
-![](/images/immagini_bookwinebar/logo_grandtour_trasparente.png){width="258"}
+![](images/logo/logo_grandtour/logo_grandtour_trasparente.png){fig-align="left" width="312"}
 
 La prima, unica e vera osteria letteraria di Frascati. Posto caratteristico per quanto inconsueto, presidio di quartiere e punto attrattivo dell'area, luogo di ritrovo e di consultazioni, è un bar, una libreria, un circolo: un piccolo grande spazio che si propone quale tappa di qualsiasi viaggio possibile. Pubblicazioni scelte, oggetti e vestiti vintage, prodotti tipici e pregiati, laboratorio di produzioni culturali, con particolari attenzioni alla filosofia, alla poesia e alla musica, dove vengono presentati contenuti che trovano spazio su [Scritture](#0) e su [Musiche](#0). È gestito dallo scrittore e musicista Claudio Comandini, figlio d'arte di una lunga dinastia di osti ed esponente di spicco dell'intellighenzia ribelle capitolina. Presso il centro storico, a Largo Duca di York 8, immediatamente riconoscibile dai murales d'ingresso, realizzati dal pittore Stefano Salvi.
 
-![](/images/immagini_bookwinebar/fuori1.JPG){fig-align="center" width="623"}
+![](images/immagini_bookwinebar/bar/fuori1.JPG){fig-align="center"}
 
 Libri che sbocciano in volo e omaggi decostruzionisti alle Colonne d'Ercole del Teatro delle Acque di Villa Aldobrandini introducono al locale dove, rigorosamente collocati su scaffali che già rappresentano un [Catalogo](https://grandtour.shop/catalogo.html), è possibile scovare migliaia di libri, anche antichi e in lingue straniere, senza escludere dischi e fumetti, nonché un assortita scelta di vestiti e oggetti vintage.
 
-![](images/immagini_bookwinebar/_fotolocale/LQOU4504.JPG){fig-align="center" width="664"}
+![](images/immagini_bookwinebar/bar/a_tavola.JPG){fig-align="center"}
 
 Tra un bicchiere di Frascati bianco e di rosso dei Castelli, tisane e tè riccamente assortiti, drink vari, prodotti tipici, aperitivi creativi, si può partecipare agli [Incontri](https://grandtour.shop/incontri.html), che comprendono conferenze, performance e gli appuntamenti settimanali *Laboratorio filosofia* (giovedì), *Aperilibro ad alta voce* (venerdì), *Karaoke paradise* (sabato), *Risiko e altre battaglie* (domenica), nonché le visite guidate del [Tuscolo Mistery Tour](https://grandtour.shop/turismo.html). Completano le suggestioni dello spazio una ricca galleria di maschere, prevalentemente africane, e un'antica grotta vinaria con originali allestimenti.
 
-![](images/immagini_bookwinebar/calendario.jpg){fig-align="center"}
+![](images/immagini_bookwinebar/iniziative/calendario.jpg){fig-align="center"}
 
 ## Scritture - Decostruire l'attualità
 
-![](images/immagini_scritture/_logo/attuale/ultimi/mono_scritta.jpg){width="258"}
+![](images/logo/logo_scritture/attuale/ultimi/mono_scritta.jpg){fig-align="left" width="311" height="323"}
 
 [**Scritture - Decostruire l'attualità**](https://grandtour.shop/scritture.html) è una rivista digitale che si propone di esplorare le diverse declinazioni della scrittura, con attenzioni a differenti tipi di *testo* (narrativo, poetico, saggistico, pubblicistico, digitale), a diverse forme di *tessitura* (musica, arte, fumetto, teatro, cinema, performance), a diverse modalità di *incidere* (nella storia come sul presente). Si ispira apertamente a un'etica della conoscenza e non al politically correct, esclude senza riguardi idiozie alla moda e provocazioni fini a se stesse per cercare di accogliere posizioni sensate, documentate e argomentate e quindi di favorire la critica più accanita e le opportune dispute di idee.
 
-![](images/immagini_bookwinebar/_fotolocale/LKXN8281.JPG)
+![](images/immagini_bookwinebar/libreria/libri_antichi.JPG){fig-align="center"}
 
 [Scritture](https://grandtour.shop/scritture.html) pubblica materiali originali e ripropone testi significativi, sollecita e accoglie collaborazioni, diffonde informazioni sulle diverse aree disciplinari e aggiornamenti sugli strumenti professionali dei mestieri creativi. Le [Musiche](#0) sono trattate in una specifica sezione che, viaggiando per luoghi, epoche e stili, si propone di promuovere quanto trova spazio negli [Incontri](#0) del [BookWineBar](#0), mentre a loro volta le visite guidate del [Tuscolo Mystery Tour](#0) tendono a presentare contenuti proposti nel sito. È inoltre prevista la realizzazione di pubblicazioni cartacee e altri prodotti editoriali.
 
 ## Mistery Tour: la Città Tuscolana
 
-![](/images/immagini_varie/cattedrale-carnevale.jpeg){fig-align="center"}
+![](images/immagini_scritture/index/cattedrale-carnevale.jpeg){fig-align="center"}
 
 Tuscolo è più antica di Roma e ancora oggi la sovrasta, le memorie storiche dell'area sono immense. Nel viaggio alla scoperta di quelle che oggi sono conosciute come le città dell'eccellenza enogastronomica, possiamo incontrare le rovine di epoca imperiale e il Museo del vino presso Monte Porzio, il medioevo e l'Abbazia di San Nilo a Grottaferrata, la città di Frascati con la sua incantevole urbanistica e le magnifiche ville barocche che la costellano. A richiesta, è possibile attivare anche la visita dei borghi che sorgono sulle sponde dei laghi di Albano e Nemi, incastonati nei boschi ai piedi di Monte Cavo, la più alta montagna della zona. L'area tuscolana e i suoi dintorni non avranno più segreti, grazie ai servizi di trasporto e turismo offerti da un team professionale e affiatato. I testi di riferimento del [tour](https://grandtour.shop/turismo.html) sono forniti su [Scritture](https://grandtour.shop/scritture.html).
 
 ## Claudio Comandini. Autoagiografia non breve ma spiritosa
 
-![](/images/immagini_varie/ombra.jpeg){fig-align="center"}
+![](images/immagini_scritture/index/ombra.jpeg){fig-align="center"}
 
 Nasco a Frascati nel 27 febbraio del 1967, mentre i Pink Floyd a Londra registrano il loro primo 45 giri. Lo stesso giorno, nel 1932 nasce l'attrice Liz Taylor; nel 1902, lo scrittore John Steinbeck; nel 1861, il filosofo e antroposofo Rudolf Steiner; indietro di qualche secolo, all'inizio della datazione cristiana, nel 274 troviamo, altrettanto originale e rigoroso, Costantino imperatore. Discendente di famiglie impegnate nella forse inutile seppur gloriosa unificazione del Paese, vengo allattato nell'osteria di famiglia, che lavora con una clientela internazionale, entrando così prematuramente in contatto con le musiche e le culture del mondo attraverso i canti degli ubriachi. Appena possibile, mi appassiono al mondo classico, a quello biblico e a quello dei fumetti, così come alle scienze sperimentali e alla teoria degli insiemi. Compio l'istruzione primaria presso istituti cattolici e, nonostante rischi di essere cacciato da scuola ogni giorno per la scarsissima disciplina e riceva anche minacce di scomunica, divento direttore del giornale dell'oratorio salesiano di Capocroce. Al Liceo scientifico statale di Grottaferrata mi interesso di arte e sovversione, studio musica da autodidatta e scrivo versi di nascosto, e nell'anno scolastico 1983-84 ricopro la carica di rappresentante d'istituto. Dopo un *grand tour* europeo in autostop, mi iscrivo nel 1987 alla facoltà di Filosofia dell'Università di Tor Vergata.
 
@@ -50,7 +50,7 @@ All'Università studio con docenti come Mario Perniola, ordinario di Estetica, u
 
 Dopo aver fatto l'oste fino ai trent'anni, occupandomi di enogastronomia prima che il settore andasse di moda, lascio il lavoro presso l'azienda di famiglia. Privilegiando la militanza culturale, mantengo autonoma la mia particolare inclinazione alla ricerca. Mi interesso di meditazione, alchimia e arti marziali, e frequento i corsi di Animazione del pensiero di Nello Mangiameli. Inizio a suonare la tromba e faccio parte della Titubanda di Roma. Insegno lingua e cultura italiana agli esuli politici di ogni nazionalità in collaborazione con la Casa dei Diritti Sociali e con l'Upter-Università Popolare di Roma. La mia attività letteraria riceve fra il 1999 e il 2001 segnalazioni al Premio Europeo Città di Frascati, al concorso 2000 versi/verso il 2000 del Sindacato Nazionale Scrittori (giuria composta da Vito Riviello, Maria Jatosti, Francesco De Girolamo, Eleonora di Fortunato, Carlo Livia, Bianca Menna), vinco una Slam Poetry condotta da Lello Voce e diversi altri premi. Nel 2001 pubblico un estratto dalla tesi di laurea (Philosophema nuova serie a.1 n.0 - il testo integrale è tuttora inedito) e il libro *Un giorno lungo un sogno* (Noubs 2001), «*teatro d'idee*» (Massimo Pamio) che comprende poesie scritte in un percorso di quindici anni e si snoda attraversando fasi del giorno, mari del nord e porti del sud, rivelando «*spiccata capacità di sintesi, eleganza del fraseggio, essenzialità delle immagini*» (Arnaldo Colasanti).
 
-Nella mia ricerca musicale, nella quale mi dedico alla tromba, agli strumenti elettronici e alla voce, esploro i rapporti tra parola e suono e quindi i linguaggi dell'improvvisazione; il componimento *Guerra Virtuale Reale* è assegnatario a Tollo del premio Ad un passo dalla poesia 2002. Nel 2003 contribuisco alla catalogazione di una biblioteca di autori italiani di filosofia diretta da Massimo Cacciari nel palazzo Annibaldeschi di Montecompatri. Nel 2004-2006 scrivo e sono redattore con la testata Controluce, con cui realizzo scritti di storia del territorio vista nel contesto di quella universale, politica internazionale al tempo della crisi, musica e arte. Ottengo l'iscrizione come pubblicista all'Ordine dei giornalisti. L'attitudine al *'vedere'* mi porta a coltivare la fotografia.
+Nella mia ricerca musicale, nella quale mi dedico alla tromba, agli strumenti elettronici e alla voce, esploro i rapporti tra parola e suono e quindi i linguaggi dell'improvvisazione; il componimento *Guerra Virtuale Reale* è assegnatario a Tollo del premio Ad un passo dalla poesia 2002. Nel 2003 contribuisco alla catalogazione di una biblioteca di autori italiani di filosofia diretta da Massimo Cacciari nel palazzo Annibaldeschi di Montecompatri. Nel 2004-2006 scrivo e sono redattore con la testata Controluce, con cui realizzo scritti di storia del territorio vista nel contesto di quella universale, politica internazionale al tempo della crisi, musica e arte. Ottengo l'iscrizione come pubblicista all'Ordine dei giornalisti. L'attitudine al *'vedere'* mi porta a coltivare la fotografia. Alcuni di questi scatti, come indicato, corredano questo sito.
 
 Nel 2006 lascio Roma e i Castelli Romani e pubblico il romanzo *Basso Impero* (Sovera) che lavora sul doppio registro di denuncia sociale e sperimentazione linguistica. La performance con adattamenti del testo e mie composizioni, in cui suono tutti gli strumenti, è finalista nel 2008 al premio Libera i Libri di Poggibonsi e nel 2010 vince il premio OneManBand di Bologna. Del libro scrive Marco Benedettelli: «*L'autore mescola il lirismo più interiore al grottesco più sfrenato, la lucida visione del nulla con tutti gli orpelli grondanti di simboli che la riempiono, le esplosioni interiori che distaccano da terra con l'ovattata deflagrazione dell'implodere di un mondo percepito come infinita periferia.* \[...\] *Le storie si intrecciano e si toccano tra loro, i capitoli e i paragrafi si accostano pagina dopo pagina come in un mosaico dai colori grondanti e dalle forme gonfie, da Basso Impero appunto.* \[...\] *Un libro che va assolutamente letto, senza esagerare, quanto meno se si vuole ridere alla facciaccia di tanta insulsa letteratura dell'alta classifica di oggi, e soprattutto della nostra decadenza.*»
 

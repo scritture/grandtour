@@ -5,7 +5,7 @@ citation-location: margin
 footnotes-hover: true
 ---
 
-![](images/immagini_bookwinebar/libreria05(1).jpeg)
+![](images/immagini_bookwinebar/libreria/libreria05(1).jpeg){fig-align="center"}
 
 ## **Colonnina destra**
 
@@ -75,7 +75,7 @@ Narrazioni Contemporanee
 
 ------------------------------------------------------------------------
 
-![](images/immagini_bookwinebar/angolosx.jpeg){fig-align="center"}
+![](images/immagini_bookwinebar/libreria/angolosx.jpeg){fig-align="center"}
 
 ## **Nicchia sound & vision**
 
@@ -111,7 +111,7 @@ Fiabe
 
 ------------------------------------------------------------------------
 
-![](images/immagini_bookwinebar/angolodxbig.jpeg){fig-align="center"}
+![](images/immagini_bookwinebar/libreria/angolodxbig.jpeg){fig-align="center"}
 
 ## **Scaffale blu (fumetti)**
 
@@ -163,7 +163,7 @@ Internazionali
 
 ------------------------------------------------------------------------
 
-![](images/immagini_bookwinebar/vetrina.jpeg){fig-align="center"}
+![](images/immagini_bookwinebar/bar/vetrina.jpeg){fig-align="center"}
 
 ## **Scaffale alto (romanità)**
 
@@ -205,19 +205,19 @@ Vitange: vestiti, bigiotteria, quadri, cartoline, oggetti
 
 ## Piano inferiore
 
-![](images/immagini_bookwinebar/occasioni.jpeg)
+![](images/immagini_bookwinebar/libreria/occasioni.jpeg){fig-align="center"}
 
 **Offerte speciali**
 
-![](images/immagini_bookwinebar/collezioni_bonelli2.jpeg){fig-align="center"}
+![](images/immagini_bookwinebar/libreria/collezioni_bonelli2.jpeg){fig-align="center"}
 
 **Collezioni Bonelli, Disney, manga e avventura**
 
-![](images/immagini_bookwinebar/collezioni_marvel.jpeg)
+![](images/immagini_bookwinebar/libreria/collezioni_marvel.jpeg){fig-align="center"}
 
 **Collezioni Marvel & DC**
 
-![](images/immagini_bookwinebar/vintage.jpeg){fig-align="center"}
+![](images/immagini_bookwinebar/locale-vintage/vintage.jpeg){fig-align="center"}
 
 **Vintage: abbigliamento e modernariato**
 

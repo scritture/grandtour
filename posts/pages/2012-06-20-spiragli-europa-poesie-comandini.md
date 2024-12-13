@@ -9,7 +9,7 @@ categories:
   - Claudio Comandini
 ---
 
-![](images/il-negozio-delle-chiavi-572x381.jpg){fig-align="center"}
+![](images/il_negozio_delle_chiavi-01.jpg){fig-align="center"}
 
 *Quattro poesie di viaggio: Texel, Praga, Monaco, Sitges.*
 
@@ -57,7 +57,7 @@ Dalle mura implorano la morte\
 \
 *sitges, inverno 85*
 
-*Fotografia: Claudio Comandini, "Keyworld" - Sofia, agosto 2002.*
+*Fotografia: Claudio Comandini, Keyworld (Sofia, agosto 2002).*
 
 *Prima pubblicazione: AAVV, LARP - LABORATORIO APERTO DI RICERCA POETICA, Millelire-Stampa Alternativa, Roma 1993 Le poesie sono state successivamente incluse nel libro "Un giorno lungo un sogno" (Noubs, Chieti 2001), e sono qui presenti nelle loro versioni definitive.*
 
@@ -65,4 +65,4 @@ Il LARP (LABORATORIO APERTO DI RICERCA POETICA) è un gruppo di giovani poeti ch
 
 Riccardo Angiolani - Francesco Ardolino - Attilia Bellia - Marco Bellocchi - Nicola Biondo - Valerio Bispuri - Simone Caltabellota - Stefano Campa - Marco Cassini - Adele Ciampa - Andrea Colace - Claudio Comandini - Francesco Consiglio - Mario De Felicis - Carla De Simone - Michele Fianco - Fabrizia Gianì - Patrizia Licata - Ippolito Maccio - Gianni Maddalena - Maja Maiore - Marcello Manunza -- Alessandro Mariotti - Anna Matos - Menelvagor - Enrico Monier - Alessia Muroni - Gianni Nicolai - Vincenzo Ostuni - Gianfranco Osu - Paolo Pagnoncelli - Gianni Palocci Poveri - Lorenzo Pompeo - Luciana Preden - Laura Pugno - Dante Quaglietta - Lidia Riviello - Elena Sagretti - Alessio Saitta - Giovanna Salabè - Antonio M. Salvemini - Alimberto Torri - Igor Venturini
 
-![](images/Laboratorio Aperto di Ricerca Poetica (poesie, 1993).jpg)
+![](images/Laboratorio%20Aperto%20di%20Ricerca%20Poetica%20(poesie,%201993).jpg)

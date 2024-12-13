@@ -9,60 +9,36 @@ categories:
   - Claudio Comandini
 ---
 
+![](images/vestitinudi-01.jpg){fig-align="center"}
+
 *Come in un calendario, il tempo ritorna e celebra nuovi inizi.*
 
-I
+I. La goccia insegna.
 
-La goccia insegna.
+II\. Un volto si scolpisce da dentro.
 
-II
+III\. Prima si ha una deformazione, poi si sceglie un mestiere.
 
-Un volto si scolpisce da dentro.
+IV\. Il desiderio di vuoto s'avvampa.
 
-III
+V. Terra bruciata più fertile di sterpaglia.
 
-Prima si ha una deformazione, poi si sceglie un mestiere.
+VI\. Dolore reclama salute.
 
-IV
+VII\. Vive bene chi è morto assai.
 
-Il desiderio di vuoto s'avvampa.
+VIII\. Forti delle possibili sconfitte.
 
-V
+IX\. Facile smarrire difficili conquiste.
 
-Terra bruciata più fertile di sterpaglia.
+X. Legge a sé sua ignoranza nasconde.
 
-VI
+XI\. Sempre in viaggio, sempre a casa.
 
-Dolore reclama salute.
+XII\. Pensiero è freccia e bersaglio.
 
-VII
+XIII\. Ventre di uomo gravido di madri.
 
-Vive bene chi è morto assai.
+*Aforisma XIII e foto pubblicate in "Nuovo Millennio : Nature Umane - L'ultimo calendario antico" (Edizioni Creative Partner, Roma 2000), realizzato in collaborazione con Maurizio Ciminelli, Greta Correani, Massimiliano Nemez.*
 
-VIII
-
-Forti delle possibili sconfitte.
-
-IX
-
-Facile smarrire difficili conquiste.
-
-X
-
-Legge a sé sua ignoranza nasconde.
-
-XI
-
-Sempre in viaggio, sempre a casa.
-
-XII
-
-Pensiero è freccia e bersaglio.
-
-XIII
-
-Ventre di uomo gravido di madri.
-
-*Aforisma XIII e foto pubblicate in "Nuovo Millennio :  Nature Umane - L'ultimo calendario antico", realizzato in collaborazione con Maurizio Vincenzo Ciminelli, Greta Correani, Massimiliano Nemez per Edizioni Creative Partner, Roma 2000.*
-
-*Fotografia: Claudio Comandini, "Vestitinudi" - Anagni, ottobre 1995.*
+*Fotografia: Claudio Comandini, Vestitinudi (Anagni, ottobre 1995).*

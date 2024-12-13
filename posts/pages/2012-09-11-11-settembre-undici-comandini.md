@@ -27,7 +27,7 @@ categories:
 
 Tuttavia, già da quel giorno, le immagini del disastro delle Torri Gemelle entrarono nel registro delle immagini, assumendone il monopolio, laddove il filosofo Jean Baudrillard affermò piuttosto tempestivamente sulle pagine del *Le Monde* che con quell'evento il rapporto dell'immagine con la realtà era ormai arrivato ad una radicalità assoluta.[^2] Il fumettista Art Spiegelman ne colse pienamente il senso nel titolo stesso dell'opera *The Shadow of No Tower*, con una sottigliezza purtroppo persa nella traduzione italiana.[^3]
 
-[^2]: Jean Baudrillard, *Lo spirito del terrorismo*, Raffaello Cortina 2001, Editore, p. 35.
+[^2]: Jean Baudrillard, *Lo spirito del terrorismo*, Raffaello Cortina Editore, Milano 2001, p. 35.
 
 [^3]: Art Spiegelman, *L'ombra delle torri* (2001), Einaudi, Torino 2004.
 
@@ -69,7 +69,7 @@ Indagini e verifiche di responsabilità devono però essere accompagnate da una 
 
 Per ottenere le risposte, occorre anche saper porsi le domande giuste, distinguere i dati, riconoscere le condizioni, ed evitare abbagli. Spunti significativi sono offerti dallo scrittore americano Gore Vidal, che pur essendo *"non allineato"* ha avuto un'esperienza particolarmente approfondita di mentalità e meccanismi della politica del paese, criticando in maniera marcata il potere delle componenti evangeliste, sviluppatosi da Carter a Bush, strettamente connesse con le lobbies petrolifere.[^13] Hanno poi una rilevanza straordinaria la gran massa di documenti e le ricostruzioni di politica internazionale fornite dal giornalista inglese di origine pakistana Nafeez Mossadeq Ahmed, che evidenzia i legami fra le intelligence degli USA e del Pakistan, gli interessi delle élite saudite, l'effettiva funzione dei Taliban afgani.[^14]
 
-[^13]: Gore Vidal, *La fine della libertà*, Fazi, Roma 2001; *Le menzogne dell'Impero*, Fazi, Roma 2002; *Democrazia tradita*, Fazi, Roma, 2004.
+[^13]: Gore Vidal, *La fine della libertà*, Fazi, Roma 2001; *Le menzogne dell'Impero*, Fazi, Roma 2002; *Democrazia tradita*, Fazi, Roma 2004.
 
 [^14]: Nafeez Mosaddeq Ahmed, *Guerra alla libertà*, Fazi, Roma 2002.
 
@@ -117,7 +117,7 @@ In ogni parte del mondo ci sono giornalisti che sanno ampliare questi parametri 
 
 Infatti, alla nebulosa dell'informazione tradizionale si affianca la galassia Internet, che nonostante permetta grosse opportunità di ricerca e divulgazione, porta troppe volte al prevalere di informazioni prive di fondamento e verifica, di pertinenza ad un quadro storico e concettuale. Del resto, leggere non è guardare, ma *intendere*, e scrivere non è digitare, ma *pensare*. Chi è arrivato sin qui, sa ovviamente di cosa stiamo parlando.
 
-L'aspetto paradossale e ancor più patologico è che, nonostante le pretese di sostituirsi al mondo reale, l'informazione destituisce di validità il rapporto della realtà con se stessa, e con il complesso dei suoi dispositivi ed interessi determina una "*comunicazione*" che approda all'esatta negazione del suo nome. In un clima di profonda alienazione, anche articoli d'opinione presuntivamente autorevoli possono essere realizzati evitando ogni verifica dei fatti di cui si parla, indignazioni solenni quanto generiche riescono al massimo a convalidare pregiudizi, stereotipi e falsità. A vederlo ridotto a queste condizioni, il pensiero sembrerebbe davvero ormai incapace di sintesi, come se possano durare solo i frammenti e la polvere.
+L'aspetto paradossale e ancor più patologico è che, nonostante le pretese di sostituirsi al mondo reale, l'informazione destituisce di validità il rapporto della realtà con se stessa, e con il complesso dei suoi dispositivi ed interessi determina una "*comunicazione*" che approda all'esatta negazione del suo nome. In un clima di profonda alienazione, anche articoli d'opinione presuntivamente autorevoli possono essere realizzati evitando ogni verifica dei fatti di cui si parla, indignazioni solenni quanto generiche riescono al massimo a convalidare pregiudizi, stereotipi e falsità. A vederlo ridotto a queste condizioni, il pensiero sembrerebbe davvero ormai incapace di sintesi, come se possano durare soltanto i frammenti e la polvere.
 
 Forse è davvero così. Il dato più evidente che sembra aver dimostrato l'11 settembre è la totale inadeguatezza umana, l'estraneità radicale dell'uomo a se stesso. La pressione di questa società è dura da sopportare, a volte è meglio guardarla da dietro uno schermo, che nasconde e rivela al contempo, permettendo anche di trincerarsi comodamente nei propri luoghi comuni preferiti. Tuttavia, per chi vuole, è sempre disponibile l'esercizio del pensiero, è comunque possibile osservare gli eventi e cercarne il senso. *Chiedersi perché* è un bisogno primario, dobbiamo esigere la comprensione delle cose.
 
@@ -125,6 +125,6 @@ Accettare l'inevitabile parzialità dei dati non può risparmiare dal cercare di
 
 Proviamo pertanto ad aprire uno spiraglio diverso, con un accenno piuttosto laterale. Undici anni fa crollavano le torri gemelle, che anche smaterializzate possono ricondursi all'espressione grafica del numero undici. Secondo il sistema dei simboli di numerose culture, undici rappresenta l'eccedenza a cui non si sa dare misura, una perturbazione di un ciclo in cui si annuncia conflitto e perdizione; tuttavia, in quanto costituito dal cinque e dal sei, il numero rappresenta anche la congiunzione di Cielo e Terra e la costituzione di una totalità: in occidente, Sant'Agostino ha dato voce alla prima evenienza, Dante alla seconda.[^25] Mai come in quel giorno, il cielo è precipitato sulla terra e il mondo è sembrato andare in frantumi. Mai come dopo quel giorno, il mondo ha richiesto di essere raccolto. L'insensato stesso ha preteso un senso. In qualunque modo le cose siano andate, questo è quanto è successo, e che continua ad accadere.
 
-[^25]: Jean Chevalier --Alain Gheerbrant, *Dizionario dei simboli* (1969), Rizzoli Milano 1986, pp. 515-516.
+[^25]: Jean Chevalier - Alain Gheerbrant, *Dizionario dei simboli* (1969), Rizzoli, Milano 1986, pp. 515-516.
 
-*Fotografia: Claudio Comandini, "Il cielo sopra" - spazio aereo, 2010.*
+*Fotografia: Claudio Comandini, Il cielo sopra (spazio aereo, 2010).*

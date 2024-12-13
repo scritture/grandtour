@@ -40,4 +40,4 @@ La finanza continua a giocare d'azzardo, alla virtualizzazione dell'economia seg
 
 Tuttavia, potrebbe pure essere che non piaccia poi così tanto.
 
-*Fotografia: Claudio Comandini, "Faceworld" - Grizzana Morandi, maggio 2012.*
+*Fotografia: Claudio Comandini, Faceworld (Grizzana Morandi, 2012).*

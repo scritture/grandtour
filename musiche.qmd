@@ -5,7 +5,7 @@ citation-location: margin
 footnotes-hover: true
 ---
 
-![](images/immagini_bookwinebar/_fotolocale/Musici.JPG)
+![](images/immagini_bookwinebar/bar/Musici.JPG){fig-align="center"}
 
 *Musiche si propone di promuovere quanto trova spazio negli [Incontri](https://grandtour.shop/incontri.html) del [BookWineBar](https://grandtour.shop/bookwinebar.html), e anche di viaggiare per luoghi, epoche e stili.*
 
@@ -13,42 +13,42 @@ footnotes-hover: true
 
 [In/comunicazioni (1993-2013)](https://soundcloud.com/claudio_comandini?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
-•
+\
 
 ## Yampapaya's Tribe
 
 [Suncave Session (2019)](https://www.youtube.com/watch?v=Vb628fmrEQM)
 
-•
+\
 
 ## Lele Baffo
 
 [Giovannino Giovannino (2022)](https://www.youtube.com/watch?v=v_V1Iwwk8tg)
 
-•
+\
 
 ## Brontolosauri
 
 [Viandanti musicali (2023)](https://www.youtube.com/watch?v=-IcvOQ-lS5A)
 
-•
+\
 
 ## Kiuf
 
 [This kind of groove (2010)](https://www.n1m.com/kiuf/song/722686-this-kind-of-groove)
 
-•
+\
 
 ## Improgressive
 
 [Live (2016)](https://www.youtube.com/watch?v=zwdDUPT1D9U)
 
-•
+\
 
 ## Iolanda La Carrubba
 
 [Areare l'area (2023)](https://youtu.be/XizPYvwnEZk?si=e1q2cQ9fD0zNW0au)
 
-•
+\
 
 *(In costruzione - intanto qualche assaggio...)*
