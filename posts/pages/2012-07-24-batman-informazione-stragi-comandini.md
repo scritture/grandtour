@@ -13,7 +13,7 @@ categories:
   - Claudio Comandini
 ---
 
-![](images/punti-di-vista-01.jpg){fig-align="center"}
+![](images/punti-di-vista-01.jpg){fig-align="center" width="628"}
 
 *Strage in un cinema di Colorado alla prima del Batman di Christopher Nolan. Gravi svarioni giornalistici sull'attribuzione della paternità del personaggio e della responsabilità del fatto. Breve profilo di James Holmes, autore delle strage, e dinamica dell'accaduto. "The Seduction of Innocents" di Wertham, la condanna dei fumetti, l'introduzione del Comics Code Authority durante la "caccia alle streghe". Le responsabilità criminali dei giornalisti secondo autori contemporanei di fumetti: Frank Miller, Neil Gaiman, Mike Carey, Garth Ennis. Reazioni inadeguate, sicurezza paranoide. Il mutamento dei rapporti tra realtà e immaginazione.*
 

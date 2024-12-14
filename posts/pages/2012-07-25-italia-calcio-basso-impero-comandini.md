@@ -15,7 +15,7 @@ categories:
   - Claudio Comandini
 ---
 
-![](images/forza-italia.jpg){fig-align="center"}
+![](images/forza-italia.jpg){fig-align="center" width="411"}
 
 *Dove si vince la partita e si incontrano quattramicialbar a fare festa e sono funerali di stato. Dal romanzo "Basso Impero".*
 

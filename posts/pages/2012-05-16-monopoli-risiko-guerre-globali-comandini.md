@@ -17,7 +17,7 @@ categories:
   - Claudio Comandini 
 ---
 
-![](images/giochi di guerra.jpg){fig-align="center"}
+![](images/giochi%20di%20guerra.jpg){fig-align="center" width="655"}
 
 *Monopoli e Risiko: regole e influenza. Teorie del gioco: Groos, Freud, Piaget. Fukuyama contro Huntington e loro due contro tutti. Le vendite allo scoperto alla vigilia dell'11 settembre 2001. I movimenti finanziari secondo l'antiterrorismo israeliano. La Deutsch Bank. A.B. "Buzzy" Krongart, direttore esecutivo della CIA. Speculazioni a Londra nel 2005. Soldi non prelevati. La famiglia Bin Laden. Il Gruppo Carlyle, interessi e ramificazioni. Gli affari di Bush jr. Le élite saudite. L'intelligence pakistana. Bin Laden, finanziatori e organizzazioni. Il dissanguamento dell'economia americana. Iraq e Iran. Rapporti tra potenze nell'area.*
 

@@ -14,7 +14,7 @@ categories:
   - Claudio Comandini 
 ---
 
-![](images/musica da passeggio.jpg){fig-align="center"}
+![](images/musica%20da%20passeggio.jpg){fig-align="center" width="637"}
 
 *Contemporanei tra luci e ombre: Agamben. Musiche di Jolivet, Copland, Hindemit, Arutiuniam, Wiltgen, Carisi, Sauter, Wolff, Wolpe, Günter Muller-Otomo Yoshihide, Butch Morris-Istanbul conduction, Giancarlo Schiaffini-Thurston Moore-Walter Prati.*
 

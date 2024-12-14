@@ -11,7 +11,7 @@ image: /images/2016/07/studium-678x381.jpg
 author: Claudio Comandini
 ---
 
-![](images/studium.jpg){fig-align="center"}
+![](images/studium-02.jpg){fig-align="center"}
 
 *Andy Warhol e 96 famosi al giorno. Caccole e pane. Smarrire la dignità.*
 

@@ -12,7 +12,7 @@ image:  /images/2010/07/custode.jpg
 author: Claudio Comandini
 ---
 
-![](images/custode.jpg){fig-align="center"}
+![](images/custode.jpg){fig-align="center" width="648"}
 
 *Tuscolo anima del medioevo romano. Le Goff: la dispersione locale dei poteri. Dispersione attuale del patrimonio archeologico. Distribuzione delle proprietà del feudo tuscolano: la rocca, i castelli, le torri, le coste, la via Latina. Congiunti e discendenti della potente casa baronale: i Colonna e gli altri. L'Aventino. I Templari al palazzo di Marozia e Alberico. Le chiese e i mitrei. Benedettini e basiliani. Papi e imperatori. Pellegrini e crociati. S. Pietro e l'immagine di Gerusalemme.*
 

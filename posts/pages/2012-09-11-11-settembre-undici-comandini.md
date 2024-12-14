@@ -17,7 +17,7 @@ categories:
   - Claudio Comandini
 ---
 
-![](images/il-cielo-sopra-678x381.jpg){fig-align="center"}
+![](images/il-cielo-sopra-678x381.jpg){fig-align="center" width="633"}
 
 *Le immagini e le torri: Baudrillard e Spiegelman. Stockhausen e la più grande opera d'arte immaginabile al mondo. Confronto fra interpretazioni: legittimisti e teorici del complotto. Oliver Roy e la cautela argomentativa. Piste aperte: Gore Vidal e Nafeez Mosaddeq Ahmed. Ruolo della stampa dal tempo di Tocqueville all'epoca della globalizzazione. Distinzione fra "fatti" e realtà. Inadeguatezza umana. Esigere comprensione. Simbologia del numero undici.*
 

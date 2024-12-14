@@ -21,7 +21,7 @@ categories:
   - Claudio Comandini
 ---
 
-![](images/questo_non_e_degrado.jpg){fig-align="center"}
+![](images/questo_non_e_degrado.jpg){fig-align="center" width="575"}
 
 *Il vero e il bello. La sociologia della letteratura e dell'arte: Schücking, Hauser. La modernità letteraria e la discussione sul classicismo. Muratori: la critica agli stereotipi mitologici. De Staël: l'utilità delle traduzioni. Di Breme: la poesia del soggetto conoscente. Leopardi: ruolo degli antichi e funzione dell'ingegno. Meccanicismo, sensismo, illuminismo. Lukács: formazione del classicismo e borghesia in ascesa. Schiller: la poesia ingenua e sentimentale. La rubricazione delle cose d'Italia: costumi, lingua, letteratura. Le "Operette morali" e le nuove favole antiche. Autofagocitazione comunicativa e consistenza del sapere. Manzoni: una letteratura d'idee. Illuminismo, cattolicesimo, romanticismo. Contro il paganesimo culturale e l'idolatria stilistica. Storia critica della letteratura italiana. Gramsci: l'Italia quale provincia culturale francese. Il marxismo e le lotte di classe in Francia. Gli scrittori ed il formarsi della modernità. La costituzione del romanzo storico. Stesura e pubblicazione de "I Promessi Sposi". Attualità del degrado, inattualità della scrittura.*
 
