@@ -54,6 +54,7 @@ Twink e i suoi compagni, con *Think Pink*, elaborano un piccolo capolavoro, cert
 
 {{< video https://youtu.be/SOAQ_t7EulU?si=MZp3f0JEsXxnD-ct >}}
 
+
 Si tratta di quei lavori unici per certi versi, eccentrici e irripetibili che spesso sono poco conosciuti o apprezzati. Potrebbe essere fatto un parallelo con *The End Of The Game* di Peter Green, tra l’altro uscito nello stesso anno, il 1970, per come viene affrontata la materia musicale, e per il ruolo che riveste l’improvvisazione nella composizione delle musiche, anche se ovviamente il lavoro di Peter Green è innervato completamente di blues.
 
 {{< video https://youtu.be/fgeXNQ2TBYw?si=AdIvLwHzWrhh-SiP >}}
@@ -175,6 +176,9 @@ Twink, *Moths & Locusts. Think Pink IV*, Noiseagonymayhem Records 2019.
 11. Twink & The Technicolour Dream, *Animal Man* (*Think Pink II*, Sunbeam 2015).
 
 12. Twink & the Technicolour Dream featuring Jon Povey, *The Vampire - from Clouds without Water* (*Sympathy for the Beast: Songs from the Poems of Aleister Crowley*, Sunbeam 2019).
+
+
+<div></div>
 
 ![](images/odds.jpeg){fig-align="center"}
 

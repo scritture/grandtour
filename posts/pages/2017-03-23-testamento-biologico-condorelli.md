@@ -1,8 +1,4 @@
 ---
-
----
-
----
 author: Mario Condorelli
 comments: false
 date: 2017-03-23
