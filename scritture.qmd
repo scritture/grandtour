@@ -13,7 +13,7 @@ title-block-banner: false
 
 ::: grid
 ::: g-col-12
-![](images/logo/logo_scritture/attuale/utilizzati/scritture new copia.pdf){fig-align="center"}
+![](images/logo/logo_scritture/preparatori/esteso/scritture_logo.jpg){fig-align="center"}
 :::
 
 ::: {.g-col-12 .g-col-md-3}
