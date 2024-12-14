@@ -1,7 +1,7 @@
 ---
 author: Claudio Comandini
 date: 2024-11-15 11:00:18+00:00
-title: Spazi vuoti. La luna, la stella e la sapienza.
+title: Spazi vuoti
 categories:
   - filosofia
   - religioni
@@ -86,17 +86,17 @@ Possiamo vedere in tutte queste dee e nei loro nomi, il cui elenco potrebbe cont
 
 *Non vedi che Dio conosce quel che è nei cieli e sulla terra? (Corano 58:7)*
 
-![*Stefan Lochner, Adorazione dei Magi (1440)*](images/Lochner_Magi.jpg){fig-align="center" width="549"}
+![*Stefan Lochner, Adorazione dei Magi (1440-1442)*](images/Lochner_Magi.jpg){fig-align="center" width="549"}
 
 La somiglianza tra la mezzaluna di Genzano e quella dell'Islam suggerisce come l'estrema lontananza possa accogliere una continuità sotterranea permettendo che, in modi laterali, un aspetto nascosto dell'Islam si riveli nei riflessi del lago, uno dei luoghi storici della latinità, così come aspetti essenziali della cultura greca e romana sono riflessi nelle increspature del Bosforo, su cui si distende quella che fu la capitale dell'impero musulmano.
 
 La città che oggi chiamiamo Istanbul ed è stata conosciuta pure come Costantinopoli e prima ancora come *Bizantyon*, nome poi recuperato insieme alla lingua greca al tempo di Eraclio, è fondata su suggerimento dell'oracolo di Delfi nell'immenso porto naturale che fronteggia la «*città dei ciechi*», Calcedonia, Kadiköy. Occupata dai Turchi già in epoca bizantina, oggi rappresenta la parte asiatica del sistema metropolitano stanbulino, che il Bosforo separa dalle due parti europee a loro volta separate dal Corno d'Oro. Il culto della dea e della Luna viene introdotto nelle forme di Hera da coloni provenienti da Argo, si specifica in epoca classica in quelle di Artemide, in seguito sembra mantenersi negli aspetti di Ecate. La città, così come la dea che un tempo ne fu protettrice, non è una, non è due: è tre.
 
-Un simbolo è sempre plurale e in esso storia e leggenda si confondono; se esprime il contenuto a cui rimanda, può trovare significati diversi nei differenti contesti. In epoca preislamica il simbolo mezzaluna viene usata come segno di ringraziameno al tempo dell'assedio di Filippo II di Macedonia, a cui Bisanzio scampa grazie alla luce di una luce crescente. La mezzaluna coinvolge anche il Cristianesimo e nel 330 Costantino, dedicando la città a Maria Vergine, aggiunge il simbolo mariano della stella alla falce di luna dell'antica dea. È quindi riscontrabile nella Persia Sasanide del V sec. d.C. . L'uso da parte di Bisanzio del simbolo è riscontrabile nella pittura, per esempio in *L'adorazione dei Re Magi* (1440-1442) di Stephan Lochner (Omer Sayadi, *Post-Classical star and crescent*, 2019).
+Un simbolo è sempre plurale e in esso storia e leggenda si confondono; se esprime il contenuto a cui rimanda, può trovare significati diversi nei differenti contesti. In epoca preislamica il simbolo mezzaluna viene usata come segno di ringraziameno al tempo dell'assedio di Filippo II di Macedonia, a cui Bisanzio scampa grazie alla luce di una luce crescente. La mezzaluna coinvolge anche il Cristianesimo e nel 330 Costantino, dedicando la città a Maria Vergine, aggiunge il simbolo mariano della stella alla falce di luna dell'antica dea. È quindi riscontrabile presso la Persia sasanide del V sec. d.C. nelle monete emesse da Kavad I. L'uso da parte dell'impero bizantino del simbolo è riscontrabile nella pittura, per esempio in *L'adorazione dei Re Magi* (1440-1442) di Stephan Lochner (Omer Sayadi, *Post-Classical star and crescent*, 2019).
 
-Da parte sua Maometto, quando conquista la Mecca ai Coreisciti, per un periodo mantiene quale unica immagine all'interno del tempio quella di Maria con Gesù; ricorda Titus Burckhardt (*L'uomo universale*, 1975) che il profeta dell'Islam assomma in sé i caratteri delle due figure. La somma dei numeri che compongono la parola *hilal*, mezzaluna, è la stessa della parola Allah. Nella calligrafia araba il nome Muhammad ha l’aspetto di una stella a cinque punte.
+Da parte sua Maometto, quando conquista la Mecca ai Coreisciti, per un periodo mantiene quale unica immagine all'interno del tempio quella di Maria con Gesù; ricorda Titus Burckhardt (*L'uomo universale*, 1975) che il profeta dell'Islam assomma in sé i caratteri delle due figure. E se la somma dei numeri che compongono la parola *hilal*, mezzaluna, è la stessa della parola Allah, nella calligrafia araba il nome Muhammad ha l’aspetto di una stella a cinque punte.
 
-![*Il nome di Muhammad scritto in arabo*](images/Muhammad.jpg){fig-align="center" width="545"}
+![*Il nome di Muhammad scritto in arabo*](images/Muhammad.jpg){fig-align="center" width="483"}
 
 A detta del sufi Rumi «*il Profeta riflette Dio come la luna riflette la luce del sole*», ed è compito di chi ha fede guidare gli uomini (Jean Chevalier, Alain Gheerbrant, *Dizionario dei simboli*, 1969). La Luna (*Qamar*) è creata da Dio (Corano 10:15), al quale con il creato tutto ella rende omaggio (Corano 22:18), permettendo all'uomo il calcolo dei giorni (Corano 55:4) e la regolazione della preghiera. La purificazione delle intenzioni, che è quanto a cui sostanzialmente tende la *sharia*, consente al Sole di riflettersi nella Luna e quindi di riconoscere il Vero (Corano 91).
 
