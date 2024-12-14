@@ -9,7 +9,7 @@ categories:
   - Claudio Comandini
 ---
 
-![](/images/immagini_scritture/daunafinestra.jpg)
+![](images/daunafinestra.jpg){fig-align="center"}
 
 *Dopo un lungo silenzio. Da una finestra. Cadere, vedere, scrivere. Forse.*
 
@@ -25,6 +25,4 @@ Guardo il Paese che dovrebbe essere il mio e che non si sa più di chi sia, né 
 
 Una finestra è un foglio bianco. Chiudo gli occhi e lascio le forme animarsi. Tutto si compone senza un mio intervento: non immagino nulla, è il reale a compenetrarmi. Non smetto di vedere. Al ristorante qui sotto mangiano così tanto da far vomitare. Molti non sanno più fare altro. Accomodatevi pure, ma non date retta ai vermi capaci soltanto di strisciare, misgovernati da incapaci ancora più vili. È nostra facoltà il meditare un gesto capace di portare mutamenti. Non sempre è facile indovinare i tempi e impartire un aspetto al possibile; più complesso ancora è dare compimento. Tendere l’arco, ricordarne nome e opera. E se qualcuno mi odia, non importa. Se qualcuno mi adora, non importa. Se qualcuno o qualcosa precipita e si spezza dentro me, non importa. Volo rasoterra, se cado mi rialzo, sempre; a volte ne soffro, più spesso ne rido, e non importa. C’è altro da fare.
 
-•
-
-*Fotografia: Aprite quella finestra, Tivoli 2018*
+*Fotografia: Claudio Comandini, Aprite quella finestra (Tivoli 2018)*

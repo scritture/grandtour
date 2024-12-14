@@ -13,7 +13,7 @@ title-block-banner: false
 
 ::: grid
 ::: g-col-12
-![](images/immagini_scritture/_logo/scritture_logo.png){fig-align="center"}
+![](images/logo/logo_scritture/attuale/utilizzati/scritture new copia.pdf){fig-align="center"}
 :::
 
 ::: {.g-col-12 .g-col-md-3}
@@ -25,7 +25,7 @@ La Russia di oggi non è l'URSS di ieri, e nemmeno quella più remota dell'imper
 
 ## Piotr Merkurj: la pittura della luce
 
-[![](/images/2017/11/Vetrata-Palma-di-Montechiaro-AG.jpg){fig-align="left"}](posts/pages/2017-11-07-pittura-luce-comandini-merkurj.html)
+[![](images/2017/11/merkurj/Vetrata-Palma-di-Montechiaro-AG.jpg){fig-align="left"}](posts/pages/2017-11-07-pittura-luce-comandini-merkurj.html)
 
 Un pittore russo tra Oriente e Occidente. Pensare le icone, dipingere nel pensiero. Luce e materia, forma e colore, spiritualità dell'arte e autonomia della cultura.
 :::
@@ -37,7 +37,7 @@ Un pittore russo tra Oriente e Occidente. Pensare le icone, dipingere nel pensie
 :::
 :::
 
-[![](images/immagini_scritture/gerione.jpg){fig-align="center"}](/posts/pages/2024-05-27-dante-islam-comandini.html)
+[![](images/2024/05/Dante/gerione.jpg){fig-align="center"}](/posts/pages/2024-05-27-dante-islam-comandini.html)
 
 #### Del perché Dante può ancora insegnare qualcosa a tutti.
 
@@ -53,13 +53,13 @@ Le origini di Superman, la storia di Metropolis, l'amore perduto di Adolf Hitler
 ::: {.g-col-12 .g-col-md-3}
 ## Montale, Kavàfis e le attese capovolte
 
-[![](/images/2017/12/panni_stesi_sull_egeo.jpg){fig-align="left" width="508"}](/posts/pages/2017-09-21-montale-kavafis-luciani.html)
+[![](images/2017/09/luciani/panni_stesi_sull_egeo.jpg){fig-align="right"}](/posts/pages/2017-09-21-montale-kavafis-luciani.html)
 
 Cristiano Luciani: disincanto, ironia, lingua fluida, miti rovesciati e tempo non lineare in Montale e Kavàfis.
 
 ## Strade di Fener
 
-[![](/images/2016/07/strada-di-fener-678x381.jpg){fig-align="left" width="508"}](/posts/pages/2014-04-29-strade-fener-comandini.html)
+[![](images/2014/04/strada-di-fener-326x245.jpg){fig-align="center" width="478"}](/posts/pages/2014-04-29-strade-fener-comandini.html)
 
 Il quartiere del Fener tra Istanbul e il resto del mondo.
 

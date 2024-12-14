@@ -11,7 +11,9 @@ title: "Intellettuale chi?"
 author: "Claudio Comandini"
 ---
 
-![](/images/immagini_scritture/intellettuale.jpg){width="99%"}*Chi e cosa sono gli intellettuali e qual è il loro ruolo sociale e il loro rapporto con il potere?*
+![](images/intellettuale.jpg)
+
+*Chi e cosa sono gli intellettuali e qual è il loro ruolo sociale e il loro rapporto con il potere?*
 
 Nell'epoca dell'assolutismo della tecnica, nella frattura tra malattia imperante e utopia igienista, i tempi in cui l'intellettuale era riconosciuto quale *«funzionario dell'umanità»* (Husserl) sembrano definitivamente trascorsi: con la diffusione inarrestabile dei media e nell'imperversante apologia dell'attualità, il parlare in nome di questioni quali ragione e bene comune appare quale vezzo démodé oppure diventa del tutto interessato.
 

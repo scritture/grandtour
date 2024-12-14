@@ -16,13 +16,15 @@ categories:
   - Fabio Treppiedi
 ---
 
+![](images/laboratorio-326x245.jpg){fig-align="center" width="456"}
+
 *Pensate di essere strani quando riuscite a concentrare il vostro mondo in una stanza pur senza passare per le solite canzoni? Siete preoccupati perché vi sembra di vivere perlopiù in spazi privati o virtuali? Niente paura: laddove non sussiste altra forma patologica diagnosticata, potreste far parte di un fenomeno sociale diffuso e di una straordinaria trasmigrazione concettuale. Infatti, come spiega questo contributo di Fabio Treppiedi (autore di "Differenti ripetizioni", 2015, curatore del canale di Filosofia del sito tesionline.it), che riprende una conferenza tenuta al Filosofestival di Albenga (29-30 agosto 2015), l'hikikomori ('stare in disparte') rappresenta una sorta di 'personaggio concettuale' che, prendendo le mosse da Deleuze e dalle implicazioni politiche dell'atto di creazione, permette di 'riattivare' nel contesto attuale la monade di Leibniz: l'unità di coscienza che esprime se stessa e la totalità del mondo, i quali non esistono l'una senza l'altra pur senza confondersi mai tra loro.*
 
 Che cos'è *hikikomori*? O meglio, chi è Hikikomori? È un fenomeno sociale, carico di implicazioni cliniche, che ha preso forma in Giappone sin dalla fine degli anni Ottanta. Vengono infatti chiamati hikikomori quei ragazzi giapponesi che hanno scelto di ritirarsi dalla vita sociale e abbandonarsi ad un isolamento sempre più radicale all'interno dei loro piccoli appartamenti o, se vivono in famiglia come il più delle volte accade, all'interno delle loro camerette (hikikomori, significa infatti *'isolato'*, *'ritirato in disparte'*).
 
 Quella dell'hikikomori è un'esistenza che inverte i ritmi del mondo fuori, quasi ad accentuare la scelta dell'isolamento: s'inverte ad esempio l'alternarsi del sonno e della veglia, così come anche il tempo dei pasti, e si fa addirittura del disordine una regola. Ciò che immediatamente suggestiona e impressiona dell'hikikomori è infatti la sua stanza, trasformata in un mondo di oggetti da cui non si stacca assolutamente: fra questi soprattutto i manga, la televisione, i videogiochi e appunto il pc, a supporto di un ininterrotto collegamento a internet, che sostituisce del tutto i rapporti sociali.
 
-È alla letteratura e al cinema che, d'altra parte, possiamo attingere per avere subito un'istantanea dell'hikikomori, del suo mondo, della sua stanza: da film come *Shaking Tokyo\* di Bong Joon-ho (episodio del film collettivo *Tokyo!* del 2008), *Castaway on the moon* di Lee Hae- jun (2009) e *Confessions di Tetsuya Nakashima* (2010) fino al romanzo *Welcome to NHK* di Tatsuhiko Takimoto (2002), successivamente trasposto in manga e in film d'animazione a episodi.
+È alla letteratura e al cinema che, d'altra parte, possiamo attingere per avere subito un'istantanea dell'hikikomori, del suo mondo, della sua stanza: da film come *Shaking Tokyo\* di Bong Joon-ho (episodio del film collettivo* Tokyo!\* del 2008), *Castaway on the moon* di Lee Hae- jun (2009) e *Confessions di Tetsuya Nakashima* (2010) fino al romanzo *Welcome to NHK* di Tatsuhiko Takimoto (2002), successivamente trasposto in manga e in film d'animazione a episodi.
 
 Ma perché approcciare l'esperienza dell'hikikomori assumendo sin da subito cinema e letteratura come chiavi d'accesso? Deleuze, il suo modo di approcciare i problemi ma soprattutto la sua concezione dell'arte come *«la sola cosa che resiste alla morte»* \[1\], possono rappresentare di per sé la risposta a questa domanda.
 
@@ -71,8 +73,6 @@ Un radicale confronto con quest'impenetrabilità è allora il compito cui l'hiki
 \[6\] G. W. Leibniz, *Monadologia*, § 7, Bompiani, Milano, 2001, p. 61.
 
 \[7\] Risultano interessanti, in quest'ultima direzione, le considerazioni di Han, che volge in positivo il *«fenomeno a- sociale»* dell'hikikomori facendone la figura simbolo della crisi dell' *«agire comunicativo»* teorizzato da Habermas.
-
-•
 
 *Fabio Treppiedi, "Leibniz a Tokyo. L'Hikikomori come personaggio concettuale", «Logoi.ph - Journal of Philosophy», n. II , 4, 2016. ISSN 2420-9775*
 

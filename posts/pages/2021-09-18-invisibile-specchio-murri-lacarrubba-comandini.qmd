@@ -1,7 +1,6 @@
 ---
 title: "L'invisibile e lo specchio. Note sulla poesia di Serafino Murri e la pittura di Mario La Carrubba"
 author: "Claudio Comandini"
-images:
 date: '2021-09-18'
 categories:
   - poesia
@@ -11,7 +10,7 @@ categories:
   - Claudio Comandini
 ---
 
-![](/images/immagini_scritture/LaCarrubba_Lo-specchio.jpeg){fig-align="center" width="342"}
+![](images/LaCarrubba_Lo-specchio.jpeg){fig-align="center" width="344"}
 
 *"Invisibile a me stesso" è forse lo scritto a cui sono più legato. Per me si tratta, come avrebbe detto Andrej Tarkovskij, di una specie di 'tempo scolpito', di memoria scorporata. In altre parole, dell’unico caso in tutta la mia vita, condizionata dalla mia scrittura 'scientifica' di saggista anche in campo letterario, in cui ho sentito di riuscire nell’altrimenti vano intento di eliminare nella scrittura ogni filtro, ogni spiegazione; di parlare a me stesso ad alta voce, e lasciare che gli altri ascoltassero appropriandosene, e dando un senso personale a quanto avevo scritto. (Serafino Murri)*
 
@@ -29,8 +28,8 @@ questa slavina inutile di vecchie impressioni*
 
 L’acquarello di Mario La Carruba che fornisce la copertina al libro ha come titolo *Lo specchio*. Ombre antropomorfe si riflettono e si moltiplicano in forme geometriche differenziate, nelle cui sfumature cromatiche prevale il blu addensatosi nell’alto, mentre strisce di rosso si concentrano nel basso. Un *effetto di invisibilità* viene a formularsi nelle aree bianche dove vengono a intersecarsi gli angoli nei quali si compone la rappresentazione. Lo spirituale dell'arte di Kandinskij conflagra con l'astrattismo allucinatorio di Steve Dikto. La denaturazione dell’ambiente, i tracciamenti cinetici, il visionarismo onirico, il dinamismo delle forme, la penetrazione dello spazio, la presenza di elementi grafici, fotografici e cinematografici, insomma le caratteristiche via via notate dai critici che hanno letto l’opera di La Carruba, riescono a fornire un efficace pendant al poemetto, confermando quelle coincidenze in cui Murri vede formularsi il senso della vita.
 
-![](/images/immagini_scritture/Murri_invisibile-a-me-stesso.jpg){fig-align="center"}
+![](images/Murri_invisibile-a-me-stesso.jpg){fig-align="center"}
 
 Serafino Murri, *Invisibile a me stesso*, EscaMontage 2021, pp. 54 (prima edizione su «Nuovi argomenti»). Traduzione in inglese: Serafino Murri, Fabiomassimo Lozzi.
 
-Illustrazione: Mario La Carrubba, *Lo specchio* (2014)
+*Illustrazione: Mario La Carrubba, Lo specchio (2014)*

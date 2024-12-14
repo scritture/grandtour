@@ -41,6 +41,4 @@ Le proporzioni appartengono alla matematica delle funzioni, che non tende a stab
 
 I rapporti tra matematica e musica sono ampiamente non compresi, così come certi ascolti raramente convivono. Più spesso, possono convivere suoni e sogni. Io non so se Miles ricorda di avermi scrutato nel sogno dove ci incontrammo in quella grotta colma di tutta la musica che non aveva mai suonato; so soltanto che sono infinitamente più piccolo di lui e di Busoni, i cui consigli alla lettura non ho mai neppure pensato di seguire, per quanto nel tempo ho fatto progressivamente a meno di scrittori deliziosamente depressivi. Tutti noi, come pidocchi sulle teste alte dei grandi, se sforziamo per bene gli occhietti possiamo forse guardare un po' più in là. I mutamenti si susseguono di continuo, qualcosa ritorna sempre a sé. Certamente, costretti a tempi rumorosi e stolti, sappiamo anche che farsi sentire è difficile. Certe volte, passa pure la voglia di essere felici servitori di questa avventura chiamata musica. Eppure, se dopo suonata sembra ogni volta svanire nel vento, si ripresenta sempre colmandone il soffio. In un desiderio, come le stelle, bruciante e inestinguibile.
 
-•
-
 *Fotografia: Claudio Comandini, "Making music" - Berlino, gennaio 2016.*

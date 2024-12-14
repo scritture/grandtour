@@ -16,6 +16,8 @@ categories:
   - Bob Dylan
 ---
 
+![](images/dylan-diploma.jpg){fig-align="center" width="529"}
+
 *Bob Dylan ha ricevuto il Premio Nobel per la Letteratura per aver «creato una nuova poetica espressiva all'interno della canzone americana». Una sua lettera all'Accademia di Svezia. La partecipazione di Patti Smith alla cerimonia. Il testo di “A Hard Rain's A-Gonna Fall”.*
 
 ## 1. Bob Dylan: Banquet Speech (da leggersi a tavola)
@@ -72,8 +74,6 @@ Quando il mattina seguente mi alzai, stava nevicando. Nella sala per la colazion
 
 Quando mio marito Fred è morto, mio padre mi ha detto che il tempo non può guarire tutte le ferite, e tuttavia ci fornisce gli strumenti per resistere loro. Ho trovato che questo è vero tanto nella più grande quanto nella più piccola delle questioni. Guardando al futuro, sono certo che la *«pioggia dura»* di *Hard Rain* non cesserà di cadere, e che tutti dovremo vigilare. L'anno volge al termine; il 30 dicembre eseguirò Horses con la mia band, e con mio figlio e mia figlia, nella città dove sono nata. E tutte le cose che ho visto, vissuto e ricordato saranno dentro di me, e anche il rimorso che ho provato così pesantemente si fonderà gioiosamente con tutti gli altri momenti. Settant'anni di attimi, settant'anni di essere umano.
 
-•
-
 ## 3. A HARD RAIN'S A-GONNA FALL
 
 Oh, where have you been, my blue-eyed son? Oh, where have you been, my darling young one? I've stumbled on the side of twelve misty mountains, I've walked and I've crawled on six crooked highways, I've stepped in the middle of seven sad forests, I've been out in front of a dozen dead oceans, I've been ten thousand miles in the mouth of a graveyard, And it's a hard, and it's a hard, it's a hard, and it's a hard, And it's a hard rain's a-gonna fall.
@@ -98,7 +98,6 @@ Oh, chi hai incontrato, figlio mio diletto? Chi hai incontrato, ragazzo mio caro
 
 Oh, e cosa farai ora, figlio mio diletto? Cosa farai ora, ragazzo mio caro? Andrò via prima che la pioggia incominci a cadere, camminerò nel profondo della più profonda e nera foresta, dove la gente è tanta è le loro mani sono completamente vuote, dove i proiettili avvelenati contaminano le loro acque, dove la casa nella valle incontra la umida e sudicia prigione, dove il volto del boia è sempre ben celato, dove brutta è la fame e dimenticate son le anime, dove nero è il colore e zero il numero, e lo dirò, lo penserò, lo pronuncerò, lo respirerò, e lo rifletterò su una montagna così che tutte le anime possano vederlo, poi starò sull'oceano fino a quando incomincerò ad affondare, ma saprò bene la mia canzone prima di incominciare a cantare, e una dura, e una dura, e una dura, e una dura e una dura pioggia cadrà.
 
-•
 
 [Bob Dylan, “Banquet Speech”, «Nobelprize.org» 2016.](https://www.nobelprize.org/nobel_prizes/literature/laureates/2016/dylan-speech_en.html)
 
@@ -108,6 +107,5 @@ Oh, e cosa farai ora, figlio mio diletto? Cosa farai ora, ragazzo mio caro? Andr
 
 [Immagine: Bob Dylan Nobel Diploma, «Nobelprize.org» 2016.](https://www.nobelprize.org/nobel_prizes/literature/laureates/2016/dylan-diploma.html)
 
-•
 
 Traduzione (tranne dove diversamente indicato): Claudio Comandini

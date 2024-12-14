@@ -30,6 +30,8 @@ image:  /images/2017/02/Beatrix-Potter-Peter-Rabbit-1902.jpg
 author: Claudio Comandini
 ---
 
+![](images/Beatrix-Potter-Peter-Rabbit-1902.jpg){fig-align="center"}
+
 *Teorie varie, vita vera e immagini ideali degli animali, dai cinici ai punkabbestia, dal riduzionismo all'animalismo, dai pellerossa al pensiero contemporaneo.*
 
 ### 1. Filosofia degli animali
@@ -98,13 +100,11 @@ E questa [evoluzione](https://it.wikipedia.org/wiki/Evoluzione), che con [Darwin
 
 Come ogni autentica interrogazione filosofica, tale argomento spiazza per radicalità e chiarezza, ed è formulato, ricollegandosi ad Heidegger, da [Giorgio Agamben](https://it.wikipedia.org/wiki/Giorgio_Agamben) ([*L'aperto*](https://books.google.it/books/about/L_aperto.html?id=YyF_AAAAMAAJ&redir_esc=y), 2002). Infatti, in questa nostra attualità, la pregressa perdita della distinzione tra uomo e animale non sembra accadere perché andiamo verso una qualche forma di integrazione, ma piuttosto perché siamo costretti ad essere impotenti testimoni del degradare della vita umana, dotata di forma e senso, ad un altro tipo di vita, intesa in senso piattamente naturalistico, nella quale effettivamente l'uomo è *«stordito»*, inetto alle relazioni se non nella loro forma più banale e immediata, sovraeccitato eppure incapace di esperienza, privo di diritti e di ambizioni se non quella di sopravvivere.
 
-Non possiamo sfuggire agli animali. Facciano paura o si voglia essere come loro, disturbino la rappresentazione razionale che l'uomo fa di se stesso oppure ne costituiscano un termine di confronto, sono continuamente presenti, né troppo lontani né troppo vicino a noi, a ricordarci chi siamo. [Hume](https://it.wikipedia.org/wiki/David_Hume), uno dei maggiori grandi critici della sostanzialità della nostra identità personale, ricordava la fondamentale similiarità delle funzioni intellettive umane e animali: la nostra ragione è, quanto la loro, bestialmente subordinata alla passione, e *«siamo costretti dalla legge dell'umanità a trattare cortesemente tali creature»* ([*A Treatise of Human Nature*](https://it.wikipedia.org/wiki/Trattato_sulla_natura_umana), \_1739-40)
+Non possiamo sfuggire agli animali. Facciano paura o si voglia essere come loro, disturbino la rappresentazione razionale che l'uomo fa di se stesso oppure ne costituiscano un termine di confronto, sono continuamente presenti, né troppo lontani né troppo vicino a noi, a ricordarci chi siamo. [Hume](https://it.wikipedia.org/wiki/David_Hume), uno dei maggiori grandi critici della sostanzialità della nostra identità personale, ricordava la fondamentale similiarità delle funzioni intellettive umane e animali: la nostra ragione è, quanto la loro, bestialmente subordinata alla passione, e *«siamo costretti dalla legge dell'umanità a trattare cortesemente tali creature»* ([*A Treatise of Human Nature*](https://it.wikipedia.org/wiki/Trattato_sulla_natura_umana), 1739-40)
 
 Se sapessimo davvero guardare gli animali come sono, se potessimo realmente vedere come ci guardano, li tratteremo ancora meglio, e così forse tratteremo finalmente bene anche noi stessi e il mondo tutto, almeno fin lì dove arriviamo. Ma non ne siamo capaci. E proprio nella sobria accettazione di questa piccola e problematica comune realtà possiamo, forse, trovare una qualche possibile salute.
 
-![Giancarlo Mancori, Accoppiamento cavalieri d'Italia](/images/2017/02/Giancarlo-Mancori-Accoppiamento-cavalieri-dItalia.jpg)
-
-•
+![Giancarlo Mancori, Accoppiamento cavalieri d'Italia](images/Giancarlo-Mancori-Accoppiamento-cavalieri-dItalia.jpg){fig-align="center"}
 
 *Parte dello scritto è stato pubblicato come prefazione a* Il sogno della natura *di Giancarlo Mancori - Catalogo della mostra fotografica al Policlinico di Tor Vergata (Fondazione PTV, Roma 2010).*
 

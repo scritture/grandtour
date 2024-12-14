@@ -12,7 +12,7 @@ title: "&#601; e &lowast;: generi e grafemi. Un intervento della Crusca e una no
 author: "Paolo D&#39;Achille"
 ---
 
-![](/images/immagini_scritture/studio1.jpeg){fig-align="center" width="579"}
+![](images/studio1.jpeg){fig-align="center"}
 
 *Basta con asterischi e altri scarabocchi da cattivi scriventi! L’italiano ha due generi grammaticali, il maschile e il femminile, ma non il neutro, così come, nella categoria grammaticale del numero, distingue il singolare dal plurale, ma non ha il duale. E, laddove sesso biologico e identità di genere costituiscono realtà diverse dal genere grammaticale, diventa prioritario contenere le derive progressiste e il loro inflessibile determinismo linguistico che moltiplica parole e lettere pur impoverendo le cose. Questo accade quando i rapporti di oggettivizzazione che identificano tra di loro linguaggio pensiero e realtà arrivano ad escludere ogni autentica forma di differenza, rendendo così l'inclusività una forma di isteria paronoide. Infatti, asterischi e altri grafemi introducono surrettiziamente nell'alfabeto artifici linguistici, le cui inadeguatezze contribuiscono ad un'opacizzazione della lingua che, laddove l'emissione fonetica si identifica con un segno scritto che assume valore di determinazione, rende il pensiero più torbido. Consegnato alla cabala invertita di un linguaggio cibernetico che perde in essenzialismo per scoprirsi indispensabilie nel fondare un universo di riferimento assolutista. L'operazione corona le pretese politically correct e porta il radicalismo di maniera della [Theory](#0) a livelli di superstizione paranoide. Insomma, può serenamente essere ammesso che l'uso del maschile non marcante e quello del femminile plurale, e tutte le alternative grammaticali interne al sistema messe in fila, hanno meno colpe dello schwa.*
 
@@ -119,8 +119,6 @@ Quanto al parlato, non esistendo lo schwa nel repertorio dell'italiano standard,
 Webinar, [*La lingua italiana in una prospettiva di genere*](https://www.youtube.com/watch?v=uUuihmL_VHM&ab_channel=UNIFI-Convegni), 1.03.2022.
 
 Cristiana De Santis, [*L'emancipazione grammaticale non passa per una e rovesciata*](https://www.treccani.it/magazine/lingua_italiana/articoli/scritto_e_parlato/Schwa.html?fbclid=IwAR10kqL5XIMEohVTXeQ94gCvbNx3USe-62nx55E5hbznuNSJAEc6wonGPUU)*,* «Treccani Magazine - Lingua italiana» 9.02.2022.
-
-•
 
 Pubblicato come: [Paolo D'Achille, *Un'asterisco sul genere*, «Accademia della Crusca» 24.09.2021.](https://accademiadellacrusca.it/it/consulenza/un-asterisco-sul-genere/4018)
 

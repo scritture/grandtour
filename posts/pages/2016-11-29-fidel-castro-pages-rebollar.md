@@ -16,6 +16,8 @@ categories:
   - Marx
 ---
 
+![](images/fidelok.jpg){fig-align="center"}
+
 *Il leader cubano [Fidel Castro](https://it.wikipedia.org/wiki/Fidel_Castro) e Beatriz Pagés Rebollar, direttrice del settimanale messicano [Siempre!](http://www.siempre.mx), tra 9 e 10 maggio 1991 hanno affrontato in sette ore di intervista una serie di tematiche su il socialismo nel mondo e a [Cuba](https://it.wikipedia.org/wiki/Cuba), permettendo così di comprendere in che modo si pone il modello cubano in rapporto alle altre esperienze di ispirazione marxista. Con la morte del comandante Castro, tali argomenti non soltanto mantengono attualità, ma acquisiscono un valore di testamento utile per riflettere su quale possa essere la sua vera eredità.*
 
 BPR: Il crollo dei regimi comunisti dell'Europa orientale sembra confermare il fallimento del marxismo-leninismo: ritiene che il sistema socialista cubano riuscirà a sopravvivere?
@@ -64,7 +66,7 @@ BPR: Ha ragione: dal punto di vista morale il capitalismo è decisamente fallime
 
 FC: *Sì, indiscutibilmente in questo momento il capitalismo è il regime dominante dell'economia mondiale. Ma lo era che prima che si verificassero questi fatti e lo era prima ancora della formazione dei paesi socialisti. Il capitalismo ha centinai d'anni e alcune delle sue manifestazioni sono addirittura millenarie. Comunque, il capitalismo nel senso moderno della parola ha centinaia d'anni, una grossa esperienza e una gran forza; non è cosa facile sradicare questo regime sociale.*
 
-*Nell'antichità esisteva la schiavitù: quanto è durato il regime schiavista? Rileggiamo la storia di Roma o delle Grecia o i tempi dell'Iliade, il periodo in cui si ritiene sia vissuto Omero: quanto hanno resistito questi sistemi di governo? Schiavismo, feudalesimo, medioevo… per quanti secoli hanno retto? Poi è nato il capitalismo, perché nessun sistema è mai stato eterno.  base a quali elementi possiamo affermare che il capitalismo durerò in eterno? Solo perché un sistema sociale nuovo, diverso, è in crisi in una zona del mondo?*
+*Nell'antichità esisteva la schiavitù: quanto è durato il regime schiavista? Rileggiamo la storia di Roma o delle Grecia o i tempi dell'Iliade, il periodo in cui si ritiene sia vissuto Omero: quanto hanno resistito questi sistemi di governo? Schiavismo, feudalesimo, medioevo… per quanti secoli hanno retto? Poi è nato il capitalismo, perché nessun sistema è mai stato eterno. base a quali elementi possiamo affermare che il capitalismo durerò in eterno? Solo perché un sistema sociale nuovo, diverso, è in crisi in una zona del mondo?*
 
 *Il potere del capitalismo e più tardi dell'imperialismo vengono da lontano. La prima guerra imperialista, nell'accezione moderna del termine, si è verificata nel 1848 ed ha avuto come protagonisti gli Stati Uniti e la Spagna, subito dopo l'intervento a Cuba. L'imperialismo sta dominando il mondo da circa cent'anni; sparito il colonialismo è nato il neocolonialismo, le cui forme di sfruttamento si sono rivelate dure e inumano tanto quanto e se non più di quelle che molti popoli avevano subito sotto il colonialismo.*
 
@@ -72,7 +74,7 @@ FC: *Sì, indiscutibilmente in questo momento il capitalismo è il regime domina
 
 BPR: Lei dice che non ci sono elementi per affermare che il capitalismo sarà eterno. Tuttavia, mi consenta di insistere, possiede le strutture necessarie per sopravvivere più a uno del socialismo.
 
-FC: *Certamente il capitalismo possiede una tecnologia in grado di prevalere su una gran parte del mondo per un certo periodo di tempo. Ma nessuno può rassegnarsi  all'idea che questo sistema duri in eterno, accettandola a priori. Nè, tantomeno, possiamo associarsi al trionfalismo degli Stati Uniti e ai discorsi di alcuni leader nordamericani, Bush incluso, che ventilano l'idea che si sia alle soglie di una nuova era, l'era nordamericana, caratterizzata dal dominio degli USA e da una pax nordamericana destinata a durare mille anni. L'idea, d0altro canto, non è neppure una novità: anche la Germania nazista del Terzo Reich, in tempi non lontani, parlava di un millenario dominio tedesco…*
+FC: *Certamente il capitalismo possiede una tecnologia in grado di prevalere su una gran parte del mondo per un certo periodo di tempo. Ma nessuno può rassegnarsi all'idea che questo sistema duri in eterno, accettandola a priori. Nè, tantomeno, possiamo associarsi al trionfalismo degli Stati Uniti e ai discorsi di alcuni leader nordamericani, Bush incluso, che ventilano l'idea che si sia alle soglie di una nuova era, l'era nordamericana, caratterizzata dal dominio degli USA e da una pax nordamericana destinata a durare mille anni. L'idea, d0altro canto, non è neppure una novità: anche la Germania nazista del Terzo Reich, in tempi non lontani, parlava di un millenario dominio tedesco…*
 
 *Quando gli uomini dimenticano le lezioni della storia cominciano a nascere le illusioni… Nessuno può prendere che un uomo, un essere umano, rinunci ai suoi ideali, alle sue speranze e ai suoi sogni: non ci può riuscire neppure con la minaccia delle armi nucleari. Noi stessi da oltre trent'anni siamo perseguitati, minacciati, aggrediti, fatti oggetto di pressioni di ogni tipo; eppure siamo riusciti a resistere e ci siamo mantenuti indipendenti, autonomi. Ritengo quindi che Cuba sia una testimonianza di ciò che i popoli sono in grado di fare, di come si possa reagire.*
 
@@ -90,8 +92,6 @@ FC: *Nessuno è in grado di rispondere seriamente a una domanda del genere; ness
 
 *Questo mondo deve cambiare e cambierà, ma nessuno può dire quando. Cambierà inevitabilmente, se l'umanità riuscirà a sopravvivere alla catastrofe ecologica e alle conseguenze delle guerre che il capitalismo e l'imperialismo hanno scatenato con la loro anarchia, ai danni che hanno provocato distruggendo le risorse naturali con la loro sete di dominio, con il loro folle stile di vita e le loro società dei consumi.*
 
-•
-
-*Fotografia: "Fidel Castro with fellow revolutionary rebels in Cuba", 1959*
-
 *Fidel Castro - Beatriz Pagés Rebollar, Intervista al settimanale messicano «Sempre!», 1991. Edizione italiana: “L'isola che non c'è”, trad. di Elisabetta Lasagna, Edizioni Associate, Roma 1992, pp. 7-16.*
+
+*Fotografia: Fidel Castro with fellow revolutionary rebels in Cuba, 1959*

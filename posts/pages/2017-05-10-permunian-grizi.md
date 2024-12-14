@@ -11,6 +11,8 @@ categories:
   - Serena Grizi
 ---
 
+![](images/Permunian.png){fig-align="center"}
+
 *«E l'acqua del lago appariva talmente calma da riflettere le luci della sponda opposta, tra cui brillava in lontananza il lume di casa mia.» Francesco Permunian ha esordito come poeta negli anni ottanta e come narratore alla fine degli anni novanta. Quattro opere per conoscere un autore atipico, capace di demistificare la falsa prospettiva identitaria tipica della provincia italiana. Oltre a quelle qui raccontate, altre suoi libri sono: "Cronaca di un servo felice" (Meridiano Zero, 1999); Camminando nell'aria della sera (Rizzoli, 2001), Nel paese delle ceneri, (Rizzoli, 2003), "Dalla stiva di una nave blasfema", con fotografie di Gianni Fucile - Diabasis, 2009); "La Casa del Sollievo Mentale" (Nutrimenti, 2011), L'attesa, con immagini di Roberto Da Re Giustiniani (Kellermann, 2013), da cui è tratta la frase e l'immagine in esergo.*
 
 ## 1. Il gabinetto del dottor Kafka (2013)
@@ -62,7 +64,5 @@ L'autore è gentile e ci dona un suo scritto illustrato dalle tavole di Roberto 
 La presenza, forse una risposta all'attesa *«che spesso dura una vita intera»*, sembra volerlo prendere per mano, come egli stesso prende per mano ogni volta i suoi lettori, e traghettarlo senza imbarcazione accanto alla dimora con la finestra illuminata che è la propria dimora e la casa desiderata. Il libricino è un 'quaderno universo', non si smetterebbe mai di 'attendere' per poi 'farsi condurre' di là dallo specchio d'acqua del lago. Lago la cui acqua è ferma, ma suggerisce ad ogni sguardo gli incanti d'una vita che osserva se stessa e ciò che c'è attorno e... si racconta.
 
 L'incanto non è una condizione di vacanza dall'intelligenza, la quale momentaneamente si fa attirare da canti e formule magiche che hanno l'effetto di *«operare cose soprannaturali»* (Ottorino Pianigiani, *Vocabolario etimologico della lingua italiana*). Per quanto un autore non possa portare ogni argomento dentro le proprie opere, a Permunian non manca il senso d'una realtà 'surreale' della quale registra minimi particolari buoni a combinare un puzzle più che credibile degli anni che attraversiamo.
-
-•
 
 *Immagine: "Senza titolo" di Roberto Da Re Giustiniani, tratta da Francesco Permuniam, "L'attesa" (Kellermann, 2013).*

@@ -1,7 +1,6 @@
 ---
 title: "Pablo Eucharren: l’arte quale truffa"
 author: "Marcello Faletra"
-images:
 date: '2021-08-03'
 categories:
   - arte
@@ -12,7 +11,9 @@ categories:
   - Marcello Faletra
 ---
 
-![](/images/immagini_scritture/Most%20Expensive%20Living%20Artist%20(2014).jpg)*L’arte che ufficialmente circola come “arte contemporanea” è una truffa. L’artista è perlopiù un servizievole funzionario arruolato nelle fila del sistema dell’arte, il quale è il vero motore di un nuovo colonialismo culturale. Nell’ideologia che pervade il capitalismo estetico d’oggi, gli artisti svolgono la funzione di strani attrattori con i loro personali capricci o con la moda degli estremismi faciloni: l’artista-narciso è colui che riassume culturalmente il potenziale delle forze reazionarie del presente, le quali sono in grado di assorbire, a volte in anticipo, qualsiasi elemento sovversivo che minerebbe la sua egemonia, a costo di farsi esso stesso promotore della trasgressione, neutralizzandola in fenomeno estetico. In tale quadro, le mostre sono vere e proprie epidemie, che ratificano l’arte come spettacolo di massa, atrofizzando la stessa immaginazione. Il sistema dell’arte serve a produrre semplici consumatori di cultura, che somigliano all’’ultimo uomo’ di cui parla Nietzsche, colui che ha eliminato dalla realtà ogni fonte dei conflitti e vede il mondo appianato, senza più altro destino se non quello della propria mediocrità. [Pablo Echaurren](https://it.wikipedia.org/wiki/Pablo_Echaurren), artista a tutto campo particolarmente legato alle prassi di laboratorio, ispirato dal futurismo e autore anche di fumetti, ci riporta alle considerazioni di Hegel sulla fine dell’arte, ponendosi nella prospettiva in cui l’erosione della distanza fra soggetto e oggetto e la coincidenza fra concetto e opera sono già avvenute, e rilancia la convinzione di Duchamp secondo la quale i musei sono pieni di mediocrità e stupidaggini. Ad ogni modo, l’arte non muore, e continua a esistere fuori dalle cornici istituzionali, dalle grandi kermesse culturali, dall’inflazione del valore estetico, ridefinendone le prospettive dai margini. La fine dell’arte non finisce, e piuttosto ogni volta ricomincia.*
+![](images/Most Expensive Living Artist (2014).jpg){fig-align="center"}
+
+<em>L’arte che ufficialmente circola come "arte contemporanea" è una truffa. L’artista è perlopiù un servizievole funzionario arruolato nelle fila del sistema dell’arte, il quale è il vero motore di un nuovo colonialismo culturale. Nell’ideologia che pervade il capitalismo estetico d’oggi, gli artisti svolgono la funzione di strani attrattori con i loro personali capricci o con la moda degli estremismi faciloni: l’artista-narciso è colui che riassume culturalmente il potenziale delle forze reazionarie del presente, le quali sono in grado di assorbire, a volte in anticipo, qualsiasi elemento sovversivo che minerebbe la sua egemonia, a costo di farsi esso stesso promotore della trasgressione, neutralizzandola in fenomeno estetico. In tale quadro, le mostre sono vere e proprie epidemie, che ratificano l’arte come spettacolo di massa, atrofizzando la stessa immaginazione. Il sistema dell’arte serve a produrre semplici consumatori di cultura, che somigliano all’’ultimo uomo’ di cui parla Nietzsche, colui che ha eliminato dalla realtà ogni fonte dei conflitti e vede il mondo appianato, senza più altro destino se non quello della propria mediocrità.</em> [*Pablo Echaurren*](https://it.wikipedia.org/wiki/Pablo_Echaurren)<em>, artista a tutto campo particolarmente legato alle prassi di laboratorio, ispirato dal futurismo e autore anche di fumetti, ci riporta alle considerazioni di Hegel sulla fine dell’arte, ponendosi nella prospettiva in cui l’erosione della distanza fra soggetto e oggetto e la coincidenza fra concetto e opera sono già avvenute, e rilancia la convinzione di Duchamp secondo la quale i musei sono pieni di mediocrità e stupidaggini. Ad ogni modo, l’arte non muore, e continua a esistere fuori dalle cornici istituzionali, dalle grandi kermesse culturali, dall’inflazione del valore estetico, ridefinendone le prospettive dai margini. La fine dell’arte non finisce, e piuttosto ogni volta ricomincia.</em>
 
 ## 1. L’artista come prodotto
 
@@ -62,9 +63,7 @@ Dopo che l’orinatoio di Duchamp è entrato a pieno titolo nel sistema del valo
 
 La fine dell’arte in tale prospettiva è strettamente connessa al problema del valore. Essa affiora là dove si verifica un’inflazione del valore estetico. Si fa strada un paradosso: la fine dell’arte non finisce, ma ricomincia sempre, e di conseguenza, come osserva Didi-Huberman sulla scia di Goethe: *"Il discorso storico non ‘nasce’ mai, ricomincia sempre".* L’opera d’arte assoluta, come auspica Sanguinetti, ha mancato di mettere in scena la fine dell’arte. Ma, forse, la banalità di gran parte dell’arte d’oggi ci dissuade dal pensare una simile eventualità. Contro questa condizione si può ipotizzare che la fine dell’arte consiste proprio in questo: che questa morte non ci sarà mai, condizione che condanna l’arte a sopravvivere alla propria fine, in ogni modo, anche col banale.
 
-![Pablo Eucharren, *Adotta un artista*, Kellerman, 2021](/images/immagini_scritture/ADOTTA%20UN%20ARTISTA,%20Pablo%20Echaurren-2.jpeg){fig-align="center" width="412"}
-
-•
+![Pablo Eucharren, *Adotta un artista*, Kellerman, 2021](images/ADOTTA UN ARTISTA, Pablo Echaurren-2.jpeg){fig-align="center" width="414"}
 
 *Illustrazione: Pablo Eucharren, "The most expensive living artist, 2014*
 

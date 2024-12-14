@@ -15,7 +15,9 @@ categories:
   - Claudio Comandini
 ---
 
-*Mentre qualcuno prescinde completamente dai dati per ridurre la grave emergenza dei migranti ad una sfida tra opposte tifoserie, l’Italia è sempre più lontana tanto dall'Europa quanto dal Mediterraneo, riducendosi così, più che ad una terra di frontiera come prevede il trattato di Dublino, ad un pontile sospeso sul nulla dove nemmeno i disperati vogliono fermarsi. Ci mette di fronte a questa realtà il documentario "Terra di transito"* *di Paolo Martino. Eppure, nonostante la situazione sia drammatica, le risposte ci sarebbero. Infatti, pur ammettendo che le capacità di accoglienza dignitosa degli altri paesi sono superiori, l’Italia potrebbe ritrovare slancio proprio con misure capaci di incrementare la produttività, quali il ripopolamento di zone ormai profondamente immiserite. Il problema vero però è che, se l'Europa comincia proprio a Lampedusa, la quale quindi non rappresenta soltanto un problema italiano, nelle nostre contrade sono ridotti allo stadio di immigrati anche coloro che ci abitiamo, e forse, ormai assuefatti al ruolo di estranei a se stessi, nemmeno si cerca di integrarsi più di tanto. Stefano Pasta, laureato in Storia contemporanea e pubblicista, recensisce il film di Paolo Martino con l’idea di accogliere la sfida del convivere per permettere così un futuro alle nostre città e dare forma ad un mondomisto interconnesso e interdipendente.*
+![](images/Profughi_della_Vlora_in_banchina_a_Bari_8_agosto_1991.jpg){fig-align="center" width="519"}
+
+*Mentre qualcuno prescinde completamente dai dati per ridurre la grave emergenza dei migranti ad una sfida tra opposte tifoserie, l’Italia è sempre più lontana tanto dall'Europa quanto dal Mediterraneo, riducendosi così, più che ad una terra di frontiera come prevede il trattato di Dublino, ad un pontile sospeso sul nulla dove nemmeno i disperati vogliono fermarsi. Ci mette di fronte a questa realtà il documentario "Terra di transito"* *di Paolo Martino. Eppure, nonostante la situazione sia drammatica, le risposte ci sarebbero. Infatti, pur ammettendo che le capacità di accoglienza dignitosa degli altri paesi sono superiori, l’Italia potrebbe ritrovare slancio proprio con misure capaci di incrementare la produttività, quali il ripopolamento di zone ormai profondamente immiserite. Il problema vero però è che, se l'Europa comincia proprio a Lampedusa, la quale quindi non rappresenta soltanto un problema italiano, nelle nostre contrade sono ridotti allo stadio di immigrati anche coloro che ci abitiamo, e forse, ormai assuefatti al ruolo di estranei a se stessi, nemmeno si cerca di integrarsi più di tanto. Stefano Pasta, laureato in Storia contemporanea e pubblicista, recensisce il film di Paolo Martino con l’idea di accogliere la sfida del convivere per permettere così un futuro alle nostre città e dare forma ad un mondomisto interconnesso e interdipendente.*
 
 *«Qui muoio ogni giorno»*, così un hazara afghano in fuga dalla persecuzione della sua etnia racconta la condizione dei richiedenti asilo bloccati dove non vogliono restare: in Italia. È la prospettiva spiazzante del documentario di Paolo Martino, [*Terra di transito*](https://www.youtube.com/watch?v=5gJB27raA-I), prodotto dall’associazione [A Buon Diritto](http://www.abuondiritto.it).
 
@@ -31,9 +33,7 @@ Nei racconti degli ospiti del *"tendone"*, l’assenza italiana di quella protez
 
 Giunto al venticinquesimo anno di vita e alla sua terza versione (Dublino III è entrato in vigore da pochi mesi), per il regista «*ha mostrato tutta la sua iniquità*», per esempio impedendo di ricongiungersi con la famiglia che già vive in uno Stato e accentuando così l’insicurezza delle persone in fuga che potrebbero invece contare sulla rete familiare. Visto dal tendone di Tor Marancia, il regolamento di Dublino è un paradosso. È l’immagine di un’Italia travagliata dalla crisi, inerte e incapace di sostenere politiche e logiche non emergenziali quando si tratta di immigrazione. Un Paese che si sente invaso da cittadini stranieri. I quali, come Rahell e tanti altri, sognano di andare altrove.
 
-![](/images/2017/11/Terra-di-Transito-WEB_Small.jpg)
-
-•
+![](images/Terra-di-Transito-WEB_Small.jpg){fig-align="center"}
 
 *Fotografia: “Profughi della Vlora in banchina a Bari”, 8.08.1991*
 

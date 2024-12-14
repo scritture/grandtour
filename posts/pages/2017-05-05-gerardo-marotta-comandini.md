@@ -6,14 +6,13 @@ categories:
   - politica
   - Frascati
   - Napoli
-  - Istituto italiano per gli studi filosofici
-  - Vivarium Novum
-  - Luigi Miraglia
   - Gerardo Marotta
   - Claudio Comandini
 image: /images/2017/05/Raffael_063.jpg
 author: Claudio Comandini
 ---
+
+![](images/Marotta_Raffael.jpg){fig-align="center"}
 
 *Storia di una biblioteca in cerca di una sede, di un istituto di filosofia, del loro fondatore. Perché la ricerca continui a diffondersi.*
 
@@ -56,7 +55,5 @@ Se la figura di Marotta nella Napoli terremotata, transennata e lugubre degli an
 Il felice e prezioso connubio di utopia e concretezza è quindi realizzato da una capacità di donazione che permette di spogliarsi dell'egoismo bestiale e raggiungere mete compiutamente umane, superando le gerarchie di uomini, valori e istituzioni. Infatti, ricorda Miraglia, dove l'avvocato si privò del proprio patrimonio personale per permettere un'educazione filosofica diffusa, fuggì a quella chiusura nel "privato" che tale parola assume tanto in greco (dove significa *idiota*) e latino (dove indica *sottrazione*), ottemperando peraltro al dettato costituzionale degli art. 42-43 per i quali la proprietà privata deve servire al bene collettivo.
 
 E così, diverse sono le vie con cui il *logos* ritrova il presente. Affidamento alla provvidenza e senso dell'eterno. Rapporto personale con il divino. Superamento del contingente accompagnato alla responsabilità per la storia. Contribuire con il proprio *officium* all'edificazione della civiltà. E nella sede di questo *officium*, a Palazzo Serra di Cassano, funerali in forma privata hanno salutato la verve metafisica e la piena laicità di questo uomo con cappello, pastrano e voce potente.
-
-•
 
 *Illustrazione: Raffaello Sanzio, "Epicuro o rito orfico" (Scuola di Atene, dettaglio), 1509-1511.*
