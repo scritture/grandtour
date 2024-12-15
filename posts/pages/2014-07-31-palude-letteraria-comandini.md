@@ -31,6 +31,8 @@ categories:
   - Claudio Comandini
 ---
 
+![](images/palude-di-citta-678x381.jpg){fig-align="center" width="636"}
+
 *Cultura, comunicazione e sagre dell'inutile. Segre: eredità non riscosse. Dubois: la letteratura e le sue legittimazioni. Schücking: gruppi letterari e concorrenza commerciale. La scrittura, il digitale e Cicerone. Cordelli: il parlamento della palude. Cortellessa: la terra della prosa. Tribalismo e anomia. Dibattito: Policastro, Longo, Sortino, Calcaterra, Gallerani, Voce, Mancuso, Mascheroni, Raimo, Beretta, Pedullà, Di Consoli, Di Paolo, Minardi, Silvestri, Berardinelli. Breve storia dell'arte di raccontare storie: dal romanzo borghese di Hegel agli scrittori inutili di Cavazzoni. Note sul narrativismo e sui sofware di scrittura. Dubini: il ripensamento dell'economia del libro. Ferroni: scritture a perdere. Eccessi, evaporazioni, successi, bestiari. Oscillazioni del narrare. Responsabilità per la parola e cura del mondo.*
 
 ## 1. L'origine della palude
@@ -201,6 +203,4 @@ Lo scrittore, se vorrà essere tale, dovrà sottrarsi alle ossessioni dei target
 
 Fuori dalla palude, l'appello del presente si può corrispondere oltre l'autoreferenzialità che ha permesso la teatralizzazione di ogni stupidaggine, l'autopromozione del vuoto e altri paradossi effettivamente paludosi. Se non è più possibile la narrazione compiuta delle forme tradizionali, è perché la stessa modernità è rimasta incompiuta, ed è decaduto anche il postmodernismo e l'abuso di categorie quali fine della storia e morte del soggetto. Quanto ancora possiamo chiamare come creazione attende sempre si essere proseguita, poco importa se per stupirsene o contestarla. Il discrimine sul quale la scrittura può incidere si stabilisce così nell'interazione tra reale e virtuale e nell'oscillare tra documento ed esperienza. Un campo aperto di narrazioni possibili, indefinite nel campo ma esatte nello stile, attende di essere esplorato.
 
-•
-
-*Fotografia: Claudio Comandini, "Palude di città" - Bologna, ottobre 2012.*
+*Fotografia: Claudio Comandini, Palude di città (Bologna, ottobre 2012).*

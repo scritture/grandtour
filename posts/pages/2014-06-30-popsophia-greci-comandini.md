@@ -16,6 +16,8 @@ categories:
   - Claudio Comandini
 ---
 
+![](images/athenapop.jpg){fig-align="center" width="429"}
+
 *Principî e ambiti della popsophia. I greci e la modernità. Umberto Curi: pensiero e narrazione. Il Protagora di Platone. Stupore e timore. Pathos e mathos nel mondo greco. La Poetica di Aristotele. La storia e le sue trasformazioni. Racconti impossibili tra Leibniz e Benjamin. Protagora e la formazione politica. Fichte e la diffusione della ragione. Leo Strauss tra persecuzione e reticenza. Narrare la frattura del presente.*
 
 [*Prolegomeni per una popsophia*](http://www.popsophia.it/2012/images/stories/kultur/Edizione_Curi_Max.pdf) (2011-2013) di Umberto Curi si propone di svolgere l'esposizione preliminare di alcuni principî che possano permettere di applicare l'interrogazione filosofica ai fenomeni della cultura di massa. Un approfondimento delle ragioni del presente, capace di permettere la demistificazione dei luoghi comuni dell'attualità, è sempre necessario e il testo, in base ad un ripensamento di decisivi aspetti del pensiero greco, ne propone alcuni criteri.
@@ -68,8 +70,6 @@ L'apice della narrazione, come ricorda Sergio Givone (*Il bibliotecario di Leibn
 
 Ad ogni modo, molte trame sono disponibili per una *epideiknymi* (capacità dimostrativa) in grado di sottrarsi ai riduzionismi delle scienze e ai particolarismi della politica, incompatibili con un pensiero intenzionato ad attraversare le fratture del presente e a recuperare ruolo e influenza nei confronti della realtà fisica e di quella sociale.
 
-•
-
 *Pubblicato come ["Contributi ad una popsophia quale critica del presente", «Popsophia» 29.06.2014](http://www.popsophia.it/it/blog/d/110/art/698-contributi-ad-una-popsophia-quale-critica-del-presente/). Riveduto e ampliato.*
 
-*Fotografia: Claudio Comandini, "Athenapop" - Atene, agosto 1993*
+*Fotografia: Claudio Comandini, Athenapop (Atene, agosto 1993).*

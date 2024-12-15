@@ -12,6 +12,8 @@ categories:
   - Claudio Comandini
 ---
 
+![](images/descende.jpg){fig-align="center" width="622"}
+
 *Strani strumenti della Provvidenza. Una scabrosa vicenda dal Basso Impero, una sorprendente vittoria del bene.*
 
 In un tempo non molto lontano, don Abbondio sembrava lo stronzo perfetto. Il suo pavido moralismo era l'espressione più tipica di una società terrorizzata da tutto quanto davvero desiderasse: inerte e molesto, incapace di assolvere ai propri compiti, alla fine riusciva in qualche modo a riassorbire gli scompensi che creava e, se da una parte ostacolava, dall'altra facilitava, con moto alterno. Lo ricordo ancora, ai tempi della scuola, quando intento nei suoi capolavori didattici, insegnando le Lettere, così le chiamava, calcando forte sulla L maiuscola, ti ammorbava con la peggior propaganda neoguelfa; oppure, alle prese con l'economia, manteneva presidio al baretto dell'oratorio affaccendandosi a raddoppiare il prezzo di *boeri* e *chupa-chupa* con la scusa delle missioni. Alcuni suoi tratti sapevano essere simpatici: sapeva le poesie a memoria, per quanto soltanto quelle orrende, e regalava caramelle, purtroppo non drogate. Fare la sua imitazione era una gara alla quale nessun ragazzaccio poteva sottrarsi.
@@ -40,8 +42,6 @@ E come se per davvero avesse fatto irruzione nella nostra pedestre storia un qua
 
 E fu così che il bene seppe trionfare anche quella volta.
 
-•
+*Tratto dal romanzo "Basso Impero" (Sovera, Roma 2006). Riveduto*
 
-*Tratto dal romanzo "Basso Impero" (Sovera, Roma 2006). Nuova edizione.*
-
-*Fotografia: Claudio Comandini, "Descende, et imperium coepit" - Roma, febbraio 2013.*
+*Fotografia: Claudio Comandini, Descende, et imperium coepit (Roma, febbraio 2013).*

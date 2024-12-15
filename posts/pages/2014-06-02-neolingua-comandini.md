@@ -30,6 +30,8 @@ categories:
   - Claudio Comandini
 ---
 
+![](images/neolingue.jpg){fig-align="center" width="639"}
+
 *I tre vocabolari della neolingua. L'associazione di sostantivo e verbo e altri sistemi per paralizzare l'intelletto. Rettifica della storia e mutabilità del passato. Guerra infinita e conflitto in Crimea. Codici giovanili, burocratici e scientifici. Materialismo dialettico e radicalismi di maniera. Politically correct, semplificazioni logiche, scorrettezze semantiche. Genitore 1 e 2 e la generazione umana. Liberazioni presunte e bioingegneria. Il latino nel mondo antico e moderno. L'esperanto tra le lingue. L'italiano lingua dotta. Manzoni e i dialetti. Il turco e l'ungherese. Opposizione letteraria: Pamuk e Altan, Mihály Babits. I bestseller, il pigdin, la dimora dell'Essere. Pacifisti, spie, industriali e punk all'ombra del Muro di Berlino. Beppe Grillo da comico serio a politico buffone. Le occasioni perdute del M5S. Le inadeguatezze nel web. Nessuna cortesia verso la "gultura". Distinzione tra critica e polemica. "Controllo di qualità" e responsabilità personale. Attori ed eroi nei social network. Pierre Levy e il virtuale. Kenneth Goldsmith e la "scrittura non creativa". Vikram Chandra e la "narraprogrammazione". Bibisco, il "programma narratore". Il congiuntivo: pensare l'irrealtà. Hugh Hopper e i paesaggi sonori dei ministeri del Socing. «Ci incontreremo nel luogo dove non c'è tenebra».*
 
 ## 1. I rudimenti della neolingua
@@ -272,6 +274,4 @@ I paesaggi sonori di *1984* rievocano i quattro ministeri del Socing. *Miniluv* 
 
 In un incrocio dei suoni straniante e perfetto, il basso elettrico di Hopper dimostra la capacità di essere anche qualsiasi altro strumento, sfuggendo a ogni normativizzazione. Inutile usare parole come jazz-rock-psycho-ambient, nominare parentele e prossimità: *questa è musica*. Non ci resta che ringraziarlo: più di quarant'anni dopo, a molti può risultare ancora incomprensibile, nel suo essere intenta a scardinare le abitudini d'ascolto con i suoni di un futuro impossibile. Come dice Orwell alla fine del romanzo, è tutto a posto. *1984* non passerà mai. Già sappiamo che se il futuro sarà simile al presente, nessuno potrà ascoltare un messaggio non conforme: se il domani sarà differente, niente di tutto questo avrà significato. Eppure, qualcuno sa: *«Ci incontreremo nel luogo dove non c'è tenebra»*.
 
-•
-
-[*Tratto da discussioni del gruppo Scritture di LinkedIn, novembre 2013-giugno 2014*](http://www.linkedin.com/groups/Scritture-4880518) *Fotografia: Claudio Comandini, "Neolingue" - Sofia, agosto 2002*
+[*Tratto da discussioni del gruppo Scritture di LinkedIn, novembre 2013-giugno 2014*](http://www.linkedin.com/groups/Scritture-4880518) *Fotografia: Claudio Comandini, Neolingue (Sofia, agosto 2002).*
