@@ -31,7 +31,7 @@ categories:
 
 ## 1. Santa Sapienza
 
-*Il Signore con la sapienza fondò la terra e consolidò le cose con l'intelligenza. Per la sua scienza gli abissi si spalancarono. (Proverbi 3:19-20)*
+*Il Signore con la Sapienza fondò la Terra e consolidò le cose con l'Intelligenza. Per la sua Scienza gli Abissi si spalancano. (Proverbi 3:19-20)*
 
 Resta della nostra storia un puro spazio vuoto. Questo vuoto, a differenza di quanto possano aver considerato gli antichi e i moderni, non nega e non afferma il movimento, il pensiero e la compiutezza, e si impone alla nostra considerazione anche in base all'esperienza di un presente che oscilla continuamente tra potenzialità generativa di forme e perdita irreparabile di ogni eredità.
 
@@ -51,7 +51,7 @@ Se così stanno le cose, per trovare sua e nostra salvezza potremmo essere costr
 
 ## 2. Genzano e la Luna
 
-*Ciò che il Santo, egli sia benedetto, ha fatto sulla Terra, è a somiglianza di quanto è nel firmamento: ogni cosa allude a quello che si trova nel mondo superno. (Zohar 2:15b-16a)*
+*Ciò che il Santo, egli sia benedetto, ha fatto sulla Terra, è a somiglianza di quanto è nel Firmamento: ogni cosa allude a quello che si trova nel mondo superno. (Zohar 2:15b-16a)*
 
 ![*Stemma di Genzano*](images/Genzano_stemma.jpeg){fig-align="center" width="423"}
 
@@ -79,7 +79,7 @@ Fornisce una traccia per venire a capo di questa intricata e finora irrisolta qu
 
 [^5]: [Leandro Alberti, *Descrittione di tutta l'Italia, et isole pertinenti* \[1596\], Libreria della Fortezza, Venezia 1638.](https://books.google.it/books?id=KdclEEV28MsC&hl=it&pg=PA248#v=onepage&q&f=false)
 
-Gli antichi dei possono essere visti come quanto pervade profondamente l'esistenza umana ed essi, suggerisce lo storico delle religioni Walter F. Otto, non hanno nulla a che fare né con la tecnica né con la magia, non sono né frutto di invenzioni né vanno evocati, ma «*possono soltanto essere sperimentati*».[^6] Nel farne esperienza, i nomi delle divinità, di diversa origine e variatamente associati, chiedono, per quanto possa essere parziale, una sistematica. In tale sistematica, il tre non va limitato all'ordine biologico di padre-madre-figlio né concentrato nella Trinità cristiana di Padre, Figlio e Spirito Santo; piuttosto, possiamo vederlo esprimere una relazione dinamica di generazione non solo antropomorfa che continuamente si rinnova su ogni piano della manifestazione, pur non inerendo l'unità del non manifestato che la precede.
+Gli antichi dei possono essere visti come quanto pervade profondamente l'esistenza umana ed essi, suggerisce lo storico delle religioni Walter F. Otto, non hanno nulla a che fare né con la tecnica né con la magia, non sono né frutto di invenzioni né vanno evocati, ma «*possono soltanto essere sperimentati*».[^6] Nel farne esperienza nella lucida contemplazione sull'essere delle cose, così come si offrono alle forme del vissuto e dell'intelletto, i nomi delle divinità, di diversa origine e variatamente associati, chiedono, per quanto possa essere parziale, una sistematica. In tale sistematica, il tre non va limitato all'ordine biologico di padre-madre-figlio né concentrato nella Trinità cristiana di Padre, Figlio e Spirito Santo; piuttosto, possiamo vederlo esprimere una relazione dinamica di generazione non solo antropomorfa che continuamente si rinnova su ogni piano della manifestazione, pur non inerendo l'unità del non manifestato che la precede.
 
 [^6]: Walter F. Otto, *Teofania* \[1956\], Adelphi, Milano 2021.
 
@@ -87,7 +87,7 @@ Cerchiamo di trovare linee guida e genalogie dentro la selva degli dei che, a de
 
 [^7]: Esiodo, *Teogonia* \[VII sec. a.C.\], a cura di G. Arrighetti, Mondadori, Milano 2007.
 
-![*Ecate Chiaramonti (scultura romana da originale ellenistico), Musei Vaticani*](images/Hecate_scultura.jpg){fig-align="center" width="252" height="788"}
+![*Ecate Chiaramonti (scultura romana da originale ellenistico), Musei Vaticani*](images/Hecate_scultura.jpg){fig-align="center" width="255" height="771"}
 
 Attributo di Artemide è l'arco, che ha forma di mezzaluna. In epoca più tarda è identificata con la Luna crescente, e la Luna calante trova forma in Ecate, che governa gli incroci, i demoni e l'oscurità. Nel mondo latino, soprattutto durante il sincretismo imperiale, il nome di Artemide diventa quindi quello di Diana. Diana è casta, solitaria e irascibile, e nel suo aspetto infero e ctonio è conosciuta appunto anche come Trivia, oscura, magica e mortifera, nonché celeste, terrena e marina. A Diana era dedicato il santuario che sorgeva sulla sponda del lago opposta a quella su cui si affaccia Genzano vecchio, le cui rovine iniziano ad essere attenzione di scavo con iMario e Pompeo Frangipani signori di Nemi nella seconda metà del secolo XVII.[^8]
 
@@ -103,7 +103,7 @@ Possiamo così vedere in tutte queste dee e nei loro nomi, il cui elenco potrebb
 
 ## 3. La parte nascosta dell'Islam
 
-*Non vedi che Dio conosce quel che è nei cieli e sulla terra? (Corano 58:7)*
+*Non vedi che Dio conosce quel che è nei Cieli e sulla Terra? (Corano 58:7)*
 
 ![*Stefan Lochner, Adorazione dei Magi (1440-1442)*](images/Lochner_Magi.jpg){fig-align="center" width="549"}
 
@@ -129,7 +129,7 @@ Alcuni non esitano a far appartenere la mezzaluna ai Turchi, di origine altaica 
 
 [^13]: Piero Calò, *L'Islam e l'eredità bizantina*, Edizioni all'insegna del Veltro, Parma 1990.
 
-Osman I agli inizi del XV sec. fonda la dinastia ottomana, e ha in sogno la visione di una mezzaluna che sorge dal petto del sufi Edebali, padre di sua moglie, per quindi stagliarsi sopra il mondo. Un riflesso della Luna che nasconde una stella appare nel 1448 durante la battaglia di Kosovo nelle pozze di sangue dei cristiani sconfitti dagli Ottomani. Nel 1453 nella notte della caduta di Costantinopoli la mezzaluna e la stella sono viste nelle mani di Maometto II. L'impero assume il simbolo riconoscendosi nella conquista di Costantinopoli, predetta da un Hadit del profeta Maometto. *Ay Yıldız* è inizialmente una falce di Luna su campo verde, cambiato in rosso nel 1793 da Selim III; la stella a cinque punte viene introdotta nel 1844. Soltanto dal XX sec. la mezzaluna crescente diventa simbolo dell'islam tutto.[^14]
+Osman I agli inizi del XV sec. fonda la dinastia ottomana, e ha in sogno la visione di una mezzaluna che sorge dal petto del sufi Edebali, padre di sua moglie, per quindi stagliarsi sopra il mondo. Un riflesso della Luna che nasconde una stella appare nel 1448 durante la battaglia di Kosovo nelle pozze di sangue dei cristiani sconfitti dagli Ottomani. Nel 1453 nella notte della caduta di Costantinopoli la mezzaluna e la stella sono viste nelle mani di Maometto II. L'impero assume il simbolo riconoscendosi nella conquista di Costantinopoli, predetta da un Hadit del profeta Maometto. *Ay Yıldız* è inizialmente una falce di Luna su campo verde, cambiato in rosso nel 1793 da Selim III; la stella a cinque punte viene introdotta nel 1844. Soltanto dal XX sec. la mezzaluna crescente diventa simbolo dell'Islam tutto.[^14]
 
 [^14]: Jean-Paul Roux, *Storia dei Turchi: duemila anni dal Pacifico al Mediterraneo* \[1988\], Argo, Roma 2006.
 
@@ -159,7 +159,7 @@ Le storie che si intersecano nella formulazione delle divinità femminili e degl
 
 ## 4. Memorie sospese
 
-*La mia luce è sparita come alito, e io sono diventata materia. (Pistis Sophia 39:5)*
+*La mia Luce è sparita come alito, e io sono diventata Materia. (Pistis Sophia 39:5)*
 
 Nei boschi sulle sponde del lago di Nemi, presso il santuario di Diana, risplendeva nel riflesso della Luna la lama di un coltello, brandito da uno schiavo fuggitivo. In remote notti d'estate, esattamente il 13 agosto, egli avrebbe colto un ramo d'oro da un albero sacro che nessuno poteva spezzare, e uccidendo il proprio predecessore sarebbe stato nominato *Re del Bosco*. James Frazer[^20] nel fornire gli elementi di questa antropologia si ispira all'omonimo quadro di William Turner e ricorda che dobbiamo ad Oreste della figura del *Rex Nemorensis* e l'introduzione del culto di Diana, il cui tempio viene traslato sull'Aventino da Servio Tullio. Caracalla, perfezionando l'influenza egizia su Roma, associa il lago al culto di Iside, altra forma della divinità lunare, a detta di Plutarco «*dea eletta per sapienza e amante di sapienza*», nata insieme ad Osiride dall’unione tra Nut (il Cielo) e Geb (la Terra).[^21] Caracalla vi colloca, conformemente al carattere del sito, due navi atte alla celebrazione di feste religiose, che in seguito alla sua morte vengono affondate dai senatori; dopo sporadici, parziali e anche dannosi tentativi, iniziati per volere del card. Prospero Colonna da Leon Battistti Alberti nel 1446, nel 1929 una commisione presieduta dal sen. Corrado Ricci permette il recupero dei resti delle imbarcazioni attraverso lo svuotamento delle acque del lago.[^22] Custodite presso il Museo delle Navi di Nemi, resti degli scafi e struttura del museo vengono devastati da un incendio provocato, come è stato definitivamente accertato, dall'impazzare delle bombe anglo-americane successive all'armistizio dell'8 settembre 1943.[^23]
 
@@ -193,7 +193,7 @@ Anche a Istanbul, Roma d'Oriente, i vuoti urbanistici tendono perlopiù ad esser
 
 ![*René Magritte, I misteri dell'orizzonte (1955)*](images/Magritte.jpg){fig-align="center" width="585"}
 
-Anche oltre il Bosforo e i Castelli, in tutto il territorio della metropoli globale, il presente sfugge a se stesso e non sa bene come raccapezzarsi, e sono parimenti fuori luogo le opposte disabilità di progressisti e nostalgici. Ogni cultura ha ormai sperperato l'eredità delle civiltà storiche e la miseria e l'impotenza si impongono ovunque. Assurdo e irrilevante l'assolutismo religioso dei fanatici, rifiuti da raccolta indifferenziata le pretese magiche degli psicopatici. L'acume di Diana può quindi aiutarci a muoverci degli interstizi di questa guerra che ovunque infuria, e andare a caccia del presente perduto, afferrandone la sapienza riposta nelle intersezioni di tre pensatori tra loro molto diversi, quali il filosofo Jacques Derrida, il poeta Eugenio Montale, il fisico Heinz Rudolf Pagels.
+Anche oltre il Bosforo e i Castelli, in tutto il territorio della metropoli globale, il presente sfugge a se stesso e non sa bene come raccapezzarsi, e sono parimenti fuori luogo le opposte disabilità di progressisti e nostalgici. Ogni cultura ha ormai sperperato l'eredità delle civiltà storiche e la miseria e l'impotenza si impongono ovunque. Ridicole le pretese di una poesia e di un'arte ridotte ad espressione di piccoli interessi, folle la supersitzione di una scienza chiusa in formule che non spiegano nemmeno se stessa, rifiuti da raccolta indifferenziata le pretese magiche degli psicopatici, assurdo e irrilevante l'assolutismo religioso dei fanatici. L'acume di Diana può quindi aiutarci a muoverci degli interstizi di questa guerra che ovunque infuria, e andare a caccia del presente perduto, afferrandone la sapienza riposta nelle intersezioni di tre pensatori tra loro molto diversi, quali il filosofo Jacques Derrida, il poeta Eugenio Montale, il fisico Heinz Rudolf Pagels.
 
 Dove è il tempo stesso ad essersi disarticolato portando ad «*effetti di spettralità*»*,* siamo esposti ad un'inadeguatezza diffusa e senza scampo. Eppure, Derrida suggerisce che la frattura di un «*tempo fuor di sesto*» possa essere a sua volta necessaria. Se nella diffusa non contemporaneità di un presente assente è impossibile pensare l'omogeneità, è proprio il recupero della storia a permettere gli «*effetti di congiuntura*» che ne favoriscono in qualche modo una riparazione. E accogliere la responsabilità infinita per cui una cosa, ovunque accada, «*ci riguard*a» permette di estituire a ciò che ci viene incontro una dignità che supera ogni economia, e «*imparare a vivere, infine*.»[^26]
 
