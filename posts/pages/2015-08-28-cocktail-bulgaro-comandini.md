@@ -83,6 +83,6 @@ Arriva il treno, continuo a suonare. Mi invitano a salire due allegri viaggiator
 
 *Agosto 2002. Il disco [Parachuting Nonsense!](http://www.setoladimaiale.net/record.asp?section=audio&id=SM1510) (Setola di Maiale, 2009 - registrazioni del 2002-2003) deve molto a questo viaggio.*
 
-![](images/Parachuting nonsense! (cd audio, 2009).jpeg){fig-align="center"}
+![](images/Parachuting%20nonsense!%20(cd%20audio,%202009).jpeg){fig-align="center"}
 
 *Fotografia: Claudio Comandini, Paracadutisti nonsense (Stara Zagora, agosto 2002.)*
