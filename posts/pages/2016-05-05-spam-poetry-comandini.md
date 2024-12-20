@@ -9,6 +9,8 @@ categories:
   - Claudio Comandini 
 ---
 
+![](images/Disturbo-444x381.jpg){fig-align="center"}
+
 *Lo spam dentro e fuori di noi.*
 
 Sono la signorina Bianca Adalard, signora single (mai sposato) me stesso, vivo uno senza genitori. Mi piace il silenzio. Temporaneamente non funziona. Vorrei che mi prestavate un'attenzione particolare poiché il grande ha Raoul umanistico Follereau li ha insegnati che nullo non ha il diritto di essere felice molto solo.
@@ -25,4 +27,4 @@ Oggi sono presente con ben 12 libri nella classifica top 100. Il laboratorio non
 
 E per conoscersi meglio. Che DIO benedica la nostra collaborazione. Per questo natale fatti un regalo. Un pensiero natalizio che sia un messaggio di impegno sociale. La mia felicità è che ho vissuto una vita degna di emulazione. E non mi annoiavo in vacanza. Attendo una riscontro con insofferenza.
 
-*Fotografia: "Disturbo" - Roma, aprile 2015.*
+*Fotografia: Claudio Comandini, Disturbo (Roma, aprile 2015).*
