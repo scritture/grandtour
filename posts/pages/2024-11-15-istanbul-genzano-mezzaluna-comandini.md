@@ -57,7 +57,7 @@ Potremmo così, per sua e nostra salvazione, essere costretti a cercare questa s
 
 ## 2. Genzano e la Luna
 
-*Ciò che il Santo, egli sia benedetto, ha fatto sulla Terra, è a somiglianza di quanto è nel Firmamento: ogni cosa allude a quello che si trova nel mondo superno. (Zohar II:15b-16a)*
+*Ciò che il Santo, egli sia benedetto, ha fatto sulla Terra, è a somiglianza di quanto è nel Firmamento: ogni cosa allude a quello che si trova nel mondo superno. (Zohar II 15b-16a)*
 
 ![*Stemma di Genzano*](images/Genzano_stemma.jpeg){fig-align="center" width="423"}
 
