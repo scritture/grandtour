@@ -5,14 +5,14 @@ about:
   template: trestles
   image: /images/immagini_bookwinebar/bar/mappa.jpeg
   links:
-    - icon: linkedin
-      href: https://www.linkedin.com/groups/4880518/
-    - icon: twitter
-      href: https://twitter.com/tweet_scritture
     - icon: facebook
-      href: https://www.facebook.com/search/scritturemagazine
+      href: https://www.facebook.com/groups/scritture
     - icon: instagram
       href: https://www.instagram.com/bookwinebar/
+    - icon: twitter
+      href: https://twitter.com/tweet_scritture
+    - icon: linkedin
+      href: https://www.linkedin.com/groups/4880518/
     - icon: envelope
       href: mailto:grandtour.frascati@gmail.com
       aria-label: Email
