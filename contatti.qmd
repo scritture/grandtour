@@ -2,7 +2,7 @@
 title: "contatti"
 about:
   template: broadside
-  image: /images/immagini_bookwinebar/mappa.jpeg
+  image: /images/immagini_bookwinebar/bar/mappa.jpeg
   links:
     - icon: linkedin
       href: https://www.linkedin.com/groups/4880518/
