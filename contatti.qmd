@@ -1,7 +1,8 @@
 ---
 title: "contatti"
+toc: false
 about:
-  template: broadside
+  template: trestles
   image: /images/immagini_bookwinebar/bar/mappa.jpeg
   links:
     - icon: linkedin
