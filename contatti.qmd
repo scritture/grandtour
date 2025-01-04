@@ -1,8 +1,8 @@
 ---
 title: "contatti"
-image: /images/immagini_bookwinebar/mappa.jpeg
 about:
   template: broadside
+  image: /images/immagini_bookwinebar/mappa.jpeg
   links:
     - icon: linkedin
       href: https://www.linkedin.com/groups/4880518/
@@ -18,15 +18,11 @@ about:
     - text: ISSN 2499-6610
 ---
 
-![](images/immagini_bookwinebar/bar/mappa.jpeg)
-
 ## GRAND TOUR BookWineBar
 
 Largo Duca di York 8 00044 Frascati
 
 -   06.44248940 (negli orari indicati)
-
-<!-- -->
 
 -   346.7284282 (messaggio whatsapp)
 
