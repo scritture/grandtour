@@ -19,7 +19,7 @@ categories:
   - Claudio Comandini 
 ---
 
-![](images/vuotocielo.jpg){fig-align="center"}
+![](images/vuotocielo-01.jpg){fig-align="center"}
 
 *11 settembre: immagini di un giorno. Delillo: le rovine del futuro e la scrittura del presente. Gonzales: lo schermo nero e la luce di Dio. Spiegelman: l'ombra di quello che non c'è più. Eisner: la realtà e i fumetti. Human Target: la strana storia dell'uomo che finse di morire. La reazione del presidente e la fiaba della capretta.*
 
