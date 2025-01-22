@@ -9,11 +9,9 @@ format:
       - sport
       - sessualità
       - filosofia
-      - Infodemia
+      - infodemia
       - Islam  
       - Claudio Comandini
-  pdf: default
-  epub: default
 ---
 
 ![](images/Imane_Khelif.jpg){fig-align="center"}
