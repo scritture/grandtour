@@ -1,6 +1,6 @@
 ---
 author: Massimo Pamio
-date: 2016-07-23 10:00:51+00:00
+date: 2016-07-23
 title: Il giorno in cui combinammo qualcosa di buono
 categories:
   - società

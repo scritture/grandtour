@@ -17,7 +17,9 @@ categories:
 author: Claudio Comandini
 ---
 
-![](images/Old-City-of-Jerusalem-Encyclopedia-Britannica-1997.jpg)*Dichiarazioni americane e conseguenze mondiali. Storia di una città, dei suoi popoli e dei suoi monumenti. Parcellizzazione dei Luoghi Sacri e parzialità dei poteri.*
+![](images/Old-City-of-Jerusalem-Encyclopedia-Britannica-1997.jpg)
+
+*Dichiarazioni americane e conseguenze mondiali. Storia di una città, dei suoi popoli e dei suoi monumenti. Parcellizzazione dei Luoghi Sacri e parzialità dei poteri.*
 
 ## 1. La città senza pace
 

@@ -1,6 +1,6 @@
 ---
 author: George Weigel
-date: 2016-07-27 10:00:12+00:00
+date: 2016-07-27
 title: Nuova Chiesa e nuova politica
 categories:
   - Cristianesimo

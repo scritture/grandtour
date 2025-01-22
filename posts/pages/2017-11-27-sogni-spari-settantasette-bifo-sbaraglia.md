@@ -2,7 +2,7 @@
 author:
   - Franco "Bifo" Berardi - Emiliano Sbaraglia
 comments: false
-date: '2017-11-27 11:00:47+00:00'
+date: 2017-11-27
 title: Premonizioni del Settantasette
 categories:
   - storia

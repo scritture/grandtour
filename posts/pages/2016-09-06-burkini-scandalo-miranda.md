@@ -1,6 +1,6 @@
 ---
 author: Rossana Miranda
-date: 2016-09-06 10:00:38+00:00
+date: 2016-09-06
 title: Il burkini e lo scandalo del coprirsi
 categories:
   - religioni

@@ -1,7 +1,7 @@
 ---
 author: Katharine Viner
-date: 2017-01-25 11:00:17+00:00
-title: Il digitale ha distrutto la verità
+date: 2017-01-25
+title: "Il digitale ha distrutto la verità"
 categories:
   - comunicazione
   - editoria
@@ -14,7 +14,7 @@ categories:
   - Katharine Viner
 ---
 
-![](images/digitaldestruction.jpg){fig-align="center" width="348"}
+![](images/digitaldestruction.jpg){fig-align="center"}
 
 *I social media hanno fagocitato le notizie - minacciando il consolidamento delle cronache giornalistiche di pubblico interesse e inaugurando un'era nella quale ognuno rivendica la creazione di fatti a proprio arbitrio. Questo tradisce del tutto il modello, aperto e agerarchico, al quale originariamente si era fatto riferimento per la Rete, e le conseguenze vanno molto al di là del giornalismo e riguardano sopratutto le nuove dinamiche di potere venutesi a creare, particolarmente brutali. E se c'è stato un tempo nel quale qualcuno era arrivato a credere che Internet avrebbe permesso una specie di repubblica planetaria del giornalismo diffuso, oggi lo spazio virtuale è perlopiù filtrato nel chiuso recinto dei social e vi prevale il sensazionalismo più grossolano. La politica sembra assimilarne i modi a tutti i livelli favorendo e assecondando populismi che minano a loro volta la fiducia nelle istituzioni, compresa la stampa, permettono il diffondersi di narcisismi autoreferenziali e distruttivi nei confronti di programmi e contenuti. Tuttavia, tale modello non regge né di fronte alla complessità del mondo, né nei confronti di quelli che sono i doveri dell'informazione. Un articolo di Katharine Viner, caporedattore del Guardian.*
 

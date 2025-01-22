@@ -1,7 +1,7 @@
 ---
 author: Claudio Comandini
 title: Un vuoto nel cielo
-date: 2016-09-11 10:00:52+00:00 
+date: 2016-09-11
 categories: 
   - politica 
   - geopolitica

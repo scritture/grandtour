@@ -1,6 +1,5 @@
 ---
 author: Giulio Giorello - Pino Donghi
-comments: false
 date: 2017-05-15 10:00:10+00:00
 title: "Etica del ribelle. La scienza e la storia tra fratture e continuità"
 categories:

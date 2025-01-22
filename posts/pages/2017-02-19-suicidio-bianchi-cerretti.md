@@ -1,6 +1,6 @@
 ---
 author: Diego Cerretti
-date: 2017-02-19 11:00:28+00:00
+date: 2017-02-19
 title: In memoria di un ragazzo suicidato dalla madre
 categories:
   - società

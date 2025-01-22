@@ -1,6 +1,6 @@
 ---
 author: Scuola dell'Obbligo
-date: 2016-08-11 10:00:12+00:00
+date: 2016-08-11
 title: Compiti per le vacanze
 categories:
    - scuola
