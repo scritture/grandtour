@@ -19,8 +19,7 @@ git pull origin $BRANCH
 echo "Aggiunta delle modifiche locali al repository..."
 
 # Aggiungi tutte le modifiche tranne quelle nelle directory 'docs' e '.quarto'
-git add *md
-git add posts/*/*
+git add .
 
 
 echo "Effettuando il commit delle modifiche..."
