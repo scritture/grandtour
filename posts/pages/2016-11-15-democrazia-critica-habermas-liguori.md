@@ -1,8 +1,6 @@
 ---
 author: Alfonso Liguori
-comments: false
 date: 2016-11-15 11:00:45+00:00
-image: /images/2016/11/American-Eagles.jpg
 title: Una democrazia critica. Note su Habermas
 categories:
   - filosofia

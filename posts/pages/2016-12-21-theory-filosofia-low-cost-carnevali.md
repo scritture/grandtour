@@ -1,10 +1,6 @@
 ---
 author: Barbara Carnevali
-comments: false
-date: 2016-12-21 11:00:55+00:00
-image: /images/2016/12/Universi-paralleli.jpg
-link: http://redazione.scritture.net/mag/theory-filosofia-low-cost/
-slug: theory-filosofia-low-cost
+date: 2016-12-21 
 title: 'La “Theory”: una filosofia sintetica low cost'
 categories:
   - filosofia

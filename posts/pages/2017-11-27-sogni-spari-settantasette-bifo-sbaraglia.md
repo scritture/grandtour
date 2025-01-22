@@ -3,7 +3,6 @@ author:
   - Franco "Bifo" Berardi - Emiliano Sbaraglia
 comments: false
 date: '2017-11-27 11:00:47+00:00'
-image: /images/2018/01/paolo_pedrizetti_14_Maggio_1977.jpg
 title: Premonizioni del Settantasette
 categories:
   - storia

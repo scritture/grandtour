@@ -1,7 +1,6 @@
 ---
 author: Benedetto Vecchi
 date: 2016-06-27 10:00:59+00:00
-image: /images/2016/08/felicita-promesse-640x381.jpg
 title: Gli spacciatori di felicità
 categories:
   - filosofia

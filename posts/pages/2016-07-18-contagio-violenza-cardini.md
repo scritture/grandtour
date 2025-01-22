@@ -1,7 +1,6 @@
 ---
 author: Franco Cardini
 date: 2016-07-18
-image: /images/2016/07/non-vedere-la-citta-480x381.jpg
 title: 'Il contagio della violenza'
 categories:
   - religioni

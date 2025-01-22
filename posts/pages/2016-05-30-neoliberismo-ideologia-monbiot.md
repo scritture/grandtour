@@ -1,7 +1,6 @@
 ---
 author: George Monbiot
 date: 2016-05-30 10:00:08+00:00
-image: /images/2016/05/images.jpg
 title: "Il neoliberismo: l'ideologia senza nome"
 categories:
   - economia

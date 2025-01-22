@@ -1,5 +1,4 @@
 ---
-image:  /images/2016/06/finita-la-carta-678x381.jpg
 author: Claudio Comandini
 date: '2016-06-26'
 title: Bisogna saper vincere

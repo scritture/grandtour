@@ -7,7 +7,6 @@ categories:
   - Frascati
   - Italo Calvino
   - Claudio Comandini
-image:  /images/2017/10/panorama_1600.jpg
 author: Claudio Comandini
 ---
 

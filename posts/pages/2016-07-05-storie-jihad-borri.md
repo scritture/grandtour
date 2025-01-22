@@ -1,7 +1,6 @@
 ---
 author: Francesca Borri
 date: 2016-07-05 10:00:02+00:00
-image: /images/2016/07/maxresdefault-678x381.jpg
 title: Storie dalla Jihad
 categories:
   - religioni

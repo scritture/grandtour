@@ -1,8 +1,6 @@
 ---
 author: Mario Condorelli
-comments: false
 date: 2017-03-23
-image: '/images/2017/03/death.jpg'
 title: Aspetti etici del Testamento biologico
 categories:
  - politica
@@ -12,7 +10,7 @@ categories:
  - Mario Condorelli
 ---
 
-![](images/testamento_death.jpg){fig-align="center" width="295"}
+![](images/testamento_death.jpg){fig-align="center" }
 
 *È la linea dove poter decidere la vita e la morte a spostarsi avanti, oppure è la nostra capacità di sentirle quali dono a offuscarsi? Il caso di [DJ Fabo](http://www.ansa.it/lombardia/notizie/2017/03/06/dj-fabo-venerdi-a-milano-ultimo-saluto_c0409b6a-2d61-4319-8c66-985f789dab2a.html) (Fabiano Antoniani) ha riportato alle attenzione che, laddove la capacità di controllo della vita ha fatto i suoi passi maggiori nella medicina, la produzione di norme e l'idea stessa di diritto si sono estese alla possibilità di regolamentare e controllare non soltanto salute e malattia, ma lo stesso generare e porre termine all'esistenza. Non è possibile risolvere tali problematiche attraverso dogmi di nessun tipo, né confessionali e nemmeno scientifici e quantomeno mediatici, ed è necessario confrontarsi con loro cause e conseguenze, tanto nel rispetto di ogni caso personale, quanto in relazione ad un disegno sociale collettivo. Sono molte le nuove domande alle quali non si può rischiare di dare risposte vecchie o affrettate, e sulle quali la riflessione va estesa e radicalizzata, in modo da sollecitare soluzioni che abbiano davvero un senso. Occorre così anche chiedersi cosa resti per davvero del libero arbitrio in un mondo dove lo scegliere non sembra rispondere tanto a ragioni o a scopi, quando piuttosto ad una specie di ansia da prestazione che degrada misura e significato dell'esistenza a criteri di mercato, chiedendosi pure, laddove la medicalizzazione della vita perlopiù concepisce il corpo quale cosa e non come vivente e mette al centro più la malattia che la salute, quale possa essere il costo effettivo e di lungo periodo del mettere all'asta la morte e la generazione. Tuttavia, più le questioni sono decisive, più sono inflazionate di chiacchiere, e crescono di continuo tanto la paura di vivere quanto quella di morire, e da queste paure qualcuno sa trarre profitti sicuri, perché anche l'instabilità è un fattore di profitto per chi la sa gestire.*
 

@@ -1,10 +1,6 @@
 ---
-colors: colors-a
 author: Claudio Comandini
 date: 2016-06-13 10:00:13+00:00
-image: /images/2016/06/amore_nazista-640x381.jpg
-link: http://redazione.scritture.net/mag/mein-kampf-per-tutti/
-slug: mein-kampf-per-tutti
 title: Mein Kampf per tutti
 categories:
   - comunicazione

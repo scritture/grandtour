@@ -2,7 +2,6 @@
 title: Lotta armata, giustizia pop, varia letteratura
 date: '2017-11-07'
 author: Claudio Comandini
-image:  /images/2017/10/Battisti_noir-1.jpg
 categories:
   - filosofia
   - letteratura

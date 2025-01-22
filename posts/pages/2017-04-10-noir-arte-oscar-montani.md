@@ -1,7 +1,6 @@
 ---
 author: Oscar Montani 
 date: 2017-04-10
-image: '/images/2017/04/macchinadascrivere.jpg'
 title: 'Il noir (e il giallo e il thriller) come arte'
 categories:
    - letteratura
@@ -11,7 +10,7 @@ categories:
    - Oscar Montani
 ---
 
-![](images/macchinadascrivere.jpg){fig-align="center" width="436"}
+![](images/macchinadascrivere.jpg){fig-align="center"}
 
 *Le narrazioni noir, gialle e affini, conoscono* [*metropoli e province*](https://grandtour.shop/posts/pages/2015-02-28-colori-noir-comandini.html)*, eccellenze e mestieranti, conoscono tecniche per risolvere problemi nelle quali le preoccupazioni scientifiche e matematiche sono decisive.* [*Oscar Montani*](https://grandtour.shop/posts/pages/2016-03-15-giallo-matematica-oscar-montani.html)*, autore di romanzi (ultimo libro "La pazienza del gatto", 2016) e direttore editoriale per* [*Nerocromo*](https://www.nerocromo.com)*, ricorda inoltre che, per farne un'arte, non basta seguire le regole di genere, ma occorre avere una storia da raccontare.*
 

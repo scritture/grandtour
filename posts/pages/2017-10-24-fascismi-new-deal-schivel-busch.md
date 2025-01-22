@@ -1,8 +1,6 @@
 ---
 author: Wolfgang Schivel Busch
-date: '2017-10-24 10:00:00+00:00'
-image: >-
-  /images/2017/10/Fascist-Architecture-in-Washington-Lisner-Auditorium-1941-1943-by-Faulkner-Kingsbury.jpg
+date: 2017-10-24
 title: Affinità e divergenze tra fascismi e New Deal
 categories:
    - storia

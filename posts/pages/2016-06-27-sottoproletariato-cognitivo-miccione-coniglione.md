@@ -1,7 +1,6 @@
 ---
 author: Raffaele Coniglione
 date: '2016-06-27'
-image: /images/2016/06/Pyramid_of_Capitalist_System-678x381.jpg
 title: Il sottoproletariato cognitivo in Italia
 categories:
   - economia

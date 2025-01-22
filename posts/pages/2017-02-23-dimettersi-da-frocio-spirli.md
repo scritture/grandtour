@@ -1,7 +1,6 @@
 ---
 author: Nino Spirli
 date: 2017-02-23 11:00:31+00:00
-image: /images/2017/02/Gay_Pride_Madrid_2013.jpg
 title: Dimettersi da frocio
 categories:
   - sessualità

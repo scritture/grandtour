@@ -1,7 +1,6 @@
 ---
 author: Serena Grizi
 date: 2016-06-18 10:00:45+00:00
-image: /images/2016/06/Lo-Chiamavano-Jeeg-Robot-banner.jpg
 title: Jeeg Robot contro i Kattivi
 categories:
   - cinema

@@ -2,7 +2,6 @@
 author: Caterina Stile
 comments: false
 date: 2016-12-09 11:00:02+00:00
-image: /images/2016/12/man-161247_1280.png
 title: 'Donne e uomini: pregiudizi e dati di fatto'
 categories:
   - sessualità

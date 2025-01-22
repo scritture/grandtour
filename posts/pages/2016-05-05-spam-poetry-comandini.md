@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2016-05-05 10:00:29+00:00 
-image: /images/2016/05/Disturbo-444x381.jpg 
 title: Spam poetry! 
 categories: 
   - poesia

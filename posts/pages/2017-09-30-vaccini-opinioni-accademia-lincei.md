@@ -1,8 +1,6 @@
 ---
 author: Forni-Mantovani-Moretta-Rezza
-comments: false
 date: 2017-09-30 10:00:15+00:00
-image: /images/2017/10/ago.jpg
 title: Contro i vaccini. I perché di un'opinione
 categories:
   - politica

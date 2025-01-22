@@ -2,7 +2,6 @@
 author: 
   - Fidel Castro - Beatriz Pages Rebollar
 date: 2016-11-29
-image: /images/2017/11/fidelok.jpg
 title: Fidel Castro e l'eredità del socialismo
 categories:
   - geopolitica

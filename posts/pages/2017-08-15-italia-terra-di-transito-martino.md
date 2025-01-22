@@ -2,7 +2,6 @@
 title: 'Italia: terra di transito obbligatorio e permanente'
 date: '2017-08-15'
 author: Claudio Comandini
-image:  /images/2017/11/Profughi_della_Vlora_in_banchina_a_Bari_8_agosto_1991.jpg
 categories:
   - economia
   - geopolitica

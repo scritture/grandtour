@@ -1,14 +1,8 @@
 ---
-addTitleSuffix: true
-colors: colors-a
 author: Claudio Comandini
 date: 2016-10-30 11:00:58+00:00
-image: /images/2016/12/post-unity.jpg
-link: http://redazione.scritture.net/mag/berlino-dopo-lunione/
-slug: berlino-dopo-lunione
-title: Berlino dopo l'unione
+title: "Berlino dopo l'unione"
 categories:
-
   - filosofia
   - storia
   - geopolitica

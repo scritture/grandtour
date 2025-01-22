@@ -1,7 +1,6 @@
 ---
 title: 'Gerusalemme: guida possibile alla terra negata' 
 date: '2017-12-11' 
-image: /images/2017/12/Old-City-of-Jerusalem-Encyclopedia-Britannica-1997.jpg 
 categories: 
   - filosofia 
   - geopolitica 

@@ -2,10 +2,7 @@
 author: Giulio Giorello - Pino Donghi
 comments: false
 date: 2017-05-15 10:00:10+00:00
-image: /images/2017/05/Nicolaus_Copernicus_-_Heliocentric_Solar_System.jpg
-link: http://redazione.scritture.net/mag/etica-ribelle-scienza-giorello-donghi/
-slug: etica-ribelle-scienza-giorello-donghi
-title: Etica del ribelle. La scienza e la storia tra fratture e continuità
+title: "Etica del ribelle. La scienza e la storia tra fratture e continuità"
 categories:
   - filosofia
   - scienza

@@ -2,7 +2,6 @@
 title: 'Le nature spirituali di Enrico Fraccacreta'
 date: '2017-12-04'
 author: Serena Grizi 
-image:  /images/2017/12/Angel-o.jpg
 categories:
   - poesia
   - Andrea Pazienza

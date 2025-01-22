@@ -1,14 +1,11 @@
 ---
 author: Fatto Quotidiano
 date: 2016-09-18 10:00:13+00:00
-image: /images/2016/09/Unknown-1.jpg
-title: Facendo video (too hard to live)
+title: "Facendo video (too hard to live)"
 categories:
   - sessualità
   - società
   - Internet
-excerpt:
-metaDescription: Diario
 ---
 
 ![](images/toohard.jpg){fig-align="center" width="528"}

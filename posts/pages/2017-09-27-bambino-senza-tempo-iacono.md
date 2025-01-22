@@ -1,8 +1,6 @@
 ---
 author: Michele Iacono
-comments: false
 date: 2017-09-27 10:00:02+00:00
-image: /images/2017/10/bambino_senza_tempo.jpg
 title: Il bambino senza tempo
 categories:
   - letteratura

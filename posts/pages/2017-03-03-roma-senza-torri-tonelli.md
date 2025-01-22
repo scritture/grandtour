@@ -1,7 +1,6 @@
 ---
 author: Massimiliano Tonelli
-date: 2017-03-03 11:00:50+00:00
-image: /images/2017/03/Torri.jpg
+date: 2017-03-03 
 title: Una Roma senza Torri
 categories:
   - arte

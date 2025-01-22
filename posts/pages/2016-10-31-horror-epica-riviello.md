@@ -2,8 +2,7 @@
 author: Lidia Riviello
 comments: false
 date: 2016-10-31 11:00:16+00:00
-image: /images/2016/11/giphy.gif
-title: L'epica stordita dell'horror americano
+title: "L´epica stordita dell´horror americano"
 categories:
   - cinema
   - letteratura

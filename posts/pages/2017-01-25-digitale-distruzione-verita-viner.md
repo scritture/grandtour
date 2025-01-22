@@ -1,8 +1,6 @@
 ---
 author: Katharine Viner
-comments: false
 date: 2017-01-25 11:00:17+00:00
-image: /images/2017/01/Unknown.jpg
 title: Il digitale ha distrutto la verità
 categories:
   - comunicazione

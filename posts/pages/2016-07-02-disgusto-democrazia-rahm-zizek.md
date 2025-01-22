@@ -1,7 +1,6 @@
 ---
 author: Slavoj Žižek - Benjamin Rahm
 date: 2016-07-02
-image: /images/2016/07/Europa-al-vento-480x381.jpg
 title: Il disgusto della democrazia
 categories:
   - filosofia

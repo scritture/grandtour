@@ -1,7 +1,6 @@
 ---
 author: Mark Hay
 date: 2017-07-30 10:00:09+00:00
-image: /images/2017/11/natura_morta.jpg
 title: I pornografici profitti del capitale
 categories:
   - sessualità

@@ -1,8 +1,6 @@
 ---
 author: Roberto Vannucci
-comments: false
 date: 2017-02-02 11:00:41+00:00
-image: /images/2017/02/saro_guardiano.jpg
 title: Le avventure di Saro e Giambologna
 categories:
   - narrazioni
@@ -10,8 +8,6 @@ categories:
   - Bologna
   - Jung
   - Roberto Vannucci
-excerpt:
-metaDescription: Diario
 ---
 
 ![](images/saro_guardiano.jpg){fig-align="center"}

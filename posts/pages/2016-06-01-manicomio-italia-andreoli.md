@@ -1,9 +1,6 @@
 ---
 author: Andrea Purgatori - Vittorino Andreoli
 date: 2016-06-01 10:00:51+00:00
-image: /images/2016/06/madness-blackwhite-640x381.jpg
-link: http://redazione.scritture.net/mag/manicomio-italia-un-quadro-clinico/
-slug: manicomio-italia-un-quadro-clinico
 title: 'Manicomio Italia: un quadro clinico'
 categories:
   - società

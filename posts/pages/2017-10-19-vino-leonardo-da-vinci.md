@@ -1,7 +1,6 @@
 ---
 author: Leonardo Da Vinci
 date: 2017-10-19 
-image: /images/2017/10/Jean.jpg
 title: "Historia di una sbronza"
 categories:
   - arte

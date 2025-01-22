@@ -1,14 +1,11 @@
 ---
 author: Scuola dell'Obbligo
-comments: false
 date: 2016-08-11 10:00:12+00:00
-image: /images/2016/08/piccolo-mondo-andato.jpg
 title: Compiti per le vacanze
 categories:
    - scuola
    - letteratura
    - umorismo
-metaDescription: Diario
 ---
 
 *I bambini delle elementari alle prese con la lingua italiana. Un simpatico repertorio di evidenti errori e poesia possibile, gentilmente fornito da una maestra di una zona imprecisata dello stivale.*\

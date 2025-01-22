@@ -1,7 +1,6 @@
 ---
 author: Vito Sibilio
 date: 2016-06-10 10:00:13+00:00
-image: /images/2016/05/Vulvia-348x381.jpg
 title: Gender theories. Riflessioni a margine
 categories:
   - filosofia

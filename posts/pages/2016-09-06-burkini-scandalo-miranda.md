@@ -1,7 +1,6 @@
 ---
 author: Rossana Miranda
 date: 2016-09-06 10:00:38+00:00
-image: '/images/2016/09/burkini-on-the-beach.jpg'
 title: Il burkini e lo scandalo del coprirsi
 categories:
   - religioni

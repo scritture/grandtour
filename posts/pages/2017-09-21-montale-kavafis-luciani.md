@@ -1,6 +1,5 @@
 ---
 author: Claudio Comandini
-image:  /images/2017/12/panni_stesi_sull_egeo.jpg
 date: 2017-09-21
 title: Montale, Kavàfis e le attese capovolte 
 categories:

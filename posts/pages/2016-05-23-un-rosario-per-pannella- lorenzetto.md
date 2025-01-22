@@ -1,10 +1,6 @@
 ---
 author: Marco Lorenzetto
-comments: false
 date: 2016-05-23 10:00:54+00:00
-image: /images/2016/05/13256030_10154191902512486_1451987182669566211_n-452x381.jpg
-link: http://redazione.scritture.net/mag/un-rosario-per-pannella/
-slug: un-rosario-per-pannella
 title: Un rosario per Pannella
 categories:
   - politica
@@ -14,7 +10,6 @@ categories:
   - Andrea Pazienza
   - Pannella
   - Marco Lorenzetto
-metaDescription: Diario
 ---
 
 *Giacinto Pannella, detto Marco, è stato un maestro dell'anarcocapitalismo, sponsor di ogni libertà purché formale e non sostanziale. Il suo ingombrante narcisismo fatica a morire: improbabili le condoglianze. In uno sforzo estremo di 'pietas', il giornalista e scrittore Marco Lorenzetto fornisce un ritratto degli aspetti più discutibili del monarca radicale, piuttosto controcorrente rispetto all'agiografia più conformista.*

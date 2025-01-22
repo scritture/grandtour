@@ -8,7 +8,6 @@ categories:
   - Napoli
   - Gerardo Marotta
   - Claudio Comandini
-image: /images/2017/05/Raffael_063.jpg
 author: Claudio Comandini
 ---
 

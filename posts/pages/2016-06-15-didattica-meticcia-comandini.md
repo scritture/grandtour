@@ -1,7 +1,6 @@
 ---
 author: Emiliano Sbaraglia
 date: '2016-06-15'
-image: /images/2016/05/images.png
 title: Proposte didattiche per una scuola meticcia
 categories:
   - politica

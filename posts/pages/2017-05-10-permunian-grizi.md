@@ -1,8 +1,6 @@
 ---
 author: Serena Grizi
-comments: false
 date: 2017-05-10 10:00:29+00:00
-image: /images/2017/05/image1.png
 title: Francesco Permunian in quattro libri. Incantarsi è un dono
 categories:
   - letteratura

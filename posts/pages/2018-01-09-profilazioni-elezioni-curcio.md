@@ -1,7 +1,6 @@
 ---
 title: Profilazioni predittive e comportamenti elettorali
 date: '2018-01-09'
-image: /images/2018/01/urna.png
 author: Renato Curcio
 categories:
   - politica

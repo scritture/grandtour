@@ -1,8 +1,7 @@
 ---
 author: Aleksander Dugin - Michael Millerman
 date: 2017-04-24 10:00:27+00:00
-image: /images/2017/04/Childrens-Choir-of-Russia.jpg
-title: La Russia, l'Eurasia e il multipolarismo
+title: "La Russia, l'Eurasia e il multipolarismo"
 categories:
   - filosofia
   - geopolitica

@@ -1,10 +1,6 @@
 ---
 author: Bob Dylan - Patti Smith
-comments: false
-date: 2017-01-06 11:00:00+00:00
-image: /images/2017/04/dylan-diploma.jpg
-link: http://redazione.scritture.net/mag/nobel-dylan/
-slug: nobel-dylan
+date: 2017-01-06
 title: Bob Dylan. Poetica espressiva e canzone americana
 categories:
   - letteratura

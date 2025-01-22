@@ -26,7 +26,6 @@ categories:
   - Beatrix Potter
   - Giancarlo Mancori
   - Claudio Comandini
-image:  /images/2017/02/Beatrix-Potter-Peter-Rabbit-1902.jpg
 author: Claudio Comandini
 ---
 

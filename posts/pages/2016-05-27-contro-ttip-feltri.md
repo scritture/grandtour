@@ -1,7 +1,6 @@
 ---
 author: Stefano Feltri
 date: 2016-05-27 10:00:03+00:00
-image: /images/2016/06/Tutti-contro-il-TTIP-640x381.jpg
 title: Tutti contro il TTIP. E poi?
 categories:
   - economia

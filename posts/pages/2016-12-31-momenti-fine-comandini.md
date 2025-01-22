@@ -1,6 +1,6 @@
 ---
 date: '2016-12-31'
-title: 'Momenti della fine: tre religioni a confronto'
+title: "Momenti della fine: tre religioni a confronto"
 categories:
   - filosofia
   - religioni
@@ -19,7 +19,6 @@ categories:
   - Taubes
   - Agamben
   - Claudio Comandini
-image:  /images/2016/12/la-venuta-del-messia.jpg
 ---
 
 *Il fascino della fine e il proliferare apocalittico. Kant: la conclusione dello spettacolo. Taubes: l'irruzione del presente e lo svanire del passato. Apocalittica e messianismo. Il racconto ebraico del Messia. La ricostruzione del Tempio e la vacca rossa. Islam e giudizio universale. Nessun terrorista in paradiso. Imam nascosto e moschee di lusso. Il mosaico dell'Abbazia di San Nilo a Grottaferrata. Le riprese televisive della Seconda Venuta di Cristo. Storia del concetto di Parusia. Teocrazia dal basso.*

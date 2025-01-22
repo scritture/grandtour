@@ -1,7 +1,6 @@
 ---
 author: Fabio Treppiedi 
 date: 2016-07-01 10:00:49+00:00
-image: /images/2016/07/laboratorio-678x381.jpg
 title: Hikikomori nella prospettiva di Leibniz
 categories:
   - filosofia

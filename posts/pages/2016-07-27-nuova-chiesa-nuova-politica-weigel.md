@@ -1,7 +1,6 @@
 ---
 author: George Weigel
 date: 2016-07-27 10:00:12+00:00
-image: /images/2016/07/Via-Crucis-444x381.jpg
 title: Nuova Chiesa e nuova politica
 categories:
   - Cristianesimo

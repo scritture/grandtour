@@ -2,7 +2,6 @@
 title: 'Piotr Merkurj: la pittura della luce'
 date: '2017-11-07'
 author: Claudio Comandini - Piotr Merkurj
-image:  /images/2017/11/Vetrata-Palma-di-Montechiaro-AG.jpg
 categories:
   - arte
   - filosofia

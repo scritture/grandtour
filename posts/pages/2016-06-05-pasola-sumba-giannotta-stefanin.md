@@ -1,7 +1,6 @@
 ---
 author: Daniele Giannotta - Elena Stefanin
 date: 2016-06-05 10:00:23+00:00
-image: /images/2016/06/vermi-colorati-la-pasola-inizia-picture-by-Lukas-Pokorny-678x381.jpg
 title: 'Scorre il sangue, fertile la terra: la Pasola di Sumba'
 categories:
   - antropologia

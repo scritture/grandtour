@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini 
 date: 2016-08-09 
-image: /images/2016/08/quanto-resta-del-millennio-678x381.jpg 
 title: Cose turche 
 categories: 
   - geopolitica

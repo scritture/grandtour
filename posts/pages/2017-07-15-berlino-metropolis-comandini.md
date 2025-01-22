@@ -2,7 +2,6 @@
 title: 'Brindisi mancati a Berlino'
 date: '2017-07-15'
 author: Claudio Comandini
-image:  /images/2017/10/brindisi_mancati.jpg
 categories:
   - narrazioni
   - filosofia

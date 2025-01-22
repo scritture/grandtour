@@ -1,7 +1,6 @@
 ---
 author: Matteo Cavallino
 date: 2017-03-10
-image: /images/2017/03/Rebel-Trump.jpg
 title: Trump no-global contro il mondo
 categories:
   - economia

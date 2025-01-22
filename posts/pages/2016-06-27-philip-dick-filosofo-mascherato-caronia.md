@@ -1,7 +1,6 @@
 ---
 author: Antonio Caronia
 date: 2016-06-27 10:00:21+00:00
-image: /images/2016/06/reincarnation-of-philip-dick-678x381.jpg
 title: 'Philip Dick il filosofo mascherato'
 categories:
   - letteratura

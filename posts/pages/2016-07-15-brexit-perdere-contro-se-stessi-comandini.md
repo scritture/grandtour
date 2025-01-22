@@ -1,11 +1,6 @@
 ---
-socialImage: /images/shop/caludio_libreria.jpg
-addTitleSuffix: true
 author: Claudio Comandini
 date: 2016-07-15 10:00:01+00:00
-image: /images/2016/06/capo-volto-459x381.jpg
-link: http://redazione.scritture.net/mag/brexit-come-perdere-contro-se-stessi/
-slug: brexit-come-perdere-contro-se-stessi
 title: 'Brexit: come perdere contro se stessi'
 categories:
   - filosofia

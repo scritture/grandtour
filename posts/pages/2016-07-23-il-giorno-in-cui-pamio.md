@@ -1,9 +1,6 @@
 ---
 author: Massimo Pamio
 date: 2016-07-23 10:00:51+00:00
-image: /images/2016/07/Calendari_Atles_catala-466x381.jpg
-link: http://redazione.scritture.net/mag/il-giorno-in-cui-combinammo-qualcosa-di-buono/
-slug: il-giorno-in-cui-combinammo-qualcosa-di-buono
 title: Il giorno in cui combinammo qualcosa di buono
 categories:
   - società
