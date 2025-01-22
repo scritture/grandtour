@@ -8,7 +8,6 @@ categories:
   - Roma
   - Famiglia Colonna
   - Claudio Comandini
-image:  /images/2010/07/custode.jpg
 author: Claudio Comandini
 ---
 

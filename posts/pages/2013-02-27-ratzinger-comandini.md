@@ -1,6 +1,5 @@
 ---
 author: Claudio Comandini
-image:  /images/2013/02/sulle-spalle-il-mondo-678x381.jpg
 date: '2013-02-27'
 title: '«Conscientia mea»: Ratzinger e noi'
 categories:

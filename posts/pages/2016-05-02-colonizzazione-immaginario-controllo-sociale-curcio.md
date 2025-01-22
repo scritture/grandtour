@@ -2,7 +2,6 @@
 author: Renato Curcio
 comments: false
 date: 2016-05-02 10:00:32+00:00
-image: /images/2016/05/immaginare-640x381.jpg
 title: Colonizzazione dell'immaginario e controllo sociale
 categories:
   - comunicazione
@@ -14,6 +13,8 @@ categories:
   - Foucault
   - Renato Curcio
 ---
+
+![](images/immaginare-326x245.jpg){fig-align="center" width="474"}
 
 *Gli strumenti finanziari e digitali che ormai strutturano la nostra vita lavorativa e relazionale sono troppo spesso accettati in modo passivo. Cercando un pensiero critico e privilegiando la ricerca socioanalitica [Renato Curcio](https://it.wikipedia.org/wiki/Renato_Curcio) cerca, senza demonizzare le condizioni reali ma problematizzandole a fondo, di comprendere come sia possibile che il diffuso lavoro intellettuale sia sfruttato da un'oligarchia mondiale di aziende che mappano desideri e necessità delle persone del pianeta, riuscendo addirittura ad ottenere che la merce si autoproduca alle nostre stesse spalle. In questo modo, lo sfruttamento capitalista impone un ordine immaginario, invade la vita di relazione, egemonizza il mondo del lavoro, e infine si riproduce indefinitamente tra le nostre stesse mani. La sfida da raccogliere è quindi quella di rilanciare la nostra comun capacità di immaginare in modo autonomo. Curcio ne parla nel libro "L'Impero virtuale. Colonizzazione dell'immaginario e controllo sociale", pubblicato nel 2015 per [Sensibili alle foglie](http://www.sensibiliallefoglie.it), la casa editrice da lui diretta.*
 
@@ -93,7 +94,7 @@ La rete parte dall'idea che tu non sei sorvegliato. Nei protocolli di Facebook t
 
 E allora ecco che questa operazione diventa insidiosa, perché se le persone si convincono di non essere controllate non solo diventano i primi fornitori di quei documenti che producono tutta la ricchezza che abbiamo visto, ma anche coloro che producono tutte le informazioni che porteranno al loro controllo biopolitico, vale a dire il controllo della loro salute, delle relazioni, dei gusti ecc. È il sogno del capitalismo, trasformare il mondo in un sistema di merci, in cui non c'è solamente la merce che si compra e si vende ma anche quella che si autoproduce. È il punto estremo di un percorso che possiamo considerare piuttosto rischioso.
 
-![Renato Curcio, *L'impero virtuale*, Sensibili alle Foglie 2015, 112 p.](/images/2016/05/Curcio.jpg){fig-align="center" width="254"}
+![*Renato Curcio, L'impero virtuale, Sensibili alle Foglie 2015, 112 p.*](/images/2016/05/Curcio.jpg){fig-align="center" width="239"}
 
 •
 

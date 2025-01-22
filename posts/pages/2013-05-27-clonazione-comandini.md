@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2013-05-27 10:00:59+00:00
-image: /images/2013/05/riflessi.jpg
 title: La clonazione dalle pecore a Dio (passando per Berlusconi)
 categories:
   - filosofia
@@ -24,7 +23,7 @@ categories:
   - Claudio Comandini
 ---
 
-![](images/stella_del_cavalierato.jpg){fig-align="center"}
+![](images/riflessi.jpg){fig-align="center"}
 
 *La notte in cui fu clonato il presidente. Un controverso concorso letterario. Berlusconi, la biopolitica e il corpo immortale del sovrano. La clonazione come meccanismo istituzionale. Breve descrizione dei quindici racconti pubblicati. Semantica e pratica della clonazione. La riproduzione per talea, la pecora Dolly, le cellule staminali. La medicalizzazione della vita ed il corpo oggettivato delle scienze. Fumetti esemplari: L'Incal e Spider-man. L'impossibile identità con se stessi. Antinori, Ben Abraham e la clonazione di Abramo e Gesù. Viaggio per reliquie da Macphelah a Calcata. La parusia televisiva di Pat Robertson e Gerard Straub. Michael Cordy: La stirpe del miracolo. Breve storia dei Concili più decisivi. Monoteismi e pluralismi. Apocalisse e apocatastasi. Il corpo sociale da S. Paolo a Debord. Baudrillard, i simulacri e la duplicazione della realtà. Berlusconi clone di se stesso. Comprate il libro.*
 
@@ -116,7 +115,7 @@ Seguiamo invece l'argomentazione di Baudrillard, quando segnala il rovesciamento
 
 Allora, di cosa stiamo parlando?
 
-![](images/La notte in cui fu clonato il presidente (racconti, 2013).jpg){fig-align="center"}
+![](images/La%20notte%20in%20cui%20fu%20clonato%20il%20presidente%20(racconti,%202013).jpg){fig-align="center"}
 
 In tutte le librerie: AAVV, a cura di Claudio Comandini, [*La notte in cui fu clonato il presidente*](http://www.claudiocomandini.net/wp-content/uploads/2013/05/clonazione.pdf), Edizioni Noubs, Chieti 2012. Il libro può essere richiesto direttamente alle [Edizioni Noubs](http://noubs.wordpress.com/).
 

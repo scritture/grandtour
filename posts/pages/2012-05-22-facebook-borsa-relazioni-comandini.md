@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2012-05-22 10:00:22+00:00
-image: /images/2016/07/faceworld-678x381.jpg
 title: 'Facebook, la borsa e le relazioni'
 categories:
   - comunicazione

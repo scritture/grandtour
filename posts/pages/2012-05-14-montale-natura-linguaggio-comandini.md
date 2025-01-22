@@ -15,7 +15,6 @@ categories:
   - Husserl
   - Simmel
   - Claudio Comandini
-image:  /images/2010/07/sin-640x381.jpg
 author: Claudio Comandini
 ---
 

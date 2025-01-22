@@ -1,11 +1,6 @@
 ---
-addTitleSuffix: true
-colors: colors-a
 author: Claudio Comandini
 date: 2015-05-06 10:00:03+00:00
-image: /images/2015/05/il-gigante.jpg
-link: http://redazione.scritture.net/mag/montale-novecento/
-slug: montale-novecento
 title: Montale prima e dopo il novecento
 categories:
   - letteratura
@@ -29,6 +24,8 @@ categories:
   - Montale
   - Claudio Comandini
 ---
+
+![](images/il-gigante.jpg){fig-align="center"}
 
 *La storia letteraria di un ventenne di un secolo fa. La cura d'anime delle scuole e l'uomo che interroga se stesso. L'arte e le palle al balzo. Contingenza e poesia. Contro il bello. Leggerezza e profondità. La mercificazione dell'arte. Il gesto artistico. Lo stile. La dissoluzione del pensiero. Ottocento, novecento e dopo.*
 

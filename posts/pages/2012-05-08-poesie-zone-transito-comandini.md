@@ -6,7 +6,6 @@ categories:
   - Claudio Comandini
 title: Zone di transito
 date: '2012-05-08'
-image:  /images/2016/07/some_candies_publications.jpg
 author: Claudio Comandini
 layout: PostLayout
 ---

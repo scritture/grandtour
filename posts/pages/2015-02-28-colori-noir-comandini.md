@@ -2,7 +2,6 @@
 title: I colori del noir
 author: Claudio Comandini
 date: 2015-02-28 11:00:17+00:00 
-image: /images/2016/08/citta_noir-678x381.jpg
 categories: 
   - letteratura 
   - narrazioni
@@ -16,6 +15,8 @@ categories:
   - Oscar Montani
   - Claudio Comandini 
 ---
+
+![](images/citta_noir.jpg){fig-align="center"}
 
 *Noir e letteratura. Daschiel Hammett e "The Maltese Falcon". I racconti di "Tutto il nero dell'Italia" e la provincia italiana. Paranoia e trastullo. Mistero ed eccellenze.*
 

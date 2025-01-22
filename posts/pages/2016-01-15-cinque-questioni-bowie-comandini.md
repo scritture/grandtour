@@ -12,10 +12,10 @@ categories:
   - Kubrick
   - David Bowie
   - Claudio Comandini
-image:  /images/2016/01/portrait_of_a_star-420x381.jpg
 author: Claudio Comandini
-layout: PostLayout
 ---
+
+![](images/portrait_of_a_star.jpg){fig-align="center"}
 
 *Fantascienza, società, religione, sessualità e arte nelle canzoni di un grande maestro.*
 
@@ -29,6 +29,4 @@ Faceva sempre di testa sua e rifiutava l'opinione degli ignoranti, ma sapeva con
 
 E cos'altro ascoltare?
 
-•
-
-*Fotografia: Claudio Comandini, "Portrait of a star" - Roma, gennaio 2016.*
+*Fotografia: Claudio Comandini, Portrait of a star (Roma, gennaio 2016).*

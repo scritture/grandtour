@@ -1,7 +1,6 @@
 ---
-author: JJ Charles Worth
+author: JJ Charlesworth
 date: 2016-04-05
-image: /images/2016/04/Miley-Cyrus-Love-Money-Party.jpg
 title: L'arte egocentrica mondiale sta uccidendo l'arte
 categories:
   - arte
@@ -14,6 +13,8 @@ categories:
   - Shia LaBoeuf
   - JJ Charlesworth
 ---
+
+![](images/Miley-Cyrus-Love-Money-Party.jpg){fig-align="center"}
 
 *Un tempo, esistevano l'arte popolare e l'arte colta; poi, venne il sogno di un'arte di tutti e per tutti; oggi, questo sogno è diventato un incubo. L'ossessione verso una qualche 'urgenza espressiva', dove quanto c'è da esprimere rimane confinato in una prospettiva del tutto egoica e personalistica, che trova forte aggancio negli usi aberrati di Internet e nelle pretese autorealizzative di marca new-age, sembra dimenticare del tutto che l'arte, indipendentemente da correnti e stili, è soprattutto scoperta di alterità, e che ogni segno rimanda sempre a più in là. Ma questo, ricorda con divertito sarcasmo JJ Charlesworth (su twitter:@jjcharlesworth), critico e redattore freelance associato presso [ArtReviewmagazine](http://artreview.com/), non sembra interessare gli artisti e il pubblico di circuiti tra loro apparentemente molto diversi, tra i quali ogni distinzione è però ormai vanificata dalla comune passione autoreferenziale per i selfie. Charlesworth si riferisce soprattutto all'annata 2014, ma il suo scritto mantiene pieno valore per una critica del presente: infatti, le tendenze messe in rilievo non sono cessate. E mentre vanno ogni giorno incontro alla loro inevitabile autodistruzione, non sembrano preoccupare troppo i loro adepti: a ragione, perché in definitiva nessuno se ne preoccupa.*
 
@@ -34,8 +35,6 @@ E chi può dimenticare la [reinvenzione del mondo dell'arte](https://news.artnet
 Vi sembra troppo brusco legare l'austero pseudo-spiritualismo-trascendentalista della Abramović al carnevale idiota dell'arte delle celebrità? Non proprio. Possono sembrare agli antipodi, ma sono realizzati in base alla medesima venerazione dell'auto-realizzazione personale attraverso l'auto-espressione, per la quale a contare è il processo, non il prodotto. A tutti ormai basta *"essere se stessi"* per affermare di essere *"arte"*. E questo è anche il motivo per cui le mostre d'arte sono diventate *"esperienze"*. L'unica mostra che sembra aver mosso la partecipazione degli spettatori, e nella quale ho fatto tappa estiva ad Art Basel, era quella di Klaus Biesenbach e Hans Ulrich Obrist al [museo-di-cazzate-e-divertimenti-mostruosi-e-corridoio-di-incubi](https://news.artnet.com/art-world/hans-ulrich-obrist-and-klaus-biesenbach-bring-14-rooms-to-art-basel-8564) *14 Rooms* (che comprendeva, ovviamente, un pezzo di Marina Abramovic.) Sentirsi in un'esperienza, essere nell'adesso: questa è la nuova estetica della Gen Y.
 
 Ecco perché, anche se tutti gli artisti maschio-alfa potessero fare un grande spettacolo di se stessi (tipo [Jeff Koons nudo in palestra vestito di soli guanti di pelle](http://www.artnet.com/artists/jeff-koons/). Aiuto!), risulterebbero comunque in ritardo, bloccati nel passato. Perché appartengono ad una generazione ancora convinta che l'arte debba concernere qualcosa di diverso da me-qui-in-questo-momento. Che ancora pensa, ad esempio, che l'arte dovrebbe riguardare, per dire, il consumismo, oppure la storia della Germania, o anche soltanto come appare un'imponente distesa di pezzi di Cor-Ten in acciaio se la ficchi in un qualche deserto. In altre parole: che l'arte debba riguardare cose sulle quali si deve riflettere, e discutere, e argomentare con gli altri, per trovarsi persino in disaccordo: insomma, che l'arte tratti qualcosa che non è esclusivamente incentrata su se stessi. Ma, per il momento, tra Miley e Marina, si è cominciato a rivelare questo futuro per l'arte: artista e pubblico che si tengono per mano tra specchi infiniti, con una mano libera per poter spremere un selfie.
-
-•
 
 [*JJ Charlesworth, "The Ego-Centric Art World is Killing Art", «Artnetnews» 30.12.2014.*](https://news.artnet.com/exhibitions/the-ego-centric-art-world-is-killing-art-197530) *Traduzione: Claudio Comandini*
 

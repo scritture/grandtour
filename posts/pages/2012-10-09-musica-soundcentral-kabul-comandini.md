@@ -2,7 +2,6 @@
 author: Claudio Comandini
 images:  /images/2016/07/frattura-678x381.jpg
 date: 2012-10-09 10:00:33+00:00
-image: /images/2016/07/frattura-678x381.jpg
 title: 'Soundcentral: come divertirsi a Kabul'
 categories:
   - musica

@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2014-12-24 11:00:52+00:00
-image: /images/2016/07/il-premio-del-carcerato-536x381.jpg
 title: 'Il Premio Frascati: la poesia e la provincia del secolo passato'
 categories:
   - letteratura
@@ -19,6 +18,8 @@ categories:
   - Heidegger
   - Claudio Comandini
 ---
+
+![](images/il premio del carcerato.jpg){fig-align="center"}
 
 *La fondazione di un premio letterario nell'Italia della ricostruzione. La poesia di Giorgio Caproni. Testimonianza di Antonio Seccareccia. Il secondo novecento da Alfonso Gatto ad Andrea Zanzotto. La poesia e la comunicazione. Guardare la pioggia.*
 
@@ -71,6 +72,7 @@ fino al mare ancora ignoto ai miei occhi,\
 sotto un cielo più vasto.*\
 
 ## 2. La stagione della lirica
+
 \
 *L'anima della sera* di Alfonso Gatto riceve il premio nel 1962: dopo una fase interlocutoria, il premio permette un primo significativo riconoscimento e questo poeta inquieto dal verso asincrono, caratterizzato da analogismo surreale e colorita contabilità, entra anche nella giuria. Fondatore con Vasco Pratolini della rivista *Campo di Marte,* Gatto è autore di un canto evocativo che decanta la realtà quotidiana in immagini fantastiche, snodandosi, come ricorda Gianfranco Contini, attraverso *«arcobaleni gettati sugli iati della logica»*:\
 \
@@ -88,8 +90,7 @@ se gli alberi crollano nascendo.\
 E ne resta un discorso di foglie\
 nel vento che chiede qualcosa.*\
 \
-La voce di un paesaggio è assimilata a quella della sua gente, con attenzione verso gli aspetti popolari, nella poesia del già ricordato Elio Filippo Accrocca, storico dell'arte ed europeista convinto, anche lui a lungo nella giuria pur non ricevendo menzioni. Cadenze precise e sin troppo squadrate muovono un discorso di rinnovamento civile, pieno interprete delle speranze della Resistenza. Da *Ghirlande per il Primo di Maggio*, tuttora celebrata nelle commemorazioni di rito:
-\
+La voce di un paesaggio è assimilata a quella della sua gente, con attenzione verso gli aspetti popolari, nella poesia del già ricordato Elio Filippo Accrocca, storico dell'arte ed europeista convinto, anche lui a lungo nella giuria pur non ricevendo menzioni. Cadenze precise e sin troppo squadrate muovono un discorso di rinnovamento civile, pieno interprete delle speranze della Resistenza. Da *Ghirlande per il Primo di Maggio*, tuttora celebrata nelle commemorazioni di rito:\
 *La speranza è una luce tramandata per generazioni:\
 noi conosciamo l'arte di coltivare spighe e speranze\
 e non lasceremo crescere la gramigna nei campi.*\
@@ -124,8 +125,7 @@ rammentalo, o da invadere,\
 sopravvivi per caso\
 o sbaglio.*\
 
-Il mondo chiede la rimessa in discussione dei suoi principi. Nel 1973 Vittorio Fiore esprime con i toni di intima e nobile ingenuità il senso di abiezione per la nostra storia. Fiore è l'ultimo a vincere una botte di vino: sembra quasi di vederlo sorridere e brindare. L'anno successivo, il premio sarà costituito da un assegno al portatore. *Il male è dentro di noi*:
-\
+Il mondo chiede la rimessa in discussione dei suoi principi. Nel 1973 Vittorio Fiore esprime con i toni di intima e nobile ingenuità il senso di abiezione per la nostra storia. Fiore è l'ultimo a vincere una botte di vino: sembra quasi di vederlo sorridere e brindare. L'anno successivo, il premio sarà costituito da un assegno al portatore. *Il male è dentro di noi*:\
 *Non abbellimmo di virtù\
 il passato, ma affondammo\
 il bisturi nella nostra terra dolente*\
@@ -135,18 +135,18 @@ Nel 1976 è il turno di *Poesie* di Giorgio Vigolo, la cui alchimia verbale fiss
 *Una donna ama in sogno\
 abbracciata all'invisibile\
 \
-La tensione religiosa di Margherita Guidacci e *Il vuoto e le forme* segna l'edizione del 1977. *Primo autunno di Elisa* scopre il nesso tra tempo e vita:\
+La tensione religiosa di Margherita Guidacci e* Il vuoto e le forme\* segna l'edizione del 1977. *Primo autunno di Elisa* scopre il nesso tra tempo e vita:\
 \
 *Le parole hanno un senso\
 soltanto se le nutre la memoria.\
 \
-Il paese continua ad essere coinvolto da una spirale di agitazioni e repressioni che lascia pochi spiragli di comprensione. Si realizza che anche la memoria e i miti possono tradire, e comincia ad essere cercato lo spazio del possibile. Nel 1981 riceve il premio Adriano Guerrini, che in Ventotto poesie assiste al passaggio inesorabile e imperturbabile del tempo. *Crono*:\
+Il paese continua ad essere coinvolto da una spirale di agitazioni e repressioni che lascia pochi spiragli di comprensione. Si realizza che anche la memoria e i miti possono tradire, e comincia ad essere cercato lo spazio del possibile. Nel 1981 riceve il premio Adriano Guerrini, che in Ventotto poesie assiste al passaggio inesorabile e imperturbabile del tempo.* Crono*:\
 \
 *anche i poeti, tutti sono il tempo:\
 vanno verso il crepuscolo e scompaiono,\
 come le nostre cose, come noi.*\
 \
-1984. Tra tradizione stilistica ed esigenza comunicativa, vince *Versi d'occasione* di Giacinto Spagnoletti. In *Partenze*, anche nell'andare verso un nuovo orizzonte, lo sguardo si rivolge all'indietro:\
+1984. Tra tradizione stilistica ed esigenza comunicativa, vince* Versi d'occasione\* di Giacinto Spagnoletti. In *Partenze*, anche nell'andare verso un nuovo orizzonte, lo sguardo si rivolge all'indietro:\
 \
 *i marinai raccontano\
 che nel partire sempre\

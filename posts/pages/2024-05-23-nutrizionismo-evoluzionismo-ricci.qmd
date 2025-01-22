@@ -1,7 +1,6 @@
 ---
 title: Nutrizione, evoluzionismo e disadattamento alimentare
 author: Riccardo Ricci
-images:
 date: 2024-05-23
 categories:
   - scienza
@@ -471,11 +470,11 @@ C’è però un’altra categoria di grassi che viene prodotta principalmente 
 
 Il processo di idrogenazione industriale, avviene ad alta temperatura (120-210 °C), e consiste principalmente nel trasformare i doppi legami dei polinsaturi in singoli legami più stabili con formazione di acidi grassi saturi; ma il processo di formazione di questi legami semplici non avviene al 100% e, ogni tanto, si verifica la formazione di doppi legami trans che sono innaturali perché gli acidi grassi polinsaturi delle cellule normali umane hanno tipicamente tutti i doppi legami in conformazione cis; si tratta, quindi, di sottoprodotti nocivi per la salute dell’uomo.
 
-L’idrogenazione artificiale degli acidi grassi mono-, di- e polinsaturi permette di convertire gli oli vegetali in grassi più solidi con punti di fusione più elevati e di lunga conservazione (ne è un esempio tipico la margarina che negli anni ‘70-‘80 veniva pubblicizzata come “salutare e leggera”).
+L’idrogenazione artificiale degli acidi grassi mono-, di- e polinsaturi permette di convertire gli oli vegetali in grassi più solidi con punti di fusione più elevati e di lunga conservazione (ne è un esempio tipico la margarina che negli anni ‘70-‘80 veniva pubblicizzata come "salutare e leggera").
 
 Gli acidi grassi trans sono ampiamente diffusi negli alimenti attuali perché si trovano, oltre che nella margarina, anche nei gelati, nei prodotti industriali da forno (biscotti, cracker, grissini, taralli, merendine, patatine, ecc.) e in molti alimenti dei fast-food.
 
-Non essendo molecole funzionali per le nostre cellule, l’organismo non è in grado di metabolizzarli normalmente e le cellule “i*mpazziscono*” perché assomigliano agli acidi grassi insaturi naturali, anche se hanno proprietà biochimiche differenti. Quando sono inglobati nelle membrane cellulari, gli acidi grassi trans alterano i meccanismi di permeabilità cellulare, al punto che tossine, virus, cancerogeni e allergeni possano entrare più facilmente nelle cellule rese difettose.
+Non essendo molecole funzionali per le nostre cellule, l’organismo non è in grado di metabolizzarli normalmente e le cellule "i*mpazziscono*" perché assomigliano agli acidi grassi insaturi naturali, anche se hanno proprietà biochimiche differenti. Quando sono inglobati nelle membrane cellulari, gli acidi grassi trans alterano i meccanismi di permeabilità cellulare, al punto che tossine, virus, cancerogeni e allergeni possano entrare più facilmente nelle cellule rese difettose.
 
 Le evidenze scientifiche mostrano che gli acidi grassi trans sono carcinogeni più potenti del fumo di sigaretta ed è stata trovata una correlazione con l’insorgenza di malattie cardiovascolari; anche il sistema immunitario potrebbe non riconoscere le cellule dotate di membrane difettose e scatenare risposte autoimmuni.
 
@@ -497,7 +496,7 @@ Questo bilanciamento di effetti positivi e negativi dei principi nutrizionali de
 
 Infine, vorrei spendere un po' di tempo nel trattare il tema estremamente attuale dei **cibi artificiali in polvere** (anch’essi ultratrasformati), come i pasti sostitutivi dimagranti e/o detossificanti e le polveri proteiche.
 
-![](images/ricci5.jpeg){fig-align="center" width="575"}
+![](images/ricci5.jpeg){fig-align="center"}
 
 Questa tipologia di alimenti ha il vantaggio di essere costituita da componenti puri opportunamente dosati, facili da trasportare e da consumare in qualsiasi situazione; la loro formulazione adeguata consente di minimizzare il contenuto calorico dei macronutrienti e di massimizzare artificialmente il contenuto di micronutrienti.
 
@@ -525,8 +524,6 @@ Prendere coscienza del disadattamento alimentare, che è oggi in atto, costitui
 
 Auguro che i *"malesseri speciali"* del nostro tempo possano essere affrontati efficacemente iniziando da un'adeguata nutrizione basata sui principi evolutivi che regolano il nostro bioequilibrio.
 
-•
-
 *Testo della conferenza presentata il 23 maggio 2024 presso il Grand Tour BookWineBar.*
 
-![](images/conferenza%20nutrizionismo.jpg){fig-align="center"}
+![](images/conferenza nutrizionismo.jpg){fig-align="center"}

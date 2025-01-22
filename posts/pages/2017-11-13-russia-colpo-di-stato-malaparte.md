@@ -2,7 +2,6 @@
 title: Colpo di Stato in Russia
 colors: colors-d
 date: '2017-11-12'
-images:  /images/2017/11/kalinin-lenin-trotzki.jpg
 author: Curzio Malaparte
 categories:
   - letteratura

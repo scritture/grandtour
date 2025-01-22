@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: '2014-06-02 10:00:44+00:00'
-image: /images/2014/06/neolingue.jpg
 title: De neolingua
 categories:
   - filosofia

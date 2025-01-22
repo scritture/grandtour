@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2015-01-29 11:00:40+00:00
-image: /images/2016/07/maometto-allinferno-640x381.jpg
 title: Charlie Hebdo e la satira integrale
 categories:
   - filosofia
@@ -21,29 +20,19 @@ categories:
   - Bologna
   - Roma
   - Francia
-  - Benjamin
-  - Edward Said
-  - Fatima Mernissi
-  - Freud
-  - Huntington
-  - Leo Strauss
-  - Lévi-Strauss
-  - Loretta Napoleoni
-  - Michel Houllebecq
-  - Fabio Mini
-  - Nietzsche
-  - Borges
-  - Franco Cardini
-  - CCCP
-  - Quintiliano
   - Averroè
-  - Darnton
-  - Debord
-  - Derrida
+  - Benjamin
+  - Freud
+  - Nietzsche
   - Perniola
+  - Derrida
+  - Huntington
   - Al Jabri
+  - CCCP
   - Claudio Comandini
 ---
+
+![](images/maometto_inferno.jpg){fig-align="center"}
 
 *Morire dal ridere. Integralismo e satira. Testi sacri e informazione. Contestazione e industria culturale. Riviste islamiche e cultura francese durante la guerra in Algeria. Testate in conflitto e cultura assente nell'Italia odierna. Intolleranze parallele. Attualità del pensiero andaluso. Donne velate e bestie macellate. Impero Romano e Alessandro Magno nel Corano. Conflitti e accordi tra Islam ed Europa. Dissolvenze ottomane. Soumission e punk islam. Ebraismo e ironia dell'esistere. Cristo spiegato agli arabi di Gerusalemme. Scontri di civiltà e scambi di culture. Orientalismi e terzomondismi. La religione del capitale. Il Sessantotto tra rivoluzione e svendita. I cambiamenti della natura del potere. I limiti delle teorie del complotto e la necessaria riforma dell'intelligence. Nuovi terrorismi e nuova Europa. Islam di pace e ospitalità incondizionale. Risolvere la crisi contro i suoi stereotipi. Sovvertire se stessi e vivere ridendo.*
 

@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2012-09-11 10:00:46+00:00
-image: /images/2016/09/il-cielo-sopra-678x381.jpg
 title: Undici volte 11 settembre
 categories:
   - filosofia

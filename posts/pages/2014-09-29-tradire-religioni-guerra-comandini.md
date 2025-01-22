@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2014-09-29 10:00:27+00:00
-image: /images/2014/09/nuvola-di-luce-678x381.jpg
 title: Il tradire degli eventi
 categories:
   - filosofia
@@ -49,7 +48,7 @@ L'infibulazione di massa sarebbe stata ordinata nello Stato Islamico (IS, già I
 
 [^5]: [*Il "califfo" dell'ISIS ordina l'infibulazione di massa*, «Il Secolo XIX», 23.07.2014.](http://www.ilsecoloxix.it/p/mondo/2014/07/23/ARDIITLB-ordina_califfo_infibulazione.shtml)
 
-[^6]:  [Strangerz1989, *Lies and Myths about the Islamic State of Iraq (ISIS) Debunked*, «Just the Truth» 01.09.2014.](http://strangerz1989.wordpress.com/2014/09/01/lies-and-myths-about-the-islamic-state-of-iraq-ISIS-debunked/)
+[^6]: [Strangerz1989, *Lies and Myths about the Islamic State of Iraq (ISIS) Debunked*, «Just the Truth» 01.09.2014.](http://strangerz1989.wordpress.com/2014/09/01/lies-and-myths-about-the-islamic-state-of-iraq-ISIS-debunked/)
 
 [^7]: [Hayes Brown, *No, ISIS Isn't Order Femal Genital Mutilation in Iraq*, «Think Progress», 24.07.2014.](http://thinkprogress.org/world/2014/07/24/3463683/no-ISIS-isnt-ordering-female-genital-mutilation-in-iraq/)
 
@@ -129,7 +128,7 @@ Un volto velato indica un carattere di differimento, riproducendo un'idea che no
 
 [^34]: Centro Studi Esoterici, *L'insegnamento esoterico dell'Islam*, Sear Edizioni, Scandiano (RE) 1985, pp. 30-31.
 
-[^35]:  Corano *La Sura della Vittoria* 48:18.
+[^35]: Corano *La Sura della Vittoria* 48:18.
 
 Nell'Ebraismo sussiste una comunità di base tra uomini e donne, entrambi "*esseri umani*" creati ad immagine di Dio:[^36] non c'è idealizzazione del maschile e del femminile, gli aspetti matriarcali si mantengono nella matrilinearità dell'appartenenza religiosa, il femminismo non ha espresso contrasti con la tradizione, e le esclusioni pretese dagli ultraortodossi non sono rappresentative della generalità della cultura ebraica. La presenza di Dio si esprime dove «*nube era tenebrosa per gli uni, mentre per gli altri illuminava la notte*»[^37] che, accompagnata dall'angelo di Dio, rispetto all'accampamento cambia di posizione, e quindi separa le acque del Mar Rosso; da tale passaggio derivano i 72 Santi Nomi angelici alla base della Cabala, dei quali ognuno rappresenta un "*soffio*" che unisce al Nome indicibile di Dio, nonché il suo contrario, il cui inganno separa dall'unità a cui tendere.
 
@@ -141,7 +140,7 @@ L'immanenza della presenza divina è rappresentata dalle immagini di nube e velo
 
 [^38]: Levitico 16:11-17
 
-[^39]:  Levitico 10:1-2
+[^39]: Levitico 10:1-2
 
 [^40]: AAVV. *Mistica ebraica*, Introduzione di Giulio Busi, Einaudi 2006, p. L.
 
@@ -245,7 +244,7 @@ Mohamed Atta nasce nel 1968 in Egitto da genitori d'origini saudite.[^67] Arriva
 
 Secondo l'ufficio di Polizia Criminale tedesco, vive per un periodo a Bakoti, 8 chilometri da Maglaj, Bosnia centrale; secondo alcuni testimoni al processo contro Milosevich è nel conflitto jugoslavo che matura la sua svolta jihadista, influenzato dallo yemenita Ramzi Binalshibh.[^71] Una sua presunta partecipazione ad un attentato contro un autobus israeliano a Gerusalemme è smentita dal generale di brigata David Tsur come caso di omonimia.[^72] A detta di versioni fornite dalle intelligence americane e tedesche l'affiliazione ad Al Qaeda avviene nel 1999: mentre si reca in Cecenia per combattere i russi, lui e altri integralisti sono condotti in Afghanistan.[^73] Altre fonti riportano che è lui a radunare gli altri futuri piloti della morte, chiedendo aiuto a Bin Laden soltanto in seguito.[^74]
 
-[^71]:  Jürgen Elsässer, *Da Sarajevo ad Amburgo*, in *Zero 2*, Piemme, Casale Monferrato 2012, p. 167-168; Deposizione del 12.05.2005, cfr. Tanjug, *Atentator iz Njujorka bio u Bosni,* «Blic» (Beograd), 13.01.2005; The Serbian Republic Secretariat for relation with the International Criminal Tribunal in The Hague, *Terrorism - Global Network of Islamic Fundamentalist's - Part II - Modus Operandi - Model Bosnia*, Banja Luka, 2004.
+[^71]: Jürgen Elsässer, *Da Sarajevo ad Amburgo*, in *Zero 2*, Piemme, Casale Monferrato 2012, p. 167-168; Deposizione del 12.05.2005, cfr. Tanjug, *Atentator iz Njujorka bio u Bosni,* «Blic» (Beograd), 13.01.2005; The Serbian Republic Secretariat for relation with the International Criminal Tribunal in The Hague, *Terrorism - Global Network of Islamic Fundamentalist's - Part II - Modus Operandi - Model Bosnia*, Banja Luka, 2004.
 
 [^72]: [*A Case of Mistaken Identity: Mohammad Atta Not Linked to Bus Bombing, «Anti-Defamation League», 2013.*](http://archive.adl.org/rumors/atta_rumors.html)
 
@@ -263,11 +262,11 @@ Gli inseparabili Atta e Al Sherhri si esercitano con simulatori di volo per il B
 
 In preparazione dell'attentato, i due cugini percorrono tra il 6 agosto e il 9 settembre più di 3.200 miglia spingendosi oltre le destinazioni ovvie e opportune con macchine prese a noleggio all'agenzia Warrick di Pompano Beach, Florida, comportandosi da perfetti clienti[^78] e riconsegnando regolarmente le vetture.[^79] L'8 settembre i due più un terzo, in giro per l'America, si fermano ad un bar di Hollywood a bere alcolici e giocare ai videogame; Atta si lamenta per il conto, ostentando la qualifica di "*pilota delle American Airlines*", e dentro al viene smarrita una copia del Corano.[^80]
 
-[^78]:  [9/11 Commission's Final Hearings: *"1000 days of Continuos Cover-Up", «Mad Cow Morning News»* 28.06.2002.](http://www.madcowprod.com/mc6122004.html)
+[^78]: [9/11 Commission's Final Hearings: *"1000 days of Continuos Cover-Up", «Mad Cow Morning News»* 28.06.2002.](http://www.madcowprod.com/mc6122004.html)
 
 [^79]: «Kansas City Star» 18.09.2001.
 
-[^80]:  [Johanna McGeary - David Van Biema, *The new breed of terrorist*, «Time Magazine» 24.09.2001.](http://content.time.com/time/magazine/0,9263,7601010924,00.html)
+[^80]: [Johanna McGeary - David Van Biema, *The new breed of terrorist*, «Time Magazine» 24.09.2001.](http://content.time.com/time/magazine/0,9263,7601010924,00.html)
 
 Sempre l'8 settembre, Atta risulta essere anche a Laurel, nel Maryland, dove invia a Dubai, attraverso il Western Union di un Giant Food, 5.000 dollari a Mustafa Muhammad Ahmad, esponente di Al Qaeda.[^81] Inoltre, un finanziamento di centomila dollari viene spedito ad Atta dal Pakistan da parte del capo dell'intelligence pakistana ISI (Inter Services Intelligences) Mohammed Ahmad attraverso lo sceicco terrorista Ahmad Umar.[^82] Il 9 settembre Atta vola a Boston.[^83] Anche altre piste vedono lui e gli altri presunti kamikaze ubriacarsi nei bar e lasciarsi andare in comportamenti tipici del disprezzato mondo degli infedeli.
 
@@ -527,7 +526,7 @@ Esiste un'esigenza di verità che travalica dogmi e istituzioni, per Derrida par
 
 [^165]: Immanuel Kant, *Che cos'è l'Illuminismo?* (1783), a cura di Nicolao Merker, Editori Riuniti, Roma 1987, p. 48.
 
-[^166]:  Immanuel Kant, *Critica del Giudizio* (1790-93-99), § 77, Laterza, Bari-Roma 1987, pp. 278-284.
+[^166]: Immanuel Kant, *Critica del Giudizio* (1790-93-99), § 77, Laterza, Bari-Roma 1987, pp. 278-284.
 
 Conoscere il reale non è verificare la dimostrabilità di qualche assunto e la sua assolutezza: piuttosto, comporta coordinarne dati che sono come forniti attraverso veli sempre pronti a nasconderli nelle proprie pieghe. L'ampiezza del discorso kantiano può essere osservata anche attraverso Schopenhauer e Leibniz, e permette di comprenderne la portata la teoria della conoscenza di Cassirer. Piuttosto di schiacciare Kant sulla ratificazione delle scienze fisico-matematiche meccaniciste, va compreso come anche queste rappresentino una forma di conoscenza simbolica. Ragionando su una particolare collezione di libri presenti Amburgo, quella di Amy Warburg, e concependo la biblioteca come la modalità di organizzazione che rappresenta il problema tipo della gestione del sapere, Cassirer applica la critica della ragione a quella delle civiltà, trovando che tutte le forme di produzione di significato si muovono attraverso diverse formazioni simboliche, le quali operano strutturando relazioni tra segni e contenuti nel dirigersi della coscienza verso oggetti a questa immanenti. Le forze formatrici alla base di linguaggio, arte, mito e religione segnano il sostituirsi all'essenza della funzione e la prevalenza di questa rispetto al prodotto, permettendo così la continua formulazione di mondi plurali e indipendenti che però rivelano una medesima esigenza unificatrice.[^167]
 

@@ -1,8 +1,6 @@
 ---
 author: Oscar Montani
-comments: false
 date: 2016-03-15 11:00:35+00:00
-image: /images/2016/03/cropped-qed12-678x198.jpg
 title: 'Indagini scientifiche: il giallo e la matematica'
 categories:
   - letteratura
@@ -15,6 +13,8 @@ categories:
   - John Dickinson Carr
   - Oscar Montani
 ---
+
+![](images/cropped-qed12-678x198.jpg){fig-align="center" width="736"}
 
 *Cosa hanno in comune l'indagine poliziesca e la matematica? Un affascinante excursus su differenti metodi di risoluzione di problemi. Da Poe a Simenon passando per il Programma di Hilbert e il Teorema di Fermat.*
 
@@ -32,7 +32,7 @@ John Dickinson Carr è un altro famoso autore del “genere della camera chiusa�
 
 Non ci si dimentica del commissario Maigret di Georges Simenon, anche se il suo “metodo” è quanto di meno scientifico ci possa essere, basato sull'introspezione psicologica degli indiziati; ciò che lo avvicina ai matematici, secondo Toffalori, è però quel rimuginìo lento e quasi ossessivo, senza orari, che fagocita giornate, notti intere e passeggiate. E perché allora non Adamsberg, lo “spalatore di nuvole” di Fred Vargas?
 
-Nel suo saggio Toffalori, da buon matematico e professore, si mette a verificare se e come questi giudizi sono meritati, principalmente dal punto di vista della matematica. Dà anche un voto, e non è che i famosi detective di carta (e di conseguenza i loro autori) ci facciano una bella figura. Colpa anche del mercato: spesso  la descrizione della matematica presente nei gialli esaminati è fin troppo stereotipata e banalizzata (credo che potevano far di meglio). E non solo: nelle traduzioni degli anni 50 e 60 le poche descrizioni tecniche venivano cassate nell'edizione italiana. Capirete come il panorama sia desolante.
+Nel suo saggio Toffalori, da buon matematico e professore, si mette a verificare se e come questi giudizi sono meritati, principalmente dal punto di vista della matematica. Dà anche un voto, e non è che i famosi detective di carta (e di conseguenza i loro autori) ci facciano una bella figura. Colpa anche del mercato: spesso la descrizione della matematica presente nei gialli esaminati è fin troppo stereotipata e banalizzata (credo che potevano far di meglio). E non solo: nelle traduzioni degli anni 50 e 60 le poche descrizioni tecniche venivano cassate nell'edizione italiana. Capirete come il panorama sia desolante.
 
 Toffalori, da vero professore, racconta anche i casi della matematica che, dal teorema di Fermat alla congettura di Goldbach, si sono trasformati in gialli della scienza. Cerca di dare dimostrazione della connessione tra la regina delle scienze e il genere poliziesco che, secondo Borges, è un tipo di romanzo fantastico speciale: frutto dell'intelligenza e non soltanto dell'immaginazione.
 
@@ -40,8 +40,6 @@ Toffalori, dopo un po' però, cade nella ripetitività, e alcuni degli incisi ri
 
 Peccato che Toffalori non abbia letto la mia raccolta *Viareggio, piccoli delitti imperfetti*! È ancora in vendita, ma se mi contatterà gli invierò volentieri una copia. Contiene otto racconti gialli, tutti basati su enigmi matematici. Non sembra neppure conoscere la raccolta di Claudio Bartocci *Racconti matematici* (Einaudi 2006), dove non ci sono gialli - forse qualcosa vorrà dire. Per concludere, procuratevelo solo se siete davvero amanti dei gialli (non della matematica, potreste rimanerci male!).
 
-•
-
 [*Oscar Montani, "Quando il matematico indaga", «oscarmontani» 1.11.2014.*](http://oscarmontani.blogspot.it/2014/11/quando-il-matematco-indaga.html)
 
-*Immagine: “Qedinsight”, 2011.*
+*Immagine: Qedinsight, 2011.*

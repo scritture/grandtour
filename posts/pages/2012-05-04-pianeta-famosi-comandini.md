@@ -7,7 +7,6 @@ categories:
   - Claudio Comandini
 date: '2012-05-04'
 title: Il pianeta dei famosi
-image: /images/2016/07/studium-678x381.jpg
 author: Claudio Comandini
 ---
 

@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2012-06-20 10:00:22+00:00
-image: /images/2016/07/il-negozio-delle-chiavi-572x381.jpg
 title: Spiragli sull'Europa. Quattro poesie.
 categories:
   - poesia

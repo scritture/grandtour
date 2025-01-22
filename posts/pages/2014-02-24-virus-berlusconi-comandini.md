@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2014-02-24 11:00:57+00:00
-image: /images/2016/07/duplicazione-678x381.jpg
 title: Virus
 categories:
   - narrazioni
@@ -11,6 +10,8 @@ categories:
   - Berlusconi
   - Claudio Comandini
 ---
+
+![](images/duplicazione-326x245.jpg){fig-align="center" width="478"}
 
 *Un virus tecnorganico diffuso dagli schermi televisivi e dagli ipermercati ha invaso la realtà. Un racconto sull'infinita sterile autoriproduzione della politica italiana, dove è facile dimenticare ma impossibile procedere.*
 

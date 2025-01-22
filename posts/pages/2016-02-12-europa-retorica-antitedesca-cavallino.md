@@ -1,7 +1,6 @@
 ---
 author: Matteo Cavallino
 date: 2016-02-12 11:00:51+00:00
-image: /images/2016/02/La-giostra-dEuropa-471x381.jpg
 title: L'Europa e i limiti della retorica antitedesca
 categories:
   - economia
@@ -11,6 +10,8 @@ categories:
   - Berlino
   - Matteo Cavallino
 ---
+
+![](images/La-giostra-dEuropa-471x381.jpg){fig-align="center" width="484"}
 
 *Oltre a quelli relativi allo scandalo Volkswagen, altri dati poco rassicuranti arrivano dalla Germania: stipendi bloccati, infrastrutture che invecchiano, consumi in ristagno, crescenti tensioni sociali. E nonostante il mercato europeo da anni ne denunci le ripercussioni negative, la locomotiva del continente continua a mantenersi sui binari pompando combustibile nel motore delle esportazioni. Inoltre, 90 miliardi di investimenti pubblici e privati sono venuti meno, aumentano i costi dell'austerity tanto voluta, mentre dalla Deutsche Bank alle banche locali gli istituti di credito sono pieni di titoli tossici, portando così a perdite multimiliardarie. Appaiono tuttavia inattaccabili il primato e la centralità di un Paese popolato da 80 miliardi di persone, caratterizzato da un rischio default quasi pari a zero e capace di produrre una ricchezza annuale di 4 trilioni di dollari. E mentre le importanti problematiche che coinvolgono la Germania e l'Europa sono percepite in modo opaco e confuso, una diffusa e banale retorica antitedesca rischia di danneggiarne il compito di guida, dal quale gli altri Paesi non riescono ancora a prescindere. Il diffuso atteggiamento schizofrenico nei confronti della Germania si scontra pertanto con il paradosso che se il Vecchio Continente non può parlare soltanto la lingua di Berlino, nell'orizzonte europeo altri leader latitano oppure non sono credibili. Il dossier [”La locomotiva nel tunnel”](http://www.valori.it/economia-solidale/germania-locomotiva-nel-tunnel-su-valori-dicembre-11039.html) pubblicato dalla rivista «Valori» contribuisce a sfatare alcune facili convinzioni sulla superiorità del modello tedesco e al contempo di relativizzare diffuse quanto superficiali ostilità verso la Germania; in un articolo di Matteo Cavallino, le opinioni di Angela Merkel, Volker Lauder, Sebastian Haffner e Angelo Bolaffi, permettono di fare alcuni conti con la leadership depotenziata di un Paese al contempo troppo piccolo e troppo grande.*
 

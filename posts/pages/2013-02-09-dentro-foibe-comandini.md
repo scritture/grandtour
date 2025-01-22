@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2013-02-09 11:00:13+00:00
-image: /images/2016/07/il-cammino-inverso-della-pace-678x381.jpg
 title: Dentro le foibe
 categories:
   - filosofia
@@ -24,7 +23,7 @@ categories:
   - Claudio Comandini
 ---
 
-![](images/il_cammino_inverso_della pace.jpg){fig-align="center"}
+![](images/il_cammino_inverso_della%20pace.jpg){fig-align="center"}
 
 *Esordio e parafrasi. Il Carso di Scipio Slataper. L'indagine di Ara e Magris. Trieste cosmopolita per sottrazione. Morfologia psichica della foiba. Storia di un confine tra disgregazione dell'impero e terre irredente. Ghiglianovich: la tensione dalmata all'Italia. Trumbić: il croato che pensava in italiano. Puecher e il Movimento operaio triestino. L'irredentismo da Oberdan a Timeus. Fiume con D'Annunzio e senza. Il provincialismo letterario di Ziliotto e la contemporaneità di Saba e Joyce. Svevo: la città come giocattolo sentimentale. Italo Sauro: italianità dei confini. Galleria culturale di una Trieste atipica da Stuparich a Balzen. Henrik Tuma: il retroterra sloveno di Trieste. Giorgio Alberto Chiurco e Giuseppe Cobolli Gigli e il fascismo. La Foiba di Pisino e Giulio Verne. Il confine orientale dall'invasione della Jugoslavia all'annessione al Reich. Nazionalisti e comunisti nelle resistenza jugoslavia. Mario Riva e Carlo Ravnich: ufficiali e partigiani . Insurrezioni in Istria e la presa di Trieste. Le ondate di violenza del 1943 e 1945. Il fratello di Pasolini e l'eccidio di Porzûs. L'esodo dei profughi. Eros Sequi: la cultura italiana in Jugoslavia. Sergio Endrigo e la sottana di Trieste. Guido Crainz: dolore ed esilio nelle regioni europee. La poesia di Dubravko Horvatić. La costituzione della letteratura croata e la nazionalizzazione degli scrittori. Giacomo Scotti: la poesia, il comunismo e la Jugoslavia. La mancata missione di De Gasperi. Il trattato di Osimo. Le due non-appartenenze di Tomizza. Nuovi equilibri dell'area. Il giorno del ricordo e le amnesie di destra, di sinistra e d'altri paesi. Incontro con Trieste. Storie dei luoghi. Foibe e Basovizza. De Castro e il contemporaneamente. Commiato dalle foglie.*
 

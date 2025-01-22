@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2015-10-31 11:00:32+00:00
-image: /images/2016/07/fantasma-di-un-futuro-passato-640x381.jpg
 title: Fantasmi a Berlino
 categories:
   - economia
@@ -22,6 +21,8 @@ categories:
   - Žižek
   - Claudio Comandini
 ---
+
+![](images/fantasma di un futuro passato.jpg){fig-align="center"}
 
 *Alcune suggestioni su fantasmi e cacca in terra tedesca. La festa dell'unificazione, il Dieselgate e la Deutsch Bank, la protesta contro il TTIP. La sovranità popolare nella Costituzione della DDR. L'Islam in Germania: migrazioni e ospitalità. Libri e prigione: installazioni e conferenze alla Casa delle Culture del Mondo. Il Museo della Stasi e i selfie-made man: lo spionaggio diffuso. Berlino tra strade e spazi chiusi.*
 
@@ -117,7 +118,7 @@ Il luogo, parte di un complesso più ampio, ha conservato accuratamente uffici e
 
 Viviamo in una società a spionaggio diffuso, dove ognuno è sollecitato a documentare evidenze, inezie e inutilità, fornendo i dati più irrilevanti a non si sa chi: una società che si avvale di una comunicazione provvista di metodi quali la criptazione dei messaggi, un tempo esclusivo appannaggio delle spie. Norme e disposizioni sulla privacy arrivano fino ad un certo punto, sembra non esserci nessun palazzo della sorveglianza da occupare: rimane, e non soltanto in Germania, una *Wende* sempre disconosciuta, una svolta perennemente da completare.
 
-Canzoni di ieri possono essere ascoltate oggi in modo diverso. [*Sag mir wo du stehst*](https://www.youtube.com/watch?v=VBQLcqXevMM)\ (*Dimmi dove ti trovi*), degli Oktoberklub, collettivo folk-beat filo-governativo dell'Est, potrebbe configurarsi come strana profezia e aspirare persino alle hit globali; dal canto suo, [*Die Stasi-Ballade*](https://www.youtube.com/watch?v=v2K47KkZc_M) del cantautore Wolf Biermann, attualmente filoliberista e già oppositore della DDR, potrebbe addirittura condurre anche chi non è mai stato comunista a qualche inaspettata nostalgia. Questo non significa affatto mitizzare la Stasi o minimizzarne gli abusi, ma semplicemente storicizzarne l'esperienza con la dovuta pertinenza.
+Canzoni di ieri possono essere ascoltate oggi in modo diverso. [*Sag mir wo du stehst*](https://www.youtube.com/watch?v=VBQLcqXevMM) (*Dimmi dove ti trovi*), degli Oktoberklub, collettivo folk-beat filo-governativo dell'Est, potrebbe configurarsi come strana profezia e aspirare persino alle hit globali; dal canto suo, [*Die Stasi-Ballade*](https://www.youtube.com/watch?v=v2K47KkZc_M) del cantautore Wolf Biermann, attualmente filoliberista e già oppositore della DDR, potrebbe addirittura condurre anche chi non è mai stato comunista a qualche inaspettata nostalgia. Questo non significa affatto mitizzare la Stasi o minimizzarne gli abusi, ma semplicemente storicizzarne l'esperienza con la dovuta pertinenza.
 
 Will Opitz, direttore della scuola giuridica della Stasi, sottolinea l'integrità delle persone coinvolte nell'istituzione, dotate di coscienza di classe e volontà di cambiamento. Rainer Rupp, nome in codice *Topas*, infiltrato nella CIA, nel 1983 permette di scoprire che l'attacco russo è soltanto una simulazione, evitando così la guerra atomica: il suo è anche il semplice eroismo di quelli che diffidano delle versioni più banali dei cosiddetti fatti. Genhar Niebling, della polizia carceraria, afferma che ad essersi compiuta con il crollo del Muro è una controrivoluzione, che ha spianato la strada al capitalismo globale. E di fronte alla ormai inservibile tecnologia delle super-spie di una volta, potremmo sorprenderci a chiederci se davvero l'unica prospettiva ormai possibile sia quella di diventare tutti selfie-made man e impeccabili delatori di se stessi.
 

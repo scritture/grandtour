@@ -1,14 +1,8 @@
 ---
-excerpt: ''
-socialImage: /images/shop/caludio_libreria.jpg
-addTitleSuffix: true
-colors: colors-a
 author: Claudio Comandini
 date: 2015-09-25 10:00:13+00:00
 image: /images/2016/07/carogelati-439x381.jpg
-link: http://redazione.scritture.net/mag/istanbul-diario-di-bordo/
-slug: istanbul-diario-di-bordo
-title: 'Istanbul: diario di bordo'
+title: 'Is tan bul: diario di bordo'
 categories:
   - filosofia
   - narrazioni
@@ -22,6 +16,8 @@ categories:
   - Hegel
   - Claudio Comandini
 ---
+
+![](images/carogelati.jpg){fig-align="center"}
 
 *Alla scoperta della Nova Roma: mare, tramonti, palazzi, gatti, arte, archeologia, imperatori e matti. E musica.*
 
@@ -99,7 +95,7 @@ Da Pergamo, 20 d. C, arriva il Genio Alato: appena lo vedo, mi eccito. Il framme
 
 Un personaggio davvero singolare è rappresentato in affresco del XIII-XIV sec.: un viso barbuto che guarda obliquo, la mano sulla spada piantata in terra. Sarebbe un tale San Mercurio, probabilmente la divinità “riadattata” (anche se qui però si parlava greco, e non latino), rinvenuto in una chiesa-moschea (!). Ma tu pensa tu! E allora, San Mercurio, proteggici tu, che a chi affidarci non lo sappiamo più!
 
-[## 10. Eurasia - Amerika No good](https://soundcloud.com/claudio_comandini/eurasia-ii-amerika-no-good)
+[\## 10. Eurasia - Amerika No good](https://soundcloud.com/claudio_comandini/eurasia-ii-amerika-no-good)
 
 (In questo caldo agosto di guerra incipiente, tutti quelli che incontro sulle rotte dell'Eurasia mi dicono, con la faccia un po' incazzata: "Iraq good. America no good". Ma le persone non fanno i popoli, e i popoli non fanno i governi.)
 

@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2014-06-30 10:00:21+00:00
-image: /images/2014/06/athenapop.jpg
 title: La popsophia, i greci e la critica del presente
 categories:
   - cinema

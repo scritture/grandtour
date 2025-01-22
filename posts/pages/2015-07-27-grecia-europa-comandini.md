@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2015-07-27 10:00:48+00:00
-image: /images/2016/07/costruire-accanto-alle-macerie-609x381.jpg
 title: La Grecia, l'Europa e i conti della serva
 categories:
   - economia
@@ -20,6 +19,8 @@ categories:
   - Žižek
   - Claudio Comandini
 ---
+
+![](images/costruire-accanto-alle-macerie-609x381.jpg){fig-align="center"}
 
 *La crisi greca tra neoliberismo e radicalismo razionale. Finanza, speculazioni, crolli: il ruolo dei derivati nell'intossicazione dell'economia. Syriza, il superamendo dell'austerity e la ridefinizione dell'Europa. Tsipras: strategie politiche e azione di governo. Debito, colpa e grazia tra Grecia e Germania. «Tutto è fluido - dice Babis il fluido.» Non solo classici: piccole storie di un paese mediterraneo dalla nascita del primo ulivo all'IVA sull'olio d'oliva. TTIP e parcellizzazione europea. Trionfo e declino della finanza tedesca. Varoufakis: il salvataggio del capitalismo e il suo oltrepassamento. Negoziati, conflitti e cambiamenti. Investire su un futuro senza future.*
 
@@ -43,7 +44,7 @@ Nel frattempo Janis Varoufakis, l'ex ministro delle finanze greco e professore d
 
 Analizzando la comunicazione dei roventi giorni della crisi greca, che subito dopo  è rientrata in una zona di esposizione mediatica piuttosto bassa, risulta ampiamente trascurato proprio il dato più inedito: tutti i protagonisti della scena politici, alleati o avversari, si sono scontrati tra loro, e qualcuno si è scontrato anche con con se stesso, ognuno ha dovuto assumere in un modo o nell'altro le ragioni a cui si opponevano. Eraclito diceva «*Guerra di tutto è padre*»: potrebbero essersi introdotti fattori capaci di influenzare lo sviluppo degli eventi. Cerchiamo di comprendere come, leggendo nelle convulsioni del presente le stratificazioni della storia e delle idee, senza sottovalutare il ruolo della stessa indifferenza.
 
-## 2. *«Non tocca il divino gli indifferenti»
+## 2. \*«Non tocca il divino gli indifferenti»
 
 L'indifferenza ha una propria meccanica. Quella dell'informazione dipende da un'attualità che continua brutalmente a divorare se stessa e da una comunicazione assimila l'eclatante al banale, trascurando nella maggior parte dei casi le più elementari esigenze di comprensione. È stata trascesa persino l'idiozia delle veline e l'ipocrisia dei dispacci d'agenzia, laddove gli articoli sono ormai realizzabili anche attraverso software. Prevale un concetto di "leggibilità" imbecille e paradossale dietro il quale si nasconde la stessa ideologia che lascia indisturbate le borse, basata sulla difesa del consenso alle ragioni dell'economia finanziaria e al pensiero unico. L'indifferenza dei mercati finanziari dipende dal fatto che nei periodi di assestamento sulle borse operano scambi semplici, affidati a macchine e algoritmi, realizzando così investimenti che valgono per pochi giorni, senza andare troppo per il sottile rispetto ai problemi di lungo periodo.
 
@@ -238,7 +239,7 @@ Bino Olivi - Roberto Santaniello, *Storia dell'integrazione europea* (2005), Bol
 
 Georg Ostrogorsky, *Storia dell'impero bizantino* (1942-1952-1963), Einaudi, Torino 1993.
 
-Ignacio Ramonet, Ramón Chao, Jacek Woźniak, *Piccolo dizionario critico della globalizzazione* (2003),  Sperling & Kupfer, Milano 2004.
+Ignacio Ramonet, Ramón Chao, Jacek Woźniak, *Piccolo dizionario critico della globalizzazione* (2003), Sperling & Kupfer, Milano 2004.
 
 Jean Richter, *Geografia sacra del mondo greco* (1983), Rusconi, Milano 1989.
 
@@ -254,7 +255,7 @@ Yanis Varoufakis, *Il Minotauro Globale* (2011), Asterios Editorie, Trieste 2012
 
 Slavoj Žižek, Srećko Horvat, Alexis Tsipras, *Cosa vuole l'Europa?* (2013), Ombre corte, Verona 2014.
 
-•   
+•
 
 Toni Dell'Olio (a cura di), *Dossier: Il nostro diritto all'Europa*, «Mosaico di pace» 3/2014.
 

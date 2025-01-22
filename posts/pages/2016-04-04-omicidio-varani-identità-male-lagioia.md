@@ -1,21 +1,18 @@
 ---
 author: Nicola Lagioia
-comments: false
 date: 2016-04-04 10:00:16+00:00
-image: /images/2016/04/Abigor-466x381.jpg
-link: http://redazione.scritture.net/mag/omicidio-varani-nuove-identita-del-male/
-slug: omicidio-varani-nuove-identita-del-male
 title: L'omicidio Varani e le nuove identità del male
 categories:
-  - antropologia
   - narrazioni
+  - antropologia
   - società
-  - Lagioia
-  - Roma
   - sessualità
-excerpt:
-metaDescription: Diario
+  - società
+  - Roma
+  - Lagioia
 ---
+
+![](images/Abigor-466x381.jpg){fig-align="center"}
 
 *Rivendicare confuse identità e non essere mai nati, scopare per festeggiare un omicidio, fare uno snuff movie degli ultimi istanti della vittima: tutto questo, per vedere l'effetto che fa.Marco Prato e Manuel Foffo durante un festino a base di droghe e superalcolici hanno denudato Luca Varani con l'obiettivo di avere un rapporto sessuale e lo hanno costretto a bere dosi da cavallo di Alcover. I due hanno prima provato a soffocare Luca con una corda di nylon, poi gli hanno inflitto 107 colpi di pugnale e di martello: i primi per infierirgli dolori, i secondi per ucciderlo. Le immagini n mostrano il cranio scalfito, la bocca lacerata, il corpo bucato. Prato, che durante l'esecuzione era vestito da donna, accusa Foffo di essere responsabile materiale dell'omicidio, ma dichiara comunque di amarlo; la più grande preoccupazione di Foffo, che minaccia il suicidio, sarebbe quella di essere reputato gay. La Procura accusa la coppia di omicidio premeditato con aggravanti di crudeltà e motivi abbietti e futili. Nicola Lagioia (Bari, 1973, premio Strega 2015 per "La ferocia"), con il suo straordinario reportage sull'omicidio Varani, consumatosi in un'incerta primavera ai margini di una Roma confusa, ricorda le nuove forme di male con cui dobbiamo fare i conti, e che la vita degli stolti è peggiore della peggiore delle morti.*
 

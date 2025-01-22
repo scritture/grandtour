@@ -1,7 +1,6 @@
 ---
 author: Marc Augé
 date: 2016-02-02 11:00:42+00:00
-image: /images/2016/07/unreal_city-678x381.jpg
 title: L'ideologia del presente
 categories:
   - filosofia
@@ -16,6 +15,8 @@ categories:
   - Claudio Comandini
   - Augé
 ---
+
+![](images/unreal_city-326x245-01.jpg){fig-align="center" width="456"}
 
 *Il lavoro di antropologo e filosofo di Marc Augé (Poitiers, 1935), ampio e diversificato, presenta al suo interno una profonda coerenza di pensiero e indagine, ed è proprio l'intreccio tra le diverse tematiche a permettere di esplicare le costanti della sua ricerca. Inizialmente, ha dedicato le sue attenzioni allo studio delle società tribali della Costa D'Avorio e del Togo, cercando di rintracciarne la logica implicita nella loro autorappresentazione (ideo-logic). Successivamente, si è concentrato sull'elaborazione di un'antropologia delle società contemporanee e della “surmodernité”, rispetto alle quali ha elaborato la teoria dei “non-luoghi”, espressione che indica lo spazio tipico delle stazioni ferroviarie, delle stanze d'albergo, dei grandi magazzini. Presentiamo un suo testo sull'egemonia del presente, e a seguire un breve colloquio con l'autore su cinque questioni essenziali: oblio e memoria, universale e individuale, educazione e scommessa, autocolonizzazione e metrò immaginario.*
 

@@ -2,7 +2,6 @@
 title: Cul de sac
 author: Claudio Comandini                          
 date: 2015-11-25                                   
-image: /images/2016/07/strada-bloccata-438x381.jpg 
 categories:
   - poesia
   - filosofia                                       
@@ -11,6 +10,8 @@ categories:
   - Francia
   - Claudio Comandini    
 ---
+
+![](images/strada bloccata-02.jpg){fig-align="center" width="410"}
 
 *Dopo Parigi: ritrovare il verso.*
 

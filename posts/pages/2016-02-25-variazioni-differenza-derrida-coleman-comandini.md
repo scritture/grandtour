@@ -1,13 +1,6 @@
 ---
-excerpt: ''
-socialImage: /images/shop/caludio_libreria.jpg
-addTitleSuffix: true
-colors: colors-a
 author: Claudio Comandini
 date: 2016-02-25 11:00:53+00:00
-image: /images/2016/07/tromba-parlante-678x381.jpg
-link: http://redazione.scritture.net/mag/variazioni-della-differenza-derrida-e-coleman/
-slug: variazioni-della-differenza-derrida-e-coleman
 title: 'Variazioni della differenza: Derrida e Coleman'
 categories:
   - filosofia
@@ -23,6 +16,8 @@ categories:
   - Derrida
   - Claudio Comandini
 ---
+
+![](images/tromba parlante.jpg){fig-align="center"}
 
 *Nuova comunicazione e territori culturali. Il tono oltre il messaggio. Impossibilità ed editing. Armolodia e decostruzione. Libri e dischi. Assenza di confini e molteplicità organizzata. Accenni alla struttura armonica dell'universo di Leibniz. Improvvisazione e archiscrittura. Altermondialismo. Differenza e benedizione. Coltrane e Don Cherry. Dopo Derrida e Coleman.*
 

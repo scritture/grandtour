@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2012-07-25 10:00:43+00:00
-image: /images/2016/07/forza-italia.jpg
 link: http://redazione.scritture.net/mag/litalia-ha-vinto/
 slug: litalia-ha-vinto
 title: "L'Italia ha vinto"

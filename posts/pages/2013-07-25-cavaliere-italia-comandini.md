@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2013-07-25 10:00:46+00:00
-image: /images/2013/07/stella-del-cavalierato.jpg
 title: Il cavaliere, le armi e gli amori (o giù di lì)
 categories:
   - comunicazione
@@ -21,6 +20,8 @@ categories:
   - Berlusconi
   - Claudio Comandini
 ---
+
+![](images/stella_del_cavalierato-01.jpg){fig-align="center"}
 
 *Berlusconi e la giustizia. La corruzione dei poteri dello stato. Politica e teologia: il cieco e lo zoppo. Secolarizzazione e secolarismo. Pasolini e il romanzo delle stragi. Retroscena istituzionali e implicazioni internazionali degli attentati del 1969 e del 1974. Indagati, assolti e deceduti. Consociativismo e servizi segreti. Escatologia politica e società apocalittica. Il caso Moro. Ritratto di tre papi. La crocifissione dell'intellettuale. Altre stragi e la conquista dei media. Dalla P2 a Forza Italia. L'implosione comunista. Lo spettacolo e il fondamentalismo. La lotta iconoclasta e il riverbero dell'aureola di Gesù. La scesa in campo. Leopardi e il popolaccio. L'Unto del Signore. Vattimo: pensiero debole e televisione. Dalla televisione didattica a quella commerciale. Perniola: attualità e svanire del presente. La cultura dopo il Sessantotto. La rivelazione del vuoto. Genova 2001, l'abuso e le convenienze: i dispacci di Wikileaks. Roma 2011, le spaccature e le violenze: il ruolo di Maroni. Iconicità di Mike Bongiorno. Politica estera e compagni di merende. Opinioni della stampa internazionale. Le donne in piazza per la dignità. Ruby e le donne del bunga-bunga. Pornocrazia e sangue del popolo. Ripresa delle vicende vaticane. Rimozione della realtà ed oblio della storia. Autoassolvimento e disprezzo di sé.*
 

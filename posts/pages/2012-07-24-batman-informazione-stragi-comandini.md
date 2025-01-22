@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2012-07-24 10:00:54+00:00
-image: /images/2012/07/punti-di-vista-678x381.jpg
 title: "Le colpe di Batman. L'informazione, i fumetti e le stragi"
 categories:
   - cinema

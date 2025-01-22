@@ -1,8 +1,6 @@
 ---
 author: Claudio Comandini
-images:  /images/2016/08/intensita-640x381.jpg
 date: 2013-03-21 11:00:48+00:00
-image: /images/2016/08/intensita-640x381.jpg
 title: Poesie per un giorno di primavera
 categories:
   - poesia

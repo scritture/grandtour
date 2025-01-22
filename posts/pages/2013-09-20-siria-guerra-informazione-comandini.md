@@ -1,6 +1,5 @@
 ---
 author: Claudio Comandini
-image: /images/2016/07/strutture-precarie-678x381.jpg
 date: 2013-09-20 10:00:23+00:00
 title: La Siria, la guerra e l'informazione
 categories:
@@ -84,7 +83,7 @@ La musica assira fa comprendere quanto siano articolate le prospettive dell'area
 
 Le comunità cristiane comprendono anche greci, armeni e siri, che possono essere ortodossi o cattolici, e poi caldei cattolici, maroniti, protestanti, latini. Nell'agosto 2013 a Maloula, dietro la valle della Bekaa libanese, i cristiani per sopravvivere pagano la *jizzhia*, la tassa che proteggeva gli infedeli ai tempi del califfato, agli insorti jihadisti del Fronte Al Nusra, provenienti dalla Cecenia, dalla Libia, dall'Egitto, dall'Arabia, dal Pakistan, appostatati a Iabroud presso il monastero di Sergio e Bacco, ora roccaforte di Al Qaeda.[^17]
 
-[^17]:  [Gian Micalessin, *Noi cristiani di Maloula cacciati dai ribelli: volevano convertirci*, «Il Giornale» 08.09.2013.](http://www.ilgiornale.it/news/esteri/noi-cristiani-maloula-cacciati-dai-ribelli-volevano-948584.html)
+[^17]: [Gian Micalessin, *Noi cristiani di Maloula cacciati dai ribelli: volevano convertirci*, «Il Giornale» 08.09.2013.](http://www.ilgiornale.it/news/esteri/noi-cristiani-maloula-cacciati-dai-ribelli-volevano-948584.html)
 
 In Siria sono ordinari colpi di stato e forza militare, sollevazioni e repressioni violente. Tuttavia, la dinastia alawita ha promosso la tolleranza religiosa ed è stata a lungo sostenuta dalle varie componenti etniche e confessionali. La sua azione favorisce le élite borghesi e capitaliste, trascurando le componenti agricole pur se appartenenti alla propria comunità. Il regime ha avuto la forza principale nell'esercito, anch'esso attualmente diviso su basi confessionali.[^18] I successi militari contro Israele sono stati minati dall'assassinio del leader libanese Rafiq Hariri nel 2005 e dal successivo ritiro delle truppe da un paese considerato per storia e contiguità come parte del proprio; le poche privatizzazioni compiute da Bashar dopo la stagione della Primavera di Damasco del 2000 hanno favorito la realizzazione di ecomostri, il formarsi di un ceto di nuovi ricchi conniventi con il clan al potere e un crescente impoverimento diffuso, contribuendo all'emergenza della crisi attuale.[^19]
 

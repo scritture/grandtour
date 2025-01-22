@@ -1,7 +1,6 @@
 ---
 author: Massimo Bray
 date: 2016-03-01 11:00:57+00:00
-image: /images/2016/03/codice-forse-678x381.jpg
 title: Orizzonti editoriali e mondo digitale
 categories:
   - antropologia
@@ -12,6 +11,8 @@ categories:
   - Lévi-Strauss
   - Massimo Bray
 ---
+
+![](images/codice-forse-326x245.jpg){fig-align="center" width="408"}
 
 *Salvaguardare le scienze umanistiche da una visione riduttiva che vuole relegarle nell'archivio dell'inutile, emancipare la Rete dagli usi compulsivi che non permettono la diffusione dei saperi. Ricordava Italo Calvino che in un epoca di veloci cambiamenti è necessario essere come «cavalli in corsa»: in una società di immagini è importante saper vedere «a occhi chiusi». Un testo di Massimo Bray (Lecce 1959), direttore editoriale dell'Istituto della Enciclopedia Italiana Treccani e già ministro dei beni e delle attività culturali e del turismo, raccoglie questi e altri spunti insistendo soprattutto sugli aspetti di qualità della ricerca e di competenza professionale, e quindi afferma la necessità di un lavoro editoriale di eccellenza, capace di stabilire piena complementarietà tra Internet e libro.*
 

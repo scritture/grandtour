@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2013-05-05 10:00:43+00:00
-image: /images/2016/07/accoppiarsi-alla-cieca-324x381.jpg
 title: 'Maschile e femminile: sessualità e scrittura nel “Basso impero”'
 categories:
   - Claudio Comandini

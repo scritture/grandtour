@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2015-12-15 11:00:32+00:00
-image: /images/2015/12/il_maschietto_di_frascati-445x381.png
 title: Le guerre di Marcantonio Colonna e lo Statuto di Frascati del 1515
 categories:
   - società
@@ -13,6 +12,8 @@ categories:
   - Famiglia Colonna
   - Claudio Comandini
 ---
+
+![](images/il_maschietto_di_frascati-445x381.png){fig-align="center"}
 
 *Profilo di un condottiero del Rinascimento. Dalla Disfida di Barletta al Sacco di Roma, passando per Pisa, Bologna, Genova, Modena, Ravenna, Verona, Milano e altre battaglie. Lo Statuto del Castello di Frascati e la giurisprudenza dell'epoca. Morte di Marcantonio e permanenza di Lucrezia. Note su Sacco di Roma e Miracolo di Capocroce del 1527, Concistoro del 1538 e Frascati quale Civitas. Cinquecento anni dopo.*
 
@@ -104,8 +105,6 @@ La storia procede anche nelle altre contrade europee, da cui Roma inizia ad esse
 
 Nella giostra degli eventi, la geopolitica papale si configura definitivamente con Roma quale centro degli interessi, Bologna come sede diplomatica, Frascati per giardino. La località, che si fonda come comunità con il Miracolo di Capocroce del 1527 ed assume configurazione definitiva con il Concistoro del 1538, è comunque con lo Statuto del 1515, attribuito a Marcantonio, che entra in una modernità allora incipiente e tuttora ancora da compiere. Il condottiero, *«di bellezza di volto, e d'un certo lucido splendore \[…\], pareggiava gli antichi Heroi»*, ed è ritratto con pizzo e baffi rossi nell'[*Historia della augustissima famiglia Colonna*](#0) (1658) di Filadelfo Mugnòs; può essere visto anche negli affreschi di Palazzo Colonna a Roma, e in un ritratto di Scipione Punzone, Cinquecento anni dopo gli Statuti da lui emanati, ne ricordano nome e imprese poche righe sparse, e una strada intitolatagli già da tempo; nessuna commemorazione ufficiale dell'opera sua. Molte sono le storie importanti ormai dimenticate e anche il presente sembra piuttosto assente. Gli uomini passano, le cose pure. Le città cambiano.
 
-![*Scipione Pulzone (1550-1598), Ritratto in Armatura di Marcantonio I Colonna con il Collare dell’Ordine di San Michele.*](/images/immagini_scritture/Ritratto_di_Marcantonio_I_Colonna.jpg){fig-align="center"}
-
-•
+![*Scipione Pulzone (1550-1598), Ritratto in Armatura di Marcantonio I Colonna con il Collare dell’Ordine di San Michele.*](images/Marcantonio_I_Colonna.jpg){fig-align="center"}
 
 *Fotografia: Claudio Comandini, "Maschietto tuscolano" – Frascati, dicembre 2015.*

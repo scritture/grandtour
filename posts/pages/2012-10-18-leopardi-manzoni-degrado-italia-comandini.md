@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2012-10-18 10:00:03+00:00
-image: /images/2016/08/questo_non_e_degrado-640x381.jpg
 title: "Leopardi e Manzoni: il degrado dell'Italia e della sua letteratura"
 categories:
   - filosofia

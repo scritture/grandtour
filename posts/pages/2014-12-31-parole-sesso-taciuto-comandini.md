@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2014-12-31 11:00:24+00:00 
-image: /images/2014/12/phallus-dei.jpg
 title: Le parole del sesso taciuto 
 categories: 
   - filosofia
@@ -24,6 +23,8 @@ categories:
   - Freud
   - Claudio Comandini 
 ---
+
+![](images/phallus-dei.jpg){fig-align="center"}
 
 *La sessualità e le sue legittimazioni. Viaggio nel godimento da De Sade a Lacan. False emancipazioni e mondi che spariscono. Utopie negative e liberazioni presunte. Rivendicazioni e corto circuiti. Generi tra natura e cultura: Judith Butler. Antropologia transessuale. Il bisturi e gli ormoni. La sindrome di Klinefelter e quella di Morris. Pandroginie culturali e androginie psichiche. Castità e integrazione. Feticismi e riciclaggi. Il corpo nel biocapitalismo. Normativizzazione giuridica del piacere. Antagonismo sociale e public relations. Il parricidio da Adorno a Deleuze. Sovversioni linguistiche e normativizzazioni giuridiche. Liberazioni e consumo. Problematiche dell'adozione. Liberismo permissivista e neo-tribalismo. Pinkwasching e omonazismo. I gay e l'ecumene. La sacralità del sesso domestico. Esperienze indicibili e identità plurali. Forme dell'omogeneizzazione. Preistoria della coscienza e archetipi sessuali: da von Baader a Jung. La disperazione del piacere. Negli interstizi.*
 

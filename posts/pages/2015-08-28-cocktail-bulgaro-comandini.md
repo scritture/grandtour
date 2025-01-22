@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2015-08-28 
-image: /images/2016/07/paracadutisti-nonsense-475x381.jpg
 title: Cocktail bulgaro
 categories:
   - narrazioni

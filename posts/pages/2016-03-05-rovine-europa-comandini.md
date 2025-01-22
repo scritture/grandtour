@@ -2,7 +2,6 @@
 author: Claudio Comandini
 title: Rovine d'Europa
 date: 2016-03-05 11:00:52+00:00 
-image: /images/2016/03/save-our_planet-678x381.jpg 
 categories: 
   - comunicazione
   - politica 
@@ -17,6 +16,8 @@ categories:
   - Žižek
   - Claudio Comandini 
 ---
+
+![](images/save-our_planet-678x381.jpg){fig-align="center"}
 
 *L'autodistruzione dei kamikaze e quella dell'Occidente. Torbidità e conoscenza. Le ambiguità di Avaaz e quelle di WikiLeaks. Forme del conflitto dalla Jugoslavia a Bruxelles. I generosi intenti di Varoufakis e le imbarazzanti performance del DiEM 25. Contro la spoliticizzazione e la disgregazione: creare società.*
 

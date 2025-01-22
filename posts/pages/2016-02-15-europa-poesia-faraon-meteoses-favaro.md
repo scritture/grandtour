@@ -1,7 +1,6 @@
 ---
 author: Angelo Favaro
 date: 2016-02-15 11:00:49+00:00
-image: /images/2016/02/Europe_flags-678x381.png
 title: Il largo sguardo d'Europa e la poesia di Faraòn Meteosès
 categories:
   - poesia
@@ -13,8 +12,9 @@ categories:
   - Stefano Amorese
   - Faraon Meteoses
   - Angelo Fàvaro
-metaDescription: Diario
 ---
+
+![](images/Europe_flags-326x245.png){fig-align="center" width="430"}
 
 [*Largo Sguardo*](http://www.cavinatoeditore.com/?post_type=portfolio&p=342) *(Cavinato Editore International, Brescia 2014) è un libro che raccoglie poesie di Faraòn Meteoès (pseudonimo di Stefano Amorese), tradotte nelle ventiquattro lingue dell'Unione europea. Al libro è accluso un DVD dove la recitazione dei versi, accompagnati da musica, si scandisce in quindici cortometraggi. Tra i molti collaboratori di questa singolare opera, Angelo Fàvaro del Dipartimento di Studi Umanistici dell'Università di Roma II, di cui riportiamo la parte finale dell'introduzione, preceduta dai primi quattro versi della poesia "Automotrice a voce per inchiostri acustici (poemetto quasi a motore)" in italiano e nelle traduzioni di Deborah Ferrelli, Vivian Grace Chammah, Achim Seiffarth, Estefania Flores Acuna-Pilar Rodriguez Reina.*\
 
@@ -55,9 +55,7 @@ Dall'Ermes dell'omerico *Inno* viene inventata la lira, con il guscio di una tar
 
 *«Oggi Eurolandia sembra sia decisa/ a cancellare lo sguardo di Medusa./ Ma con quali scudi scintillanti credi/ si uccida chi pietrifica la preda?»* così interroga Tony Harrison, nel suo *Lo sguardo della Gorgone*, i cittadini europei, credendo che si possa continuare a dare poesia anche dopo Auschwitz, dopo le guerre del golfo, i dittatori, ripartendo dall'Europa, dai suoi cittadini, dai suoi poeti! È tra gli estremi del locassimo e del cosmopolitismo che oggi si attua la sfida della creazione. È l'essere dopo e oltre, o prima, e comunque tra noi, ma anche l'essere in modi e forme imprevisti-imprevedibili l'irriducibile paradosso della Poesia e del Poetico che provocano ancora e sempre un *Largo Sguardo*, ci provocano a un *Largo Sguardo*.
 
-![](images/largo_sguardo.jpg){fig-align="center" width="586"}
-
-•
+![](images/largo_sguardo.jpg){fig-align="center" width="520"}
 
 *Angelo Fàvaro, "L'orizzonte che non si valica: lo sguardo intorno", da Faraòn Meteosès, "Largo Sguardo", Cavinato Editore International, Brescia 2015.*
 

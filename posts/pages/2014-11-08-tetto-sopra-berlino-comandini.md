@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2014-11-08 11:00:00+00:00
-image: /images/2014/11/camminare-sul-cielo.jpg
 title: Il tetto sopra Berlino
 categories:
   - arte

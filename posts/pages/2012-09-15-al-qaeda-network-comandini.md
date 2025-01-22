@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2012-09-15 10:00:15+00:00
-image: /images/2016/07/mit-aderen-mitteln-678x381.jpg
 title: Al Qaeda network. Il fondamentalismo islamico e le strategie reticolari
 categories:
   - filosofia

@@ -17,7 +17,7 @@ format:
   pdf:
     abstract: "Nascita, sviluppo e prospettive di una città a partire dal suo monumento più antico"
   epub: 
-    cover-image: "../../images/2024/san_rocco/1CampanileSRoccoPortaCapestrano.jpg"
+    cover-image: "../../images/2024/08/campanile/1portaCapestrano.jpg"
 ---
 
 ![*Campanile di S. Rocco e Porta Caperchiano (1850 ca.)*](images/1portaCapestrano-01.jpg){fig-align="center"}

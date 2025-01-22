@@ -2,7 +2,6 @@
 author: Claudio Comandini
 date: '2012-06-01' 
 title: '2012: apocalissi su misura'
-images: /images/2012/06/labyrintime-480x381.jpg
 categories: 
   - filosofia
   - religioni 

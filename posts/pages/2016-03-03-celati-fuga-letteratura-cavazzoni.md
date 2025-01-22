@@ -1,7 +1,6 @@
 ---
 author: Ermanno Cavazzoni
 date: 2016-03-03 11:00:55+00:00
-image: /images/2016/03/Pinocchio_molla-tutto-640x381.jpg
 title: Gianni Celati e la fuga dalla letteratura
 categories:
   - letteratura
@@ -9,6 +8,8 @@ categories:
   - Celati
   - Cavazzoni
 ---
+
+![](images/Pinocchio_molla-tutto-640x381.jpg){fig-align="center"}
 
 *«Ma i risucchi non funzionano mai così, non possono avere orari, non possono nascere per dovere. Possono esserci solo se tutto succede per caso al momento giusto, nel posto giusto, perché fuori dal loro posto e malo loro attimo i risucchi cambiano di sapore, e anzi vanno male, diventano marci. Ed è come per queste parole che adesso mi vengono fuori dalla penna - non lo so perché, ma so che nascono da un risucchio dove tutto mi torna in mente, tutto si ripete nel giro delle cose attraverso i racconti. E la notte non è che l'ombra di tutti i momento che devono ripetersi, è la frescura che li avvolge, è l'abbraccio che tiene tutto insieme, il buco nel tempo in cui i desideri vengono alla superficie e si spandono nell'aria perché nessuno si senta più estraneo. Potrei parlarne ancora: perché neanch'io mi sento estraneo a quel che succede nel capannone, ma mi fermo qui.» (Gianni Celati, "Selve d'amore", 2013). Il narrare di Celati (Sondrio, 1937), ormai considerato un classico, si muove in uno spazio che è al contempo prima e dopo la letteratura, mosso da una lingua viva lanciata all'inseguimento di un mondo che fugge. Per questo motivo, Ermanno Cavazzoni individua nella sua scrittura i modi della fuga: tuttavia, dove la pagina è pur sempre un approdo, e considerando che oggi con la scrittura digitale il parlato ha invaso ogni ambito, le parole di Celati sembrano indicare più in là di quelle dove rischiano di arenarsi molti suoi epigoni.*
 
