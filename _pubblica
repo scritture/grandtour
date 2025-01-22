@@ -1,36 +1,5 @@
 #!/bin/bash
-
-#git add .
-#git commit -m "aggiorno github"
-#git push 
-
-
-
-# Nome del branch principale (modifica se usi un nome diverso)
-BRANCH="main"
-
-# Messaggio di commit predefinito
-COMMIT_MESSAGE="Aggiornamenti automatici"
-
-echo "Aggiornamento del repository locale con le modifiche dal repository remoto..."
-git pull origin $BRANCH
-
-
-echo "Aggiunta delle modifiche locali al repository..."
-
-# Aggiungi tutte le modifiche tranne quelle nelle directory 'docs' e '.quarto'
 git add .
+git commit -m "aggiorno github"
+git push 
 
-
-echo "Effettuando il commit delle modifiche..."
-git commit -m "$COMMIT_MESSAGE"
-
-echo "Pushing delle modifiche nel repository remoto..."
-git push origin $BRANCH
-
-if [ $? -ne 0 ]; then
-    echo "Errore durante il push. Verifica la tua connessione e i permessi."
-    exit 1
-fi
-s
-echo "Aggiornamento completato con successo!"

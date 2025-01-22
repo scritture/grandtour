@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2015-09-25 10:00:13+00:00
-image: /images/2016/07/carogelati-439x381.jpg
 title: 'Is tan bul: diario di bordo'
 categories:
   - filosofia

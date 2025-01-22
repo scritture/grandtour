@@ -3,7 +3,6 @@ excerpt: ''
 layout: PostLayout
 author: Claudio Comandini
 date: '2014-10-27 11:00:01+00:00'
-image: /images/2016/07/lumen-de-lumine-678x381.jpg
 link: 'http://redazione.scritture.net/mag/halloween-dietro-le-quinte/'
 slug: halloween-dietro-le-quinte
 title: Halloween dietro le quinte
@@ -35,7 +34,7 @@ categories:
   - Claudio Comandini
 ---
 
-![](images/lumen de lumine.jpg){fig-align="center"}
+![](images/lumen%20de%20lumine.jpg){fig-align="center"}
 
 *La morte, il marketing e la rimozione. Culto dei defunti presso Greci, Romani, Ebrei e Celti. Paganesimi e cattolicesimo. Morte e fertilità nei culti antichi. Modernità e spiritualizzazione della morte. Swedenborg e Kant. Montale e i Peanuts. Economia di morte ed esorcismi low cost. Il tempo non ha un solo corso. Più di qua o più di là?*
 

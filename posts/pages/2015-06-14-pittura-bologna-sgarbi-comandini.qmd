@@ -1,7 +1,6 @@
 ---
 title: Sguardi obliqui. Bologna e la pittura
 author: Claudio Comandini
-images:
 date: 2015-06-14
 categories:
   - arte

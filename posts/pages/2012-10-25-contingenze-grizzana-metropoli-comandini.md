@@ -1,7 +1,6 @@
 ---
 author: Claudio Comandini
 date: 2012-10-25 10:00:36+00:00
-images:
 title: Contingenze del paesaggio tra Grizzana Morandi e la metropoli globale
 categories:
   - arte

@@ -1,5 +1,4 @@
 ---
-images: /images/2016/07/giochi-di-guerra-678x381.jpg
 author: Claudio Comandini
 date: '2012-05-16 10:00:24+00:00'
 title: Monopoli e Risiko! Guerre globali e crisi finanziarie 
