@@ -16,6 +16,8 @@ categories:
   - Claudio Comandini
 ---
 
+![](images/Battisti_noir-1.jpg){fig-align="center"}
+
 *Piccolo viaggio negli anni di piombo e i suoi fantasmi senza agiografie né riprovazioni. Vita e opere di Cesare Battisti. Prassi e teoria del Processo 7 Aprile. Politica, informazione e terrorismo secondo Toni Negri, Giovanna Procacci, Giorgio Grossi, Hans-Dieter Bahr. Censure e dintorni.*
 
 ## 1. Cesare Battisti: romanzi di lotta in compendio
@@ -160,6 +162,4 @@ Una diffusione dei saperi non autoreferenziale e una critica dell'informazione i
 
 Forse un giorno, quando l'emergenza sarà finita, tutta questa matassa di questioni si districheranno. E mentre il Paese perde progressivamente importanza agli occhi del mondo e il mondo sfugge anche a se stesso, rimaniamo imbambolati a contemplare accadimenti sciolti dalla continuità degli eventi e da ogni spiegazione razionale, incapaci di azione e intendimento. E qui finisce questa storia.
 
-•
-
-*Fotografia: "Cesare Battisti in noir" - 7 ottobre 2017.*
+*Fotografia: Cesare Battisti in noir (7 ottobre 2017).*

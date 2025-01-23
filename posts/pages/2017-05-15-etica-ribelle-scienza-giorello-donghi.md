@@ -12,6 +12,8 @@ categories:
   - Pino Donghi
 ---
 
+![](images/Nicolaus_Copernicus_-_Heliocentric_Solar_System.jpg){fig-align="center"}
+
 *«Il Ribelle è il singolo, l'uomo concreto che agisce nel caso concreto. \[…\] Non gli servono teorie, né leggi escogitate da qualche giurista di partito». A Ludovico Geymonat (Galileo Galilei, 1957) fa controcanto Enrst Junger (Trattato del ribelle, 1980): «Soltanto uomini liberi possono diventare liberi». Consistenza e paradosso di parole quali queste, che rifiutano di dare per scontata la nostra libertà, permettono di smascherare le costrizioni di un ordine costituito apparentemente “normale”. La prima libertà è pertanto in un atteggiamento di critica inesauribile, capace di contestare gli aspetti conformistici del senso comune nonché quelli interni ad un movimento rivoluzionario, sopravvivendo così al rischio di vecchi e nuovi sottomissioni. Soprattutto, un rigoroso esercizio dell'etica della ribellione permette alla scienza storia e conoscenza. A tali conclusioni giungono il filosofo della scienza [Giulio Giorello](https://it.wikipedia.org/wiki/Giulio_Giorello) e l'esperto di comunicazione scientifica Pino Donghi (conduttore di [Dialoghi matematici](http://www.auditorium.com/eventi/ricerca?input=EV_6174945) presso l'Auditorium di Roma) nel libro L'etica del Ribelle. Intervista su scienza e rivoluzione (Laterza, Bari-Roma 2017).*
 
 *Questa ribellione non è fuga dalla realtà: piuttosto, risponde alle sue concrete esigenze di esperimento e verifica, ne permette la trasformazione. In tale dimensione, i confini tra poesia e scienza si dilatano. Un letterato ingegnere quale Carlo Gadda* (Meditazione milanese*,* 1928), *particolarmente interessato a rappresentare nella sua scrittura un mondo complesso ed eterogeneo, si appella all'essenza del pensiero scientifico di venire a patti con la realtà, e quindi eliminare quanto sembrava funzionare e invece non funziona più. Tale elemento di prova lo troviamo radicalizzato in Karl R. Popper* (Logica della scoperta scientifica, 1934-1959), *per cui è nella natura stessa delle ipotesi quella di essere in contraddizione con l'esperienza sensibile e quindi di poter essere falsificabili: insomma, un'autentica teoria scientifica è quella che può fare errori con cui confrontarsi, mettendosi di continuo in discussione, esponendosi al rischio di essere eliminata. Sempre ribelle.*
@@ -82,12 +84,8 @@ PD: *Ma è difficile in ogni rivoluzione politica, anche in quelle del nostro Oc
 
 *Sono tanti i modi in cui l'etica del ribelle può spegnersi. Ma il fatto che la vita si conclude nella morte è forse una ragione per decidere da subito di non vivere?*
 
-\[…\]
-
-![](/images/2017/05/eticaribelle.jpg){fig-align="center"}
+![](/images/2017/05/eticaribelle.jpg){fig-align="center" width="240"}
 
 *Giulio Giorello - Pino Donghi, “L'etica del Ribelle. Intervista su scienza e rivoluzione”, Editori Laterza, Bari-Roma, 2017, pp. 115-129.*
-
-•
 
 *Immagine: ["Nicolaus Copernicus - Heliocentric Solar System"](https://commons.wikimedia.org/wiki/File:Nicolaus_Copernicus_-_Heliocentric_Solar_System.JPG).*

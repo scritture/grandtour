@@ -24,8 +24,6 @@ categories:
 
 *Il* profiling*, la profilazione, organizza le vite di ognuno predicendo che, se oggi hai comprato X, domani potresti e dovresti comprare X: se hai fatto colazione con cornetto e cappuccino, farai sempre colazione così. Al'interno della profilazione trova argomento anche il tema della sorveglianza: per quanto la Rete, o chi parla a nome suo, insista nel partire dall'idea che non c'è nessuna sorveglianza, ognuno di noi è soggetto a controllo semplicemente perché esiste e la sua stessa esistenza lo rende potenzialmente criminale. La sorveglianza di oggi non è funzionale ad un progetto ideologico ma orienta direttamente consumi e comportamenti, e le delazioni di cui si avvale sono nelle forme più elementari quelle quelle dell'immiserimento dell'esperienza e dei contenuti implicite nella comunicazione. Questa nuova sorveglianza è opposta a quella del* Panottico *di Bentham, nella quale il sorvegliatore non era visibile e i sorvegliati facevano attenzione a come comportarsi; adesso il sorvegliato crede di non esserlo e fornisce volontariamente ogni informazione sul suo conto. Anche la ribellione populista, di cui offrono esempi lampanti fenomeni quali Trump e Grillo, che s'impunta su ramoscelli per non vedere foreste, è strutturalmente impotente laddove la gestione dell'elettorato è compiuta attraverso i Big data e profilazioni che tendono, in modi peggio che demagogici, a catturare il consenso ed essere sempre dalla sua parte prima ancora del voto. Alle implicazioni delle profilazioni e alle loro applicazioni nella logica elettorale, Renato Curcio dedica pagine decisive.*
 
-•
-
 ## 1. Le profilazioni predittive
 
 Anticipare eventi e prevedere comportamenti futuri: questo è il miraggio delle grandi piattaforme che fanno, a man bassa, incetta di dati. Mettere le mani su un bottino che, esse pensano, potrebbe consentire di "leggere il futuro". Il sogni di chi ambisce a esercitare un dominio, pur col passare dei secoli, non cambia. In ciò i possessori delle tecnologie digitali si dimostrano pateticamente simili ai loro predecessori.
@@ -112,6 +110,6 @@ Come avrete intuito una delle conseguenze più rilevanti di questa deriva - alla
 
 Non lo sappiamo. Intanto però stiamo assistendo a una metamorfosi della politica istituzionalizzata così come le tradizioni elettorali del secondo Novecento ce l'hanno fin qui rappresentata. Il dispositivo che costruisce e gestisce il ciclo elettorale a partire dai Big data infatti scardina alla radice l'idea stessa di rappresentanza. L'eletto, qui, non rappresenta altro che la fredda alchimia degli algoritmi al suo servizio, della potenza manipolatori della sua piattaforma e, va da sé, del gruzzolo con cui riesce ad acquistare "il meglio" delle tecnologie di cattura offerte dal mercato. Ma tutto ciò finisce anche con dirci che gli eletti con queste procedure artificiali assomigliano sempre di più a una forma inedita di cibori post-politici e sempre meno a esponenti della dimensione umana.
 
-•
+![](images/Società-artificiale.jpg){fig-align="center"}
 
 *Tratto da: Renato Curcio, "La società artificiale", Sensibili alle foglie, Roma 2017, pp. 24-32.*

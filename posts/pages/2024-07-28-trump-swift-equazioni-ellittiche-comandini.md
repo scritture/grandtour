@@ -10,7 +10,7 @@ categories:
   - Claudio Comandini
 ---
 
-![](images/ellittiche.jpeg){fig-align="center" width="514"}
+![](images/ellittiche.jpeg){fig-align="center" width="440"}
 
 *Del perché cose lontane possono somigliarsi e come anche la matematica può aiutare a capire attentati, concerti e andazzo generale.*
 

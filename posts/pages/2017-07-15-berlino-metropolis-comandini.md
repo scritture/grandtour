@@ -20,7 +20,6 @@ categories:
   - Benjamin
   - Hitler
   - Roosevelt
-  - Marlen Dietrich
   - Claudio Comandini
 ---
 
@@ -64,8 +63,6 @@ So che in una realtà diversa, possibile in quanto possibile, nella sua casa nat
 
 In tale mondo, non esisterebbe niente di quanto caratterizza il nostro: nemmeno io e te. Che, inesorabilmente, in questo nostro mondo siamo stati uniti e divisi anche da tutto quanto possa essere accaduto indipendentemente da noi. Conto le fermate della metro che mi separano dal mancare il nostro brindisi. Resto a casa. Noi già non siamo più. E penso a tutto quello che su questo pianeta morente sta ora andando perduto.
 
-•
-
 \[1\] Walter Benjamin, *Berliner Kindheit um Neunzehnhundert*, 1933.
 
 \[2\] Thea Von Harbou, *Metropolis*, 1917.
@@ -84,6 +81,4 @@ In tale mondo, non esisterebbe niente di quanto caratterizza il nostro: nemmeno 
 
 \[9\] Wolfgang Schivelbusch, *Three New Deals*, 2006.
 
-•
-
-*Fotografia: Claudio Comandini, "Brindisi mancati" - Berlino, 2006.*
+*Fotografia: Claudio Comandini, Brindisi mancati (Berlino, 2006).*

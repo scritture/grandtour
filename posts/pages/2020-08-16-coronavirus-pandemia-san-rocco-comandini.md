@@ -13,7 +13,7 @@ categories:
   - Claudio Comandini
 ---
 
-![](images/Polittico%20di%20San%20Antonio%20Gandino%201590%20.jpg){fig-align="center"}
+![](images/Polittico di San Antonio Gandino 1590 .jpg){fig-align="center"}
 
 *Thacker e l'impensabilità del pianeta. Oltre l'umanesimo e il transumanesimo. Le vite estreme dei santi. San Rocco amico degli appestati nutrito dal cane. La problematica dello spillover e i nuovi patti di convivenza tra uomo e natura. Il superamento dell'animalismo quale soluzione parziale. Il culto di S. Rocco a Frascati e nel mondo.*
 
@@ -55,9 +55,7 @@ Leonello Razza, *Santa Maria in Vivario*, Edizioni Vivarium 1975.\
 Romano Mergé, *Frascati nella realtà documentata* - Vol. II, Amici di Frascati 1989.\
 [Claudio Comandini, *La storia e i giorni. Le bombe su Frascati e la distruzione di Tuscolo*, «Scritture» 7.09.2016.](https://grandtour.shop/posts/pages/2016-09-07-8-settembre-frascati-tuscolo-comandini.html)
 
-•
-
-![](images/aggredior_virus.jpg){fig-align="center"}
+![](images/aggredior_virus-01.jpg){fig-align="center"}
 
 Tratto da: Claudio Comandini, *Aggredior Virus*, Edizioni Mondo Nuovo 2020, p. 97-103.
 

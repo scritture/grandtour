@@ -21,6 +21,8 @@ categories:
   - Claudio Comandini
 ---
 
+![](images/la-venuta-del-messia.jpg){fig-align="center"}
+
 *Il fascino della fine e il proliferare apocalittico. Kant: la conclusione dello spettacolo. Taubes: l'irruzione del presente e lo svanire del passato. Apocalittica e messianismo. Il racconto ebraico del Messia. La ricostruzione del Tempio e la vacca rossa. Islam e giudizio universale. Nessun terrorista in paradiso. Imam nascosto e moschee di lusso. Il mosaico dell'Abbazia di San Nilo a Grottaferrata. Le riprese televisive della Seconda Venuta di Cristo. Storia del concetto di Parusia. Teocrazia dal basso.*
 
 ## 0. Preludio a una fine infinita

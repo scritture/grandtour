@@ -10,6 +10,8 @@ categories:
   - Caterina Stile
 ---
 
+![](images/man-161247_1280.png){fig-align="center"}
+
 *Fino a che punto uomini e donne sono simili, dove sono differenti? Può sembrare incredibile, ma in un mondo che spesso è tentato di liquidare le questioni di genere e specie senza averle mai comprese davvero, occorre di nuovo interrogarsi sulle basi elementari della sessualità evitando il vizio di ridurle a questioni linguistiche e senza considerare quali dati di fatto le ingerenze della bioingegneria. Caterina Stile, divulgatrice scientifica e responsabile di sito «[Sapere e potere](http://www.saperepotere.it)», autrice del saggio "[Mi illudo- Le illusioni ottiche spiegate dal tuo cervello](http://www.saperepotere.it/ebook.html)", cerca di focalizzare alcuni aspetti fondamentali dei sessi e dei loro rapporti senza assecondare pregiudizi vecchi e nuovi.*
 
 Uomini e donne agli antipodi da sempre: da una parte la razionalità, la sicurezza, il coraggio maschili, dall'altra la sensibilità, l'autocontrollo, la maternità femminili. Caratteristiche che nel tempo hanno reso sempre più profondo il baratro che divide i due sessi, tanto che ancora oggi risulta difficile credere che le opportunità siano realmente *"pari"*. Nel corso della storia, il confronto uomo/donna è stato uno dei dibattiti più aspri, in alcuni casi sfociato in atteggiamenti che rasentano la violenza. Ma, eludendo i fatti storici ai più già noti, è possibile affermare che oggi ci sia una reale uguaglianza tra lui e lei? E – domanda provocatoria – è davvero l'uguaglianza quella che donne e uomini cercano?

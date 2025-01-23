@@ -12,6 +12,8 @@ categories:
   - Marco Lorenzetto
 ---
 
+![](images/pazienza-pannella.jpg){fig-align="center"}
+
 *Giacinto Pannella, detto Marco, è stato un maestro dell'anarcocapitalismo, sponsor di ogni libertà purché formale e non sostanziale. Il suo ingombrante narcisismo fatica a morire: improbabili le condoglianze. In uno sforzo estremo di 'pietas', il giornalista e scrittore Marco Lorenzetto fornisce un ritratto degli aspetti più discutibili del monarca radicale, piuttosto controcorrente rispetto all'agiografia più conformista.*
 
 Quando nel pomeriggio di giovedì scorso il direttore di questo giornale mi ha chiesto un editoriale estemporaneo sulla scomparsa di Marco Pannella, ho preferito declinare l'invito. L'ho fatto perché so bene che i morti, in quanto tali, hanno sempre ragione ed è obbligatorio santificarli. Un'impresa, nel caso specifico, fuori della mia portata. L'indomani ho avuto puntuale conferma dell'alluvione salivare. Il *Corriere della Sera* ha aperto la prima pagina con un'enorme foto giovanile del defunto, accompagnata da un titolo altisonante (*«Pannella, la spinta ai diritti che ha cambiato l'Italia»*), da una tenera vignetta di Giannelli e da quattro dolenti epicedi, uno dei quali firmato nientemeno che da Vasco Rossi, un tipo che va al massimo, com'è noto. All'interno, sette pagine erano interamente riservate al caro estinto (altrettante sulla *Repubblica*).
@@ -43,8 +45,6 @@ E i digiuni estremi? Show artificiosi. Il medico di Pannella riferì a Quinto ch
 Pannella ha disposto che Radio Radicale annunciasse la dipartita con il *Requiem* di Mozart, e questo un po' lo riscatta. "*Dies irae, dies illa*", giorno d'ira, sarà quel giorno. In cuor suo lo sapeva.
 
 Massimo Gandolfini, il leader del Family day, mi ha confidato un episodio accaduto durante un dibattito sull'eutanasia e sulle unioni civili svoltosi a Verona, nel quale Pannella era finito a parlare dell'Annunciazione di Maria e del valore della religione. Al termine dell'incontro, Gandolfini disse al coriaceo anticlericale, già gravemente malato: *«Marco, ho sentito che sei in piena crisi mistica, voglio farti un regalo»*. E gli mise fra le mani una corona del rosario. Lui sorrise. Spero, con tutta l'anima, che gli sia servita.
-
-•
 
 *Marco Lorenzetto, "Pannella e la corona del rosario", «L'Arena. Il Giornale di Verona», 22.05.2016.*
 

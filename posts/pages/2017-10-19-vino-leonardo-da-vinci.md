@@ -11,6 +11,8 @@ categories:
   - Leonardo Da Vinci
 ---
 
+![](images/Jean.jpg){fig-align="center"}
+
 *Il vino ha definitivamente conquistato una propria cultura, aperta a tutto il ventaglio di stimoli che può offrire una pratica antica che ha tanto della scienza quanto dell'arte. Tuttavia, per chi ancora vuole godere di un bicchiere con una certa onestà, ci sono degli aspetti collaterali da considerare. Infatti, se prima era spesso reputato roba da poveracci e pochi erano i cultori autentici e competenti, oggi il vino gode di un'enfasi degna della peggiore comunicazione, favorendo poi il fastidioso fenomeno degli [enofighetti](http://www.doctorwine.it/Firmato-DoctorWine/Firmato-DW/Gli-enofighetti). L'autoreferenzialità, il ritardo culturale e le pretese ridicole di certi parvenu enologici possono essere ridimensionati, oltre che da una sensata pratica di bevute, anche nel confronto con le eccellenze del settore. Tra queste, Luca Maroni che, pur se soffre a sua volta di uno scientismo vagamente stilnovista e un po' allucinatorio che non si risparmia iperboli su quanto chiama «vino-frutto» e sulla formula «quali-quantita» inconfutabile del vino perfetto, annovera tra i meriti quello di aver elaborato una [ruota sinestetica](http://www.ruotasensorialesinestetica.com/public/files/Ruota%20Sensoriale%2023_1_17%20RGB_2.pdf) che tenta la codifica dei rapporti possibili tra le differenti percezioni sensoriali, nonché l'aver curato a Milano il ripristino del [vigneto di Leonardo Da Vinci](http://www.ilfattoquotidiano.it/2015/02/21/luca-maroni-enologo-ed-editore-ritrovato-reimpiantato-vigna-leonardo-vinci/1441977/). L'interesse di Leonardo per il vino è poi riscontrabile anche nei suoi codici, i cui passaggi sulle diverse fasi del prodotto sono qui organizzati in percorso ideale che procede dalla poesia della vite agli effetti più funesti delle sbronze.*
 
 L'acqua che sue n' monti, è il sangue che tiene viva essa montagna, e, forata in essa o per traverso essa vena, la natura, aiutatrice de' sua vini, senso abbondante all'aumento di volere vincere il mancamento del versato omore, quivi con curioso soccorso abbonda, a similitudine del loco percosso nell'olmo, e si vede, per lo soccorso fatto moltiplicare il sangue sotto alla della in modo di sgonfiamento per sopperire al loco infetto. Similmente, la vite senso tagliata nell'alta serenità, manda la natura, dall'infime radici all'altezza somma del loco tagliato, il suo omore; e quello essendo versato, essa non l'abbandona di vitale amore insino al fine della sua vita. (*Codice Francia Manoscritto H 77r)*
@@ -38,8 +40,6 @@ Il vino consumato dallo imbriaco, esso vino col bevitore si vendica. (*Codice Fo
 Già il vino entrato nello stomaco comincia a bollire e sconfiare; già l'anima di quello comincia abandonare il corpo; già si vola inverso il cielo, trova il celebro, cagione della divisione dal suo corpo; già lo comincia a contaminare e farlo furiere a modo di matto; già fa irreparabili errori, ammazzando i suoi amici. (*Codice Atlantico 188r)*
 
 Et però credo che molta felicità sia agli homini che nascono dove si trovano i vini buoni.
-
-•
 
 [*Luca Maroni, "Leonardo Da Vinci. La vigna ritrovata", SENS, Formello (Roma) 2016.*](https://www.ibs.it/leonardo-da-vinci-vigna-ritrovata-libro-luca-maroni/e/9788899482008)
 

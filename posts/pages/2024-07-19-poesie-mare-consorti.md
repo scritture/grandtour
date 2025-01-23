@@ -170,8 +170,6 @@ e lo precede\
 Il mare intanto attende\
 la restituzione di tutte le onde
 
-•
-
 *Simone Consorti ha pubblicato dieci libri di narrativa e quattro libri di poesie. Questa silloge è tratta dal libro "Voce del verbo mare" (Arcipelago Itaca, 2022).*
 
 *Fotografia: Simone Consorti, "Aspettando l'infinito mare"*

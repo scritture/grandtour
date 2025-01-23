@@ -10,7 +10,9 @@ categories:
   - Lidia Riviello
 ---
 
-*Cos'è l'orrore in una società che sembra fatta di mostri in lotta tra loro, in uno scontro continuo tra il male e il peggio? Come narrare storie fatte di promesse mancate e i dialoghi senza voce? La scrittrice Lidia Riviello ("L'infinito del verbo andare", 2002; "Sonnologie", 2016), smontandone la tradizionale lettura catartica, inquadra l'horror nella sua essenziale capacità di far proliferare le immagini.*
+![](images/giphy.gif){fig-align="center"}
+
+*Cos'è l'orrore in una società che sembra fatta di mostri in lotta tra loro, in uno scontro continuo tra il male e il peggio? Come narrare storie fatte di promesse mancate e i dialoghi senza voce? La scrittrice Lidia Riviello (L'infinito del verbo andare, 2002; Sonnologie, 2016), smontandone la tradizionale lettura catartica, inquadra l'horror nella sua essenziale capacità di far proliferare le immagini.*
 
 L'horror americano degli anni settanta e ottanta trae la sua origine dalla propria fine. Nel circuito poco meno che molecolare delle sue immagini, la scena è altamente astratta, quasi sospesa fra vita e morte. In realtà, non c'è parallelismo, come invece si potrebbe pensare, tra lo stato euforico e quello immalinconente: piuttosto, uno fagocita l'altro in una circolarità continua e generatrice di rinvii all'eternità del quotidiano.
 
@@ -33,7 +35,5 @@ A questo dialogo la voce non serve: l'horror non ha voce. Il suono fa testo e s
 L'horror dilata la mente al massimo delle possibilità superando il gusto, il limite, il problema del genere, dell'ideologia: esattamente come per le fiabe classiche, la morfologia dell'horror è alienata rispetto all'azione e reazione del soggetto che subisce un evento decisivo. Sono i divieti, gli allontanamenti, gli inganni, le investigazioni a dettare una legge. L'horror però spesso ribalta questa legge perché agisce attraverso il ricatto del proprio ‘essere un genere seriale' spesso svalutato, sottoclassato, strumentalizzato, ritenuto un divertissment per ossessionati, manipolato come metodo paraterapeutico per smitizzare paure e angosce. Ed è questo l'‘error ideologico' al quale la teoria di *‘horror dialogico'* qui proposta ha cercato di porre rimedio.
 
 Eppure, l'anticonformismo dell'horror viene rivelato anche dalla sua astensione obbligata dal panorama delle discussioni ‘di significato', nel cinema come nella letteratura, nella filosofia come nell'arte, così nel vasto sottofondo sopramondo della rete. Non si classifica l'horror se non nella sua prima interpretazione: poi, viene ignorato, declassato. Ed è proprio questo a consentire al genere di ‘degenerare' e durare al di là del prototipo, mentre la dilatazione delle e nelle immagini horror permette la conoscenza e la ricerca di altri modi di guardare lo schermo e le sue immagini.
-
-•
 
 *Immagine: Mia Farrow in "Rosemary's Baby" (1968), film diretto da Roman Polanski, estratto dall'omonimo romanzo di Ira Levin (1967).*
