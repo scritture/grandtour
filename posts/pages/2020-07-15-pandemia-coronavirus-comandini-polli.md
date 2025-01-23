@@ -26,6 +26,4 @@ FP: "*Aggredior Virus*" è il titolo del saggio che lo scrittore e filosofo Clau
 
 *In questa riappropriazione di vissuti profindi, la riscoperta di aspetti simbolici e storici, che può coinvolgere le immagine sacre dell’Urbe nonché elementi di culture apparentemente altre eppure vive e presenti, quali quelle rappresentate da I-Ching e Cabala. Soprattutto, contro la pretesa di fondare l'esistenza personale e collettiva sull'onnipresenza della malattia, va fornita centralità ad un corpo concepito quale unità psicofisica capace di portare coscienza e salute. E, di fronte ad un mondo che si è dimostrato lontano persino da se stesso, al cospetto di un pensiero che non ha saputo accoglierlo in nessun modo, soprenderci a scoprire che concetti quali quelli tematizzati da Eugene Thacker relativi alla radicale impensabilità del mondo e al carattere non umano del pensiero possono rappresentare una risorsa da opporre a quanto, come ammoniva Nietzsche, proprio nel suo essere “umano, troppo umano” si è dimostrato dannoso nei confronti della stessa umanità. Tutto ciò, come il tempo da ritrovare e vivere, è in qualche modo già a portata di mano: riusciremo però a comprenderlo?*»
 
-•
-
 *Da «Il Tuscolo» a. 27 n. 217 Luglio/Agosto 2020 (rivisto e ampliato).*

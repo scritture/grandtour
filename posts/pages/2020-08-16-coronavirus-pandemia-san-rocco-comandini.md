@@ -13,7 +13,7 @@ categories:
   - Claudio Comandini
 ---
 
-![](images/Polittico di San Antonio Gandino 1590 .jpg){fig-align="center"}
+![](images/Polittico%20di%20San%20Antonio%20Gandino%201590%20.jpg){fig-align="center"}
 
 *Thacker e l'impensabilità del pianeta. Oltre l'umanesimo e il transumanesimo. Le vite estreme dei santi. San Rocco amico degli appestati nutrito dal cane. La problematica dello spillover e i nuovi patti di convivenza tra uomo e natura. Il superamento dell'animalismo quale soluzione parziale. Il culto di S. Rocco a Frascati e nel mondo.*
 
