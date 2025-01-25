@@ -70,7 +70,7 @@ Dopo un disastroso concerto a Manchester la nuova band finalmente si stabilizza 
 
 A questo punto va avviata una riflessione, certamente breve in questo ambito, su quella corrente sotterranea che ha attraversato i sixties e la prima metà degli anni Settanta e che dalla scena psichedelica londinese, l’Ufo club e il 14 Hour Technicolor Dream, arriva dritta al punk. Una serie di musicisti e musiche che rimangono lontane dallo star system e dalle evoluzioni prog, restando fedeli a quell’approccio spontaneo verso la musica, anche scanzonato. Un intreccio di grezzo e sporco rock‘n’roll con suggestioni e sonorità psichedeliche, dilatate. E che si contrappone all’esasperato virtuosismo, all’esibizionismo delle rock star, in un’ottica ancora legata agli ambienti della controcultura attiva e militante, all’underground alternativo che sommuove la società.
 
-{{< video https://youtu.be/w2q9FIeI3Sw?si=ybsQI8QgA4p9LM5Z >}}
+{{< video https://www.youtube.com/watch?v=lBSrrA86kHQ >}}
 
 Questi musicisti, i Pink Fairies ma anche gli Hawkwind (collaboreranno spesso insieme e daranno vita, ad un certo punto, ad un gruppo dal nome PinkWind), i Deviants di Mick Farren, Steve Cook, Larry Wallis e altri meno noti sono l’anello di congiunzione tra la controcultura dei sixties e la rivoluzione punk, e terranno in vita l’approccio libertario e hippy alla musica e agli eventi intorno ad essa, come festival, concerti e produzione di dischi.
 
