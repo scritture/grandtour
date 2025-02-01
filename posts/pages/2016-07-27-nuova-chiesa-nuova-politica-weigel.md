@@ -11,6 +11,8 @@ categories:
   - George Weigel
 ---
 
+![](images/Via-Crucis-444x381.jpg){fig-align="center" width="503"}
+
 *Le sfide dei cambiamenti e la riforma cattolica. Il definitivo tramonto dell'era della Controriforma e il dispiegarsi del Concilio Vaticano II permette di approfondire quanto la storia ha già modellato nella Chiesa voluta da Cristo: potremmo anche scoprire che il Dio della Bibbia non è il nemico di libertà e scienze, e rispondere agli appelli politici di un mondo confuso. Ne parla l'attivista cattolico statunitense George Weigel (Baltimora, 1951), sostenitore di un dialogo interreligioso razionale e di un etica priva di illusioni, nel libro "Cattolicesimo evangelico" (edizione americana 2013, traduzione italiana 2016).*
 
 Nel momento in cui la Chiesa cattolica ha celebrato il cinquantenario dell'apertura del Concilio Vaticano II, si sono levate voci per una sua riforma, le richieste erano insistenti, diffuse, e spesso cacofoniche, finendo per consistere solamente in accordi tra firmatari. Nei primi decenni del XXI secolo, i cattolici "progressisti", così come i cattolici "tradizionalisti" varano il loro programma di riforma in agenda. Hans Küng, che una volta descrisse il compito del Vaticano II come "riforma e riunione", è abbastanza certo di sapere cosa significhi "riforma" così come lo sono gli editori di *The Wandere_r e la redazione di \_The Tablet*, anche se nessuno di loro concorda con le specifiche di questa riforma. Anche il *New York Times* ha la sua idea di riforma cattolica, similmente il giornale vaticano *L'Osservatore Romano*, per non parlare delle centinaia di migliaia di blogger e commentatori Internet di tutto il mondo. E qui ci fermiamo.

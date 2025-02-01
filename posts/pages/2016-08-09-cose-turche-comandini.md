@@ -18,6 +18,8 @@ categories:
   - Claudio Comandini 
 ---
 
+![](images/quanto resta del millennio.jpg){fig-align="center"}
+
 *Un golpe fallito: retroscena possibili e conseguenze probabili. Ridefinizioni politiche e geopolitiche. Le musiche della Turchia tra ieri e oggi. I nuclei di tre civiltà tra Oriente e Occidente: la Nova Roma , l'Islam e i Turchi, Atatürk tra antenati e modernità. La Cappadocia, le mele e la bicicletta.*
 
 ## 1. Colpi e contraccolpi

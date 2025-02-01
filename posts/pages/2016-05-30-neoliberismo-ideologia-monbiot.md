@@ -14,9 +14,9 @@ categories:
   - Milton Friedman
   - Naomi Klein
   - George Monbiot
-excerpt:
-metaDescription: Diario
 ---
+
+![](images/neolib.jpg){fig-align="center" width="405"}
 
 *Tracollo finanziario, disastro ambientale e ascesa di Donald Trump: il neoliberismo ha fatto la sua parte in tutto questo. Questa dottrina, pur promettendo scelta, stranamente viene promossa con lo slogan “Non c'è alternativa”: tutti dobbiamo così credere che il mercato permetta ad ognuno di ottenere riscontro ai propri meriti, e diventa obbligatorio fare della disuguaglianza una virtù. Eppure, è emerso anche il peggio di noi, e il neoliberismo è rapidamente diventato strumento utile per gestire gli interessi delle organizzazioni criminali, e dove non esistono le crea. Un viaggio nell'Inghilterra immediatamente precedente il Brexit che espone le ragioni del fallimento delle politiche europee cercando anche di dare una risposta all'incapacità della sinistra di individuare un'alternativa di George Monbiot, giornalista, accademico, ambientalista e politico britannico, che ha recentemente pubblicato "How Did We Get into This Mess?" (Verso, London 2016), in vendita su [bookshop.theguardian.com](https://bookshop.theguardian.com/catalog/product/view/id/381048/?utm_source=editoriallink&utm_medium=merch&utm_campaign=article).*
 

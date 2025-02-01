@@ -16,7 +16,7 @@ categories:
   - Huntington
   - Stiglitz
   - Varoufakis
-  - Žižek
+  - &#382;i&#381;ek
   - Claudio Comandini
 ---
 

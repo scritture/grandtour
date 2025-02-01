@@ -13,6 +13,8 @@ categories:
   - Raffaele Coniglione
 ---
 
+![](images/Pyramid_of_Capitalist_System-326x245.jpg){fig-align="center" width="502"}
+
 *L'ignorante ipermoderno ha sempre ragione perché rifiuta storia e categorie, forte dell'arroganza di non-sapere-di-non-sapere. Con faciloneria, confonde cultura e natura nello sfondo piatto di una falsa concretezza, nella quale tutto si perde in una "fluidità" indistinta priva di articolazioni e specificazioni. Ciò oggi ha conquistato egemonia grazie all'uso diffuso dei nuovi media, che hanno nobilitato l'ignoranza in modo da ottenere dati funzionali ad incentivare i consumi, e quindi lo sfruttamento. Ciò va contrastato con qualcosa chiamato "cultura", laddove essa sia davvero tale e, piuttosto di chiedere sconti per ottenere una propria diffusione al ribasso, sappia riscoprirsi quale lotta dell'uomo contro le circostanze esterne e le tendenze implicite che assecondano l'ignoranza compiaciuta. Con questi termini, Raffaele Coniglione (Professore ordinario di Storia della filosofia nella Facoltà di Scienze della Formazione di Catania) recensisce Davide Miccione, "Lumpen Italia. Il trionfo del sottoproletariato cognitivo" (IPOC, Milano 2015).*
 
 Un libro profetico, quello di oltre trent'anni fa di Marcello d'Orta, *Io speriamo che me la cavo*. Come tutti i grandi libri esso non costituiva solo la diagnosi, la presa d'atto di una catastrofe avvenuta, ma indicava una strada, il futuro sviluppo cui inevitabilmente si sarebbe andato incontro seguendo l'andazzo delle politiche educative sinora attuate. Detto fatto: l'ignoranza che lì era il frutto del proletariato economico e del sottosviluppo civile, il carattere di settori marginali della società, che non riuscivano a liberarsi attraverso l'acculturazione dalla propria condizione di minorità ma che avrebbero voluto farlo se ne avessero avuto le possibilità, è ora diventata una condizione diffusa, che si è trasmessa a tutti i gangli della società, alti a bassi, medioborghesi e proletari, sino a raggiungere le "*cime abissali*" della politica.
@@ -60,8 +62,6 @@ Per sfuggire a questo tragico e fatale acquietarsi alla eternizzazione del prese
 Occorrerebbe allora investire in educazione, cultura, idee, concetti, allo scopo di riaccendere la fiducia nell'astratto, nel possibile, nell'utopico (anche se minimo); bisognerebbe di nuovo dare alla gente la capacità di '*illudersi*', di nutrire aspettative, di innamorarsi di 'fantasmi' che - nonostante la loro evanescenza epistemologica - possano tuttavia avere una grande forza pratica. In fin dei conti cosa sono gli intellettuali che credono in moralità, civismo, norme, ecc. se non degli 'illusi' (anche se in un nobile senso)? E in cosa consiste il progresso - se a questo termine vogliamo ancora attribuire un significato - se non immaginare nuove terre verso cui dirigersi, giacchè, come ha affermato Oscar Wilde, «*Il progresso non è altro che l'avverarsi delle utopie*».
 
 ![Davide Miccione, *Lumpen Italia. Il trionfo del sottoproletariato cognitivo* (IPOC, Milano 2015),202 pp.](/images/2016/06/miccione_lumpen.jpg){fig-align="center"}
-
-•
 
 [Raffaele Coniglione, *Rovine culturali: l'Italia del sottoproletariato cognitivo*, «Roars» 20.06.2016.](http://www.roars.it/online/rovine-culturali-litalia-del-sottoproletariato-cognitivo/)
 

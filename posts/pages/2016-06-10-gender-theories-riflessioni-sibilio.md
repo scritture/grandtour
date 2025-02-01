@@ -14,7 +14,9 @@ categories:
   - Vito Sibilio
 ---
 
-*Siamo convinti che le politiche identitarie applicate alle questioni di genere implichino in ogni caso un'emancipazione della persona e non siano piuttosto essere funzionali al pensiero unico neoliberista? E non sussiste il rischio di appiattire le diversità proprio laddove si pretende di assimilarle ad un modello unisex? Esiste un dibattito effettivo su questi argomenti? Un contributo critico del saggista e docente Vito Sibilio (1973), collaboratore presso La Manif pour Tous, permette il confronto con opinioni attualmente per nulla conformiste, utili per orientarsi nella questione e farsi una propria idea.*
+![](images/Vulvia-348x381.jpg){fig-align="center" width="503"}
+
+*Siamo convinti che le politiche identitarie applicate alle questioni di genere implichino in ogni caso un'emancipazione della persona e non siano piuttosto essere funzionali al pensiero unico neoliberista? E non sussiste il rischio di appiattire le diversità proprio laddove si pretende di assimilarle ad un modello unisex? Esiste un dibattito effettivo su questi argomenti? Un contributo critico del saggista e docente Vito Sibilio, collaboratore presso La Manif pour Tous, permette il confronto con opinioni attualmente per nulla conformiste, utili per orientarsi nella questione e farsi una propria idea.*
 
 Per *gender theories* si intendono quelle teorie psicosessuologiche e antropologiche che distinguono *nettamente* tra sesso biologico e genere sessuale, intendendo tale distinzione di matrice prevalentemente, se non esclusivamente, socio-culturale e comportamentale. Il termine *gender*, che in inglese vuol dire genere, viene dunque usato in tale accezione come tecnicismo. Tali teorie hanno molteplici matrici.
 
@@ -64,11 +66,9 @@ Il Position Statement dell'UNICEF, nel novembre 2014, per tutelare i bambini fig
 
 Il risultato di questa politicizzazione è stato senz'altro *un'opportuna* depenalizzazione dell'omosessualità ma ha comportato anche un'impostazione scorretta del tema del disagio sociale degli omosessuali. Attribuendolo solo all'ambiente ostile, ha dimenticato l'indagine su fattori personali. In realtà, diversi sondaggi sui disturbi psichiatrici (Sanford 2001), sui suicidi (Mathy 2009; Frisch-Simonsen 2013) e su altri problemi comparati tra omosessuali ed eterosessuali, che dovevano essere risolti negli ambienti gay friendly come i Paesi Scandinavi, hanno mostrato che essi non soltanto continuano ad esistere*,* ma che vedono drammaticamente gli omosessuali quali loro protagonisti assoluti. La dimensione umana del problema è stata completamente dimenticata.
 
-•
-
 Per quanto misconosciute, vengono così alla luce le aporie del sistema, che ogni discussione onesta dovrebbe prendere nella dovuta considerazione:
 
-1.  Le gender theories vengono usate per distruggere ogni identità sessuale: tuttavia, si tende contraddittoriament* ad affermare che l'omosessualità sia una condizione stabile, normale e naturale.
+1.  Le gender theories vengono usate per distruggere ogni identità sessuale: tuttavia, si tende contraddittoriament\* ad affermare che l'omosessualità sia una condizione stabile, normale e naturale.
 
 2.  Il disagio del singolo, anche laddove è vissuto in tutta la sua *drammaticità*, viene negato, perché egli deve per forza essere felice in questa nuova immagine ideale dell'omosessualità.
 
@@ -120,6 +120,4 @@ A sostenere queste tesi sono il diritto naturale e il contrattualismo classico. 
 
 Chi scrive, formatosi nel solco del personalismo filosofico e quindi da tempo sensibilizzato a difendere i diritti della persona contro ogni tipo di ghettizzazione basata sul pregiudizio, non può fare a meno di estendere tale lotta anche contro i nuovi conformismi. Così, laddove la questione delle gender theories investe quella delle nostre libertà fondamentali, essa sembra diventare *funzionale* a scopi politici molto diversi dalla lotta alla discriminazione e da prassi di tipo emancipatorio: si impongono così altre considerazioni, ancora tutti da svolgere, e che il presente scritto spera di suscitare, prima nelle menti e dopo nelle coscienze di chi legge.
 
-•
-
-*Fotografia: "L'avvenente presentatrice Vulvia", 2001.*
+*Fotografia: L'avvenente presentatrice Vulvia (2001).*

@@ -8,6 +8,8 @@ categories:
    - umorismo
 ---
 
+![](images/piccolo-mondo-andato.jpg){fig-align="center" width="503"}
+
 *I bambini delle elementari alle prese con la lingua italiana. Un simpatico repertorio di evidenti errori e poesia possibile, gentilmente fornito da una maestra di una zona imprecisata dello stivale.*\
 \
 
@@ -23,8 +25,7 @@ Le risate (*vedi: risaie*) si trovano nelle parti più opposte.
 
 Nelle ciminiere si trova carbone e pietre preziose.
 
-La terra bagnata dalle tigri è un frate che si chiama Mesopotamia.
-\
+La terra bagnata dalle tigri è un frate che si chiama Mesopotamia.\
 
 ## Seconda ora: storia
 
@@ -42,8 +43,7 @@ Il faraone l'hanno rotolato nei lenzuoli e l'hanno chiuso in una bara.
 
 Davanti alla capanna del presepe ci sono gli apostrofi.
 
-Abbiamo visitato la basilica di San Michele con la maestra che è molto antica.
-\
+Abbiamo visitato la basilica di San Michele con la maestra che è molto antica.\
 
 ## Terza ora: educazione civica
 
@@ -57,8 +57,7 @@ Il vigile osserva il trofeo delle macchine.
 
 L'arbitro fischia il violino.
 
-Spero di essere capace di fare questo lavoro per diventare una donna desiderata da tutti.
-\
+Spero di essere capace di fare questo lavoro per diventare una donna desiderata da tutti.\
 
 ## Quarta ora: scienze
 
@@ -76,8 +75,7 @@ Le pannocchie di granoturco si seminano in primavera.
 
 Il fuco mangia i frati.
 
-Firmamento: carte dove tutti firmano.
-\
+Firmamento: carte dove tutti firmano.\
 
 ## Tema in classe: la mia famiglia e la città dove vivo
 
@@ -95,8 +93,7 @@ Mia zia ha una pigna d'uva.
 
 La banda del paese suonava diversi ninnoli.
 
-I volti delle persone erano curvi.
-\
+I volti delle persone erano curvi.\
 
 ## Tema in classe: pensieri in libertà
 

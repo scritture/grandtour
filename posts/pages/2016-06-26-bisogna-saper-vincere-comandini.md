@@ -14,6 +14,8 @@ categories:
   - Claudio Comandini
 ---
 
+![](images/finita la carta.jpg){fig-align="center"}
+
 *Elezioni amministrative in Italia: deciso cambio di rotta oppure semplice smottamento dell'esistente? Quali gli obiettivi minimi per una politica capace di ritrovare dignità e funzione?*
 
 La Raggi è come un treno che è stato aspettato pur non sapendo dove porta: il binario vuoto dove proiettare frustrazioni scambiate per desideri; a molti va bene così, e questo basta a dargli realtà. Una sua vittoria romana era altamente probabile, dato che per una propria peculiare attitudine la Città Eterna sa unirsi soprattutto per castigare i potenti. Così, ci si augura che questa ragazzotta possa destabilizzare definitivamente la sperduta capitale, la sua remota provincia e pure quella chiavica del PD, favorendo l'erculea fatica di una ripulitura complessiva. E tuttavia, forse nemmeno il terremoto più grande potrà smuovere appena il cronico ritardo istituzionale e culturale dell'Urbe.
@@ -46,6 +48,4 @@ Un paio di scenari sulle reazioni. Il PD continuerà a sfaldarsi secondo le fagl
 
 In definitiva, per ottenere qualche cambiamento strutturale è indispensabile che si approfondisca la forte destabilizzazione che ormai si è già avviata. Probabilmente, a permettere cambiamenti effettivi in un periodo di medio-lungo potrebbe essere proprio l'azione parallela di diversi fattori tra loro contrastanti: revisione dell'Europa, riforma del Senato e istituzione delle Aree metropolitane, oltre a tanti tanti tanti repulisti di realtà gravemente compromesse da un potere che ha intrecciato tra loro gli interessi di parte più corrotti. Ci vorrà tempo, c'è poco da festeggiare per chiunque. Per l'ancora acerbo M5S le prime cose da affrontare saranno le contraddizioni interne, le opposizioni dei palazzi, le inevitabili continuità istituzionali, e ci vorrà almeno qualche mese: un periodo sufficiente per scontentare tutti. Insomma, bisognerà riconoscere i limiti di ogni battaglia, non vantarsi di risultati parziali, non gettarsi in massacri inutili: saper vincere è anche questo.
 
-•
-
-*Fotografia: Claudio Comandini, "Finita la carta" - Frascati, aprile 2006.*
+*Fotografia: Claudio Comandini, Finita la carta (Frascati, aprile 2006).*

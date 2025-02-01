@@ -1,6 +1,6 @@
 ---
 author: Claudio Comandini
-date: 2024-01-24
+date: 2024-01-
 title: Il balletto dell'insediamento
 categories:
   - politica
@@ -9,9 +9,9 @@ categories:
   - Claudio Comandini
 ---
 
-{{< video https://geo.dailymotion.com/player.html >}}
+[![](images/Trump_dance.png){fig-align="center"}](https://dai.ly/x9cojte)
 
-Fratture e cambiamenti nel cuore dell'Impero Occidentale. Oltre il clamore mediatico, analizziamo senza pregiudizi: tanto, la situazione faceva schifo pure prima, quanto è interessante è che all'interno di tale schifo si stiano introducendo distinzioni. Questo significa che c'è una lotta in corso ed è quantomeno utile evitare battaglie sbagliate e militanze low-cost, e soprattutto è necessario recuperare prospettiva storica e lavoro sulle idee. E dove la sinistra ormai svenduta al capitale sembra esistere perlopiù come macchietta, e la destra che ancora lo incarna rimane a quanto pare impresentabile, non si tratta di identificarsi con una parte o l'altra delle oligarchie in competizione, non servono a nulla piagnistei ed esaltazioni: piuttosto, si tratta di osservare la struttura complessiva e descriverne l’evoluzione. Quanto serve, se le nostre parole significano qualcosa, è farsi carico della propria irriducibilità fino a quanto ha di più universale e auspicare la vittoria dell'interesse comune, e magari andarlo pure a cercare, tale interesse. La situazione peggiorerà ancora, darsi risposte sulle soluzioni aiuterà a trovarle, e possiamo cominciare a farlo proprio a partire dalla fratture e dai vuoti che si sono introdotti. Ci farà da guida il discorso dell’insediamento di Trump, e al di là della sua retorica lo useremo come chiave per penetrare in problematiche sulle quali la pubblica ottusità si costringe spesso al silenzio. Lo faremo, anche se a molti a ragionare infastidisce, oltre i recinti decisi proprio per mantenere fermo il potere e le sue assurdità.
+Fratture e cambiamenti nel cuore dell'Impero Occidentale. Oltre il clamore mediatico, analizziamo senza pregiudizi: tanto, la situazione faceva schifo pure prima, quanto è interessante è che all'interno di tale schifo si stiano introducendo distinzioni. Questo significa che c'è una lotta in corso ed è quantomeno utile evitare battaglie sbagliate e militanze low-cost, e soprattutto è necessario recuperare prospettiva storica e lavoro sulle idee. E dove la sinistra ormai svenduta al capitale sembra esistere perlopiù come macchietta, e la destra che ancora lo incarna rimane a quanto pare impresentabile, non si tratta di identificarsi con una parte o l'altra delle oligarchie in competizione, non servono a nulla piagnistei ed esaltazioni: piuttosto, si tratta di osservare la struttura complessiva e descriverne l’evoluzione. Quanto serve, se le nostre parole significano qualcosa, è farsi carico della propria irriducibilità fino a quanto ha di più universale e auspicare la vittoria dell'interesse comune, e magari andarlo pure a cercare, tale interesse. La situazione peggiorerà ancora, darsi risposte sulle soluzioni aiuterà a trovarle, e possiamo cominciare a farlo proprio a partire dalla fratture e dai vuoti che si sono introdotti. Ci farà da guida il discorso dell’insediamento di Trump, e al di là della sua retorica lo useremo come chiave per penetrare in problematiche sulle quali la pubblica ottusità si costringe spesso al silenzio. Lo faremo, anche se a molti a ragionare infastidisce, oltre i recinti decisi proprio per mantenere fermo il potere e le sue assurdità mentre .
 
 **Capitol Hill**. La grazia ai fan del presidente era scontata. Procederà davvero nei confronti di leader della manifestazione che fino ad adesso non sono stati neanche indagati? Rispetto alla punibilità di assaltare le istituzioni si è comunque introdotta incertezza: potremmo quindi tutti fare altrettanto con il comune, le circoscrizioni, e tutti gli altri palazzi del potere che così malamente ci rappresentano?
 

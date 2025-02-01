@@ -8,7 +8,9 @@ categories:
   - Massimo Pamio
 ---
 
-*Ogni giorno rappresenta ormai una celebrazione di qualcosa che fatichiamo a ricordare: quasi sempre, qualche cosa di atroce. Tuttavia, come ricorda lo scrittore Massimo Pamio (Tollo, 1958), sarebbe il caso di tenere a mente ogni giorno qualcosa di importante.*
+![](images/Calendari_Atles_catala-466x381.jpg){fig-align="center" width="503"}
+
+*Ogni giorno rappresenta ormai una celebrazione di qualcosa che fatichiamo a ricordare: quasi sempre, qualche cosa di atroce. Tuttavia, come ricorda Massimo Pamio, sarebbe il caso di tenere a mente ogni giorno qualcosa di importante.*
 
 Pian piano il calendario gregoriano si sta infettando di *giorni del ricordo*, celebrazioni molto dignitose istituite per non dimenticare chi siamo veramente: il giorno dedicato alla memoria dei caduti della prima guerra mondiale, quello dedicato ai caduti della seconda, l'altro ai martiri della resistenza, quello alle vittime delle foibe, e poi della fede cattolica, del razzismo, fino a giungere a quello di recente istituzione, dedicato alla sempre più nobile memoria delle vittime della letteratura dell'orrore, che sarà comunque preceduto dal giorno dedicato alla memoria delle vittime dei libri di Fabio Volo e del cinema apocalittico.
 
@@ -19,8 +21,6 @@ I cinesi ricorderanno Mao che fece fuori un milione di connazionali e gli attual
 Insomma, a tirare le somme, sarà un giorno pieno per tutti, tutti i popoli, le razze, le religioni (non dimentichiamo neanche le guerre tra i sessi, le vittime della violenza sessuale) e infine, ultime ma non proprio in fondo al culo del barile, le minoranze (i derelitti, i poveri, gli indifesi, i bambini, le donne, i nomadi, gli esuli, i migranti, i barboni, i vecchi, i gay, le lesbiche, i terroni, i polentoni, i lettori di Tex Willer), le vittime di sempre.
 
 Sarebbero invece da istituire i giorni della memoria in cui gli uomini sono riusciti a combinare qualcosa di buono, soprattutto dal punto di vista morale: il giorno delle Opere Pie di Madre Teresa di Calcutta, il giorno del Sogno di Martin Luther King, il giorno del Sorriso, il giorno dell'Albero piantato e non estirpato dal Comune per la solita lottizzazione tra intimi, il giorno dell'Energia Verde, il giorno dell'Ozio questo Sconosciuto, il giorno dello Stupore, il giorno dell'Innocenza, dedicato ai bambini e agli alberi, il giorno dei pochissimi giornalisti italiani coraggiosi che dicono pane al pane e vino al vino, il giorno del ritrovamento del mio portafogli da parte di un gentile signore che non ha voluto facessi il suo nome: beatifichiamolo, subito.
-
-•
 
 [*Massimo Pamio, "Il giorno della memoria", «Edizioni Noubs» 21.04.2016.*](https://noubs.wordpress.com/2016/04/21/il-giorno-della-memoria-per-massimo-pamio/)
 

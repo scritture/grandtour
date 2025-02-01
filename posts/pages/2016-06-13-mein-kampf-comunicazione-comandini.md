@@ -14,6 +14,8 @@ categories:
   - Claudio Comandini
 ---
 
+![](images/amore_nazista-640x381.jpg){fig-align="center"}
+
 *Leggere tra le righe nei libri e nelle società: anche dove sono impresentabili. Prendere le distanze dagli indignati da tastiera e dalle paternali moralistiche. Comprendere, per non morire.*
 
 Come a molti è noto, la pubblicazione in epoca postbellica dello strano manuale scritto da Adolf Hitler in carcere nel 1925-6 non è una novità. Infatti, era ufficialmente illegale nella sola Germania, e in Italia è a livello clandestino è sempre stato disponibile; è tornato sul circuito librario allo scadere dei diritti sull'opera, che erano detenuti dal Laand di Baviera, esattamente dopo 70 anni dalla morte dell'autore. Per motivi apologetici, è da tempo diffuso nel mondo arabo, che se fu alleato nazista è diventato antisemita soltanto dopo aver subito la designazione da parte dell'ONU di Israele senza previa consultazione nemmeno con le nazioni confinanti.
@@ -38,6 +40,4 @@ Nulla di tutto questo è incoraggiante. I sintomi indicano che, almeno ai livell
 
 Così, l'unico antidoto è proprio leggere, pensare, trovare alternative. La storia chiede di essere compresa, e non basta indignarsi per trovare una qualche civiltà. Infatti, studiare, mettere distanza, dare spazio all'alterità, interessa a pochi, così come da sempre; inoltre, l'appello a pensare con la propria testa provoca perlopiù una svogliatezza generalizzata, dimostrando che un'educazione democratica è ancora tutta da compiere. Così, in maniera senz'altro paradossale, potremmo proprio cominciare ad impartircela: in fondo, dipende esattamente da noi. Almeno per coloro a cui interessa.
 
-•
-
-*Fotografia: "Amore nazista (materiale propagandistico degli anni '30)" - Berlino, ottobre 2016.*
+*Fotografia: Amore nazista (materiale propagandistico degli anni '30), Berlino, ottobre 2016.*
