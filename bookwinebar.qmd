@@ -18,7 +18,7 @@ La prima, unica e vera osteria letteraria di Frascati. È una libreria, un bar, 
 
 ## Il locale
 
-I murales, realizzati dal pittore Stefano Salvi, con libri che sbocciano in volo e omaggi decostruzionisti alle colonne d'Ercole del Teatro delle Acque di Villa Aldobrandini, introducono al locale, dove è possibile scovare migliaia di libri, dischi e fumetti, rigorosamente mappati sugli [scaffali](https://grandtour.shop/catalogo.html), e un'assortita scelta di vestiti e oggetti vintage.
+I murales, realizzati dal pittore Stefano Salvi, con libri che sbocciano in volo e omaggi decostruzionisti alle colonne d'Ercole del Teatro delle Acque di Villa Aldobrandini, introducono al locale, dove è possibile scovare migliaia di libri, dischi e fumetti, il cui [**Catalogo**](https://grandtour.shop/catalogo.html) è rigorosamente mappati sugli scaffali, e un'assortita scelta di vestiti e oggetti vintage.
 
 ![](images/immagini_bookwinebar/locale-vintage/vestiti.jpeg){fig-align="center"}
 
@@ -26,9 +26,9 @@ I murales, realizzati dal pittore Stefano Salvi, con libri che sbocciano in volo
 
 ![](images/immagini_bookwinebar/bar/tombola.JPG){fig-align="center"}
 
-Nel locale si può partecipare agli [Incontri](https://grandtour.shop/incontri.html): conferenze, performance, mostre, appuntamenti settimanali: *Laboratorio filosofia* (giovedì), *Aperilibro ad alta voce* (venerdì), *Karaoke paradise* (sabato), *Risiko e altre battaglie* (domenica).
+Nel locale si può partecipare agli [**Incontri**](https://grandtour.shop/incontri.html): conferenze, performance, mostre. Gli appuntamenti settimanali sono: *Un tè con le Muse: letture e altri percorsi* (giovedì dalle ore 18), *Laboratorio scritture: decostruire l'attualità* (venerdì dalle 18), *Karaoke, jam e tutto ciò che è musica* (sabato dalle ore 20), *Scacchi, Risiko e altre battaglie* (tutti i giorni a tutte le ore).
 
-![](images/immagini_bookwinebar/iniziative/calendario.jpg){fig-align="center"}
+![](images/incontri_2025.jpeg){fig-align="center"}
 
 Completano le suggestioni dello spazio una ricca galleria di maschere, prevalentemente africane, e un'antica grotta vinaria con originali allestimenti.
 

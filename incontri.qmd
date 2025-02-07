@@ -5,21 +5,33 @@ citation-location: margin
 footnotes-hover: true
 ---
 
-## **Appuntamenti settimanali**
+## **Appuntamenti settimanali 2025**
 
-**Laboratorio filosofia (giovedì)**
+**Un tè con le Muse: letture e altri percorsi (giovedì dalle ore 18)**
 
-**Aperilibri ad alta voce (venerdì)**
+**Laboratorio scritture: decostruire l'attualità (venerdì dalle 18)**
 
-**Karaoke paradise (sabato)**
+**Karaoke, jam e tutto ciò che è musica (sabato dalle ore 20)**
 
-**Risiko e altre battaglie (domenica)**
+**Scacchi, Risiko e altre battaglie (tutti i giorni a tutte le ore).**
 
-![](images/immagini_bookwinebar/iniziative/calendario.jpg){fig-align="center"}
+![](images/incontri_2025-01.jpeg){fig-align="center"}
 
-## **Laboratorio filosofia: La notte dell'Occidente**
+*In questa formula agile e varia, ogni giorno verrà focalizzato su un diverso modo di fare e condividere sapere. Il giovedì attraverseremo i libri e le altre pubblicazioni presenti nel [Catalogo](https://grandtour.shop/catalogo.html) del Grand Tour degustando un buon té o qualche altra proposta del [Menù](https://grandtour.shop/bookwinebar.html#men%C3%B9). Il venerdì ci incontreremo come redazione aperta per parlare delle proposte di [Scritture](https://grandtour.shop/scritture.html), pronti ad accogliere le proposte dei presenti. ll sabato ci saranno le serate di karaoke ma anche jam e performance e tutto ciò che è [Musiche](https://grandtour.shop/musiche.html). Sempre a disposizione i giochi da tavolo.*
 
-**Poesie, canzoni e giochi si spiegano pressappoco da sé: venite e partecipate, ecco tutto. Richiede maggiori attenzioni il laboratorio che si svolge ogni giovedì esaminando aspetti, portata e influenze del "Tramonto dell'Occidente" di Oswald Spengler, elaborato durante il travaglio della Grande Guerra.**
+## **Appuntamenti settimanali 2024**
+
+**Laboratorio Filosofia (giovedì ore 18)**
+
+**Aperilibri ad alta voce (venerdì ore 18)**
+
+**Karaoke Paradise (sabato ore 20)**
+
+**Risiko e altre battaglie (domenica ore 20)**
+
+*Grande successo per il primo anno degli Incontri del Grand Tour. Le letture si sono svolte focalizzandosi ogni volta su diversi autori, storici e viventi. Le serate karaoke hanno portato grande partecipazione ed entusiasmo. I tavoli dei giochi sono stati occupati non soltanto la domenica. Il Laboratorio Filosofia ha esaminato aspetti, portata e influenze del "Tramonto dell'Occidente" di Oswald Spengler, elaborato durante il travaglio della Grande Guerra. Gli atti sono in preparazione.*
+
+**Laboratorio filosofia 2024: La notte dell'Occidente**
 
 «*Ci si è proposti di predire il destino di una civiltà e, propriamente, dell'unica civiltà che oggi stia realizzandosi sul nostro pianeta, la civiltà euro-occidentale e americana, nei suoi stadi futuri.*» Il filosofo tedesco introduce così la sua opera, chiedendosi se esista e quale sia la logica che muove la storia.
 
@@ -31,15 +43,17 @@ Inoltre, si cercherà di comprendere se quella che è definita civiltà araba-ma
 
 «*Un tempo non era permesso a nessuno di pensare liberamente. Ora sarebbe permesso, ma nessuno ne è più capace. Ora la gente vuole pensare ciò che si suppone debba pensare. E questo lo considera libertà.*» Tali parole siano di stimolo per pensare il nostro tempo, comprenderne le trame e portarlo a compimento.
 
+![](images/immagini_bookwinebar/iniziative/calendario.jpg){fig-align="center"}
+
 ## **Conferenze**
 
 **Cura di sé, cura del mondo. Psicologia, ambiente, società: riusciamo ad essere all'altezza di questo mondo tossico?**
 
-![](images/immagini_bookwinebar/iniziative/conferenza%20dipendenze.jpg){fig-align="center"}
+![](images/immagini_bookwinebar/iniziative/conferenza_europa.jpeg){fig-align="center"}
 
 ![](images/immagini_bookwinebar/iniziative/conferenza%20nutrizionismo.jpg){fig-align="center"}
 
-![](images/immagini_bookwinebar/iniziative/conferenza_europa.jpeg){fig-align="center"}
+![](images/immagini_bookwinebar/iniziative/conferenza%20dipendenze.jpg){fig-align="center"}
 
 Non perdete i prossimi appuntamenti!
 
@@ -47,13 +61,15 @@ Non perdete i prossimi appuntamenti!
 
 **Musica, teatro, performance, mostre. Momenti speciali per progetti speciali.**
 
-![](images/immagini_bookwinebar/iniziative/maschere_inverse.jpg){fig-align="center"}
+![](images/Capodanno2025-01.jpeg){fig-align="center"}
 
-![](images/immagini_bookwinebar/iniziative/Capodanno.jpg){fig-align="center"}
+![**ATTENZIONE: CONCERTO DI IMPROGRESSIVE RIMANDATO AL 21 FEBBRAIO 2025 - NUOVA LOCANDINA IN PREPARAZIONE**](images/immagini_bookwinebar/iniziative/grandtour_live.jpeg){fig-align="center"}
 
 ![](images/immagini_bookwinebar/iniziative/concerto_napoli.jpg){fig-align="center"}
 
-![**ATTENZIONE: CONCERTO DI IMPROGRESSIVE RIMANDATO A DATA DA DESTINARSI**](images/immagini_bookwinebar/iniziative/grandtour_live.jpeg){fig-align="center"}
+![](images/immagini_bookwinebar/iniziative/Capodanno.jpg){fig-align="center"}
+
+![](images/immagini_bookwinebar/iniziative/maschere_inverse.jpg){fig-align="center"}
 
 ## **Iniziative**
 
