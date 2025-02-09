@@ -30,6 +30,8 @@ website:
         href: https://twitter.com/tweet_scritture
       - icon: facebook
         href: https://www.facebook.com/search/scritturemagazine
+      - icon: telegram 
+        href: https://t.me/grandtourfrascati
       - icon: envelope
         href: mailto:grandtour.frascati@gmail.com
         aria-label: Email

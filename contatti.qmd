@@ -13,6 +13,8 @@ about:
       href: https://twitter.com/tweet_scritture
     - icon: linkedin
       href: https://www.linkedin.com/groups/4880518/
+    - icon: telegram 
+      href: https://t.me/grandtourfrascati
     - icon: envelope
       href: mailto:grandtour.frascati@gmail.com
       aria-label: Email
