@@ -9,20 +9,19 @@ title: "Musiche"
 ## Claudio Comandini
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/115271608&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true">
-
 </iframe>
 
 ## Yampapaya's Tribe
 
-{{< video https://www.youtube.com/embed/Vb628fmrEQM?si=Hpl0UJPw6g7c2Rax>}}
+{{< video https://www.youtube.com/embed/Vb628fmrEQM?si=Hpl0UJPw6g7c2Rax >}}
 
 ## Lele Baffo
 
-{{< video https://www.youtube.com/embed/v_V1Iwwk8tg?si=rO1LQSMNMSbiFcrJ>}}
+{{< video https://www.youtube.com/embed/v_V1Iwwk8tg?si=rO1LQSMNMSbiFcrJ >}}
 
 ## Brontolosauri
 
-{{< video https://www.youtube.com/embed/-IcvOQ-lS5A?si=fdfV2hS0_lgEmDpE>}}
+{{< video https://www.youtube.com/embed/-IcvOQ-lS5A?si=fdfV2hS0_lgEmDpE >}}
 
 ## Kiuf
 
@@ -30,10 +29,12 @@ title: "Musiche"
 
 ## Improgressive
 
-{{< video https://www.youtube.com/embed/zwdDUPT1D9U?si=jmNZJ4Zi7gW9CJYr>}}
+{{< video https://www.youtube.com/embed/zwdDUPT1D9U?si=jmNZJ4Zi7gW9CJYr >}}
 
 ## Iolanda La Carrubba
 
-{{< video https://www.youtube.com/embed/XizPYvwnEZk?si=ekPQehCRRlmV0ZJW>}}
+{{< video https://www.youtube.com/embed/XizPYvwnEZk?si=ekPQehCRRlmV0ZJW >}}
 
 *(In costruzione - intanto qualche assaggio...)*
+
+
