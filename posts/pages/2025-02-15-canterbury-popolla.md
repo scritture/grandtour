@@ -129,7 +129,7 @@ Le due formazioni hanno un percorso parallelo durante i primi anni, incarnando l
 
 [^9]: Dave Stewart in *Hatfield ed altri racconti - Intervista esclusiva a Richard Sinclair e Dave Stewart*, «Gong» n.7/8 a.2, luglio-agosto 1975.
 
-**3. Il Secondo Cerchio**
+## **3. Il Secondo Cerchio**
 
 La sistemazione del Canterbury sound in un sistema di cerchi concentrici non comporta giudizi di valore sui dischi analizzati né tantomeno un’esclusione dall’estetica generale. Si è proceduto in questo modo per definire meglio la musica di Canterbury cercando di trovare affinità e influenze, e riconoscere differenze. Porre all'interno del secondo cerchio il terzo, quarto e quinto album dei **Soft Machine** e i due dei **Matching Mole**, oltre a *Civil Surface* degli **Egg**, significa evidenziare un percorso, un filone della musica canterburiana che ha maggiormente sviluppato l'elemento sperimentale e improvvisativo, le sonorità più aggressive, una maggiore vicinanza all’area musicale della libera improvvisazione inglese e all’avanguardia. Questo ha comportato un disequilibrio dove gli elementi pop, folk e per certi versi l'ironia (anche se nei Matching Mole quest'ultima è assai presente) vengono posti in secondo piano. Ma è soprattutto il sound complessivo che si allontana da quella morbidezza, da quel sapore malinconico che è divenuto, nel corso degli anni, tratto distintivo, tipico del suono canterburiano. Tuttavia, non possiamo certo dichiarare questi dischi estranei alla musica di Canterbury, semplicemente ne contribuiscono in maniera parziale, con delle proprie specificità che esulano parzialmente dalla riconosciuta ed evidente estetica canterburiana.
 
@@ -157,7 +157,7 @@ I primi due album, *Egg* (1970) e *The Polite Force* (1971), non sono stati inse
 
 ![](images/Diapositiva5.JPG){fig-align="center"}
 
-**4. Il Terzo Cerchio**
+## **4. Il Terzo Cerchio**
 
 E veniamo al terzo e conclusivo cerchio. È il filone bizzarro e psichedelico che solo in piccola parte contribuisce alla costruzione del suono di Canterbury. È vero che anche i primi lavori dei Soft Machine e dei Caravan risentono delle atmosfere della psichedelia inglese della seconda metà degli anni Sessanta, ma solo marginalmente. Anche l'influenza minimalista, che è elemento importante per la prima fase della scuola di Canterbury, qui rimane fondamentale al contrario di quanto accade con l’arricchimento tematico e strutturale delle musiche dagli Hatfield in poi. Così come forte è l’elemento *non-sense*, ironico, eccentrico, o le lunghe improvvisazioni che tanto ricordano la psichedelia. Stiamo parlando dei **Gong** di Daevid Allen, dei primi quattro dischi di **Kevin Ayers** e di *Fish Rising* di **Steve Hillage**.
 
@@ -179,7 +179,7 @@ Patrimonio comune di tutti i dischi è il giocare con le parole, il *divertissem
 
 {{< video https://youtu.be/smVIHvV2a9o?si=JxPrfLLVYu6lpy39 >}}
 
-## 4. Conclusioni
+## 5. Conclusioni
 
 Rimangono delle esclusioni eccellenti. Dei primi due dischi degli Egg abbiamo già accennato. La forte impronta "classica" li porta certamente dalle parti della musica progressive, cosa che vale anche per i dischi dei Camel. Sono fuori dal sistema dei cerchi anche Uriel, Arzachel, Khan, piccole gemme psichedeliche che non rientrano nella costruzione del suono di Canterbury, così come i lavori solisti di Hopper (di *1984* abbiamo già detto, ma il discorso vale anche per *Hopper Tunity Box* (1977), peraltro meno sperimentale del suo predecessore) oppure i Delivery o anche gli In Cahoots di Phil Miller. Alcuni lavori o progetti particolari, come per esempio *Before A Word Is Said* (1981) di Gowen, Richard Sinclair, Phil Miller e Trevor Tomkins, oppure i Soft Heap o i Soft Head, ricadono invece in quel territorio jazz-rock certamente più elaborato e originale, con lontani echi di Canterbury, ma che comunque non rientrano nel *corpus* principale.
 
