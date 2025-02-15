@@ -15,7 +15,7 @@ categories:
 
 ![](images/canterbury_greetins.jpg){fig-align="center"}
 
-*Un'escursione analitica nella "musica di Canterbury", terra di mezzo tra prog e jazz-rock.* *Cosa ne caratterizza le peculiarità e ne definisce lo svilppo, e come può venir distinta in diverse cerchie.*
+*Un'escursione analitica nella "musica di Canterbury", terra di mezzo tra prog e jazz-rock.* *Cosa ne caratterizza le peculiarità e ne definisce lo sviluppo, e come può venir distinta in diverse cerchie.*
 
 ## 1. Canterbury e dintorni
 
