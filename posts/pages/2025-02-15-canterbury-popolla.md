@@ -193,4 +193,6 @@ Anche gli Henry Cow, assolutamente troppo sperimentali e privi, per esempio, di 
 
 ![](images/live_caravan.jpg){fig-align="center"}
 
+![](images/live_caravan_soft_ayers.jpg){fig-align="center"}
+
 ![](images/canterbury_night.jpeg){fig-align="center"}
