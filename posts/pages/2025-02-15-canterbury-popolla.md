@@ -84,7 +84,7 @@ Nel primo disco, dal titolo *Hatfield and the North* (1974), con Richard Sinclai
 
 All'interno dell'album possiamo dire sia presente per intero la nostra griglia analitica: «*frammenti di bebop e folk, cambi modali, ostinati, melodie tracciate su parti contrappuntistiche intrecciate, passaggi di armonia e cambi di tempo inaspettati, ritmi funk asimmetrici, e dove richiesto improvvisazioni che si intrecciano per estendere le strutture*».[^5] «*Tutti questi elementi si adattano nell'album con noncurante compatibilità alle tracce brevi, bizzarre e per lo più irrilevanti, che si susseguono l'una con l'altra fornendo l'impressione di un brano musicale continuo, ampiamente variato nell'umore: dolce nostalgia, birichina eccentricità, disinvolura pacioccona e solare radiosità in ironico contrasto con la complessità dei dettagli e la varietà idiomatica che racchiudono.*»[^6]
 
-[^5]: John Wickes, cit., pag. 171.
+[^5]: John Wickes, cit., p. 171.
 
 [^6]: John Wickes, cit., p. 171.
 
@@ -114,7 +114,7 @@ Anche nei Gilgamesh, nel loro primo album omonimo (1975), il ruolo della Parsons
 
 Il secondo album, *Another Fine Tune You’ve Got Me Into* (1978), che vede la presenza di Hugh Hopper, mantiene quella pacatezza e quella sensazione di nostalgia tipica della musica di Canterbury. L'album è caratterizzato da «*composizioni accattivanti, per lo più in una vena delicata, ritmate in modo da consentire un'improvvisazione rilassata all'interno degli intriganti cambiamenti armonici di Alan Gowen*»,[^7] e con il basso di Hopper attento ad evitare «*la tipica pesante distorsione fuzz introdotta con i Soft Machine*.»[^8]
 
-[^7]: John Wickes, cit., pag. 177.
+[^7]: John Wickes, cit., p. 177.
 
 [^8]: John Wickes, cit., p. 177.
 
