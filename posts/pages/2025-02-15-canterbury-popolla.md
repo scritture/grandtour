@@ -23,19 +23,19 @@ La definizione di "*scena di Canterbury*" è sempre stata fonte di discussioni s
 
 Prima di addentrarci nella nostra analisi va fatta una distinzione che ci aiuta a focalizzare maggiormente la questione. Quando parliamo di scena di Canterbury facciamo riferimento ad un gruppo di musicisti provenienti, per la maggior parte, da quell’area ai quali successivamente si sono aggiunti ancora altri musicisti, primi fra tutti Phil Miller e Dave Stewart, che a Canterbury non ci sono mai stati. Possiamo certamente definire questa scena anche come una sorta di "*scuola*" di Canterbury, vista l'affinità musicale che i protagonisti condividono. Ma non tutto quello che è stato prodotto dalla scena canterburiana effettivamente corrisponde alla musica di Canterbury. Mentre invece, pur non essendo parte della scena, possiamo trovarci di fronte a musica dalle caratteristiche canterburiane. Un classico esempio è il gruppo italiano Picchio Dal Pozzo, che chiaramente non appartiene a quel giro di musicisti ma suona musica di Canterbury. Va fatta quindi una distinzione tra "*scena*" di Canterbury e "*musica*" di Canterbury, per poterne delineare con maggior precisione i caratteri estetici. Per questo abbiamo adottato una griglia analitica all'interno della quale poter inserire le musiche che realmente costituiscono il *suono di Canterbury*.
 
-![](images/Diapositiva1.jpg){fig-align="center"}
+![](images/Diapositiva1-01.jpeg){fig-align="center"}
 
 Una volta stabilita la griglia analitica, dobbiamo attenerci al solo prodotto che è in grado di assicurarci una lettura e un'analisi il più possibile obiettiva: i *dischi.* Solo facendo quasi esclusivamente riferimento ad essi potremo definire confini e caratteristiche peculiari della musica di Canterbury. Il fare riferimento alla musica ci permette di non essere confusi e mal indirizzati dalle vicende personali e dalle connessioni. È ovvio che la vicinanza di un certo gruppo di musicisti influenzi le musiche prodotte e ne dia un substrato comune, ma non è detto che sempre tutti i prodotti musicali elaborati da questo gruppo di musicisti abbiano le caratteristiche che la griglia richiede. In poche parole: invece di elencare le band e i musicisti di Canterbury ne elencheremo i dischi fondamentali. Dischi che rispondono alle caratteristiche della griglia analitica e che, solo loro, sono in grado di aiutarci nella definizione della scena in termini ovviamente musicali, anche se non va certamente trascurato l'apporto letterario testuale.
 
 Nel determinare i dischi canterburiani, di fronte alla vasta e variegata produzione, abbiamo pensato fosse utile avere un sistema di cerchi concentrici, dove il *primo cerchio* è costituito dalle fondamenta della musica di Canterbury, il *secondo* da quei prodotti che solo in parte rispondono alle caratteristiche richieste, il *terzo* che contribuisce in maniera ancor più limitata alla costruzione dell'estetica canterburiana.
 
-![](images/Diapositiva2.jpg){fig-align="center"}
+![](images/Diapositiva2.jpeg){fig-align="center"}
 
 Le caratteristiche della musica di Canterbury possono racchiudersi in una serie di elementi musicali: l'intreccio tra armonie elaborate, passaggi strumentali e *pop songs*, un certo approccio all'improvvisazione vicino al jazz ma non aderente completamente ad esso, suite e talvolta tempi dispari, atmosfere pastorali vicine al patrimonio folk inglese, ironia testuale e anche musicale, infine una sonorità generalmente morbida, ricca di tastiere ed elegante. Ancora: accordi maggiori di settima, accordi minori di nona, passaggi cromatici e soluzioni strumentali inaspettate, sconfinamenti limitati in territori sperimentali e improvvisazioni inserite generalmente in un contesto compositivo.
 
 ## 2. Il Primo Cerchio
 
-![](images/Diapositiva4.JPG){fig-align="center"}
+![](images/Diapositiva4.jpeg){fig-align="center"}
 
 Passiamo all'individuazione del primo cerchio, quello fondamentale che costituisce l'estetica principale canterburiana: i primi due dischi dei **Soft Machine**, i primi quattro dei **Caravan**, i dischi di **Hatfield and the North** e **National Health**, i due album ufficiali dei **Gilgamesh** e *Two Rainbows Daily* a nome **Alan Gowen** e **Hugh Hopper**.
 
@@ -155,7 +155,7 @@ La presenza, sul primo album, di un brano come *O Caroline*, autentico esempio d
 
 I primi due album, *Egg* (1970) e *The Polite Force* (1971), non sono stati inseriti in questo sistema perché troppo legati al prog, con i riarrangiamenti di brani del repertorio classico e un suono generale vicino agli Emerson Lake & Palmer. Pur in presenza di suite, tempi dispari e una particolare ironia molto Canterbury, solo *The Civil Surface* (1974) sembra avere maggiori elementi della griglia analitica, forse perché registrato nel periodo in cui Dave Stewart era già entrato nel circuito dei musicisti di Canterbury. Sicuramente più vicino alle esperienze che furono poi dei National Health, *The Civil Surface* si apre con *Germ Patrol*, con al suo interno un assolo di Campbell con il basso distorto, alla maniera di Hugh Hopper dei primi Soft Machine. Ma è con la presenza delle Northettes su *Prelude* e soprattutto la chitarra di Steve Hillage e la voce di Campbell su *Wing Out The Ground (Loosely Now)* che gli Egg si avvicinano alle atmosfere della musica di Canterbrury, pur in presenza di un tono generale a metà tra prog e sperimentazione.
 
-![](images/Diapositiva5.JPG){fig-align="center"}
+![](images/Diapositiva5.jpeg){fig-align="center"}
 
 ## **4. Il Terzo Cerchio**
 
@@ -183,7 +183,7 @@ Patrimonio comune di tutti i dischi è il giocare con le parole, il *divertissem
 
 Rimangono delle esclusioni eccellenti. Dei primi due dischi degli Egg abbiamo già accennato. La forte impronta "classica" li porta certamente dalle parti della musica progressive, cosa che vale anche per i dischi dei Camel. Sono fuori dal sistema dei cerchi anche Uriel, Arzachel, Khan, piccole gemme psichedeliche che non rientrano nella costruzione del suono di Canterbury, così come i lavori solisti di Hopper (di *1984* abbiamo già detto, ma il discorso vale anche per *Hopper Tunity Box* (1977), peraltro meno sperimentale del suo predecessore) oppure i Delivery o anche gli In Cahoots di Phil Miller. Alcuni lavori o progetti particolari, come per esempio *Before A Word Is Said* (1981) di Gowen, Richard Sinclair, Phil Miller e Trevor Tomkins, oppure i Soft Heap o i Soft Head, ricadono invece in quel territorio jazz-rock certamente più elaborato e originale, con lontani echi di Canterbury, ma che comunque non rientrano nel *corpus* principale.
 
-![](images/Diapositiva3.JPG){fig-align="center"}
+![](images/Diapositiva3.jpeg){fig-align="center"}
 
 Anche gli Henry Cow, assolutamente troppo sperimentali e privi, per esempio, di *catchy pop songs*, rimangono fuori dal sistema. Discorso a parte meritano i lavori solisti di Robert Wyatt: il suo stile, la sua musica, la sua complessità sono tali da non poter essere inseriti non solo nella scena di Canterbury, ma in qualsiasi altra scena. Wyatt fa scuola a sé. Per concludere: mentre agli inizi gli sviluppi dell’estetica di Canterbury risiedono nelle mani e nelle voci di Wyatt, Ayers, Hopper, Ratledge, i Sinclair, poi il testimone passa, attraverso Richard Sinclair, a Dave Stewart, Phil Miller, Pip Pyle e Alan Gowen. Sono loro che perfezionano le idee e le modalità partite anni prima da Canterbury. Ancora un'ultima cosa: possiamo definire, in breve, la musica di Canterbury come una terra di mezzo tra prog e jazz-rock. Rispetto al progressive c'è un approccio più *jazzy* con importanti risvolti pop, mentre rispetto al jazz-rock c’è una maggiore elaborazione strutturale/tematica all'interno della quale sono inseriti gli assoli, non così determinanti.
 
