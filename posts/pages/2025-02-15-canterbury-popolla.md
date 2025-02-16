@@ -7,6 +7,7 @@ categories:
   - psichedelia
   - progressive
   - jazz
+  - improvvisazione
   - Inghilterra
   - Canterbury
   - Soft Machine
