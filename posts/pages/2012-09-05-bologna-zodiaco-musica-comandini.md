@@ -65,23 +65,23 @@ I risultati, come si conviene ad un qualcosa di artistico, e mantengono l'immedi
 
 [***L'archivio della memoria***](https://soundcloud.com/claudio_comandini/larchivio-della-memoria): realizzata utilizzando le formule di retorica musicale che risalgono alla Riforma protestante, i cui termini vengono elaborati da una serie di trattatisti tedeschi che, da Michael Keinspeck (sec XV-XVI) a Johann Lippius (1585-1612), sono impegnati ad adattare alla musica il sistema utilizzato dai latini per la poesia. In questo modo veniva traslata dalla letteratura alla musica la rivalità con Roma, proprio mentre la costruzione della leggenda della papessa Giovanna permetteva ai protestanti di diffamare la corte papale, basandosi comunque sui suoi ricorrenti scandali. La sistematica delle figura retoriche e la storia della loro applicazione alla musica, ampiamente misconosciuta e piuttosto interessante, è studiata da Ferruccio Civra in *Musica Poetica* (Utet, Torino 1991). Secondo le mie indicazioni, ogni musicista aveva a disposizione una figura retorica per interagire con il materiale sonoro che progressivamente si configurava. Il tempo di esecuzione è stato stabilito in sessanta battute al secondo, basandosi sul fatto che la memoria si svolge, qualunque discorso vi si stabilisca, sempre al presente.
 
-`<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/58789297&amp;color=%23ff5500&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"`{=html}
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/58789297&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
 
 </iframe>
 
 [***Squarci***](https://soundcloud.com/claudio_comandini/larchivio-della-memoria): frammento di improvvisazione radicale, ampiamente sfuggito ad ogni indicazione, ma piuttosto vicino, in quanto riesce a trasmettere, agli effetti delle lame e delle bombe, attinenti e non solo in senso filologico alle storie che si svolgono attorno a quella che anticamente era conosciuta come la Porta delle Lame.
 
-`<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/58788652&amp;color=%23ff5500&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"`{=html}
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/58788652&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
 
 </iframe>
 
 [***Manifattura Tabacchi***](https://soundcloud.com/claudio_comandini/manifattura-tabacchi): prende spunto da quanto ordinariamente si fa col tabacco, cioè spippettare, però suggerisce di farlo con gli strumenti. Si basa su un tempo adagio in 5/4 che presenta una terzina sugli ultimi due movimenti. Per inciso, da quando suono regolarmente non fumo più sigarette. Chissà quanto durerà.
 
-`<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/58788121&amp;color=%23ff5500&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"`{=html}
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/58788121&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
 
 </iframe>
 
-[***Il porto improvviso***](https://soundcloud.com/claudio_comandini/il-porto-improvviso): un'altra ampia trasgressione ad ogni indicazione fornita. Proprio per questo, riesce a rappresentare la felice scoperta involontaria di un qualcosa che non si era cercato, e comunque trovato perché si stava cercando qualcosa.
+[***Il porto improvviso***](https://soundcloud.com/claudio_comandini/il-porto-improvviso): un'altra ampia trasgressione ad ogni indicazione fornita. Proprio per questo, riesce a rappresentare la felice scoperta involontaria di un qualcosa che non si era cercato, e che viene comunque trovato proprio perché si stava cercando qualcosa.
 
 ## 3. Epistemologia improvvisativa
 
