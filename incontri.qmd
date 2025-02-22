@@ -7,14 +7,6 @@ footnotes-hover: true
 
 ## Prossimi appuntamenti
 
-![](images/canterbury_night.jpeg){fig-align="center"}
-
-*La scena di Canterbury, Soft Machine e dintorni, è tra quelle che hanno caratterizzato nella maniera più peculiare il rock progressivo. Il duo IMPROGRESSIVE ed EUGENIO COLOMBO evidenzieranno l'equilibrio tra composizione e improvvisazione di queste musiche, capaci di spaziare dalla psichedelia al jazz.*
-
-**Errico De Fabritiis: sassofoni\
-Alberto Popolla: clarinetti\
-Eugenio Colombo: flicorno baritono**
-
 ![](images/carnevale2025.jpeg){fig-align="center"}
 
 *Cos'è il Carnevale senza un ballo in maschera del Giovedì Grasso? Con un premio al miglior costume.*
@@ -74,6 +66,8 @@ Non perdete i prossimi appuntamenti!
 ## **Serate di gala**
 
 **Musica, teatro, performance, mostre. Momenti speciali per progetti speciali.**
+
+![](images/canterbury_night.jpeg){fig-align="center"}
 
 ![](images/Capodanno2025-01.jpeg){fig-align="center"}
 
