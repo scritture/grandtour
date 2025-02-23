@@ -4,13 +4,12 @@ title: "Musiche"
 
 ![](images/immagini_bookwinebar/bar/Musici.JPG){fig-align="center"}
 
-*Musiche si propone di promuovere quanto trova spazio negli [Incontri](incontri.html) del [BookWineBar](bookwinebar.html), e anche di viaggiare per luoghi, epoche e stili.*
+*Musiche si propone di promuovere quanto trova spazio negli [Incontri e nelle Serate di Gala](incontri.html) del [BookWineBar](bookwinebar.html) nonché di viaggiare per luoghi, epoche e stili per promuovere nuovi incontri e serate di musica, parole, immagini e ancora musica.*
 
 ## Claudio Comandini
 
-
-
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/115271608&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true">
+
 </iframe>
 
 ## Yampapaya's Tribe
@@ -27,7 +26,7 @@ title: "Musiche"
 
 ## Kiuf
 
-[![KIUF - Cratmosphere](images/kiuf.jpg){fig-align="left"}](https://www.n1m.com/kiuf/song/1170409-Cratmosphere)
+[![](images/kiuf.jpg){fig-align="left"}](https://www.n1m.com/kiuf/song/1170409-Cratmosphere)
 
 ## Improgressive
 
@@ -37,6 +36,14 @@ title: "Musiche"
 
 {{< video https://www.youtube.com/embed/XizPYvwnEZk?si=ekPQehCRRlmV0ZJW >}}
 
+## Ghost Sion
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347297025&amp;color=%23ff5500&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true">
+
+</iframe>
+
+## Ukus in Fabula
+
+{{< video https://youtu.be/H3IlFPOKc3I?si=DtwSrdsFaliJiPu0 >}}
+
 *(In costruzione - intanto qualche assaggio...)*
-
-
