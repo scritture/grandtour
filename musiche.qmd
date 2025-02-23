@@ -4,7 +4,7 @@ title: "Musiche"
 
 ![](images/immagini_bookwinebar/bar/Musici.JPG){fig-align="center"}
 
-*Musiche si propone di promuovere quanto trova spazio negli [Incontri e nelle Serate di Gala](incontri.html) del [BookWineBar](bookwinebar.html) nonché di viaggiare per luoghi, epoche e stili per promuovere nuovi incontri e serate di musica, parole, immagini e ancora musica.*
+*Musiche si propone di promuovere quanto trova spazio negli [Incontri e nelle Serate di Gala](incontri.html) del [BookWineBar](bookwinebar.html) nonché di viaggiare per luoghi, epoche e stili per favorire nuovi incontri e serate di musica, parole, immagini e ancora musica.*
 
 ## Claudio Comandini
 
@@ -35,6 +35,10 @@ title: "Musiche"
 ## Iolanda La Carrubba
 
 {{< video https://www.youtube.com/embed/XizPYvwnEZk?si=ekPQehCRRlmV0ZJW >}}
+
+## Monserrat Olavarria Balmaceda
+
+{{< video https://youtu.be/bY7NAkvb9qQ?si=Ljw35UqpTrsuKpAk >}}
 
 ## Ghost Sion
 
