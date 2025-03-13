@@ -7,8 +7,6 @@ footnotes-hover: true
 
 ## Prossimi appuntamenti
 
-![](images/carnevale2025.jpeg){fig-align="center"}
-
 *Cos'è il Carnevale senza un ballo in maschera del Giovedì Grasso? Con un premio al miglior costume.*
 
 ## **Appuntamenti settimanali 2025**
@@ -66,6 +64,8 @@ Non perdete i prossimi appuntamenti!
 ## **Serate di gala**
 
 **Musica, teatro, performance, mostre. Momenti speciali per progetti speciali.**
+
+![](images/carnevale2025.jpeg){fig-align="center"}
 
 ![](images/canterbury_night.jpeg){fig-align="center"}
 
