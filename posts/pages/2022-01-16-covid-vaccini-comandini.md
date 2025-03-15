@@ -14,7 +14,7 @@ categories:
 
 ![](images/darkseid.jpg){fig-align="center" width="456"}
 
-*Cronache del post pandemia. Malattie, cure e dispense. Analisi delle diverse terapie vaccinali. Con una annotazione sulla "fine del mondo".*
+*Cronache del post pandemia. Malattie, cure e dispense. Analisi delle diverse terapie vaccinali. Con un'annotazione sulla "fine del mondo".*
 
 ## 1. Emergenze e degenze
 
