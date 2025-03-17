@@ -6,8 +6,11 @@ categories:
   - geopolitica
   - politica
   - economia
+  - guerra
   - Russia
   - Ucraina
+  - Europa
+  - USA
   - Boeckh - Völkl
   - De Rienzo
   - Kissinger
