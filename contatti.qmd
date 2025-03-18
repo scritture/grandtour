@@ -35,8 +35,8 @@ Largo Duca di York 8 00044 Frascati
 | Martedì:   | 17:00 - 24:00 |
 | Mercoledì: | 17:00 - 24:00 |
 | Giovedì:   | 17:00 - 24.00 |
-| Venerdì:   | 12:00 - 2:00  |
-| Sabato:    | 12:00 - 2:00  |
-| Domenica:  | 12:00 - 24:00 |
+| Venerdì:   | 14:00 - 2:00  |
+| Sabato:    | 14:00 - 2:00  |
+| Domenica:  | 14:00 - 24:00 |
 
 ![](images/immagini_bookwinebar/bar/Fuorinew.jpeg){fig-align="left"}
