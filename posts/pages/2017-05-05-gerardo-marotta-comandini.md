@@ -6,6 +6,8 @@ categories:
   - politica
   - Frascati
   - Napoli
+  - Accademia Vivarium Novum
+  - Istituto italiano per gli studi filosofici
   - Gerardo Marotta
   - Claudio Comandini
 author: Claudio Comandini
