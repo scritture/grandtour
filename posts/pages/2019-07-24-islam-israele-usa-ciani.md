@@ -99,6 +99,6 @@ In un commento scritto per un recente numero della rivista *Foreign Policy*, Ell
 
 ![](images/ciani_medio-oriente.jpg){fig-align="center" width="438"}
 
-*Tratto da: Claudio Ciani "Un nuovo Medio Oriente. Dall'accordo Sykes-Picot al progetto per un Nuovo Secolo Americano" (Mimesis 2019), pp. 7-9; 107-117. Adattamento: Claudio Comandini*
+*Tratto da: Claudio Ciani "Un nuovo Medio Oriente. Dall'accordo Sykes-Picot al progetto per un Nuovo Secolo Americano" (Mimesis 2019), pp. 7-9; 107-117. Adattamento: Claudio Comandini.*
 
 [*Immagine: Josh Kline: Project for a New American Century at Whitney Museum of American Art, April 19 – August 13, 2023.*](https://artssummary.com/2023/05/18/josh-kline-project-for-a-new-american-century-at-whitney-museum-of-american-art-april-19-august-13-2023/)
