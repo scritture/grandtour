@@ -37,7 +37,7 @@ Come è stato ben esemplificato in un articolo[^2] pubblicato nel 2012, dopo la 
 
 [^2]: *Les coups tordus de l'Empire*, in «*Réfléchir et agir»*, n. 40, inverno 2012.
 
-Poiché l'Europa «*è (come se fosse) in Dormizione, che ci piaccia o meno, l'Islam è l'unico argine difensivo contro la morsa totale della finanza di Tel Aviv e Washington sul mondo*». Questa volontà di soffocare l’Islam mira anche a «*creare un'unica religione*» (che dovrebbe riunire tutte le attuali religioni). E questo scopo verrà raggiunto attraverso attraverso l'esasperazione dell'opposizione tra musulmani Sunniti e Sciiti. In vista di questo obiettivo, si possono facilmente comprendere anche i motivi per i quali è stato pianificato il sacro "Stato Islamico",[^3] che include La Mecca e Medina, per meglio controllare l'Islam e integrarlo nel Nuovo Ordine Mondiale, ciò che adesso non è ancora possibile. Infatti, questa religione (che si concepisce quale "ultima rivelazione", quindi relativamente nuova) non possiede una gerarchia riconosciuta.[^4]
+Poiché l'Europa «*è (come se fosse) in Dormizione, che ci piaccia o meno, l'Islam è l'unico argine difensivo contro la morsa totale della finanza di Tel Aviv e Washington sul mondo*». Questa volontà di soffocare l'Islam mira anche a «*creare un'unica religione*» (che dovrebbe riunire tutte le attuali religioni). E questo scopo verrà raggiunto attraverso l'esasperazione dell'opposizione tra musulmani Sunniti e Sciiti. In vista di questo obiettivo, si possono facilmente comprendere anche i motivi per i quali è stato pianificato il sacro "Stato Islamico",[^3] che include La Mecca e Medina, per meglio controllare l'Islam e integrarlo nel Nuovo Ordine Mondiale, ciò che adesso non è ancora possibile. Infatti, questa religione (che si concepisce quale "ultima rivelazione", quindi relativamente nuova) non possiede una gerarchia riconosciuta.[^4]
 
 [^3]: Secondo un riadattamento dei confini dell'area geografica islamica ipotizzato da Ralph Peters, membro del PNAC, in un articolo intitolato [*How a better Middle East would look,* «Armed Forces Journal» 06.2006](http://globalorder.org/Documents/CDL-World/Better-ME-Peters06.htm) (ultimo accesso 22.03.2025).
 
@@ -79,7 +79,7 @@ Bill Christison[^13] e Kathleen Christison pervengono alla medesima conclusione.
 
 [^13]: Bill Christison è stato un ufficiale superiore della CIA. Prestò servizio come funzionario di *intelligence* e come Direttore dell'Ufficio di analisi politica e regionale della CIA.
 
-[^14]: [Bill Christison, Kathleen Christison, *The Bush Neocons and Israel*, «Counterpunch» 6.09.2004](www.%20counterpunch.org/2004/09/06/the-bush-neocons-and-israel/) (ultimo accesso 22.03.2025).
+[^14]: [Bill Christison, Kathleen Christison, *The Bush Neocons and Israel*, «Counterpunch» 6.09.2004](https://www.counterpunch.org/2004/09/06/the-bush-neocons-and-israel/) (ultimo accesso 22.03.2025).
 
 I due autori rivelano un esempio indicativo riguardante la stesura, da parte di Feith, Perle, David e Meyrav Wurmser, di un documento politico, pubblicato nel 1996 da un *think-tank* israeliano[^15], scritto per il primo ministro israeliano Netanyhau appena eletto. Attraverso questo documento, essi «*sollecitarono Israele a provocare un 'taglio netto' (clean break) rispetto al perseguimento del processo di pace, in particolare i suoi aspetti connessi al principio «terra in cambio di pace», che gli autori consideravano «la soluzione per lo sterminio di Israele. \[...\] Gli autori del documento compresero che la minaccia principale per Israele stava arrivando, non dovremmo essere sorpresi di scoprire ora, messi in guardia da Iraq e Siria, che con il rovesciamento di Saddam Hussein si presero due piccioni con una fava e si bloccarono le ambizioni regionali della Siria.*»[^16]
 
@@ -99,6 +99,6 @@ In un commento scritto per un recente numero della rivista *Foreign Policy*, Ell
 
 ![](images/ciani_medio-oriente.jpg){fig-align="center" width="438"}
 
-*Tratto da: Claudio Ciani "Un nuovo Medio Oriente. Dall'accordo Sykes-Picot al progetto per un Nuovo Secolo Americano" (Mimesis 2019), pp. 7-9; 107-117.*
+*Tratto da: Claudio Ciani "Un nuovo Medio Oriente. Dall'accordo Sykes-Picot al progetto per un Nuovo Secolo Americano" (Mimesis 2019), pp. 7-9; 107-117. Adattamento: Claudio Comandini*
 
 [*Immagine: Josh Kline: Project for a New American Century at Whitney Museum of American Art, April 19 – August 13, 2023.*](https://artssummary.com/2023/05/18/josh-kline-project-for-a-new-american-century-at-whitney-museum-of-american-art-april-19-august-13-2023/)
