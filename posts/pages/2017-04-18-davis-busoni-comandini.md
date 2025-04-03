@@ -8,6 +8,7 @@ categories:
   - Berlino
   - Goethe
   - Leibniz
+  - Spengler
   - Ferruccio Busoni
   - Miles Davis
   - Claudio Comandini
