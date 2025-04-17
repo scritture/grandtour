@@ -62,9 +62,6 @@ Al contrario, il giovane uomo mio paziente che trovava una pagliacciata ballare,
 
 Per concludere: la sperimentazione *drogastica*, così come un comportamento *ludopatico*, possono ricevere un iniziale abbrivio dal desiderio di cambiare magicamente (chimicamente o meno) stato d’animo, ma tale tentazione rappresenta già il segnale di una intolleranza verso l'*algos* psicofisico della frustrazione, l'attesa che rimanda al limite e alla sua persecutorietà abbandonica, la profonda ambivalenza segnala la precarietà della assunzione dell'oggetto buono e l'insuccesso di questa acquisizione determina la mobilitazione di difese, ossessivo-compulsive o depressive. Intolleranza che può avviare quel circolo vizioso tra problematiche non sufficientemente esplorate e consapevoli e soluzioni d'emergenza che lasceranno il problema inalterato e il tempo consumato nel consumarsi alla ricerca dell’oggetto "felicitante" perduto.
 
-*Tra gli argomenti della conferenza presentata il 10 febbraio 2024 presso il Grand Tour BookWineBar dal dott. Marco Ciocci, psicoterapeuta
-e psicologo, in attività privata dal 1998, supervisore di operatori e
-management del terzo settore, membro della Federazione Europea di
-Psicoanalisi.*
+*Tra gli argomenti della conferenza presentata il 10 febbraio 2024 presso il Grand Tour BookWineBar dal dott. Marco Ciocci, psicoterapeuta e psicologo, in attività privata dal 1998, supervisore di operatori e management del terzo settore, membro della Federazione Europea di Psicoanalisi.*
 
-![](images/conferenza dipendenze.jpg){fig-align="center"}
+![](images/conferenza%20dipendenze.jpg){fig-align="center"}
