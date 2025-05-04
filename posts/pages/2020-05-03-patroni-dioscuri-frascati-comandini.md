@@ -49,7 +49,7 @@ Ricorre con ogni evidenza nelle figure di Filippo e Giacomo un aspetto gemellare
 
 [^7]: Felice Grossi-Gondi, *Il tempio di Castore e Polluce nell'acropoli di Tuscolo*, 1901.
 
-[^8]:  Dionisio di Alicarnasso, *Antichità romane*, 7 a.C., VI:12)
+[^8]:  Dionisio di Alicarnasso, *Antichità romane*, 7 a.C., VI:12.
 
 [^9]: Tito Livio, *Ab Urbe condita libri,* 27 -14 d.C, II:20.
 
