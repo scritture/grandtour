@@ -28,7 +28,7 @@ title: "Musiche"
 
 {{< video https://www.youtube.com/embed/-IcvOQ-lS5A?si=fdfV2hS0_lgEmDpE >}}
 
-## Muaro Tiberi
+## Mauro Tiberi
 
 {{< video https://www.youtube.com/embed/Kb1DVru6iag?si=S7o800FUMOlLNFxs >}}
 
