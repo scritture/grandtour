@@ -9,6 +9,7 @@ categories:
   - società
   - DC Comics
   - Neil Gaiman
+  - Frank Miller
   - Claudio Comandini
 ---
 
