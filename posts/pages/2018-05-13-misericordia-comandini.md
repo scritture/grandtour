@@ -1,6 +1,6 @@
 ---
 author: Claudio Comandini
-date: 2018-13-05
+date: 2018-05-13
 title: Forme della misericordia
 categories:
   - filosofia
