@@ -32,7 +32,7 @@ La basilica di SS. Apostoli sulla via Lata (l'attuale via del Corso, la chiesa p
 
 [^3]: Ferdinand Gregorovius, *Storia della città di Roma nel medioevo,* 1873.
 
-SS. Apostoli è quindi ricostruita nel 901, quando viene a trovarsi nella principale zona di influenza di Teofilatto, sorta di intendente di finanza con compiti militari che veniva dalla zona dell’Aventino e forse di origine greca; la moglie Teodora è "*augusta senatrice*" e vanta discendenze dalla *gens* Anicia, di origine tuscolana. Dalla loro figlia Marozia nasce il potere dei principi e dei papi poi detti dei Conti di Tuscolo, che riportano un’altra volta alla città anticamente protetta dai Dioscuri, i divini gemelli. La chiesa crolla con il terremoto nel 1348, durante la Cattività avignonese, pochi anni prima che il cadavere squartato di Cola di Rienzo venga gettato presso la facciata, in seguito chiusa, della vicina chiesa di San Marcello.
+SS. Apostoli è ricostruita nel 901, quando viene a trovarsi nella principale zona di influenza di Teofilatto, sorta di intendente di finanza con compiti militari che veniva dalla zona dell’Aventino e forse di origine greca; la moglie Teodora è "*augusta senatrice*" e vanta discendenze dalla *gens* Anicia, di origine tuscolana. Dalla loro figlia Marozia nasce il potere dei principi e dei papi poi detti dei Conti di Tuscolo, che riportano un’altra volta alla città anticamente protetta dai Dioscuri, i divini gemelli. La chiesa crolla con il terremoto nel 1348, durante la Cattività avignonese, pochi anni prima che il cadavere squartato di Cola di Rienzo venga gettato presso la facciata, in seguito chiusa, della vicina chiesa di San Marcello.
 
 Nel secondo quarto del 1400 Martino V Colonna, che riporta il papato da Avignone a Roma, ricostruisce la chiesa dei SS. Apostoli decorata da affreschi di Melozzo da Forlì da tempo andati perduti che faranno da scuola a Michelangelo. La chiesa rimane particolarmente legata ai Colonna, discendenti dei Conti di Tuscolo, e dal 1440 ne diventa titolare il cardinal Bessarione, già patriarca di Costantinopoli e inoltre, assommando per un periodo le cariche di vescovo tuscolano (quando la sede era a Santa Maria in Monasterio sull'Esquilino) e abate commendario a San Nilo (fondata da basiliani di rito greco-ortodosso). Bessarione rimane bloccato a Roma negli anni in cui Maometto II compie la presa di Costantinopoli, diventando suo malgrado testimone della cultura bizantina presso la chiesa latina.
 
@@ -76,7 +76,7 @@ San Filippo, nativo di Betsaida, aveva fama di uomo giusto che consultava le Scr
 
 [^17]: Giovanni 6:1-15.
 
-[^18]: Giovanni: 14-14.
+[^18]: Giovanni 14-14.
 
 [^19]: Atti 8:5-8.
 
@@ -84,8 +84,8 @@ San Filippo, nativo di Betsaida, aveva fama di uomo giusto che consultava le Scr
 
 [^21]: Vangelo di Filippo (II-III sec. d.C.) §67. In *I Vangeli gnostici*, a cura di L. Moraldi, Adelphi 1984.
 
-I Dioscuri continuano a sorvegliare Roma in due punti. Dalla sommità delle scale del Campidoglio, con due statue ritrovate durante i lavori nel ghetto ebraico e lì poste nel 1584. Nella piazza del Quirinale, nella fontana ove le statue, dopo aver avuto come sedi il Tempio di Ercole e Bacco (presso via del Corso) e le terme di Costantino (adiacenti), sono state collocati nel 1591 da Domenico Fontana per volere da Sisto V Peretti. Questo ponteficie risulta particolarmente attento alla politica delle acque, riattualizzata dai tempi antichi proprio della Controriforma, che parallelamente riprende nel proprio rigorismo elementi della filosofia stoica. La ricca presenza delle acque a Roma, insieme ad uno stoicismo "implicito" nell'essere romani, è quanto del suo carattere *santo* rimane, e rimarrà anche di fronte ad una siccità mondiale probabilmente prossima.
+I Dioscuri continuano a sorvegliare Roma in due punti. Dalla sommità delle scale del Campidoglio, con due statue ritrovate durante i lavori nel ghetto ebraico e lì poste nel 1584. Nella piazza del Quirinale, nella fontana ove le statue, dopo aver avuto come sedi il Tempio di Ercole e Bacco (presso via del Corso) e le terme di Costantino (adiacenti), sono state collocati nel 1591 da Domenico Fontana per volere da Sisto V Peretti. Questo ponteficie risulta particolarmente attento alla politica delle acque, riattualizzata dai tempi antichi proprio della Controriforma che riprende nel proprio rigorismo elementi della filosofia stoica. La ricca presenza delle acque a Roma, insieme ad uno stoicismo "implicito" nell'essere romani, è quanto del suo carattere *santo* rimane, e rimarrà anche di fronte ad una siccità mondiale probabilmente prossima.
 
 Dove vengano sottoposti ad una considerazione *pensante*, santi e dèi trovano posto in ogni cultura e, in forme differenziate e camuffate, anche nella nostra distratta attualità possiamo rintracciarne la spinta in figure più o meno riconoscibili quali *eroiche*, le cui virtù emergono dalle difficoltà e contro i loro stessi tempi. E quindi, la "protezione" dei due Dioscuri e dei due apostoli può venir riscontrata in tutte le vicende dove, senza perdere i segnali del presente, si mantiene desta l'attenzione verso l'orizzonte del possibile, viaggiando su un equilibrio di forze contrapposte capace di proteggere lotte, giochi, viaggi e peripezie.
 
-*Illustrazione: Claudio Comandini, Célébration de Philippe et Jacques à l'église des Saints Apôtres à Rome, Roma 2021.*
+*Illustrazione: Claudio Comandini, Célébration de Philippe et Jacques à l'église des Saints Apôtres à Rome, 2021.*
