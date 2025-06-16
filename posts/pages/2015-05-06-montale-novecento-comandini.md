@@ -71,7 +71,7 @@ Il giovane Montale, mentre verifica nella prassi le idee che preciserà come aut
 
 «*Il poeta è colui che coglie la palla al balzo; ciò che può fare solo il genio; ma è anche necessario che la palla giunga a portata di mano.*»[^11]
 
-[^11]:  Ibid, *Parliamo della poesia*, p. 127.
+[^11]: Ibid, *Parliamo della poesia*, p. 127.
 
 L'arte come «*fatto spirituale*» nasce dalla soddisfazione di una crisi e di un vuoto interno. provvisoriamente colmato dall'espressione raggiunta.[^12] La fondamentale unità delle arti è dove sono accomunate da «*affini problemi di linguaggio*».[^13] La poesia, «*per metà discorso e per metà è un'altra cosa, non può dunque venire meno a quel tanto di fortunoso, d'imprevedibile e di ‘contingente' che è il sigillo umano dell'arte e del pensiero*», del quale è difficile la determinazione teoretica e si compie nella paradossale infinità dell'individuo limitato.[^14]
 
