@@ -65,7 +65,7 @@ Generalmente, nella tradizione buddhista ciò è identificabile con il *nirvā�
 
 Come può il mondo, nella sua pienezza, essere il frutto di una natura vuota? Le parole dell'Illuminato sembrano essere l'unione della oscurità Eraclitea e del paradosso tipico dei Kōan Zen. Così l'enigma, irrisolvibile con il puro Logos, trova risposta nella *metapratica*.
 
-Nel saggio *Upãya. Il cuore della compassione buddista* (2003) il filosofo John W. Schroeder mette in luce una caratteristica fondamentale del Buddhismo: l'insegnamento metapratico. Ogni insegnamento dialettico del Buddha è funzionale al raggiungimento della Liberazione, e non alla comprensione della Verità metafisica. La cosmologia buddhista nasce quindi come strumento per guidare il praticante lungo la Via, e non come espressione di una verità assoluta, affinché egli possa comprendere la Natura a partire dalla pratica spirituale.
+Nel saggio *Upãya. Il cuore della compassione buddista* (2003) John W. Schroeder, filosofo particolamente interessato al confronto tra Oriente e Occidente, mette in luce una caratteristica fondamentale del Buddhismo: l'insegnamento metapratico. Ogni insegnamento dialettico del Buddha è funzionale al raggiungimento della Liberazione, e non alla comprensione della Verità metafisica. La cosmologia buddhista nasce quindi come strumento per guidare il praticante lungo la Via, e non come espressione di una verità assoluta, affinché egli possa comprendere la Natura a partire dalla pratica spirituale.
 
 Secondo Schroeder, il soggetto della riflessione viene così trasferito dalla verità alla prassi: «*Laddove la riflessione metafisica si adegua alle questioni molto generali che pertengono alla natura dell'essere, il linguaggio, la coscienza e la verità, la riflessione metapratica si adatta specificamente all’efficacia della prassi religiosa.*»
 
@@ -141,7 +141,7 @@ La filosofia buddhista è già riuscita nell'abbandono dei concetti morali di "b
 
 L'altra manifestazione della *vacuità attiva* dell'Occidente è la *ricerca*, rappresentata con agilità nelle opere di Hermann Hesse, i protagonisti delle cui opere sono definiti dal critico Massimo Mila come le incarnazioni del *Der Suchende* - *Colui che cerca*. Ancora una volta, l'*impermanenza della vacuità* assume nel mondo occidentale una dimensione attiva, in cui è il soggetto, che non *si muove*,decide di *muoversi*. [*Siddharta* (1922)](https://ebooks.boldewyn.de/Siddhartha.pdf) non trova la liberazione dal dolore negli insegnamenti di Gautama, ma dall'attraversamento delle esperienze della vita: dagli scambi commerciali alle esperienze di amore con la cortigiana Kamala, realtà indubbiamente non contemplate dalle scuole tradizionali. La cultura occidentale non riesce a rinunciare al concetto di *pienezza* - e infatti Siddharta è *colui che cerca*, non *colui che trova*. Nonostante dichiari di conoscere esclusivamente «*l'arte del pensare, dell’attendere, del digiunare*» senza venir mai dominato dalle passioni terrene, il Siddharta di Hesse necessita comunque di una condizione attiva, che deve trascendere la *pura attesa*.
 
-## 7. Sisifo
+## 8. Sisifo
 
 ![*Kengiro Azuma, MU 75 P (1975)*](images/8.Azuma_ MU-75-P.jpg){fig-align="center"}
 
@@ -157,7 +157,7 @@ Serve dunque un salto compiuto attraverso la *fede*, termine oggi relegato alle 
 
 Nell'estetica della *vacuità*, la fede è la fiducia dell'abbandono dell'"Io" individuale al *vuoto.* Essere interconnessi con il *vuoto*, e quindi interdipendenti con tutti gli esseri, non comporta assenza, ma *presenza*. Compiuto questo salto, l'uomo può iniziare a vivere il peso della propria esistenza con consapevolezza, e raggiungere la *gioia nell'Assurdo* di Sisifo. L'unione con il *vuoto* rappresenta la risoluzione al conflitto dell'*Assurdo* - uno slancio impossibile che si compie in modo definitivo nella morte, quando compiendo l'ultimo passo, ridiventiamo Uno.
 
-## 8. Sulla positività della religione
+## 9. Sulla positività della religione
 
 ![*Thot Adan, Enso 1: Annulus (2020)*](images/9.Enso_1Annulus.jpeg)
 
