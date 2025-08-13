@@ -7,27 +7,19 @@ footnotes-hover: true
 
 ## Prossimi appuntamenti
 
-![](images/immagini_bookwinebar/iniziative/festamusica2025.jpeg){fig-align="center"}
+*Venerdi 15 agosto, ore 19: Banchetto di Ferragosto & Karaoke Superstar*
 
-**Sabato 21 giugno**
+*Sabato 16 agosto, ore 19: Festa di San Rocco. Pesca a premi & Torneo di piastrelle*
 
-FESTA DELLA MUSICA 2025
+![](images/immagini_bookwinebar/iniziative/ferragosto_2025.jpeg){fig-align="center"}
 
-Pomeriggio: *Quali le feste? Discussione sul ruolo sociale della musica*
-
-Tramonto: *Fantasie & Standard. Tra il barocco, le colonne sonore e il jazz*\
-Francesco Cardamone: chitarre\
-Matteo Piacentini: tastiere
-
-Sera: *Karaoke Paradise*
-
-**Data da stabilire**
+## **Data da stabilire**
 
 *Syd Barrett is back!*
 
 Psichedelia. Storia, suoni e misteri
 
-Edera: voce e chitarra
+Patrick Edera: voce e chitarra
 
 ## **Appuntamenti settimanali 2025**
 
@@ -44,9 +36,11 @@ Edera: voce e chitarra
 *In questa formula agile e varia, ogni giorno verrà focalizzato su un diverso modo di fare e condividere sapere. Il giovedì attraverseremo i libri e le altre pubblicazioni presenti nel [Catalogo](https://grandtour.shop/catalogo.html) del Grand Tour degustando un buon té o qualche altra proposta del [Menù](https://grandtour.shop/bookwinebar.html#men%C3%B9). Il venerdì ci incontreremo come redazione aperta per parlare delle proposte di [Scritture](https://grandtour.shop/scritture.html), pronti ad accogliere le proposte dei presenti. ll sabato ci saranno le serate di karaoke ma anche jam e performance e tutto ciò che è [Musiche](https://grandtour.shop/musiche.html). Sempre a disposizione i giochi da tavolo.*\
 \
 
-## **Appuntamenti settimanali 2024**
+## Appuntamenti passati
 
-**Laboratorio Filosofia (giovedì ore 18)**
+**Appuntamenti settimanali 2024**
+
+**Laboratorio filosofia (giovedì ore 18)**
 
 **Aperilibri ad alta voce (venerdì ore 18)**
 
@@ -56,7 +50,7 @@ Edera: voce e chitarra
 
 *Grande successo per il primo anno degli Incontri del Grand Tour. Le letture si sono svolte focalizzandosi ogni volta su diversi autori, storici e viventi. Le serate karaoke hanno portato grande partecipazione ed entusiasmo. I tavoli dei giochi sono stati occupati non soltanto la domenica. Il Laboratorio Filosofia ha esaminato aspetti, portata e influenze del "Tramonto dell'Occidente" di Oswald Spengler, elaborato durante il travaglio della Grande Guerra. Gli atti sono in preparazione.*
 
-**Laboratorio filosofia 2024: La notte dell'Occidente**
+**Laboratorio filosofia 2024. La notte dell'Occidente**
 
 «*Ci si è proposti di predire il destino di una civiltà e, propriamente, dell'unica civiltà che oggi stia realizzandosi sul nostro pianeta, la civiltà euro-occidentale e americana, nei suoi stadi futuri.*» Il filosofo tedesco introduce così la sua opera, chiedendosi se esista e quale sia la logica che muove la storia.
 
@@ -70,9 +64,7 @@ Inoltre, si cercherà di comprendere se quella che è definita civiltà araba-ma
 
 ![](images/immagini_bookwinebar/iniziative/calendario.jpg){fig-align="center"}
 
-## **Conferenze**
-
-**Cura di sé, cura del mondo. Psicologia, ambiente, società: riusciamo ad essere all'altezza di questo mondo tossico?**
+**Conferenze. Cura di sé, cura del mondo. Psicologia, ambiente, società: riusciamo ad essere all'altezza di questo mondo tossico?**
 
 ![](images/immagini_bookwinebar/iniziative/conferenza_europa.jpeg){fig-align="center"}
 
@@ -80,9 +72,9 @@ Inoltre, si cercherà di comprendere se quella che è definita civiltà araba-ma
 
 ![](images/immagini_bookwinebar/iniziative/conferenza%20dipendenze.jpg){fig-align="center"}
 
-## In concerto
+**In concerto. La musica, per davvero**
 
-**Live music, teatro, performance**
+![](images/immagini_bookwinebar/iniziative/festamusica2025.jpeg){fig-align="center"}
 
 ![](images/immagini_bookwinebar/iniziative/concerto_8_5.jpeg){fig-align="center"}
 
@@ -94,9 +86,7 @@ Inoltre, si cercherà di comprendere se quella che è definita civiltà araba-ma
 
 ![](images/immagini_bookwinebar/iniziative/concerto_napoli.jpg){fig-align="center"}
 
-## **Serate di gala**
-
-**Momenti speciali per progetti speciali**
+**Serate di gala. Momenti speciali per progetti speciali**
 
 ![](images/carnevale2025.jpeg){fig-align="center"}
 
