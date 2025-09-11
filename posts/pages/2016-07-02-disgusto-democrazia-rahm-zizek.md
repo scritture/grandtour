@@ -1,5 +1,7 @@
 ---
-author: Slavoj &#382;i&#381;ek - Benjamin Rahm
+author:
+  - Slavoj Žižek
+  - Benjamin Rahm
 date: 2016-07-02
 title: Il disgusto della democrazia
 categories:
@@ -10,7 +12,7 @@ categories:
   - Europa
   - Hegel
   - Benjamin
-  - &#382;i&#381;ek
+  - Žižek
 ---
 
 ![](images/Europa-al-vento-480x381.jpg){fig-align="center" width="503"}
