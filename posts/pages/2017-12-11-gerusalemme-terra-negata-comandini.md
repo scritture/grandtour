@@ -17,7 +17,7 @@ categories:
 author: Claudio Comandini
 ---
 
-![](images/Old-City-of-Jerusalem-Encyclopedia-Britannica-1997.jpg)
+![](images/Old-City-of-Jerusalem-Encyclopedia-Britannica-1997-01.jpg){fig-align="center"}
 
 *Dichiarazioni americane e conseguenze mondiali. Storia di una città, dei suoi popoli e dei suoi monumenti. Parcellizzazione dei Luoghi Sacri e parzialità dei poteri.*
 
