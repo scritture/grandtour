@@ -201,6 +201,6 @@ Dove la poesia riflette «*i caratteri del nostro tempo complesso e difficile*»
 
 [^50]: Eugenio Montale, *Stile e tradizione*, in *Auto da fé*, cit. p. 16.
 
-*Estratto della tesi di laurea "Poesia, scienza, contingenza: Boutroux e Montale", vincitrice del Premio Montale 1997. Riveduto e aggiornato*
+*Estratto della tesi di laurea "Poesia, scienza, contingenza: Boutroux e Montale", vincitrice del Premio Montale 1997. Riveduto e aggiornato.*
 
 *Fotografia: Claudio Comandini, "Il gigante" - Monterosso, settembre 1992*
