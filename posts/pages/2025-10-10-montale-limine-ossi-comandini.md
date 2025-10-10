@@ -10,6 +10,7 @@ categories:
   - Liguria
   - Leibniz
   - Boutroux
+  - Heidegger
   - Eugenio Montale
   - Claudio Comandini
 ---
