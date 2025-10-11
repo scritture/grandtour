@@ -143,7 +143,7 @@ L'altra manifestazione della *vacuità attiva* dell'Occidente è la *ricerca*, r
 
 ## 8. Sisifo
 
-![*Kengiro Azuma, MU 75 P (1975)*](images/8.Azuma_ MU-75-P.jpg){fig-align="center"}
+![*Kengiro Azuma, MU 75 P (1975)*](images/8.Azuma_%20MU-75-P.jpg){fig-align="center"}
 
 Risulta necessario affrontare un'ultima questione: come si manifesta nella cultura Occidentale del XX secolo la possibilità di giungere al *vuoto* assoluto? Una risposta a tale domanda si può trovare nell'interpretazione del filosofo e scrittore francese Albert Camus del *Mito di Sisifo* (1942).
 
