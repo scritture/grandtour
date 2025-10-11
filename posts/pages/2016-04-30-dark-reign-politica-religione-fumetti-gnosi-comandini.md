@@ -17,13 +17,13 @@ categories:
   - Agamben 
   - Jung 
   - Benjamin
-  - Žižek
+  - 'Žižek'
   - Stan Lee
   - Brian M. Bendis 
   - Claudio Comandini 
 ---
 
-![](images/Spider-man is watching you.jpg){fig-align="center"}
+![](images/Spider-man%20is%20watching%20you.jpg){fig-align="center"}
 
 *Ideologia e religione. I criminali al governo, il bavaglio dell'opinione pubblica, la sicurezza. Verità e finzione. Media e cultura. I supereroi: poteri, maschere e archetipi. Continuity Marvel e storia americana dal 1961 all'11 settembre. La fine del Comics Code e la destrutturazione narrativa. Secret War, Civil War, Dark Reign: il potere senza maschere. Profeti e scintille. Lo gnosticismo: nodi irrisolti e fasi critiche. Potere, culti religiosi ed evangelismo militante in America. Psicologia e cosmologia: tre tipi di uomini. L'impotenza di Dio. La bestemmia contro lo Spirito Santo. La coincidenza di Cristo e Anticristo. Problematiche e vitalità delle culture cristiane. Neo-oscurantismi politically correct. Il Vangelo di Verità e la conoscenza del Padre. L'ateismo religioso. Eroismo e conoscenza. La condizione dell'eroe e il vuoto del presente. La classicità e il male. Cristo e la sua ombra. Le tentazioni e la salvezza. La lotta per la luce. Incertezza costituiva della contemporaneità. Sentry e Void: onnipotenza e psicosi. La tumulazione nel sole. Mitopoiesi. La lotta con l'ombra e lo spirito della favola. La mediocrità politica e la Prima Apocalisse di Giacomo. Ripensare i rapporti tra potere e sapere.*
 

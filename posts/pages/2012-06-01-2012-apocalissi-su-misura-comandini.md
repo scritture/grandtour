@@ -14,7 +14,7 @@ categories:
   - Agamben 
   - Kant 
   - Jung 
-  - Žižek
+  - 'Žižek'
   - Grant Morrison
   - Claudio Comandini 
 ---

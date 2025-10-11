@@ -21,7 +21,7 @@ categories:
   - Huntington
   - Perniola 
   - Agamben
-  - Žižek
+  - 'Žižek'
   - Claudio Comandini
 ---
 

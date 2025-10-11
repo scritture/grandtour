@@ -13,7 +13,7 @@ categories:
   - Cicerone
   - Dante
   - Schönberg
-  - Žižek
+  - 'Žižek'
   - Claudio Comandini
 ---
 

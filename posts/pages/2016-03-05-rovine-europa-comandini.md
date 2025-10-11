@@ -13,7 +13,7 @@ categories:
   - Europa 
   - Assange 
   - Varoufakis 
-  - Žižek
+  - 'Žižek'
   - Claudio Comandini 
 ---
 

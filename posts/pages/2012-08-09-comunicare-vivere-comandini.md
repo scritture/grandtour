@@ -14,7 +14,7 @@ categories:
   - Freud 
   - Lacan 
   - Perniola 
-  - Žižek
+  - 'Žižek'
   - Claudio Comandini 
 ---
 
