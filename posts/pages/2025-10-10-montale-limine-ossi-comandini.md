@@ -51,7 +51,7 @@ L'interesse per Boutroux in Montale si compie, come chiarisce *Intenzioni - Inte
 
 [^9]: Montale, 1976: 566-7
 
-*In limine* rappresenta il passaggio che permette l'accesso al libro e compendia la visuale sulla quale si organizza, formula l'«*invito al metodo*»[^10] di una dimensione per cui la poesia sorge non in base all’assunzione di dati realistici o autobiografici, il che sarebbe incongruo rispetto agli intenti propriamente poetici dell'autore, ma esclusivamente nella dimensione metaforica del testo, per quindi compiersi attraverso una scansione personale del negativo, nella quale un accorto campionamento delle dissonanze opera attraverso una consapevole ridefinizione degli strumenti retorici e stilistici.
+*In limine* rappresenta il passaggio che permette l'accesso al libro e compendia la visuale sulla quale si organizza, formula l'«*invito al metodo*»[^10] di una dimensione per cui la poesia sorge, pur se in risposta a una singolarità irriducibile, non in base all’assunzione di dati realistici o autobiografici, il che sarebbe incongruo rispetto agli intenti propriamente poetici dell'autore, ma esclusivamente nella dimensione metaforica del testo, per quindi compiersi attraverso una scansione personale del negativo, nella quale un accorto campionamento delle dissonanze opera attraverso una consapevole ridefinizione degli strumenti retorici e stilistici.
 
 [^10]: Contini, 1974: 28
 
