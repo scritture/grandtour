@@ -485,7 +485,7 @@ Eugenio MONTALE, 1983, *Quaderno genovese* \[1917\], Mondadori, Milano.
 
 Rocco MONTANO, 1978, *Comprendere Montale* - vol. II, G. B. Vico Editrice, Napoli.
 
-Edgar MORIN, 1983, *Il metodo: ordine disordine organizzazione* \[1977-1981\], trad. italiana G. Bocchi, Feltrinelli, Milano.
+Edgar MORIN, 1983, *Il metodo: ordine disordine organizzazione* \[1977-1981\], trad. G. Bocchi, Feltrinelli, Milano.
 
 Antonino MUSUMECI, 1972, *Silenzi Montaliani: note sull'enjambement nella poesia di Montale*, «Forum Italicum», vol. VI, n. 4, dicembre, p. 497-514.
 
