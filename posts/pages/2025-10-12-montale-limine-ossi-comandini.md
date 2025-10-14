@@ -43,7 +43,7 @@ Il contingentismo permette lo sviluppo di una nuova epistemologia storica e inde
 
 [^6]: Morin: 1983, *passim*
 
-L'interesse per Boutroux in Montale si compie, come chiarisce *Intenzioni - Intervista immaginaria,* dal 1920 al 1925, periodo che coincide con l'elaborazione degli *Ossi di seppia*, dati alle stampe in prima edizione da Gobetti a Torino nel giugno 1925. È consapevole che «*la poesia va diventando più un mezzo di conoscenza che di rappresentazione*», ma non intende formulare una «*poesia filosofica, che diffonda idee*. \[...\] *Il* *bisogno di un poeta è quello di una verità puntuale, non di una volontà generale. Che canti ciò che unisce l'uomo agli altri uomini ma non neghi ciò che lo disunisce e lo rende unico e irripetibile.*»[^7] E afferma: «*Il miracolo era per me evidente come la necessità.*»
+L'interesse per Boutroux in Montale si compie, come chiarisce *Intenzioni - Intervista immaginaria,* dal 1920 al 1925, periodo che coincide con l'elaborazione degli *Ossi di seppia*, dati alle stampe in prima edizione da Gobetti a Torino nel giugno 1925. È consapevole che «*la poesia va diventando più un mezzo di conoscenza che di rappresentazione*», ma non intende formulare una «*poesia filosofica, che diffonda idee*. \[...\] *Il* *bisogno di un poeta è quello di una verità puntuale, non di una volontà generale. Che canti ciò che unisce l'uomo agli altri uomini ma non neghi ciò che lo disunisce e lo rende unico e irripetibile.*» E afferma: «*Il miracolo era per me evidente come la necessità.*»[^7]
 
 [^7]: Montale, 1976: 564-565
 
