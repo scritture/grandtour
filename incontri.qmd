@@ -7,11 +7,15 @@ footnotes-hover: true
 
 ## Prossimi appuntamenti
 
-*Venerdi 15 agosto, ore 18: Banchetto di Ferragosto & Karaoke Superstar*
+![](images/immagini_bookwinebar/iniziative/Pirrone_26giugno.jpg){fig-align="center"}
 
-*Sabato 16 agosto, ore 18: Festa di San Rocco. Pesca a premi & Torneo di piastrelle*
+**Venerdì 24 ottobre 2025 ore 19:00**
 
-![](images/immagini_bookwinebar/iniziative/ferragosto_2025.jpeg){fig-align="center"}
+Presentazione del libro di Alessandro Pirrone *Biblion*
+
+*"Era convinto che la Terra fosse stata costruita con un'idea progttuale precisa, con la materia cosmica a disposizione, per soddisfare il bisogno di qualcuno. Ed aveva la ferma intenzione di scoprire quale fosse la finalità ultima di quella creazione."*
+
+(Alessandro Pirrone, *Biblion - La Genesi*, p. 3)
 
 ## **Data da stabilire**
 
@@ -87,6 +91,8 @@ Inoltre, si cercherà di comprendere se quella che è definita civiltà araba-ma
 ![](images/immagini_bookwinebar/iniziative/concerto_napoli.jpg){fig-align="center"}
 
 **Serate di gala. Momenti speciali per progetti speciali**
+
+![](images/immagini_bookwinebar/iniziative/ferragosto_2025.jpeg){fig-align="center"}
 
 ![](images/carnevale2025.jpeg){fig-align="center"}
 
