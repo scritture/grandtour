@@ -12,6 +12,7 @@ categories:
   - religioni
   - Islam
   - Ebraismo
+  - Istanbul
   - Hegel
   - Claudio Comandini
 ---
@@ -90,15 +91,13 @@ Un mosaico di Orfeo agli Inferi realizzato a Gerusalemme nel V-VI sec. d.C. evid
 
 Il Buon Pastore è più piccoletto di quanto immaginassi, ed è proprio di Istanbul, IV sec., testimoniando l'originaria diffusione del cristianesimo in queste terre. Invece, la presenza della nobile famiglia degli Anici, dinastia che collega la Roma antica a quella papale, è documentata dall'attività dalla principessa Anicia Giuliana, che nel 524-7 fa costruire la basilica di San Polyeiktos, la prima della Nova Roma. La principessa è sposa di Ariobindo, nel 512 imperatore di Costantinopoli per un giorno. Suo padre Anicio Olibrio era stato condotto in esilio a Costantinopoli dal saccheggio vandalo di Roma; successivamente, manipolato da Genserico assume una contrasta carica imperiale, ma muore tentando l'assedio sotto le mure della vecchia Roma.
 
-Da Pergamo, 20 d. C, arriva il Genio Alato: appena lo vedo, mi eccito. Il frammento non ha testa ma ha le ali: è il potere personale, la forza che ci anima. Questa specie di asterisco, bene in evidenza su un sarcofago bizantino del III secolo, è il Cristogramma, una specie di generatore di simboli, conosciuto anche dagli Etruschi. Mi fermo di fronte alla lapide, rinvenuta a Salonicco, della tomba di Proclo, ampiamente apprezzato anche dal buon Hegel e dal furbissimo Psello: troppo forte Proclo, uno degli ultimi grandi pagani, che ha fornito la fondazione teoretica della teurgia e quella metafisica del politeismo, autore di inni splendidi dedicati a dèi ancora in ascolto nel profondo della nostra psiche.
+Da Pergamo, 20 d. C, arriva il Genio Alato: appena lo vedo, mi eccito. Il frammento non ha testa ma ha le ali: è il potere personale, la forza che ci anima. Questa specie di asterisco, bene in evidenza su un sarcofago bizantino del III secolo, è il Cristogramma, una specie di generatore di simboli, conosciuto anche dagli Etruschi. Mi fermo di fronte alla lapide, rinvenuta a Salonicco, della tomba di Proclo, ampiamente apprezzato anche dal buon Hegel e dal furbissimo Psello: troppo forte Proclo, uno degli ultimi grandi pagani, che ha fornito la fondazione teoretica della teurgia e quella metafisica del politeismo, autore di inni splendidi dedicati a dèi tuttora in ascolto nel profondo della nostra psiche.
 
 Un personaggio davvero singolare è rappresentato in affresco del XIII-XIV sec.: un viso barbuto che guarda obliquo, la mano sulla spada piantata in terra. Sarebbe un tale San Mercurio, probabilmente la divinità “riadattata” (anche se qui però si parlava greco, e non latino), rinvenuto in una chiesa-moschea (!). Ma tu pensa tu! E allora, San Mercurio, proteggici tu, che a chi affidarci non lo sappiamo più!
 
-[\## 10. Eurasia - Amerika No good](https://soundcloud.com/claudio_comandini/eurasia-ii-amerika-no-good)
+## [10. Eurasia - Amerika No good](https://soundcloud.com/claudio_comandini/eurasia-ii-amerika-no-good)
 
-(In questo caldo agosto di guerra incipiente, tutti quelli che incontro sulle rotte dell'Eurasia mi dicono, con la faccia un po' incazzata: "Iraq good. America no good". Ma le persone non fanno i popoli, e i popoli non fanno i governi.)
-
-•
+In questo caldo agosto di guerra incipiente, tutti quelli che incontro sulle rotte dell'Eurasia mi dicono, con la faccia un po' incazzata: "Iraq good. America no good". Ma le persone non fanno i popoli, e i popoli non fanno i governi.
 
 *Istanbul, agosto 2002 - prima pubblicazione su «Controluce» a.14 n.8 agosto 2005. Riveduto e ampliato.*
 
