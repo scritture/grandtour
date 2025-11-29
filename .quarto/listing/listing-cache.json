@@ -1,7 +1,7 @@
 {
   "listingMap": {
-    "pagine/scritture.qmd": [
-      "posts"
+    "scritture.qmd": [
+      "/posts/pages/*"
     ]
   }
 }

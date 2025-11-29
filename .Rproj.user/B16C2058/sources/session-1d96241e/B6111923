@@ -1,7 +1,7 @@
 {
     "id": "B6111923",
-    "path": "~/Documents/grandtour/pagine/scritture.qmd",
-    "project_path": "pagine/scritture.qmd",
+    "path": "~/Documents/grandtour/scritture.qmd",
+    "project_path": "scritture.qmd",
     "type": "quarto_markdown",
     "hash": "0",
     "contents": "",
@@ -10,22 +10,22 @@
     "source_on_save": false,
     "relative_order": 3,
     "properties": {
-        "rmdVisualMode": "true",
+        "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
         "source_window_id": "",
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "56,273",
+        "cursorPosition": "15,90",
         "scrollLine": "0",
         "rmdVisualModeLocation": "103:72.22222137451172"
     },
     "folds": "",
-    "lastKnownWriteTime": 1764190444,
+    "lastKnownWriteTime": 1764376499,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1764190444316,
+    "last_content_update": 1764376499352,
     "read_only": false,
     "read_only_alternatives": []
 }
