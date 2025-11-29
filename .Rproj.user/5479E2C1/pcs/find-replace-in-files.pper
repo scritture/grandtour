@@ -1,0 +1,17 @@
+{
+    "dialog-state": {
+        "query": "[^\\x00-\\xFF]",
+        "path": "/posts",
+        "regex": true,
+        "caseSensitive": false,
+        "wholeWord": false,
+        "filePatterns": [],
+        "useGitGrep": true,
+        "excludeGitIgnore": true,
+        "excludeFilePatterns": [],
+        "resultsCount": 46517,
+        "errorCount": 0,
+        "replaceErrors": "",
+        "projectRelative": true
+    }
+}
