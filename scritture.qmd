@@ -1,7 +1,7 @@
 ---
 listing:
   contents:
-    - "/posts/pages/*"
+    - "posts"
   sort: "date desc"
   type: default
   categories: true
@@ -59,4 +59,4 @@ Le origini di Superman, la storia di Metropolis, l'amore perduto di Adolf Hitler
 :::
 ::::::
 
----
+------------------------------------------------------------------------
