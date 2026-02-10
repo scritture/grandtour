@@ -16,7 +16,7 @@ categories:
   - Claudio Comandini
 ---
 
-![](/images/2025/10/orto.jpg) 
+![](/images/2025/10/orto.jpg)
 
 *Leggere la prima poesia degli Ossi di Seppia di Montale un secolo dopo la prima pubblicazione del libro. Forme e tensioni della poesia. Rassegna critica e movimenti di pensiero.*
 
