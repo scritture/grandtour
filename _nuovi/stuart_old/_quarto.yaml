@@ -1,0 +1,24 @@
+book:
+  title: "Titolo del libro"
+  subtitle: "Sottotitolo"
+  author: "Claudio Comandini"
+  date: "2026"
+  chapters:
+    - index.qmd
+    - capitolo-1.qmd
+    - colophon.qmd
+format:
+  pdf:
+    documentclass: scrreprt
+    include-in-header: 
+      text: |
+        \usepackage{makeidx}
+        \makeindex
+    include-after-body: 
+      text: |
+        \printindex
+  html:
+    theme: cosmo
+  epub:
+    cover-image: cover.png
+---

@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "Stuart"
+  author: "Claudio Comandini"
+  date: "2/24/2026"
+  chapters:
+    - index.qmd
+    - libro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

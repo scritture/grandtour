@@ -1,0 +1,33 @@
+\clearpage
+\thispagestyle{empty}
+
+\vspace*{\fill}
+
+\begin{center}
+
+© 2026 Claudio Comandini  
+
+Tutti i diritti riservati.  
+
+Nessuna parte di questo libro può essere riprodotta,  
+memorizzata o trasmessa in alcuna forma e con alcun mezzo,  
+elettronico, meccanico, in fotocopia o in altro modo,  
+senza il preventivo consenso scritto dell’autore.
+
+\vspace{1cm}
+
+Prima edizione: 2026  
+
+ISBN: XXXXXXXXXXXXX  
+
+Pubblicato in modalità print on demand.  
+
+Stampato su carta certificata FSC.
+
+\vspace{1cm}
+
+Progetto grafico e impaginazione realizzati con Quarto e LaTeX.
+
+\end{center}
+
+\vspace*{\fill}
