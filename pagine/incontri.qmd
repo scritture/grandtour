@@ -5,11 +5,23 @@ citation-location: margin
 footnotes-hover: true
 ---
 
-## Prossimi
+## GRAND TOUR BookWineBar • Largo Duca di York 8 Frascati 
 
-**Sabato 20 giugno dalle 17: Festa della Musica 2026**
+## Eventi 
 
-![](/images/immagini_bookwinebar/iniziative/festamusica2026.jpeg){fig-align="center"}
+30 luglio ore 19:00
+
+Presentazione del libro:
+
+FERNANDO RICCARDI
+
+MARIA CAPITANIO. LA VERA STORIA DI UNA BRIGANTESSA
+
+(D'Amico Editore, Nocera Inferiore 2026)
+
+La storia tra archivi e leggenda. 1868, nel meridione la rivolta contro l'Unità d'Italia sta per concludersi; a San Vittore del Lazio si svolge la controversa vicenda del brigante Antonio Luongo e della contadina Maria Capitanio. Fu passione o sequestro di persona?
+
+![](/images/immagini_bookwinebar/iniziative/Riccardi_Brigantesse.png){fig-align="center"}
 
 ------------------------------------------------------------------------
 
@@ -86,6 +98,8 @@ Inoltre, si cercherà di comprendere se quella che è definita civiltà araba-ma
 **---**
 
 **In concerto. La musica, per davvero**
+
+![](/images/immagini_bookwinebar/iniziative/festamusica2026.jpeg){fig-align="center"}
 
 ![](/images/immagini_bookwinebar/iniziative/festamusica2025.jpeg){fig-align="center"}
 
