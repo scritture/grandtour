@@ -5,10 +5,6 @@ citation-location: margin
 footnotes-hover: true
 ---
 
-## GRAND TOUR BookWineBar • Largo Duca di York 8 Frascati 
-
-## Eventi 
-
 30 luglio ore 19:00
 
 Presentazione del libro:
