@@ -7,6 +7,7 @@ categories:
   - fumetti
   - cinema
   - musica
+  - Inghilterra
   - Stuart
   - Alan Moore
 ---
