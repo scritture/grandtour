@@ -166,7 +166,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ### Paragrafi a due colonne
 
-::: columns
+:::::: columns
 ::: {.column width="30%"}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at sapien sit amet diam viverra varius. Nulla facilisi.
 
@@ -183,11 +183,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at sapien sit ame
 
 **Per allontanare le colonne tra di loro usare una colonna vuota.**
 :::
-:::
+::::::
 
 ### Paragrafi a tre colonne
 
-::: columns
+:::::: columns
 ::: {.column width="33%"}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at sapien sit amet diam viverra varius. Nulla facilisi.
 :::
@@ -199,4 +199,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at sapien sit ame
 ::: {.column width="33%"}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at sapien sit amet diam viverra varius. Nulla facilisi.
 :::
-:::
+::::::
