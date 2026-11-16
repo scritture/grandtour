@@ -1,7 +1,7 @@
 ---
 author: Claudio Comandini
 date: 2026-10-30
-title: Compedio degli Stuart
+title: Compendio degli Stuart
 categories:
   - storia
   - Inghilterra
