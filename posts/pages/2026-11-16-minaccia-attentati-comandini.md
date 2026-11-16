@@ -99,7 +99,7 @@ Dalla persecuzione online di donne e minoranze alla propaganda filo-Putin: [http
 
 Inchiesta sulla nascita del gruppo, le molestie e la messa al bando in Russia: [https://www.bellingcat.com/.../meet-the-male-state...](https://www.bellingcat.com/news/uk-and-europe/2021/10/20/meet-the-male-state-russias-nastiest-online-hate-group?fbclid=IwZXh0bgNhZW0CMTAAcGRvZgVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf08LVxpUp7QzegoqS5-mTGDmIjKO2cuz0pFXZ8zjQt249wrNaJAR2KjE2bcA_aem_j-cMwxWFKmsB-tM1NGMgqQ)
 
-Il sostegno del gruppo all'invasione dell'Ucraina: [https://www.bellingcat.com/.../male-state-the-russian...](https://www.bellingcat.com/news/2022/03/11/male-state-the-russian-online-hate-group-backing-putins-war?fbclid=IwZXh0bgNhZW0CMTAAcGRvZgVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfZMM979TqMKVdN2bCi37fEuqrpXyjFm3paUvuO73gvoF5xIjdLNcRMFaFfvI_aem_0SIgrz8C7Iyl2_q9YG8VFw)
+Il sostegno del gruppo alla posizione russa nei confronti dell'Ucraina: [https://www.bellingcat.com/.../male-state-the-russian...](https://www.bellingcat.com/news/2022/03/11/male-state-the-russian-online-hate-group-backing-putins-war?fbclid=IwZXh0bgNhZW0CMTAAcGRvZgVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfZMM979TqMKVdN2bCi37fEuqrpXyjFm3paUvuO73gvoF5xIjdLNcRMFaFfvI_aem_0SIgrz8C7Iyl2_q9YG8VFw)
 
 Analisi accademica sull'ascesa e il declino del movimento: [https://icct.nl/publi.../rise-and-fall-male-state-movement-0](https://icct.nl/publication/rise-and-fall-male-state-movement-0?fbclid=IwZXh0bgNhZW0CMTAAcGRvZgVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf08LVxpUp7QzegoqS5-mTGDmIjKO2cuz0pFXZ8zjQt249wrNaJAR2KjE2bcA_aem_j-cMwxWFKmsB-tM1NGMgqQ)
 
