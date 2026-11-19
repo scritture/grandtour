@@ -9,15 +9,7 @@ categories:
   - Israele
 ---
 
-<a id='fzzs4G24Q1lGK1GI54spkw' class='gie-single' href='https://www.gettyimages.com/detail/2197500300' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a>
-
-```{=html}
-<script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'fzzs4G24Q1lGK1GI54spkw',sig:'6axFdJ3T6acars_wkfY22Z3N0rvMWOGQuR_swbfZFZU=',w:'594px',h:'396px',items:'2197500300',caption: true ,tld:'com',is360: false })});</script>
-```
-
-```{=html}
-<script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
-```
+![](/images/2026/11/gaza-stop-al-genocidio.jpeg)
 
 *Contrasto all'antisemitismo e iniziative umanitarie in Italia. Composizioni parlamentari e alleanze politiche in Israele. Tradizioni ebraiche e contraddizioni contemporanee. Le vicende di una striscia di terra.*
 
@@ -67,7 +59,7 @@ Che cosa si trasmette di questo continuo mettersi alla prova al cristianesimo, a
 
 Nel confrontarci con le altre disposizioni del Ddl, non è una novità che le scuole trasmettano i codici del potere dominante. È sempre accaduto, in forme diverse, che l'istruzione rispecchiasse le categorie culturali e politiche prevalenti. Il problema non è trasmettere conoscenze, né tantomeno affrontare l'importante studio della storia dell'antisemitismo e della *Shoah*. Il problema nasce quando una definizione istituzionale rischia di diventare una lettura obbligatoria che sottrae alla discussione proprio ciò che dovrebbe essere oggetto di analisi e di confronto.
 
-L'importante è quindi che venga tutelata la capacità di mettere in discussione questi codici e che niente possa costringerci a negare l'evidenza. La libertà di insegnamento, di ricerca e di critica non è un ostacolo alla lotta contro l'antisemitismo: ne è piuttosto una condizione essenziale, come lo è nei confronti di ogni altro pregiudizio. Tale responsabilità coinvolge ciascuno di noi e, nonostante tutto, possiamo e dobbiamo dire sempre meglio quanto c'è davvero da dire, anche quando il disinteresse e l'impotenza riguardano quanto è più terribile. Come Gaza.
+L'importante è quindi che venga tutelata la capacità di mettere in discussione questi codici e che niente possa costringerci a negare l'evidenza. La libertà di insegnamento, di ricerca e di critica non è un ostacolo alla lotta contro l'antisemitismo: ne è piuttosto una condizione essenziale, come lo è nei confronti di ogni altro pregiudizio. Tale responsabilità coinvolge ciascuno di noi e, nonostante tutto, possiamo e dobbiamo dire sempre meglio quanto c'è davvero da dire, anche quando il disinteresse e l'impotenza riguardano quanto è più terribile. Come Gaza. Nessuno può essere denunciato per questo.
 
 ## 5. Breve storia di Gaza
 
@@ -90,5 +82,15 @@ Di fronte a questa condizione, e all'insufficienza degli interventi necessari a 
 Ma chi denuncerà Israele e i suoi complici?
 
 \
-\
+
+<a id='fzzs4G24Q1lGK1GI54spkw' class='gie-single' href='https://www.gettyimages.com/detail/2197500300' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a>
+
+```{=html}
+<script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'fzzs4G24Q1lGK1GI54spkw',sig:'6axFdJ3T6acars_wkfY22Z3N0rvMWOGQuR_swbfZFZU=',w:'594px',h:'396px',items:'2197500300',caption: true ,tld:'com',is360: false })});</script>
+```
+
+```{=html}
+<script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
+```
+
 Fotografia: [Mustafa Hassona](https://www.google.com/search?kgmid=%2Fg%2F11h6n0dv_k&q=Autore+titolo+data+mustafa+hassona) (per l'agenzia Anadolu/Getty Images), *Una donna palestinese cammina tra le macerie di edifici residenziali nel quartiere di al-Zahra, nella Striscia di Gaza, dopo gli attacchi aerei israeliani* (19 ottobre 2023). Immagine protetta da copyright utilizzata per la pubblicazione su sito web senza fini di lucro attraverso incorporamento gratuito (*Embed*).
